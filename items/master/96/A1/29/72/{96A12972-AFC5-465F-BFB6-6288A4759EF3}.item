@@ -2,17 +2,10 @@
 version: 1
 id: {96A12972-AFC5-465F-BFB6-6288A4759EF3}
 database: master
-path: /Supertemplate
-parent: {00000000-0000-0000-0000-000000000000}
+path: /sitecore/templates/XCentium/Supertemplate
+parent: {00362948-8AFD-4B20-8432-8733FF8201E0}
 name: Supertemplate
 master: {00000000-0000-0000-0000-000000000000}
 template: {AB86861A-6030-46C5-B394-E8F99E8B87DB}
 templatekey: Template
 
-----field----
-field: {12C33F3F-86C5-43A5-AEB4-5598CEC45116}
-name: __Base template
-key: __base template
-content-length: 38
-
-{1930BBEB-7805-471A-A3BE-4858AC7CF696}
