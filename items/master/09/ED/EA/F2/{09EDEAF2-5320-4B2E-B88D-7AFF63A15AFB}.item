@@ -2,8 +2,8 @@
 version: 1
 id: {09EDEAF2-5320-4B2E-B88D-7AFF63A15AFB}
 database: master
-path: /delete5
-parent: {00000000-0000-0000-0000-000000000000}
+path: /sitecore/content/Home/create7/delete5
+parent: {4BD7C062-F4A9-4B0C-BA36-4038565539D8}
 name: delete5
 master: {00000000-0000-0000-0000-000000000000}
 template: {96A12972-AFC5-465F-BFB6-6288A4759EF3}

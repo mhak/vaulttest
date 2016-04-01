@@ -1,17 +1,17 @@
 [
   {
-    "eventType": "Deleted",
+    "eventType": "Created",
     "database": "master",
     "itemId": "{09EDEAF2-5320-4B2E-B88D-7AFF63A15AFB}",
     "version": 1,
     "language": "en",
-    "timestamp": "04/01/2016 19:21:28",
-    "label": "Deleted",
+    "timestamp": "04/01/2016 19:21:59",
+    "label": "Created",
     "sourceControlRevisionId": null,
     "workflowState": "",
-    "activeUser": "sitecore\\admin",
+    "activeUser": "extranet\\Anonymous",
     "itemName": "delete5",
-    "itemPath": "/sitecore/content/Home/create7/delete5",
+    "itemPath": "[orphan]/delete5",
     "commandType": "Item"
   }
 ]
