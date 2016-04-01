@@ -1,0 +1,17 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{9CA2A1F5-3C0A-48BC-BF49-9B26BDA7CC41}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "04/01/2016 19:21:58",
+    "label": "Created",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "droptree",
+    "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/droptree",
+    "commandType": "Item"
+  }
+]
