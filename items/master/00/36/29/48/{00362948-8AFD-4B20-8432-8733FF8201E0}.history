@@ -1,17 +1,17 @@
 [
   {
-    "eventType": "VersionAdded",
+    "eventType": "VersionRemoved",
     "database": "master",
     "itemId": "{00362948-8AFD-4B20-8432-8733FF8201E0}",
     "version": 1,
     "language": "en",
     "timestamp": "04/01/2016 19:21:57",
-    "label": "Version 1 Added",
+    "label": "Version 1 Removed",
     "sourceControlRevisionId": null,
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "XCentium",
-    "itemPath": "[orphan]/XCentium",
+    "itemPath": "/sitecore/templates/XCentium",
     "commandType": "Item"
   }
 ]
