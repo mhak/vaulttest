@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {C83D573E-0BD6-46DE-8B0B-F429F5895DA6}
+database: master
+path: /sitecore/templates/XCentium/Supertemplate/data/checkbox
+parent: {2ED2D71C-8100-42CB-8E74-E8D2D8470DA9}
+name: checkbox
+master: {00000000-0000-0000-0000-000000000000}
+template: {455A3E98-A627-4B40-8035-E683A0331AC7}
+templatekey: Template field
+
