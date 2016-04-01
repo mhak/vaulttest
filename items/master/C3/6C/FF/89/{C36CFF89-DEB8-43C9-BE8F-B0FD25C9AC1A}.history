@@ -1,0 +1,17 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{C36CFF89-DEB8-43C9-BE8F-B0FD25C9AC1A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "04/01/2016 19:21:57",
+    "label": "Created",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "name value list",
+    "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/name value list",
+    "commandType": "Item"
+  }
+]
