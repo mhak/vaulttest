@@ -2,31 +2,10 @@
 version: 1
 id: {4BD7C062-F4A9-4B0C-BA36-4038565539D8}
 database: master
-path: /create7
-parent: {00000000-0000-0000-0000-000000000000}
+path: /sitecore/content/Home/create7
+parent: {110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}
 name: create7
 master: {00000000-0000-0000-0000-000000000000}
 template: {96A12972-AFC5-465F-BFB6-6288A4759EF3}
 templatekey: Supertemplate
 
-----field----
-field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
-name: __Sortorder
-key: __sortorder
-content-length: 3
-
-200
-----field----
-field: {6FD695E7-7F6D-4CA5-8B49-A829E5950AE9}
-name: __Subitems Sorting
-key: __subitems sorting
-content-length: 0
-
-
-----field----
-field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
-name: __Workflow
-key: __workflow
-content-length: 38
-
-{A5BC37E7-ED96-4C1E-8590-A26E64DB55EA}

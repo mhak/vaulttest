@@ -1,17 +1,17 @@
 [
   {
-    "eventType": "Deleted",
+    "eventType": "Created",
     "database": "master",
     "itemId": "{4BD7C062-F4A9-4B0C-BA36-4038565539D8}",
-    "version": 4,
+    "version": 1,
     "language": "en",
-    "timestamp": "04/01/2016 19:21:28",
-    "label": "Deleted",
+    "timestamp": "04/01/2016 19:21:59",
+    "label": "Created",
     "sourceControlRevisionId": null,
-    "workflowState": "{190B1C84-F1BE-47ED-AA41-F42193D9C8FC}",
-    "activeUser": "sitecore\\admin",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
     "itemName": "create7",
-    "itemPath": "/sitecore/content/Home/create7",
+    "itemPath": "[orphan]/create7",
     "commandType": "Item"
   }
 ]
