@@ -1,17 +1,17 @@
 [
   {
-    "eventType": "Deleted",
+    "eventType": "Created",
     "database": "master",
     "itemId": "{00362948-8AFD-4B20-8432-8733FF8201E0}",
     "version": 1,
     "language": "en",
-    "timestamp": "04/01/2016 19:13:22",
-    "label": "Deleted",
+    "timestamp": "04/01/2016 19:14:54",
+    "label": "Created",
     "sourceControlRevisionId": null,
     "workflowState": "",
-    "activeUser": "sitecore\\admin",
+    "activeUser": "extranet\\Anonymous",
     "itemName": "XCentium",
-    "itemPath": "/sitecore/templates/XCentium",
+    "itemPath": "[orphan]/XCentium",
     "commandType": "Item"
   }
 ]

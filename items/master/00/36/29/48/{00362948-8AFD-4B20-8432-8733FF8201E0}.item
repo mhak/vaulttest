@@ -2,8 +2,8 @@
 version: 1
 id: {00362948-8AFD-4B20-8432-8733FF8201E0}
 database: master
-path: /XCentium
-parent: {00000000-0000-0000-0000-000000000000}
+path: /sitecore/templates/XCentium
+parent: {3C1715FE-6A13-4FCF-845F-DE308BA9741D}
 name: XCentium
 master: {00000000-0000-0000-0000-000000000000}
 template: {0437FEE2-44C9-46A6-ABE9-28858D9FEE8C}
