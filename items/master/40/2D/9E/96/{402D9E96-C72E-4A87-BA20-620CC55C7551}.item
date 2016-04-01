@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {402D9E96-C72E-4A87-BA20-620CC55C7551}
+database: master
+path: /sitecore/templates/XCentium/Supertemplate/data/general link
+parent: {2ED2D71C-8100-42CB-8E74-E8D2D8470DA9}
+name: general link
+master: {00000000-0000-0000-0000-000000000000}
+template: {455A3E98-A627-4B40-8035-E683A0331AC7}
+templatekey: Template field
+
