@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {2ED2D71C-8100-42CB-8E74-E8D2D8470DA9}
+database: master
+path: /sitecore/templates/XCentium/Supertemplate/data
+parent: {96A12972-AFC5-465F-BFB6-6288A4759EF3}
+name: data
+master: {00000000-0000-0000-0000-000000000000}
+template: {E269FBB5-3750-427A-9149-7AA950B49301}
+templatekey: Template section
+
