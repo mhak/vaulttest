@@ -1,0 +1,17 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{BD05C855-E70D-4F72-8CFD-AB0FADEA20DA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "04/01/2016 19:22:00",
+    "label": "Created",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "New Supertemplate2",
+    "itemPath": "/sitecore/content/Home/create7/New Supertemplate2",
+    "commandType": "Item"
+  }
+]
