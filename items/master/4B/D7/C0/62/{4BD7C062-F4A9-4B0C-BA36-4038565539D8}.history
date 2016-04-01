@@ -1,15 +1,15 @@
 [
   {
-    "eventType": "Saved",
+    "eventType": "Deleted",
     "database": "master",
     "itemId": "{4BD7C062-F4A9-4B0C-BA36-4038565539D8}",
     "version": 4,
     "language": "en",
-    "timestamp": "04/01/2016 19:15:59",
-    "label": "Saved",
+    "timestamp": "04/01/2016 19:21:28",
+    "label": "Deleted",
     "sourceControlRevisionId": null,
     "workflowState": "{190B1C84-F1BE-47ED-AA41-F42193D9C8FC}",
-    "activeUser": "extranet\\Anonymous",
+    "activeUser": "sitecore\\admin",
     "itemName": "create7",
     "itemPath": "/sitecore/content/Home/create7",
     "commandType": "Item"
