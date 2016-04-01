@@ -1,15 +1,15 @@
 [
   {
-    "eventType": "VersionRemoved",
+    "eventType": "Deleted",
     "database": "master",
     "itemId": "{34B20093-C0F2-42E0-A418-818368DB24DE}",
     "version": 1,
     "language": "en",
-    "timestamp": "04/01/2016 19:19:13",
-    "label": "Version 1 Removed",
+    "timestamp": "04/01/2016 19:21:28",
+    "label": "Deleted",
     "sourceControlRevisionId": null,
     "workflowState": "",
-    "activeUser": "extranet\\Anonymous",
+    "activeUser": "sitecore\\admin",
     "itemName": "delete6",
     "itemPath": "/sitecore/content/Home/create7/delete6",
     "commandType": "Item"
