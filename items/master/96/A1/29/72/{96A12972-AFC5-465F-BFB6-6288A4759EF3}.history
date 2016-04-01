@@ -1,15 +1,15 @@
 [
   {
-    "eventType": "Saved",
+    "eventType": "Deleted",
     "database": "master",
     "itemId": "{96A12972-AFC5-465F-BFB6-6288A4759EF3}",
     "version": 1,
     "language": "en",
-    "timestamp": "04/01/2016 18:09:27",
-    "label": "Saved",
+    "timestamp": "04/01/2016 18:24:43",
+    "label": "Deleted",
     "sourceControlRevisionId": null,
     "workflowState": "",
-    "activeUser": "extranet\\Anonymous",
+    "activeUser": "sitecore\\admin",
     "itemName": "Supertemplate",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate",
     "commandType": "Item"
