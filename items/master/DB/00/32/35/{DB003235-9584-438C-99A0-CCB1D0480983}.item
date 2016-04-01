@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {DB003235-9584-438C-99A0-CCB1D0480983}
+database: master
+path: /sitecore/templates/XCentium/Supertemplate/data/checklist
+parent: {2ED2D71C-8100-42CB-8E74-E8D2D8470DA9}
+name: checklist
+master: {00000000-0000-0000-0000-000000000000}
+template: {455A3E98-A627-4B40-8035-E683A0331AC7}
+templatekey: Template field
+

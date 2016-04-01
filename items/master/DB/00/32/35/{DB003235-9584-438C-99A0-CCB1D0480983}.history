@@ -1,0 +1,17 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{DB003235-9584-438C-99A0-CCB1D0480983}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "04/01/2016 19:21:59",
+    "label": "Created",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "checklist",
+    "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/checklist",
+    "commandType": "Item"
+  }
+]
