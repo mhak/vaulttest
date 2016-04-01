@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {35CE7DF1-4F3B-45B0-AC3C-BDAB29D6C3DE}
+database: master
+path: /sitecore/content/Home/create7/TFS test
+parent: {4BD7C062-F4A9-4B0C-BA36-4038565539D8}
+name: TFS test
+master: {00000000-0000-0000-0000-000000000000}
+template: {76036F5E-CBCE-46D1-AF0A-4143F9B557AA}
+templatekey: Sample Item
+
