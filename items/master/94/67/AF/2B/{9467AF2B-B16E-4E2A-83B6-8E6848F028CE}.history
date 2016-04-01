@@ -1,0 +1,17 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{9467AF2B-B16E-4E2A-83B6-8E6848F028CE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "04/01/2016 19:21:59",
+    "label": "Created",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "datetime",
+    "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/datetime",
+    "commandType": "Item"
+  }
+]

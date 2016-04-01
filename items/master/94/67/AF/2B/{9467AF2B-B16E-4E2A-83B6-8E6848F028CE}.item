@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {9467AF2B-B16E-4E2A-83B6-8E6848F028CE}
+database: master
+path: /sitecore/templates/XCentium/Supertemplate/data/datetime
+parent: {2ED2D71C-8100-42CB-8E74-E8D2D8470DA9}
+name: datetime
+master: {00000000-0000-0000-0000-000000000000}
+template: {455A3E98-A627-4B40-8035-E683A0331AC7}
+templatekey: Template field
+
