@@ -1,12 +1,12 @@
 [
   {
-    "eventType": "VersionRemoved",
+    "eventType": "Saved",
     "database": "master",
     "itemId": "{1A4F71C9-60C3-4E2E-B080-F75D38E40D4E}",
     "version": 1,
     "language": "en",
     "timestamp": "04/01/2016 19:19:13",
-    "label": "Version 1 Removed",
+    "label": "Saved",
     "sourceControlRevisionId": null,
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
