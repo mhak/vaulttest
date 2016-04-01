@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {1A4F71C9-60C3-4E2E-B080-F75D38E40D4E}
+database: master
+path: /sitecore/content/Home/create7/delete7
+parent: {4BD7C062-F4A9-4B0C-BA36-4038565539D8}
+name: delete7
+master: {00000000-0000-0000-0000-000000000000}
+template: {96A12972-AFC5-465F-BFB6-6288A4759EF3}
+templatekey: Supertemplate
+
