@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {CA7903F6-5FE2-477F-9905-64CF2154AA6E}
+database: master
+path: /sitecore/templates/XCentium/Supertemplate/data/treelistex
+parent: {2ED2D71C-8100-42CB-8E74-E8D2D8470DA9}
+name: treelistex
+master: {00000000-0000-0000-0000-000000000000}
+template: {455A3E98-A627-4B40-8035-E683A0331AC7}
+templatekey: Template field
+
