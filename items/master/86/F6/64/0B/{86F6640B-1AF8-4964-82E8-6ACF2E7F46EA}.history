@@ -1,0 +1,17 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{86F6640B-1AF8-4964-82E8-6ACF2E7F46EA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "04/01/2016 19:21:58",
+    "label": "Created",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "droplist",
+    "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/droplist",
+    "commandType": "Item"
+  }
+]
