@@ -1,14 +1,14 @@
 [
   {
-    "eventType": "VersionRemoved",
+    "eventType": "Saved",
     "database": "master",
     "itemId": "{35CE7DF1-4F3B-45B0-AC3C-BDAB29D6C3DE}",
     "version": 1,
     "language": "en",
     "timestamp": "04/01/2016 19:22:00",
-    "label": "Version 1 Removed",
+    "label": "Saved",
     "sourceControlRevisionId": null,
-    "workflowState": "",
+    "workflowState": "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}",
     "activeUser": "extranet\\Anonymous",
     "itemName": "TFS test",
     "itemPath": "/sitecore/content/Home/create7/TFS test",
