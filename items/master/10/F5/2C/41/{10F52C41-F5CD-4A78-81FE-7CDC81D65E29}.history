@@ -1,12 +1,12 @@
 [
   {
-    "eventType": "Created",
+    "eventType": "Saved",
     "database": "master",
     "itemId": "{10F52C41-F5CD-4A78-81FE-7CDC81D65E29}",
     "version": 1,
     "language": "en",
     "timestamp": "04/01/2016 19:22:00",
-    "label": "Created",
+    "label": "Saved",
     "sourceControlRevisionId": null,
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
