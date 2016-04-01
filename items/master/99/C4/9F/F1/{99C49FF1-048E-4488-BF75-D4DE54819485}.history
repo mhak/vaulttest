@@ -1,0 +1,17 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{99C49FF1-048E-4488-BF75-D4DE54819485}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "04/01/2016 19:21:58",
+    "label": "Created",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "general link with search",
+    "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/general link with search",
+    "commandType": "Item"
+  }
+]

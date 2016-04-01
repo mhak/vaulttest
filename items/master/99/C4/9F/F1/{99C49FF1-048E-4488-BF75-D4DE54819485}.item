@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {99C49FF1-048E-4488-BF75-D4DE54819485}
+database: master
+path: /sitecore/templates/XCentium/Supertemplate/data/general link with search
+parent: {2ED2D71C-8100-42CB-8E74-E8D2D8470DA9}
+name: general link with search
+master: {00000000-0000-0000-0000-000000000000}
+template: {455A3E98-A627-4B40-8035-E683A0331AC7}
+templatekey: Template field
+
