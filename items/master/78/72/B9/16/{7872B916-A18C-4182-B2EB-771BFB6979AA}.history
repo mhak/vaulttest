@@ -1,0 +1,17 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{7872B916-A18C-4182-B2EB-771BFB6979AA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "04/01/2016 19:21:58",
+    "label": "Created",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "grouped droplink",
+    "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/grouped droplink",
+    "commandType": "Item"
+  }
+]
