@@ -1,0 +1,17 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{D083D355-5DA4-4E9D-888D-5903CACF613C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "04/01/2016 19:21:59",
+    "label": "Created",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "file",
+    "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/file",
+    "commandType": "Item"
+  }
+]
