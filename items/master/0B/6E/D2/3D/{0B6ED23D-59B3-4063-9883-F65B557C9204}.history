@@ -1,0 +1,17 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{0B6ED23D-59B3-4063-9883-F65B557C9204}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "04/01/2016 19:21:58",
+    "label": "Created",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "version link",
+    "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/version link",
+    "commandType": "Item"
+  }
+]
