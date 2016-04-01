@@ -1,12 +1,12 @@
 [
   {
-    "eventType": "VersionAdded",
+    "eventType": "VersionRemoved",
     "database": "master",
     "itemId": "{7872B916-A18C-4182-B2EB-771BFB6979AA}",
     "version": 1,
     "language": "en",
     "timestamp": "04/01/2016 19:21:58",
-    "label": "Version 1 Added",
+    "label": "Version 1 Removed",
     "sourceControlRevisionId": null,
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
