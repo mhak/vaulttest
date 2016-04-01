@@ -1,0 +1,17 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{AD39369E-15E3-45F3-8A5E-FD613F8AD548}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "04/01/2016 19:21:57",
+    "label": "Created",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "multilist with search",
+    "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/multilist with search",
+    "commandType": "Item"
+  }
+]
