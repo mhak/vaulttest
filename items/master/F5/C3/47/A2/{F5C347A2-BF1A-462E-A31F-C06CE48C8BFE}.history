@@ -1,0 +1,17 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{F5C347A2-BF1A-462E-A31F-C06CE48C8BFE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-04T18:35:34.3614367Z",
+    "label": "Installed from package - test2",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "New Supertemplate",
+    "itemPath": "/sitecore/content/Home/create7/New Supertemplate",
+    "commandType": "Item"
+  }
+]
