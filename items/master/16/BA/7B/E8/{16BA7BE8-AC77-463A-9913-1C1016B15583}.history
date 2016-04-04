@@ -1,0 +1,17 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{16BA7BE8-AC77-463A-9913-1C1016B15583}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-04T18:35:28.9571276Z",
+    "label": "Installed from package - test2",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "delete8",
+    "itemPath": "/sitecore/content/Home/create7/delete8",
+    "commandType": "Item"
+  }
+]
