@@ -217,11 +217,41 @@
     "language": "en",
     "timestamp": "04/05/2016 04:00:11",
     "label": null,
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "ebe737b0f06c8ebc9d85b99008de699f2af9500b",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "delete5",
     "itemPath": "/sitecore/content/Home/create7/delete5",
+    "commandType": "Item"
+  },
+  {
+    "eventType": null,
+    "database": "master",
+    "itemId": "{09EDEAF2-5320-4B2E-B88D-7AFF63A15AFB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "04/05/2016 04:00:11",
+    "label": null,
+    "sourceControlRevisionId": "ebe737b0f06c8ebc9d85b99008de699f2af9500b",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "delete5",
+    "itemPath": "/sitecore/content/Home/create7/delete5",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{09EDEAF2-5320-4B2E-B88D-7AFF63A15AFB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-05T04:00:56.6654671Z",
+    "label": "Installed from package - test",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "delete5",
+    "itemPath": "[orphan]/delete5",
     "commandType": "Item"
   }
 ]
