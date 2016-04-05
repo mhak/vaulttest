@@ -172,11 +172,26 @@
     "language": "en",
     "timestamp": "2016-04-05T03:59:36.9029049Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "3bdd76105673fab85c7104461fd1fc57df238ce4",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "delete6",
     "itemPath": "/sitecore/content/Home/create7/delete6",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{34B20093-C0F2-42E0-A418-818368DB24DE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-05T04:00:58.3165615Z",
+    "label": "Installed from package - test",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "delete6",
+    "itemPath": "[orphan]/delete6",
     "commandType": "Item"
   }
 ]
