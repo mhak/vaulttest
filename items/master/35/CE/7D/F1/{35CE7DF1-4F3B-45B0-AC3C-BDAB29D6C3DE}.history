@@ -170,13 +170,28 @@
     "itemId": "{35CE7DF1-4F3B-45B0-AC3C-BDAB29D6C3DE}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-05T03:59:40.7331240Z",
+    "timestamp": "2016-04-05T03:59:40.733124Z",
+    "label": "Installed from package - test",
+    "sourceControlRevisionId": "bb5aeac3bc767423c4aaee2e7fcbc8598477b8ce",
+    "workflowState": "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "TFS test",
+    "itemPath": "/sitecore/content/Home/create7/TFS test",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{35CE7DF1-4F3B-45B0-AC3C-BDAB29D6C3DE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-05T04:01:04.2419004Z",
     "label": "Installed from package - test",
     "sourceControlRevisionId": null,
     "workflowState": "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}",
     "activeUser": "extranet\\Anonymous",
     "itemName": "TFS test",
-    "itemPath": "/sitecore/content/Home/create7/TFS test",
+    "itemPath": "[orphan]/TFS test",
     "commandType": "Item"
   }
 ]
