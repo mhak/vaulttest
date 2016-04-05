@@ -172,11 +172,26 @@
     "language": "en",
     "timestamp": "2016-04-05T03:59:39.4910529Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "d37cb84fdff850a6cd1938339b0b7facad769be5",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "New Supertemplate3",
     "itemPath": "/sitecore/content/Home/create7/New Supertemplate3",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{10F52C41-F5CD-4A78-81FE-7CDC81D65E29}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-05T04:01:01.3987378Z",
+    "label": "Installed from package - test",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "New Supertemplate3",
+    "itemPath": "[orphan]/New Supertemplate3",
     "commandType": "Item"
   }
 ]
