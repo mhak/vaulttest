@@ -140,13 +140,28 @@
     "itemId": "{1A4F71C9-60C3-4E2E-B080-F75D38E40D4E}",
     "version": 2,
     "language": "en",
-    "timestamp": "2016-04-07T23:34:39.5531850Z",
+    "timestamp": "2016-04-07T23:34:39.553185Z",
     "label": "Rollback package - test2",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "752e792602d68fc7da862a4af7396505af4a9212",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "delete7",
     "itemPath": "[orphan]/delete7",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{1A4F71C9-60C3-4E2E-B080-F75D38E40D4E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-08T22:11:04.3477836Z",
+    "label": "Installed from package - test2",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "delete7",
+    "itemPath": "/sitecore/content/Home/create7/delete7",
     "commandType": "Item"
   }
 ]
