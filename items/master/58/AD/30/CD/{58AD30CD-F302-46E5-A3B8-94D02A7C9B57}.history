@@ -52,11 +52,26 @@
     "language": "en",
     "timestamp": "2016-04-11T19:41:46.8412427Z",
     "label": "Rollback package - campaign deployment",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "79f31769fc3e198f4c7da03fafbf7a41e12cb58f",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "Promotion Text",
     "itemPath": "[orphan]/Promotion Text",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{58AD30CD-F302-46E5-A3B8-94D02A7C9B57}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T19:50:54.9375921Z",
+    "label": "Installed from package - campaign deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Promotion Text",
+    "itemPath": "/sitecore/templates/Demo/Promotion/Data/Promotion Text",
     "commandType": "Item"
   }
 ]
