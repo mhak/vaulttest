@@ -1,0 +1,17 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{FF0A0DD7-EC65-4674-ABA5-E00B43292148}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T19:02:04.4359770Z",
+    "label": "Installed from package - campaign deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Disclosures",
+    "itemPath": "/sitecore/templates/Demo/Disclosures",
+    "commandType": "Item"
+  }
+]
