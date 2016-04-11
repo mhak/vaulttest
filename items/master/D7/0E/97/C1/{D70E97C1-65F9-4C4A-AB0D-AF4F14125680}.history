@@ -1,0 +1,17 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{D70E97C1-65F9-4C4A-AB0D-AF4F14125680}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T19:01:31.9481188Z",
+    "label": "Installed from package - campaign deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Name",
+    "itemPath": "/sitecore/templates/Demo/Lists/Banking Menu List/Banking Menu Section/Name",
+    "commandType": "Item"
+  }
+]
