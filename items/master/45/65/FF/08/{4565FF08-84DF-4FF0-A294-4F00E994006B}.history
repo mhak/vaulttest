@@ -67,11 +67,26 @@
     "language": "en",
     "timestamp": "2016-04-11T19:51:46.4455381Z",
     "label": "Installed from package - campaign deployment",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "e6ce410b72e6ea49ec208aae055f1ea624c0d60f",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "__Standard Values",
     "itemPath": "/sitecore/templates/Demo/HealthWealthPage/__Standard Values",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "Rollback",
+    "database": "master",
+    "itemId": "{4565FF08-84DF-4FF0-A294-4F00E994006B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T19:55:21.2678253Z",
+    "label": "Rollback package - campaign deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "__Standard Values",
+    "itemPath": "[orphan]/__Standard Values",
     "commandType": "Item"
   }
 ]
