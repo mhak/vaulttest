@@ -67,11 +67,26 @@
     "language": "en",
     "timestamp": "2016-04-11T19:52:45.1928983Z",
     "label": "Installed from package - campaign deployment",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "86d110af7fa43e55d4d6d434fcb3d4fe18540113",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "PB Campaign Landing",
     "itemPath": "/sitecore/content/Campaign Site/PB Campaign Landing",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "Rollback",
+    "database": "master",
+    "itemId": "{0E08B0B8-6459-4CD5-815F-B898B92A087B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T19:54:09.9097438Z",
+    "label": "Rollback package - campaign deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "PB Campaign Landing",
+    "itemPath": "[orphan]/PB Campaign Landing",
     "commandType": "Item"
   }
 ]
