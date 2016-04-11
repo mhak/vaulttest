@@ -67,11 +67,26 @@
     "language": "en",
     "timestamp": "2016-04-11T19:50:56.3886751Z",
     "label": "Installed from package - campaign deployment",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "ae97546a6448578f1f4d4284f69aa88071411c1c",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "Css Class",
     "itemPath": "/sitecore/templates/Demo/Promotion/Data/Css Class",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "Rollback",
+    "database": "master",
+    "itemId": "{FB8B8297-38B7-4385-A0EB-2771D58DC63C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T19:56:16.6799947Z",
+    "label": "Rollback package - campaign deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Css Class",
+    "itemPath": "[orphan]/Css Class",
     "commandType": "Item"
   }
 ]
