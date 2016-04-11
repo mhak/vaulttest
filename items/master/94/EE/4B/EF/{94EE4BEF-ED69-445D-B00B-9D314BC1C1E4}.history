@@ -1,0 +1,17 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{94EE4BEF-ED69-445D-B00B-9D314BC1C1E4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T21:30:00.0326320Z",
+    "label": "Installed from package - Strategy deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Navigation",
+    "itemPath": "/sitecore/templates/Demo/Vault/Section/Navigation",
+    "commandType": "Item"
+  }
+]
