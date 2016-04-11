@@ -2,8 +2,8 @@
 version: 1
 id: {A6CD49B1-0F3C-432F-ABE2-41884DE76A07}
 database: master
-path: /Online Strategy
-parent: {00000000-0000-0000-0000-000000000000}
+path: /sitecore/content/Home/Strategic Initiatives/Online Strategy
+parent: {7EBBE397-7518-4F92-B601-34856A8D5255}
 name: Online Strategy
 master: {00000000-0000-0000-0000-000000000000}
 template: {E10666AD-0047-4D3C-B724-0638AA6FB08A}
