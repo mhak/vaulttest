@@ -219,36 +219,70 @@ extranet\Anonymous
 ----version----
 language: en
 version: 1
-revision: 59c8538e-d729-4d02-a0fc-8df7e8ee1222
+revision: 79d66fb8-197e-4e26-92bf-394e32befd87
 
 ----field----
 field: {75577384-3C97-45DA-A847-81B00500E250}
 name: Title
 key: title
-content-length: 4
+content-length: 30
 
-Home
+Welcome to First Republic Bank
+----field----
+field: {A60ACD61-A6DB-4182-8329-C957982CEC74}
+name: Text
+key: text
+content-length: 724
+
+<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+<nav class="navbar navbar-default">
+<div class="container-fluid">
+<div class="navbar-header">
+<a class="navbar-brand" href="#">WebSiteName</a>
+</div>
+<ul class="nav navbar-nav">
+    <li class="active"><a href="~/link.aspx?_id=110D559FDEA542EA9C1C8A5DF7E70EF9&amp;_z=z">Home</a></li>
+    <li><a href="~/link.aspx?_id=74FD1339B05D406B9EA291E0272C0721&amp;_z=z">Personal &amp; Business Banking</a></li>
+    <li><a href="~/link.aspx?_id=7AED5A894B5445CAB9389396FD8A5680&amp;_z=z">Private Wealth Management</a></li>
+    <li><a href="~/link.aspx?_id=1F9C10F09F7542CA841E672EE9C6AAE2&amp;_z=z">About Us</a></li>
+</ul>
+</div>
+</nav>
+----field----
+field: {577F1689-7DE4-4AD2-A15F-7FDC1759285F}
+name: __Long description
+key: __long description
+content-length: 58
+
+The Home item is the default starting point for a website.
+----field----
+field: {9541E67D-CE8C-4225-803D-33F7F29F09EF}
+name: __Short description
+key: __short description
+content-length: 20
+
+Welcome to Sitecore.
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
 key: __created
 content-length: 16
 
-20160411T214756Z
+20080407T105900Z
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
 key: __created by
-content-length: 18
+content-length: 14
 
-extranet\Anonymous
+sitecore\admin
 ----field----
 field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
 name: __Revision
 key: __revision
 content-length: 36
 
-59c8538e-d729-4d02-a0fc-8df7e8ee1222
+79d66fb8-197e-4e26-92bf-394e32befd87
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
