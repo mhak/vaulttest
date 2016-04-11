@@ -35,13 +35,28 @@
     "itemId": "{3BC971A1-5F49-4F9E-BD46-BC06E6D23F8D}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-11T19:23:20.8029810Z",
+    "timestamp": "2016-04-11T19:23:20.802981Z",
     "label": "Installed from package - campaign deployment",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "bdbd22d4ab33e93fd7fca7753650e039856f2537",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "__Standard Values",
     "itemPath": "/sitecore/templates/Demo/Site Header/__Standard Values",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "Rollback",
+    "database": "master",
+    "itemId": "{3BC971A1-5F49-4F9E-BD46-BC06E6D23F8D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T19:42:04.6372606Z",
+    "label": "Rollback package - campaign deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "__Standard Values",
+    "itemPath": "[orphan]/__Standard Values",
     "commandType": "Item"
   }
 ]
