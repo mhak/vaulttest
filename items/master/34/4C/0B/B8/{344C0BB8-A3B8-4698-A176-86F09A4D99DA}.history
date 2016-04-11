@@ -52,11 +52,26 @@
     "language": "en",
     "timestamp": "2016-04-11T19:39:16.0366172Z",
     "label": "Rollback package - campaign deployment",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "81d3f3cb8beb5ba32a30e35f1dcc1de61c8c1f53",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "sidney",
     "itemPath": "[orphan]/sidney",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{344C0BB8-A3B8-4698-A176-86F09A4D99DA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T19:52:52.4523135Z",
+    "label": "Installed from package - campaign deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "sidney",
+    "itemPath": "/sitecore/content/Campaign Site/sidney",
     "commandType": "Item"
   }
 ]
