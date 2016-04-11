@@ -67,11 +67,26 @@
     "language": "en",
     "timestamp": "2016-04-11T19:52:32.9341971Z",
     "label": "Installed from package - campaign deployment",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "582e8a11046c5dd76d78c568478b942e1d6e223a",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "Rules",
     "itemPath": "/sitecore/templates/Demo/Disclosures/Disclosure Item/Data/Rules",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "Rollback",
+    "database": "master",
+    "itemId": "{CE42EB5E-D639-42E5-955D-AC23926A08DE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T19:54:23.5405235Z",
+    "label": "Rollback package - campaign deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Rules",
+    "itemPath": "[orphan]/Rules",
     "commandType": "Item"
   }
 ]
