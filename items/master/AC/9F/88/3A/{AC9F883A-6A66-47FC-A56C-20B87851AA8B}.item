@@ -2,8 +2,8 @@
 version: 1
 id: {AC9F883A-6A66-47FC-A56C-20B87851AA8B}
 database: master
-path: /Demo
-parent: {00000000-0000-0000-0000-000000000000}
+path: /sitecore/templates/Demo
+parent: {3C1715FE-6A13-4FCF-845F-DE308BA9741D}
 name: Demo
 master: {00000000-0000-0000-0000-000000000000}
 template: {0437FEE2-44C9-46A6-ABE9-28858D9FEE8C}
