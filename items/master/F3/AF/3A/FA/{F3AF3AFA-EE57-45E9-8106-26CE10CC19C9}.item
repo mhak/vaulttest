@@ -1,0 +1,127 @@
+----item----
+version: 1
+id: {F3AF3AFA-EE57-45E9-8106-26CE10CC19C9}
+database: master
+path: /sitecore/content/Home/Ecommerce
+parent: {110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}
+name: Ecommerce
+master: {00000000-0000-0000-0000-000000000000}
+template: {E10666AD-0047-4D3C-B724-0638AA6FB08A}
+templatekey: Section
+
+----version----
+language: en
+version: 1
+revision: 5aeaa09f-00a4-4cd4-9994-7252422075ba
+
+----field----
+field: {E50E06FC-7D3D-4D14-89A2-DA55182F9579}
+name: Nav Title
+key: nav title
+content-length: 9
+
+Ecommerce
+----field----
+field: {DA328B21-B815-4A9B-B0D5-3FFF9A480423}
+name: Content
+key: content
+content-length: 804
+
+There&rsquo;s a billboard in Los Angeles dotted with dozens of faces representing Scientologists who have separated from their families. It reads: &ldquo;To my loved one in Scientology &hellip; call me.&rdquo;<br>
+<br>
+The massive message was placed in Echo Park this month by Phil and Willie Jones, former Scientologists who say they have lost their two adult children, Michael and Emily Jones, to a practice known as &ldquo;disconnection,&rdquo; which believers describe as a last resort &mdash; ending communication with people who are &ldquo;antagonistic to Scientology&rdquo; to protect themselves from being torn from the religion.<br>
+<br>
+The church &ldquo;poisoned their minds against us,&rdquo; Phil Jones told The Washington Post. &ldquo;They think we&rsquo;re out to destroy the world.&rdquo;
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160411T221058Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+extranet\Anonymous
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+5aeaa09f-00a4-4cd4-9994-7252422075ba
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160411T223538Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+extranet\Anonymous
+----version----
+language: en
+version: 2
+revision: efdd58cb-a023-4fc9-8897-734fbe50faea
+
+----field----
+field: {E50E06FC-7D3D-4D14-89A2-DA55182F9579}
+name: Nav Title
+key: nav title
+content-length: 9
+
+Ecommerce
+----field----
+field: {DA328B21-B815-4A9B-B0D5-3FFF9A480423}
+name: Content
+key: content
+content-length: 804
+
+There&rsquo;s a billboard in Los Angeles dotted with dozens of faces representing Scientologists who have separated from their families. It reads: &ldquo;To my loved one in Scientology &hellip; call me.&rdquo;<br>
+<br>
+The massive message was placed in Echo Park this month by Phil and Willie Jones, former Scientologists who say they have lost their two adult children, Michael and Emily Jones, to a practice known as &ldquo;disconnection,&rdquo; which believers describe as a last resort &mdash; ending communication with people who are &ldquo;antagonistic to Scientology&rdquo; to protect themselves from being torn from the religion.<br>
+<br>
+The church &ldquo;poisoned their minds against us,&rdquo; Phil Jones told The Washington Post. &ldquo;They think we&rsquo;re out to destroy the world.&rdquo;
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20160411T221524Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160411T221524Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+efdd58cb-a023-4fc9-8897-734fbe50faea
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160411T223538Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+extranet\Anonymous
