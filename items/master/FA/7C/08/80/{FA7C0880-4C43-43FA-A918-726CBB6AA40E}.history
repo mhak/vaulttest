@@ -1,0 +1,17 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{FA7C0880-4C43-43FA-A918-726CBB6AA40E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T19:02:30.8564881Z",
+    "label": "Installed from package - campaign deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "All In One",
+    "itemPath": "/sitecore/content/Campaign Site/All In One",
+    "commandType": "Item"
+  }
+]
