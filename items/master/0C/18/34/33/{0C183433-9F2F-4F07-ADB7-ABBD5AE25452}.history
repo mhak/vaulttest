@@ -1,0 +1,17 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{0C183433-9F2F-4F07-ADB7-ABBD5AE25452}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T19:00:42.3652828Z",
+    "label": "Installed from package - campaign deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Data",
+    "itemPath": "/sitecore/templates/Demo/Promotion/Data",
+    "commandType": "Item"
+  }
+]
