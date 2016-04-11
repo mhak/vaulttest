@@ -1,0 +1,17 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{61382548-7EB4-406C-8E74-BD888590ECBF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T22:35:42.7511426Z",
+    "label": "Installed from package - Ecommerce deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Shopping Cart",
+    "itemPath": "/sitecore/content/Home/Ecommerce/Shopping Cart",
+    "commandType": "Item"
+  }
+]
