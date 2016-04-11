@@ -37,11 +37,26 @@
     "language": "en",
     "timestamp": "2016-04-11T19:25:39.9209381Z",
     "label": "Installed from package - campaign deployment",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "3a1c1414c3e606c4a87918968cdc5de24d96cdec",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "Test Conditional Events",
     "itemPath": "/sitecore/content/Campaign Site/Test Conditional Events",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "Rollback",
+    "database": "master",
+    "itemId": "{12C54E0E-137B-443B-9E70-7751F31E90DE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T19:39:13.0424460Z",
+    "label": "Rollback package - campaign deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Test Conditional Events",
+    "itemPath": "[orphan]/Test Conditional Events",
     "commandType": "Item"
   }
 ]
