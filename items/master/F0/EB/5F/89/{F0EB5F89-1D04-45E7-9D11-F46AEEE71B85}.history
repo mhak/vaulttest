@@ -37,11 +37,26 @@
     "language": "en",
     "timestamp": "2016-04-11T19:23:28.3274113Z",
     "label": "Installed from package - campaign deployment",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "8358ead865eabaef99835dfb7e7c8536912ced31",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "Copyright",
     "itemPath": "/sitecore/templates/Demo/Site Footer/Footer Section/Copyright",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "Rollback",
+    "database": "master",
+    "itemId": "{F0EB5F89-1D04-45E7-9D11-F46AEEE71B85}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T19:41:56.3407861Z",
+    "label": "Rollback package - campaign deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Copyright",
+    "itemPath": "[orphan]/Copyright",
     "commandType": "Item"
   }
 ]
