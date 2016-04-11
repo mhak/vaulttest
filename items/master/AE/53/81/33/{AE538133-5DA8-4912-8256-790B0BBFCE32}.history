@@ -7,11 +7,26 @@
     "language": "en",
     "timestamp": "2016-04-11T21:30:03.2408155Z",
     "label": "Installed from package - Strategy deployment",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "7b35171b6e98a90690b51fdfe8e60263ec4703af",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "Content Icon",
     "itemPath": "/sitecore/templates/Demo/Vault/Section/Navigation/Content Icon",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{AE538133-5DA8-4912-8256-790B0BBFCE32}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T21:47:34.4079389Z",
+    "label": "Installed from package - Strategy deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Content Icon",
+    "itemPath": "[orphan]/Demo/Vault/Section/Navigation/Content Icon",
     "commandType": "Item"
   }
 ]
