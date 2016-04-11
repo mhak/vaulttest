@@ -1,0 +1,17 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{E10666AD-0047-4D3C-B724-0638AA6FB08A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T21:29:58.3805376Z",
+    "label": "Installed from package - Strategy deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Section",
+    "itemPath": "/sitecore/templates/Demo/Vault/Section",
+    "commandType": "Item"
+  }
+]
