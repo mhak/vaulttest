@@ -247,10 +247,25 @@
     "language": "ja-JP",
     "timestamp": "04/11/2016 21:47:56",
     "label": null,
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "50ea88ea9899ea1c2e2a19165d60072a1cfc1fec",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "ホーム",
+    "itemPath": "/sitecore/content/Home",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T22:35:35.8757494Z",
+    "label": "Installed from package - Ecommerce deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Home",
     "itemPath": "/sitecore/content/Home",
     "commandType": "Item"
   }
