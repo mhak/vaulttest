@@ -9,39 +9,116 @@ master: {00000000-0000-0000-0000-000000000000}
 template: {76036F5E-CBCE-46D1-AF0A-4143F9B557AA}
 templatekey: Sample Item
 
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 22
+
+Network/16x16/home.png
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 2
+
+-1
+----field----
+field: {1172F251-DAD4-4EFB-A329-0C63500E4F1E}
+name: __Masters
+key: __masters
+content-length: 116
+
+{76036F5E-CBCE-46D1-AF0A-4143F9B557AA}|{A87A00B1-E6DB-45AB-8B54-636FEC3B5523}|{E10666AD-0047-4D3C-B724-0638AA6FB08A}
+----field----
+field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
+name: __Renderings
+key: __renderings
+content-length: 792
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{B343725A-3A93-446E-A9C8-3A2CBD3DB489}"><rls><ruleset><rule uid="{F61A27CD-EEBD-4121-BE05-4DA3F270FF3E}" s:name="Condition Name"><conditions><condition uid="DBAC02D36C3D4A6F867041A09529FAEB" s:id="{E00DB4F0-B206-4544-AD90-25D201CFB62C}" s:ProfileName="Age" s:PatternName="test" /></conditions></rule><rule uid="{00000000-0000-0000-0000-000000000000}" s:name="Default"><conditions><condition uid="9CBD5DB84C25470AA27A96A55B318B4B" s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" /></conditions><actions /></rule></ruleset></rls></r><r uid="{A4085ABE-5B09-4DD3-B3A4-4E1F092C8200}" s:id="{6D3B4E7D-FEF8-4110-804A-B56605688830}" s:par="FormID={6B066897-BF7D-4D28-96CF-D6CF63FF820C}" s:ph="content" /></d></r>
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{A5BC37E7-ED96-4C1E-8590-A26E64DB55EA}
+----field----
+field: {CA9B9F52-4FB0-4F87-A79F-24DEA62CDA65}
+name: __Default workflow
+key: __default workflow
+content-length: 0
+
+
 ----version----
 language: da
 version: 1
-revision: 9c9dd39f-b076-47ed-b0cb-12e099a4890d
+revision: fdfd9dcc-c5d8-4e1c-b7f8-9f3eff5e3465
 
+----field----
+field: {75577384-3C97-45DA-A847-81B00500E250}
+name: Title
+key: title
+content-length: 8
+
+Sitecore
+----field----
+field: {A60ACD61-A6DB-4182-8329-C957982CEC74}
+name: Text
+key: text
+content-length: 29
+
+<p>Velkommen til Sitecore</p>
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 4
+
+Hjem
+----field----
+field: {577F1689-7DE4-4AD2-A15F-7FDC1759285F}
+name: __Long description
+key: __long description
+content-length: 62
+
+Elementet Hjem er som standard startpunktet for en hjemmeside.
+----field----
+field: {9541E67D-CE8C-4225-803D-33F7F29F09EF}
+name: __Short description
+key: __short description
+content-length: 23
+
+Velkommen til Sitecore.
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
 name: __Owner
 key: __owner
-content-length: 18
+content-length: 14
 
-extranet\Anonymous
+sitecore\admin
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
 key: __created
-content-length: 16
+content-length: 34
 
-20160411T214756Z
+20140516T182531:635358615311709544
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
 key: __created by
-content-length: 18
+content-length: 14
 
-extranet\Anonymous
+sitecore\admin
 ----field----
 field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
 name: __Revision
 key: __revision
 content-length: 36
 
-9c9dd39f-b076-47ed-b0cb-12e099a4890d
+fdfd9dcc-c5d8-4e1c-b7f8-9f3eff5e3465
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
