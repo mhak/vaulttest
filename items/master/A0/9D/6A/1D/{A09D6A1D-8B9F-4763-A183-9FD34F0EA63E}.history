@@ -1,0 +1,17 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{A09D6A1D-8B9F-4763-A183-9FD34F0EA63E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T19:01:44.4518339Z",
+    "label": "Installed from package - campaign deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Footer",
+    "itemPath": "/sitecore/templates/Demo/Folders/Footer",
+    "commandType": "Item"
+  }
+]
