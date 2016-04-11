@@ -35,13 +35,28 @@
     "itemId": "{CC3EEA1F-A178-4E6C-93DE-9A819AEE97B9}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-11T19:24:16.3311570Z",
+    "timestamp": "2016-04-11T19:24:16.331157Z",
     "label": "Installed from package - campaign deployment",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "4242bf2146d714d78a2fd98e44e2cda1aee698df",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "Name",
     "itemPath": "/sitecore/templates/Demo/Navigation/Navigation Folder/Navigation Folder Section/Name",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "Rollback",
+    "database": "master",
+    "itemId": "{CC3EEA1F-A178-4E6C-93DE-9A819AEE97B9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T19:40:28.0357353Z",
+    "label": "Rollback package - campaign deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Name",
+    "itemPath": "[orphan]/Name",
     "commandType": "Item"
   }
 ]
