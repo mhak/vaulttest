@@ -35,13 +35,28 @@
     "itemId": "{08396DE1-D306-4A58-82BF-48F4D3918DC0}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-11T19:25:41.4240240Z",
+    "timestamp": "2016-04-11T19:25:41.424024Z",
     "label": "Installed from package - campaign deployment",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5cf4508a50bf86ad483f5dff83bf34f039d6a125",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "Test Form",
     "itemPath": "/sitecore/content/Campaign Site/Test Form",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "Rollback",
+    "database": "master",
+    "itemId": "{08396DE1-D306-4A58-82BF-48F4D3918DC0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T19:39:11.3523493Z",
+    "label": "Rollback package - campaign deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Test Form",
+    "itemPath": "[orphan]/Test Form",
     "commandType": "Item"
   }
 ]
