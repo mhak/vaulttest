@@ -50,13 +50,28 @@
     "itemId": "{D70E97C1-65F9-4C4A-AB0D-AF4F14125680}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-11T19:40:20.9663310Z",
+    "timestamp": "2016-04-11T19:40:20.966331Z",
     "label": "Rollback package - campaign deployment",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5f206a1728201500f404d642dd904a208b9fbe1e",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "Name",
     "itemPath": "[orphan]/Name",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{D70E97C1-65F9-4C4A-AB0D-AF4F14125680}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T19:51:39.3931348Z",
+    "label": "Installed from package - campaign deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Name",
+    "itemPath": "/sitecore/templates/Demo/Lists/Banking Menu List/Banking Menu Section/Name",
     "commandType": "Item"
   }
 ]
