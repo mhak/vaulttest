@@ -7,11 +7,26 @@
     "language": "en",
     "timestamp": "2016-04-11T21:29:56.9804575Z",
     "label": "Installed from package - Strategy deployment",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "77d1562c44fe37495011f8d234cfb5eca5c86945",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "Vault",
     "itemPath": "/sitecore/templates/Demo/Vault",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{F988AA18-FA2A-45AD-82C9-C492D50B58A1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T21:47:21.9332254Z",
+    "label": "Installed from package - Strategy deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Vault",
+    "itemPath": "[orphan]/Demo/Vault",
     "commandType": "Item"
   }
 ]
