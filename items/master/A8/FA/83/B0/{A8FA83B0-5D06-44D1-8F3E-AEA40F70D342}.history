@@ -1,0 +1,17 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{A8FA83B0-5D06-44D1-8F3E-AEA40F70D342}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T21:30:22.0368906Z",
+    "label": "Installed from package - Strategy deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Cloud Strategy",
+    "itemPath": "/sitecore/content/Home/Strategic Initiatives/Cloud Strategy",
+    "commandType": "Item"
+  }
+]
