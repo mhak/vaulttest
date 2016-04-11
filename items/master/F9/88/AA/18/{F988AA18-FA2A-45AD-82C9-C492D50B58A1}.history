@@ -1,0 +1,17 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{F988AA18-FA2A-45AD-82C9-C492D50B58A1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T21:29:56.9804575Z",
+    "label": "Installed from package - Strategy deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Vault",
+    "itemPath": "/sitecore/templates/Demo/Vault",
+    "commandType": "Item"
+  }
+]
