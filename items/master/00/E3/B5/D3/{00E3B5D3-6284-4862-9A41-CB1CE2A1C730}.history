@@ -7,11 +7,26 @@
     "language": "en",
     "timestamp": "2016-04-11T19:09:13.7225307Z",
     "label": "Installed from package - updates",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "835168f4874d49b82e54a4e5b4dcc481063f23fd",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "Global",
     "itemPath": "/sitecore/content/Global",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "Rollback",
+    "database": "master",
+    "itemId": "{00E3B5D3-6284-4862-9A41-CB1CE2A1C730}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T19:26:21.0362897Z",
+    "label": "Rollback package - updates",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Global",
+    "itemPath": "[orphan]/Global",
     "commandType": "Item"
   }
 ]
