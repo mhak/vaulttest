@@ -37,11 +37,26 @@
     "language": "en",
     "timestamp": "2016-04-11T19:23:43.2762664Z",
     "label": "Installed from package - campaign deployment",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "bb7944edbea6de51a4d03606618199b2e777b1a5",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "Page",
     "itemPath": "/sitecore/templates/Demo/Page",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "Rollback",
+    "database": "master",
+    "itemId": "{F6282399-0A44-405B-B3DB-C2B882A328CA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T19:41:42.7490087Z",
+    "label": "Rollback package - campaign deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Page",
+    "itemPath": "[orphan]/Page",
     "commandType": "Item"
   }
 ]
