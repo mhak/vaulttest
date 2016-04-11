@@ -67,11 +67,26 @@
     "language": "en",
     "timestamp": "2016-04-11T19:50:48.7922406Z",
     "label": "Installed from package - campaign deployment",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "96ab3afdd5dfa22cd16fb6adbae40dc4c66f1703",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "Promotion Folder",
     "itemPath": "/sitecore/templates/Demo/Promotion Folder",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "Rollback",
+    "database": "master",
+    "itemId": "{A2D5C3EF-F775-4023-8417-D64EDC0274A2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T19:56:24.7214546Z",
+    "label": "Rollback package - campaign deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Promotion Folder",
+    "itemPath": "[orphan]/Promotion Folder",
     "commandType": "Item"
   }
 ]
