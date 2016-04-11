@@ -35,13 +35,28 @@
     "itemId": "{38D6F0FC-5B0B-406D-B2D4-EBF7A15B47E6}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-11T19:23:22.2550640Z",
+    "timestamp": "2016-04-11T19:23:22.255064Z",
     "label": "Installed from package - campaign deployment",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "7faaf8eddf99557dd7bce47a7c60e4df3be87155",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "Site Footer",
     "itemPath": "/sitecore/templates/Demo/Site Footer",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "Rollback",
+    "database": "master",
+    "itemId": "{38D6F0FC-5B0B-406D-B2D4-EBF7A15B47E6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T19:42:02.4621362Z",
+    "label": "Rollback package - campaign deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Site Footer",
+    "itemPath": "[orphan]/Site Footer",
     "commandType": "Item"
   }
 ]
