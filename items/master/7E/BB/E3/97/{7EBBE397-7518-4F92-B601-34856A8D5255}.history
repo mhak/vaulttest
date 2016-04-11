@@ -7,11 +7,26 @@
     "language": "en",
     "timestamp": "2016-04-11T21:30:19.2307301Z",
     "label": "Installed from package - Strategy deployment",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "419f7ffa0d6769333efa27d5b80a512389ebfb9d",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "Strategic Initiatives",
     "itemPath": "/sitecore/content/Home/Strategic Initiatives",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{7EBBE397-7518-4F92-B601-34856A8D5255}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-04-11T21:47:59.9343989Z",
+    "label": "Installed from package - Strategy deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Strategic Initiatives",
+    "itemPath": "[orphan]/Strategic Initiatives",
     "commandType": "Item"
   }
 ]
