@@ -67,11 +67,26 @@
     "language": "en",
     "timestamp": "2016-04-11T19:51:34.7178674Z",
     "label": "Installed from package - campaign deployment",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "487e747c7b6bbe5713a696625457fc5e7d1429fd",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "Lists",
     "itemPath": "/sitecore/templates/Demo/Lists",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "Rollback",
+    "database": "master",
+    "itemId": "{4916944A-E8DA-4F5A-A8E6-DC7F1691C128}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T19:55:34.6015879Z",
+    "label": "Rollback package - campaign deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Lists",
+    "itemPath": "[orphan]/Lists",
     "commandType": "Item"
   }
 ]
