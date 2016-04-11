@@ -52,11 +52,26 @@
     "language": "en",
     "timestamp": "2016-04-11T19:40:19.6422552Z",
     "label": "Rollback package - campaign deployment",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "55c51b840ace5d28781b6a69d8cbc57e090495c3",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "Banking Navigation List",
     "itemPath": "[orphan]/Banking Navigation List",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{96843B17-9B81-4A90-AEB1-47F756542F53}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T19:51:41.1092329Z",
+    "label": "Installed from package - campaign deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Banking Navigation List",
+    "itemPath": "/sitecore/templates/Demo/Lists/Banking Menu List/Banking Menu Section/Banking Navigation List",
     "commandType": "Item"
   }
 ]
