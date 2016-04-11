@@ -2,8 +2,8 @@
 version: 1
 id: {E24D8ACB-0028-4B1F-9104-CE4310214199}
 database: master
-path: /sitecore/templates/Demo/Disclosures/Disclosures Parameters Template/Disclosures/Disclosures Source
-parent: {B6F5C962-7ADF-46CB-88BB-5F75BC6D4A08}
+path: /Disclosures Source
+parent: {00000000-0000-0000-0000-000000000000}
 name: Disclosures Source
 master: {00000000-0000-0000-0000-000000000000}
 template: {455A3E98-A627-4B40-8035-E683A0331AC7}
@@ -30,43 +30,3 @@ key: __sortorder
 content-length: 3
 
 100
-----version----
-language: en
-version: 1
-revision: 6d9bbe90-9820-4fde-b6de-83fb0957254b
-
-----field----
-field: {25BED78C-4957-4165-998A-CA1B52F67497}
-name: __Created
-key: __created
-content-length: 16
-
-20160325T214932Z
-----field----
-field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
-name: __Created by
-key: __created by
-content-length: 12
-
-sitecore\jim
-----field----
-field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
-name: __Revision
-key: __revision
-content-length: 36
-
-6d9bbe90-9820-4fde-b6de-83fb0957254b
-----field----
-field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
-name: __Updated
-key: __updated
-content-length: 16
-
-20160411T192508Z
-----field----
-field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
-name: __Updated by
-key: __updated by
-content-length: 18
-
-extranet\Anonymous

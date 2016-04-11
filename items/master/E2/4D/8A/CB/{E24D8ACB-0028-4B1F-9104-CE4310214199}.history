@@ -37,11 +37,26 @@
     "language": "en",
     "timestamp": "2016-04-11T19:25:08.3231308Z",
     "label": "Installed from package - campaign deployment",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "630e3c8aef57d8031c927310295fb03fe5c52640",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "Disclosures Source",
     "itemPath": "/sitecore/templates/Demo/Disclosures/Disclosures Parameters Template/Disclosures/Disclosures Source",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "Rollback",
+    "database": "master",
+    "itemId": "{E24D8ACB-0028-4B1F-9104-CE4310214199}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T19:39:42.5501337Z",
+    "label": "Rollback package - campaign deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Disclosures Source",
+    "itemPath": "[orphan]/Disclosures Source",
     "commandType": "Item"
   }
 ]
