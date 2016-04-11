@@ -37,11 +37,26 @@
     "language": "en",
     "timestamp": "2016-04-11T19:23:19.4189018Z",
     "label": "Installed from package - campaign deployment",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "8e747abc0f7155385f714a77dce69f3a1759c627",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "Logo",
     "itemPath": "/sitecore/templates/Demo/Site Header/Header Section/Logo",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "Rollback",
+    "database": "master",
+    "itemId": "{810DEBE4-DD83-46B3-9B6B-3174478BB46E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T19:42:06.9143909Z",
+    "label": "Rollback package - campaign deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Logo",
+    "itemPath": "[orphan]/Logo",
     "commandType": "Item"
   }
 ]
