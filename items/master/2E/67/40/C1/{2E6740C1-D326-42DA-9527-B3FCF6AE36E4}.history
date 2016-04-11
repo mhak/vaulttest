@@ -1,0 +1,17 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{2E6740C1-D326-42DA-9527-B3FCF6AE36E4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T19:01:52.3772872Z",
+    "label": "Installed from package - campaign deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "FRB Navigation Item",
+    "itemPath": "/sitecore/templates/Demo/FirstRepublicBankNavigation/FRB Navigation Item",
+    "commandType": "Item"
+  }
+]
