@@ -1,0 +1,17 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{C85E0894-CE4A-4BA4-9E55-EB0BFA576B32}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T21:30:20.5748070Z",
+    "label": "Installed from package - Strategy deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Business Strategy",
+    "itemPath": "/sitecore/content/Home/Strategic Initiatives/Business Strategy",
+    "commandType": "Item"
+  }
+]
