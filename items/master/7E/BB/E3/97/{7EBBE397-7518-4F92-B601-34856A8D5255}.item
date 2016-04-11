@@ -72,3 +72,66 @@ key: __updated by
 content-length: 18
 
 extranet\Anonymous
+----version----
+language: en
+version: 2
+revision: 46ba90bc-421c-4425-8ce5-8d00215b9e91
+
+----field----
+field: {E50E06FC-7D3D-4D14-89A2-DA55182F9579}
+name: Nav Title
+key: nav title
+content-length: 10
+
+Strategies
+----field----
+field: {DA328B21-B815-4A9B-B0D5-3FFF9A480423}
+name: Content
+key: content
+content-length: 922
+
+While Andrew Frye lay dying on the floor of a Super 8 motel room in Akron, Ohio, last week, a party raged around him.<br>
+<br>
+The alleged attendees weren&rsquo;t other teenagers but the 16-year-old&rsquo;s own mother and grandmother, police say.
+<p>This is another sentence.</p>
+<p>
+Prosecutors say the very people who should have protected the teenager from the dangers of drug use were the ones who walked him to a ledge and &ldquo;enabled&rdquo; him to jump.<br>
+<br>
+&ldquo;We have evidence of drug abuse by more than one person, more than one relative of the deceased,&rdquo; Summit County Sheriff Steve Barry told the Cleveland Plain Dealer. &ldquo;It appears his mother, her friend and his grandmother, and a friend of the grandmother, all had a hand in obtaining and disseminating heroin among themselves.&rdquo;<br>
+<br>
+&ldquo;The evidence in this case turns my stomach,&rdquo;<strong> Barry</strong> added.</p>
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20160411T202239Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160411T202239Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+46ba90bc-421c-4425-8ce5-8d00215b9e91
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160411T214759Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+extranet\Anonymous
