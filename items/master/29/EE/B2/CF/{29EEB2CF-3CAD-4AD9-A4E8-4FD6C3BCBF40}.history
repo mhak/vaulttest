@@ -7,11 +7,26 @@
     "language": "en",
     "timestamp": "2016-04-11T21:30:11.6712977Z",
     "label": "Installed from package - Strategy deployment",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "ea483e690ab56d88364de08456b643129b17d94d",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "External Link",
     "itemPath": "/sitecore/templates/Demo/Vault/Section/Content/External Link",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{29EEB2CF-3CAD-4AD9-A4E8-4FD6C3BCBF40}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T21:47:44.2315007Z",
+    "label": "Installed from package - Strategy deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "External Link",
+    "itemPath": "[orphan]/Demo/Vault/Section/Content/External Link",
     "commandType": "Item"
   }
 ]
