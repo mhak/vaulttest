@@ -2,8 +2,8 @@
 version: 1
 id: {FA7C0880-4C43-43FA-A918-726CBB6AA40E}
 database: master
-path: /sitecore/content/Campaign Site/All In One
-parent: {AFABFA22-A045-42AA-BD3F-FC91688C5A8C}
+path: /All In One
+parent: {00000000-0000-0000-0000-000000000000}
 name: All In One
 master: {00000000-0000-0000-0000-000000000000}
 template: {F6282399-0A44-405B-B3DB-C2B882A328CA}
@@ -37,89 +37,3 @@ key: __renderings
 content-length: 287
 
 <r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{F8910EBE-05DE-47E4-93A9-F6BC76AFA965}" s:ds="/sitecore/system/Modules/Web Forms for Marketers/Website/AIO See What It Takes" s:id="{F2CCA16D-7524-4E99-8EE0-78FF6394A3B3}" s:ph="content" /></d></r>
-----version----
-language: en
-version: 1
-revision: e4cfee97-4a4c-4238-9862-b48cccf453e7
-
-----field----
-field: {CC45B3FB-4DDB-4C7D-8FD0-9CAC3BD67156}
-name: Title
-key: title
-content-length: 10
-
-All In One
-----field----
-field: {83DC9BCD-62D5-4EA9-BC01-AB3E8EE9F24F}
-name: Body
-key: body
-content-length: 19
-
-All in One Mortgage
-----field----
-field: {30F053C4-4168-4FF9-BFE5-B9743B9DAB08}
-name: Bottom
-key: bottom
-content-length: 7048
-
-<div class="grid_2 ft-bar" style="display: inline; float: left; position: relative; margin-left: 15px; margin-right: 15px; width: 222px; color: #4b4b4b; font-family: adobe-garamond-pro, 'Times New Roman', Times; font-size: 16px; background-color: #d1d0cb;">
-<h4 class="clw-title lower-spacing" style="font-size: 20px; margin: 0px; padding: 0px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; font-weight: normal;">Contact Us</h4>
-<p style="margin: 0px;"><a href="https://www.firstrepublic.com/locations" class="clw-link lower-spacing" style="color: #ab8421; font-stretch: normal; font-size: 17px; line-height: 21px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; display: inline-block; margin-top: 1px; margin-bottom: 0px;">Locations</a></p>
-<p style="margin: 0px;"><a href="https://www.firstrepublic.com/contactus" class="clw-link lower-spacing" style="color: #ab8421; font-stretch: normal; font-size: 17px; line-height: 21px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; display: inline-block; margin-top: 1px; margin-bottom: 0px;">Client Support Directory</a></p>
-<p style="margin: 0px;"><a class="clw-link lower-spacing contact-email" href="https://www.firstrepublic.com/contactus/form" style="color: #ab8421; font-stretch: normal; font-size: 17px; line-height: 21px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; display: inline-block; margin-top: 1px; margin-bottom: 0px;">Have Us Contact You</a></p>
-<p style="margin-top: 0px; margin-right: 0px; margin-left: 0px;"><a class="clw-link lower-spacing send-feedback" href="mailto:feedback@firstrepublic.com?subject=Feedback%20for%20First%20Republic%20Bank" style="color: #ab8421; font-stretch: normal; font-size: 17px; line-height: 21px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; display: inline-block; margin-top: 1px; margin-bottom: 0px;">Send Feedback</a></p>
-</div>
-<div class="grid_2 " style="display: inline; float: left; position: relative; margin-left: 15px; margin-right: 15px; width: 222px; color: #4b4b4b; font-family: adobe-garamond-pro, 'Times New Roman', Times; font-size: 16px; background-color: #d1d0cb;">
-<h4 class="clw-title lower-spacing" style="font-size: 20px; margin: 0px; padding: 0px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; font-weight: normal;">Social Media</h4>
-<p style="margin: 0px;"><a href="http://www.facebook.com/firstrepublicbank" target="_blank" class="supress-external-tooltip clw-link lower-spacing facebook" style="color: #ab8421; font-stretch: normal; font-size: 17px; line-height: 21px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; display: inline-block; margin-top: 1px; margin-bottom: 0px;">Facebook</a></p>
-<p style="margin: 0px;"><a href="http://www.linkedin.com/company/9112?trk=tyah" target="_blank" class="supress-external-tooltip clw-link lower-spacing linkedIn" style="color: #ab8421; font-stretch: normal; font-size: 17px; line-height: 21px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; display: inline-block; margin-top: 1px; margin-bottom: 0px;">LinkedIn</a></p>
-<p style="margin-top: 0px; margin-right: 0px; margin-left: 0px;"><a href="http://www.twitter.com/firstrepublic" target="_blank" class="supress-external-tooltip clw-link lower-spacing twitter" style="color: #ab8421; font-stretch: normal; font-size: 17px; line-height: 21px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; display: inline-block; margin-top: 1px; margin-bottom: 0px;">Twitter</a></p>
-</div>
-<div class="grid_2 " style="display: inline; float: left; position: relative; margin-left: 15px; margin-right: 15px; width: 222px; color: #4b4b4b; font-family: adobe-garamond-pro, 'Times New Roman', Times; font-size: 16px; background-color: #d1d0cb;">
-<h4 class="clw-title lower-spacing" style="font-size: 20px; margin: 0px; padding: 0px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; font-weight: normal;">Privacy &amp; Legal</h4>
-<p style="margin: 0px;"><a class="clw-link lower-spacing" href="https://www.firstrepublic.com/privacyandsecurity/online-mobile-privacy" style="color: #ab8421; font-stretch: normal; font-size: 17px; line-height: 21px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; display: inline-block; margin-top: 1px; margin-bottom: 0px;">Online &amp; Mobile Privacy</a></p>
-<p style="margin: 0px;"><a href="https://www.firstrepublic.com/privacyandsecurity" class="clw-link lower-spacing" style="color: #ab8421; font-stretch: normal; font-size: 17px; line-height: 21px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; display: inline-block; margin-top: 1px; margin-bottom: 0px;">Privacy &amp; Security</a></p>
-<p style="margin-top: 0px; margin-right: 0px; margin-left: 0px;"><a href="https://www.firstrepublic.com/termsandconditions" class="clw-link lower-spacing" style="color: #ab8421; font-stretch: normal; font-size: 17px; line-height: 21px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; display: inline-block; margin-top: 1px; margin-bottom: 0px;">Terms &amp; Conditions</a></p>
-</div>
-<div class="grid_2 " style="display: inline; float: left; position: relative; margin-left: 15px; margin-right: 15px; width: 222px; color: #4b4b4b; font-family: adobe-garamond-pro, 'Times New Roman', Times; font-size: 16px; background-color: #d1d0cb;">
-<h4 class="clw-title lower-spacing" style="font-size: 20px; margin: 0px; padding: 0px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; font-weight: normal;">More...</h4>
-<p style="margin: 0px;"><a class="Careers clw-link lower-spacing" href="https://www.firstrepublic.com/careers" style="color: #ab8421; font-stretch: normal; font-size: 17px; line-height: 21px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; display: inline-block; margin-top: 1px; margin-bottom: 0px;">Careers</a></p>
-<p style="margin: 0px;"><a class="clw-link lower-spacing" href="https://www.firstrepublic.com/aboutus/fdic" style="color: #ab8421; font-stretch: normal; font-size: 17px; line-height: 21px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; display: inline-block; margin-top: 1px; margin-bottom: 0px;">FDIC FAQs</a></p>
-<p style="margin: 0px;"><a class="clw-link lower-spacing" href="https://www.firstrepublic.com/privacyandsecurity/mortgage-payment-issues" style="color: #ab8421; font-stretch: normal; font-size: 17px; line-height: 21px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; display: inline-block; margin-top: 1px; margin-bottom: 0px;">Mortgage Payment Issues</a></p>
-<p style="margin-top: 0px; margin-right: 0px; margin-left: 0px;"><a href="https://www.firstrepublic.com/resource/supplier-diversity-program" class="clw-link lower-spacing" style="color: #ab8421; font-stretch: normal; font-size: 17px; line-height: 21px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; display: inline-block; margin-top: 1px; margin-bottom: 0px;">Supplier Diversity</a></p>
-</div>
-----field----
-field: {25BED78C-4957-4165-998A-CA1B52F67497}
-name: __Created
-key: __created
-content-length: 16
-
-20160209T194200Z
-----field----
-field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
-name: __Created by
-key: __created by
-content-length: 0
-
-
-----field----
-field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
-name: __Revision
-key: __revision
-content-length: 36
-
-e4cfee97-4a4c-4238-9862-b48cccf453e7
-----field----
-field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
-name: __Updated
-key: __updated
-content-length: 16
-
-20160411T192523Z
-----field----
-field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
-name: __Updated by
-key: __updated by
-content-length: 18
-
-extranet\Anonymous
