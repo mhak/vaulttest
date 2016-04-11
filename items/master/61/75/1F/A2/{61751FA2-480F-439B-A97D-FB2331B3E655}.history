@@ -52,11 +52,26 @@
     "language": "en",
     "timestamp": "2016-04-11T19:39:27.1732542Z",
     "label": "Rollback package - campaign deployment",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "d6676c9a98e92a5eaeb479e05f773d7130224b94",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "Have us contact you",
     "itemPath": "[orphan]/Have us contact you",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{61751FA2-480F-439B-A97D-FB2331B3E655}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T19:52:39.1525528Z",
+    "label": "Installed from package - campaign deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Have us contact you",
+    "itemPath": "/sitecore/content/Campaign Site/All In One/Have us contact you",
     "commandType": "Item"
   }
 ]
