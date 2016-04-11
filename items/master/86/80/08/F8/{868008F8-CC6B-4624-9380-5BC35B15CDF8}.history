@@ -52,11 +52,26 @@
     "language": "en",
     "timestamp": "2016-04-11T19:40:00.2611467Z",
     "label": "Rollback package - campaign deployment",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "547c32f12ce2bcc755dc63f995a2fad7e107001c",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "FirstRepublicBankNavigation",
     "itemPath": "[orphan]/FirstRepublicBankNavigation",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{868008F8-CC6B-4624-9380-5BC35B15CDF8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T19:51:59.2332696Z",
+    "label": "Installed from package - campaign deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "FirstRepublicBankNavigation",
+    "itemPath": "/sitecore/templates/Demo/FirstRepublicBankNavigation",
     "commandType": "Item"
   }
 ]
