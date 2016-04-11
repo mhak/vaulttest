@@ -65,13 +65,28 @@
     "itemId": "{54B1DA39-B0FE-40EA-A100-FA5AD6F9BD84}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-11T19:52:27.6698960Z",
+    "timestamp": "2016-04-11T19:52:27.669896Z",
     "label": "Installed from package - campaign deployment",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "6d5e72df8771c0824b0074f185f29da0662748be",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "Data",
     "itemPath": "/sitecore/templates/Demo/Disclosures/Disclosure Item/Data",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "Rollback",
+    "database": "master",
+    "itemId": "{54B1DA39-B0FE-40EA-A100-FA5AD6F9BD84}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T19:54:29.4488614Z",
+    "label": "Rollback package - campaign deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Data",
+    "itemPath": "[orphan]/Data",
     "commandType": "Item"
   }
 ]
