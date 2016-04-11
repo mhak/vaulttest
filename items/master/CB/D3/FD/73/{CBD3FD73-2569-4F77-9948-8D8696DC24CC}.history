@@ -1,0 +1,17 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{CBD3FD73-2569-4F77-9948-8D8696DC24CC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T19:00:22.0351200Z",
+    "label": "Installed from package - campaign deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Logo 2x",
+    "itemPath": "/sitecore/templates/Demo/Site Header/Header Section/Logo 2x",
+    "commandType": "Item"
+  }
+]
