@@ -1,0 +1,163 @@
+----item----
+version: 1
+id: {4565FF08-84DF-4FF0-A294-4F00E994006B}
+database: master
+path: /sitecore/templates/Demo/HealthWealthPage/__Standard Values
+parent: {99595FA3-1836-4333-9B99-B650273820B9}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {99595FA3-1836-4333-9B99-B650273820B9}
+templatekey: HealthWealthPage
+
+----field----
+field: {1172F251-DAD4-4EFB-A329-0C63500E4F1E}
+name: __Masters
+key: __masters
+content-length: 38
+
+{99595FA3-1836-4333-9B99-B650273820B9}
+----field----
+field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
+name: __Renderings
+key: __renderings
+content-length: 461
+
+<r xmlns:xsd="http://www.w3.org/2001/XMLSchema" ><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" l="{987C139E-88C5-450C-A3EB-E9726915EF9B}"><r ds="{EFB5AD90-D005-4BFC-BEE6-0A0B178BB3D9}" id="{F8478A12-F095-4EB0-A529-1615251F7EAE}" par="" ph="header" uid="{39029125-28C0-4FDD-83CF-965ECB4C21BB}" /><r ds="{8E624FEC-6A2C-46A4-AE8B-F267D2713FBA}" id="{D283C5F1-ADBC-4D58-9CFA-66AC5B51EAAF}" par="" ph="footer" uid="{1317256E-C6FB-40A9-BD06-5E10F4351BDA}" /></d></r>
+----version----
+language: en
+version: 1
+revision: 9f9a7a39-c0e7-4691-8422-7cb4a21b275a
+
+----field----
+field: {AF561690-7884-4B53-98C4-0BC5DC293E7B}
+name: Header
+key: header
+content-length: 852
+
+
+<!-- Begin: Site Header -->
+<header class="site-header">
+	<div class="site-header__inner">
+		<a href="/" class="site-header__logo">
+			<img src="/Assets/images/logos/Logo-Light.png" srcset="/Assets/images/logos/Logo-Light@2x.png 2x" width="288" height="49" alt="healthy + wealthy" class="site-header__logo-image">
+		</a>
+
+		<section class="site-header__navigation js-mobile-menu--target">
+			<div class="sign-in">
+				<a href="#" class="btn btn--transparent text-uppercase">Sign In</a>
+			</div>
+
+			<nav class="site-nav">
+				<a href="/">Home</a>
+				<a href="/my-health/">My Health</a>
+				<a href="/my-wealth/">My Wealth</a>
+				<a href="#">About Us</a>
+			</nav>
+		</section>
+
+		<div class="mobile-menu js-mobile-menu js-mobile-menu--trigger">
+			<span class="mobile-menu__hamburger"></span>
+		</div>
+	</div>
+</header>
+<!-- End:   Site Header -->
+
+----field----
+field: {CC45B3FB-4DDB-4C7D-8FD0-9CAC3BD67156}
+name: Title
+key: title
+content-length: 17
+
+Healthy + Wealthy
+----field----
+field: {6ACE2616-03A1-47F6-9700-179B07C5AFA3}
+name: Footer
+key: footer
+content-length: 637
+
+
+<!-- Begin: Site Footer -->
+<footer class="site-footer">
+	<a href="#" class="site-footer__logo">
+		<img src="/Assets/images/logos/Logo-Dark.png" srcset="/Assets/images/logos/Logo-Dark@2x.png 2x" width="288" height="49" alt="healthy + wealthy" class="site-footer__logo-image">
+	</a>
+
+	<nav class="footer-nav">
+		<a href="#">My Wealth</a>
+		<a href="#">My Health</a>
+		<a href="#">Tearms and Conditions</a>
+		<a href="#">Privacy Policy</a>
+		<a href="#">About</a>
+	</nav>
+
+	<p class="site-footer__copyright">&copy; 2016 Healthy Wealthy.  All rights reserved.</p>
+
+	<div class="colored-banner"></div>
+</footer>
+<!-- End:   Site Footer -->
+
+----field----
+field: {991A82A6-0C6A-41BC-AD0C-81153B04EDC6}
+name: Head
+key: head
+content-length: 138
+
+
+<!-- Begin: Page Head Styles -->
+<link rel="stylesheet" href="/Assets/styles/styles-generated.css">
+<!-- End:   Page Head Styles -->
+
+----field----
+field: {FF3936E3-A6A8-41F5-9AB7-1D417DC05086}
+name: Html TItle
+key: html title
+content-length: 23
+
+Home: Healthy + Wealthy
+----field----
+field: {2C136CFE-5BD0-4729-9B89-6EBD18B3E6D6}
+name: End Body
+key: end body
+content-length: 222
+
+
+<!-- Begin: Footer Scripts -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script src="/Assets/scripts/scripts-generated.min.js"></script>
+<!-- End:   Footer Scripts -->
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160328T015824Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+sitecore\jim
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+9f9a7a39-c0e7-4691-8422-7cb4a21b275a
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160411T190137Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+extranet\Anonymous
