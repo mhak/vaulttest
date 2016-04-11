@@ -7,11 +7,26 @@
     "language": "en",
     "timestamp": "2016-04-11T21:30:16.0725495Z",
     "label": "Installed from package - Strategy deployment",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "fa450c83d665119be7c99dd86fe823dc592dec73",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "__Standard Values",
     "itemPath": "/sitecore/templates/Demo/Vault/Section/__Standard Values",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{6FB605A5-56A0-413C-8A93-177C0F013C2C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T21:47:53.6570399Z",
+    "label": "Installed from package - Strategy deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "__Standard Values",
+    "itemPath": "[orphan]/Demo/Vault/Section/__Standard Values",
     "commandType": "Item"
   }
 ]
