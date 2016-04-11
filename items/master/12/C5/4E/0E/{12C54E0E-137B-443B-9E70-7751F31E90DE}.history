@@ -1,0 +1,17 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{12C54E0E-137B-443B-9E70-7751F31E90DE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T19:02:50.0605865Z",
+    "label": "Installed from package - campaign deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Test Conditional Events",
+    "itemPath": "/sitecore/content/Campaign Site/Test Conditional Events",
+    "commandType": "Item"
+  }
+]
