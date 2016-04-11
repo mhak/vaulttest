@@ -67,11 +67,26 @@
     "language": "en",
     "timestamp": "2016-04-11T19:52:43.7078134Z",
     "label": "Installed from package - campaign deployment",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "deb20da6afd072e2d50fa6bdb2314e9594461853",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "Campaign test",
     "itemPath": "/sitecore/content/Campaign Site/Campaign test",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "Rollback",
+    "database": "master",
+    "itemId": "{6A7218F2-7A95-4FB2-955C-7C15BD06B62A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T19:54:11.7228475Z",
+    "label": "Rollback package - campaign deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Campaign test",
+    "itemPath": "[orphan]/Campaign test",
     "commandType": "Item"
   }
 ]
