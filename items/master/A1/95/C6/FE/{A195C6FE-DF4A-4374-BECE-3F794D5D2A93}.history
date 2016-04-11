@@ -50,13 +50,28 @@
     "itemId": "{A195C6FE-DF4A-4374-BECE-3F794D5D2A93}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-11T19:41:59.2939550Z",
+    "timestamp": "2016-04-11T19:41:59.293955Z",
     "label": "Rollback package - campaign deployment",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "eb92663d118f402dd6686f89660e1dca6a51bbc5",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "FooterLogo2x",
     "itemPath": "[orphan]/FooterLogo2x",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{A195C6FE-DF4A-4374-BECE-3F794D5D2A93}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T19:50:40.5327682Z",
+    "label": "Installed from package - campaign deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "FooterLogo2x",
+    "itemPath": "/sitecore/templates/Demo/Site Footer/Footer Section/FooterLogo2x",
     "commandType": "Item"
   }
 ]
