@@ -37,11 +37,26 @@
     "language": "en",
     "timestamp": "2016-04-11T19:25:33.9485965Z",
     "label": "Installed from package - campaign deployment",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "709dcd39db0a65b17bfeff8e3fc52a30295b3a33",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "Personal Banking Landing Page",
     "itemPath": "/sitecore/content/Campaign Site/Personal Banking Landing Page",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "Rollback",
+    "database": "master",
+    "itemId": "{7135FBE0-2680-4762-81B3-4D04B70EF47D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T19:39:18.9327829Z",
+    "label": "Rollback package - campaign deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Personal Banking Landing Page",
+    "itemPath": "[orphan]/Personal Banking Landing Page",
     "commandType": "Item"
   }
 ]

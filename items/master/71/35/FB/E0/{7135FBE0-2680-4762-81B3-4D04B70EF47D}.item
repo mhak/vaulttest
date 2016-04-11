@@ -2,8 +2,8 @@
 version: 1
 id: {7135FBE0-2680-4762-81B3-4D04B70EF47D}
 database: master
-path: /sitecore/content/Campaign Site/Personal Banking Landing Page
-parent: {AFABFA22-A045-42AA-BD3F-FC91688C5A8C}
+path: /Personal Banking Landing Page
+parent: {00000000-0000-0000-0000-000000000000}
 name: Personal Banking Landing Page
 master: {00000000-0000-0000-0000-000000000000}
 template: {F6282399-0A44-405B-B3DB-C2B882A328CA}
@@ -16,57 +16,3 @@ key: __renderings
 content-length: 843
 
 <r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{067CFE68-37C8-4D1C-982C-25C2B6BFDC9B}"><rls><ruleset><rule uid="{98F349AD-5399-4555-B03C-C5472E481054}" s:name="Frb Banking"><conditions><condition uid="48E99F565DC54826B70AE26312B0B68B" s:id="{EBFFEC6B-71F8-47C9-BC96-95D57994FDF6}" s:operatorid="{2E67477C-440C-4BCA-A358-3D29AED89F47}" s:Referrer="frb-banking.xcentium.net" /></conditions><actions><action uid="75876BDEB5D0412489E815F3D71DA06C" s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}" s:DataSource="{BD606C88-BDDA-4C76-99C7-BB119BE91F68}" /></actions></rule><rule uid="{00000000-0000-0000-0000-000000000000}" s:name="Default"><conditions><condition uid="17451F7224EA4881B5168EDEA8988625" s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" /></conditions><actions /></rule></ruleset></rls></r></d></r>
-----version----
-language: en
-version: 1
-revision: 09832710-6d96-41ed-9449-e69dd06a1b2c
-
-----field----
-field: {CC45B3FB-4DDB-4C7D-8FD0-9CAC3BD67156}
-name: Title
-key: title
-content-length: 29
-
-Personal Banking Landing Page
-----field----
-field: {83DC9BCD-62D5-4EA9-BC01-AB3E8EE9F24F}
-name: Body
-key: body
-content-length: 49
-
-This is the default personal banking landing page
-----field----
-field: {25BED78C-4957-4165-998A-CA1B52F67497}
-name: __Created
-key: __created
-content-length: 16
-
-20160224T010545Z
-----field----
-field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
-name: __Created by
-key: __created by
-content-length: 0
-
-
-----field----
-field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
-name: __Revision
-key: __revision
-content-length: 36
-
-09832710-6d96-41ed-9449-e69dd06a1b2c
-----field----
-field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
-name: __Updated
-key: __updated
-content-length: 16
-
-20160411T192533Z
-----field----
-field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
-name: __Updated by
-key: __updated by
-content-length: 18
-
-extranet\Anonymous
