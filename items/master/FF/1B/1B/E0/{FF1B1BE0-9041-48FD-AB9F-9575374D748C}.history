@@ -37,11 +37,26 @@
     "language": "en",
     "timestamp": "2016-04-11T19:23:44.8513565Z",
     "label": "Installed from package - campaign deployment",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "1ee3f24fb5bb850e9e24761562141f748729b67a",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "Metadata",
     "itemPath": "/sitecore/templates/Demo/Page/Metadata",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "Rollback",
+    "database": "master",
+    "itemId": "{FF1B1BE0-9041-48FD-AB9F-9575374D748C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T19:41:41.2429225Z",
+    "label": "Rollback package - campaign deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Metadata",
+    "itemPath": "[orphan]/Metadata",
     "commandType": "Item"
   }
 ]
