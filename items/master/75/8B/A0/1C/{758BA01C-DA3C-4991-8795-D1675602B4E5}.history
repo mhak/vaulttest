@@ -1,0 +1,17 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{758BA01C-DA3C-4991-8795-D1675602B4E5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T19:02:23.8620881Z",
+    "label": "Installed from package - campaign deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Specific Pages",
+    "itemPath": "/sitecore/templates/Demo/Disclosures/Disclosure Item/Data/Specific Pages",
+    "commandType": "Item"
+  }
+]
