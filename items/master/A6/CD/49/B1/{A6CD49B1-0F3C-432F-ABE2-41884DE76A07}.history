@@ -7,11 +7,26 @@
     "language": "en",
     "timestamp": "2016-04-11T21:30:25.0240615Z",
     "label": "Installed from package - Strategy deployment",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "b9c4d4a41d7dbfc2cd54788547572e73ff66f0b1",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "Online Strategy",
     "itemPath": "/sitecore/content/Home/Strategic Initiatives/Online Strategy",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{A6CD49B1-0F3C-432F-ABE2-41884DE76A07}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T21:48:14.3282222Z",
+    "label": "Installed from package - Strategy deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Online Strategy",
+    "itemPath": "[orphan]/Online Strategy",
     "commandType": "Item"
   }
 ]
