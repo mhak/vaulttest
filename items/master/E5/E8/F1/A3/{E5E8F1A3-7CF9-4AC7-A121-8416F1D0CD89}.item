@@ -2,8 +2,8 @@
 version: 1
 id: {E5E8F1A3-7CF9-4AC7-A121-8416F1D0CD89}
 database: master
-path: /__Standard Values
-parent: {00000000-0000-0000-0000-000000000000}
+path: /sitecore/templates/Demo/Folders/Header/__Standard Values
+parent: {3C0EE05B-3B18-4DA2-91E7-8DD0B64D77F5}
 name: __Standard Values
 master: {00000000-0000-0000-0000-000000000000}
 template: {3C0EE05B-3B18-4DA2-91E7-8DD0B64D77F5}
@@ -16,3 +16,50 @@ key: __masters
 content-length: 77
 
 {556B48C4-42E0-43E3-96DD-01690986246E}|{7AE8D13E-24BE-43AA-8C13-10602B91BEDC}
+----version----
+language: en
+version: 1
+revision: b3d22ac7-cafa-4919-b23f-22712537edcb
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160406T171001Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+b3d22ac7-cafa-4919-b23f-22712537edcb
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160411T195151Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+extranet\Anonymous
