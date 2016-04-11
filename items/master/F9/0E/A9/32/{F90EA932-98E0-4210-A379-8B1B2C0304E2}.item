@@ -2,8 +2,8 @@
 version: 1
 id: {F90EA932-98E0-4210-A379-8B1B2C0304E2}
 database: master
-path: /sitecore/templates/Demo/Folders/Footer/__Standard Values
-parent: {A09D6A1D-8B9F-4763-A183-9FD34F0EA63E}
+path: /__Standard Values
+parent: {00000000-0000-0000-0000-000000000000}
 name: __Standard Values
 master: {00000000-0000-0000-0000-000000000000}
 template: {A09D6A1D-8B9F-4763-A183-9FD34F0EA63E}
@@ -16,50 +16,3 @@ key: __masters
 content-length: 77
 
 {556B48C4-42E0-43E3-96DD-01690986246E}|{38D6F0FC-5B0B-406D-B2D4-EBF7A15B47E6}
-----version----
-language: en
-version: 1
-revision: f2c120aa-1a08-4be6-a2f5-a74539d1370d
-
-----field----
-field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
-name: __Owner
-key: __owner
-content-length: 14
-
-sitecore\admin
-----field----
-field: {25BED78C-4957-4165-998A-CA1B52F67497}
-name: __Created
-key: __created
-content-length: 16
-
-20160406T170904Z
-----field----
-field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
-name: __Created by
-key: __created by
-content-length: 14
-
-sitecore\admin
-----field----
-field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
-name: __Revision
-key: __revision
-content-length: 36
-
-f2c120aa-1a08-4be6-a2f5-a74539d1370d
-----field----
-field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
-name: __Updated
-key: __updated
-content-length: 16
-
-20160411T192441Z
-----field----
-field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
-name: __Updated by
-key: __updated by
-content-length: 18
-
-extranet\Anonymous
