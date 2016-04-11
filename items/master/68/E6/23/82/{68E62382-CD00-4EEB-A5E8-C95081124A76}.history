@@ -65,13 +65,28 @@
     "itemId": "{68E62382-CD00-4EEB-A5E8-C95081124A76}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-11T19:52:42.0757200Z",
+    "timestamp": "2016-04-11T19:52:42.07572Z",
     "label": "Installed from package - campaign deployment",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "6f9478f8a0697eb7d99b790bac877877ee35ac1e",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "Business",
     "itemPath": "/sitecore/content/Campaign Site/Business",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "Rollback",
+    "database": "master",
+    "itemId": "{68E62382-CD00-4EEB-A5E8-C95081124A76}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T19:54:13.5649529Z",
+    "label": "Rollback package - campaign deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Business",
+    "itemPath": "[orphan]/Business",
     "commandType": "Item"
   }
 ]
