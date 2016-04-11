@@ -1,0 +1,17 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{F2C8AB0A-3AD8-4651-9A4D-7538A6F55FDB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T19:01:09.4838339Z",
+    "label": "Installed from package - campaign deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Navigation",
+    "itemPath": "/sitecore/templates/Demo/Navigation",
+    "commandType": "Item"
+  }
+]
