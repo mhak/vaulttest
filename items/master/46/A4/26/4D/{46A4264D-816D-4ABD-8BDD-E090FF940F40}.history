@@ -1,0 +1,17 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{46A4264D-816D-4ABD-8BDD-E090FF940F40}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T19:02:40.5380419Z",
+    "label": "Installed from package - campaign deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Personal",
+    "itemPath": "/sitecore/content/Campaign Site/Personal",
+    "commandType": "Item"
+  }
+]
