@@ -1,0 +1,17 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{FD6D49BD-4AE7-48B8-BE20-A5BAD343A54F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T19:02:47.5344421Z",
+    "label": "Installed from package - campaign deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Submit Info",
+    "itemPath": "/sitecore/content/Campaign Site/Submit Info",
+    "commandType": "Item"
+  }
+]
