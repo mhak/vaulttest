@@ -52,11 +52,26 @@
     "language": "en",
     "timestamp": "2016-04-11T19:39:57.5069892Z",
     "label": "Rollback package - campaign deployment",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "e34c4d8d27e46b3fe7f5cb81e12510a68bdb4d15",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "Data",
     "itemPath": "[orphan]/Data",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{3BBB74FF-E841-489E-95A2-B4421ACCC4DC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T19:52:02.2604427Z",
+    "label": "Installed from package - campaign deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Data",
+    "itemPath": "/sitecore/templates/Demo/FirstRepublicBankNavigation/FRB Navigation Item/Data",
     "commandType": "Item"
   }
 ]
