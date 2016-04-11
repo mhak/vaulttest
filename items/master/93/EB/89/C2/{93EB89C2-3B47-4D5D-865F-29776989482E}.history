@@ -7,11 +7,26 @@
     "language": "en",
     "timestamp": "2016-04-11T22:35:41.1910534Z",
     "label": "Installed from package - Ecommerce deployment",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "f32219b1f707bf305f1d017535a26e65ffd7d80a",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "Reciept",
     "itemPath": "/sitecore/content/Home/Ecommerce/Reciept",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "Rollback",
+    "database": "master",
+    "itemId": "{93EB89C2-3B47-4D5D-865F-29776989482E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T22:37:16.0344782Z",
+    "label": "Rollback package - Ecommerce deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Reciept",
+    "itemPath": "[orphan]/Reciept",
     "commandType": "Item"
   }
 ]
