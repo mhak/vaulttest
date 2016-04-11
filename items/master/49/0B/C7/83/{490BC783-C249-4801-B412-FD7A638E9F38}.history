@@ -7,11 +7,26 @@
     "language": "en",
     "timestamp": "2016-04-11T21:30:09.9181975Z",
     "label": "Installed from package - Strategy deployment",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "aaabcb1c276b8c04941352c9036b4385c62d538c",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "Footer",
     "itemPath": "/sitecore/templates/Demo/Vault/Section/Content/Footer",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{490BC783-C249-4801-B412-FD7A638E9F38}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T21:47:41.0413183Z",
+    "label": "Installed from package - Strategy deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Footer",
+    "itemPath": "[orphan]/Demo/Vault/Section/Content/Footer",
     "commandType": "Item"
   }
 ]
