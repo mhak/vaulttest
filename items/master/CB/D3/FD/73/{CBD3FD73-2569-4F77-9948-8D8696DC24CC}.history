@@ -67,11 +67,26 @@
     "language": "en",
     "timestamp": "2016-04-11T19:50:32.4263045Z",
     "label": "Installed from package - campaign deployment",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "a89ab102be902b35c90d2c6b5445527df0a1d04d",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "Logo 2x",
     "itemPath": "/sitecore/templates/Demo/Site Header/Header Section/Logo 2x",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "Rollback",
+    "database": "master",
+    "itemId": "{CBD3FD73-2569-4F77-9948-8D8696DC24CC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T19:56:42.5434740Z",
+    "label": "Rollback package - campaign deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Logo 2x",
+    "itemPath": "[orphan]/Logo 2x",
     "commandType": "Item"
   }
 ]
