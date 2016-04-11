@@ -1,0 +1,17 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{344C0BB8-A3B8-4698-A176-86F09A4D99DA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T19:02:45.9643522Z",
+    "label": "Installed from package - campaign deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "sidney",
+    "itemPath": "/sitecore/content/Campaign Site/sidney",
+    "commandType": "Item"
+  }
+]
