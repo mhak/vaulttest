@@ -37,11 +37,26 @@
     "language": "en",
     "timestamp": "2016-04-11T19:25:35.3476765Z",
     "label": "Installed from package - campaign deployment",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "b1cca5ae8bde867c6e32c907a4b27a7265f7b581",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "Private Wealth Management",
     "itemPath": "/sitecore/content/Campaign Site/Private Wealth Management",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "Rollback",
+    "database": "master",
+    "itemId": "{A0053B17-2745-491A-B901-5E1FBB578A35}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T19:39:17.6087071Z",
+    "label": "Rollback package - campaign deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Private Wealth Management",
+    "itemPath": "[orphan]/Private Wealth Management",
     "commandType": "Item"
   }
 ]
