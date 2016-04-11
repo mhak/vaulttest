@@ -52,11 +52,26 @@
     "language": "en",
     "timestamp": "2016-04-11T19:40:16.8320945Z",
     "label": "Rollback package - campaign deployment",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "f462bf1c1cae0162efec56ca9fbaaac616c55a43",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "HealthWealthPage",
     "itemPath": "[orphan]/HealthWealthPage",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{99595FA3-1836-4333-9B99-B650273820B9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T19:51:45.0094560Z",
+    "label": "Installed from package - campaign deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "HealthWealthPage",
+    "itemPath": "/sitecore/templates/Demo/HealthWealthPage",
     "commandType": "Item"
   }
 ]
