@@ -1,0 +1,17 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{7FF4ACAB-58FF-4946-A266-39248AD92F18}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T19:00:56.0830674Z",
+    "label": "Installed from package - campaign deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Content",
+    "itemPath": "/sitecore/templates/Demo/Page/Content",
+    "commandType": "Item"
+  }
+]
