@@ -232,10 +232,25 @@
     "language": "ja-JP",
     "timestamp": "04/11/2016 21:47:56",
     "label": null,
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "107d9d77aebd8e9eced5265a8e55fb8dc4d8d48a",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "Home",
+    "itemPath": "/sitecore/content/Home",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}",
+    "version": 1,
+    "language": "ja-JP",
+    "timestamp": "04/11/2016 21:47:56",
+    "label": null,
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "ホーム",
     "itemPath": "/sitecore/content/Home",
     "commandType": "Item"
   }
