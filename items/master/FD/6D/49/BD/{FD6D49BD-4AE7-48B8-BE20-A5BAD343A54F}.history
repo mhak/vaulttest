@@ -65,13 +65,28 @@
     "itemId": "{FD6D49BD-4AE7-48B8-BE20-A5BAD343A54F}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-11T19:52:53.8413930Z",
+    "timestamp": "2016-04-11T19:52:53.841393Z",
     "label": "Installed from package - campaign deployment",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "27e9eadd8c754c8e57efc2b8780cb130e849c3fb",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "Submit Info",
     "itemPath": "/sitecore/content/Campaign Site/Submit Info",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "Rollback",
+    "database": "master",
+    "itemId": "{FD6D49BD-4AE7-48B8-BE20-A5BAD343A54F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T19:53:59.8621691Z",
+    "label": "Rollback package - campaign deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Submit Info",
+    "itemPath": "[orphan]/Submit Info",
     "commandType": "Item"
   }
 ]
