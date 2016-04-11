@@ -5,13 +5,28 @@
     "itemId": "{C85E0894-CE4A-4BA4-9E55-EB0BFA576B32}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-11T21:30:20.5748070Z",
+    "timestamp": "2016-04-11T21:30:20.574807Z",
+    "label": "Installed from package - Strategy deployment",
+    "sourceControlRevisionId": "e730c7788960534764e29d72920514de9f3bc34b",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Business Strategy",
+    "itemPath": "/sitecore/content/Home/Strategic Initiatives/Business Strategy",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{C85E0894-CE4A-4BA4-9E55-EB0BFA576B32}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T21:48:03.2785902Z",
     "label": "Installed from package - Strategy deployment",
     "sourceControlRevisionId": null,
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "Business Strategy",
-    "itemPath": "/sitecore/content/Home/Strategic Initiatives/Business Strategy",
+    "itemPath": "[orphan]/Business Strategy",
     "commandType": "Item"
   }
 ]
