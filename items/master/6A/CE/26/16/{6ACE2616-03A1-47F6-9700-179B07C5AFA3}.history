@@ -67,11 +67,26 @@
     "language": "en",
     "timestamp": "2016-04-11T19:51:12.9086199Z",
     "label": "Installed from package - campaign deployment",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "6253b5722d0356c904ad65cbadf4abdb318b09c2",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "Footer",
     "itemPath": "/sitecore/templates/Demo/Page/Content/Footer",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "Rollback",
+    "database": "master",
+    "itemId": "{6ACE2616-03A1-47F6-9700-179B07C5AFA3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T19:55:58.5199560Z",
+    "label": "Rollback package - campaign deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Footer",
+    "itemPath": "[orphan]/Footer",
     "commandType": "Item"
   }
 ]
