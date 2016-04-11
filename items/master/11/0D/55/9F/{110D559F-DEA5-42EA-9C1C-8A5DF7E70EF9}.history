@@ -22,11 +22,26 @@
     "language": "en",
     "timestamp": "2016-04-11T21:30:17.7026427Z",
     "label": "Installed from package - Strategy deployment",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "605ac045cfce221a0ac8988559b3436668c5c304",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "Home",
     "itemPath": "/sitecore/content/Home",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "Rollback",
+    "database": "master",
+    "itemId": "{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T21:45:22.7394079Z",
+    "label": "Rollback package - Strategy deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Home",
+    "itemPath": "[orphan]/Home",
     "commandType": "Item"
   }
 ]
