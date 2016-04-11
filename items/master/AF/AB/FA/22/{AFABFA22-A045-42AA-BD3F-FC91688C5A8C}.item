@@ -2,8 +2,8 @@
 version: 1
 id: {AFABFA22-A045-42AA-BD3F-FC91688C5A8C}
 database: master
-path: /sitecore/content/Campaign Site
-parent: {0DE95AE4-41AB-4D01-9EB0-67441B7C2450}
+path: /Campaign Site
+parent: {00000000-0000-0000-0000-000000000000}
 name: Campaign Site
 master: {00000000-0000-0000-0000-000000000000}
 template: {F6282399-0A44-405B-B3DB-C2B882A328CA}
@@ -23,89 +23,3 @@ key: __renderings
 content-length: 993
 
 <r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{B9A5C43B-7D6A-4E7D-98CF-93156E630ABA}" p:before="r[@uid='{067CFE68-37C8-4D1C-982C-25C2B6BFDC9B}']" s:ds="{05B3C268-5806-4256-84A9-9B290E37EB38}" s:id="{C5D627D3-064F-4086-B307-DA0E51C439AD}" s:par="" s:ph="content"><rls><ruleset><rule uid="{69BD7B96-6F74-471E-93A6-CFDCE980B8C5}" s:name="Condition Name"><conditions><condition uid="2937C346CCAF477E9A5C3A1F0375A41F" s:id="{61370693-189D-44A0-ABC5-2592DBD579ED}" s:operatorid="{B88CD556-082E-4385-BB76-E4D1B565F290}" s:no="1" /></conditions><actions><action uid="A24CE28A97064420919CADAB4A3C2908" s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}" s:DataSource="{05B3C268-5806-4256-84A9-9B290E37EB38}" /></actions></rule><rule uid="{00000000-0000-0000-0000-000000000000}" s:name="Default"><conditions><condition uid="88281A7601DD43398F6953D6DC3A8175" s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" /></conditions><actions /></rule></ruleset></rls></r></d></r>
-----version----
-language: en
-version: 1
-revision: 2025fde7-aa57-4dc0-ada2-5dfb66242e67
-
-----field----
-field: {CC45B3FB-4DDB-4C7D-8FD0-9CAC3BD67156}
-name: Title
-key: title
-content-length: 4
-
-Home
-----field----
-field: {83DC9BCD-62D5-4EA9-BC01-AB3E8EE9F24F}
-name: Body
-key: body
-content-length: 400
-
-<img alt="testimonial" src="~/media/15CDA47285D3498AA550779DACC486F4.ashx" style="max-width:100%">
-<div class="col-lg-8">
-<h3>“I love the personalized service at First Republic and the low interest rates make my student loan payments manageable.”</h3>
-</div>
-<div class="col-lg-4">
-<h4> Client of First Republic Bank</h4>
-<h4>Client Since '15</h4>
-<h4>Kiandra Kang, M.D.</h4>
-<h4>Medical</h4>
-</div>
-
-----field----
-field: {30F053C4-4168-4FF9-BFE5-B9743B9DAB08}
-name: Bottom
-key: bottom
-content-length: 291
-
-<p><strong><span>Refinance&nbsp;your Student Loans Today!&nbsp; </span></strong><a href="/all%20in%20one?sc_camp=75BE4D48C7E348A1810855DA20A0CEF6"><strong>See How</strong></a></p>
-<p><img alt=""><img width="599" height="351" alt="AIO" src="~/media/18A5FD8C0FE443E7AAD353B41A1853B1.ashx"></p>
-----field----
-field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
-name: __Final Renderings
-key: __final renderings
-content-length: 421
-
-<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{B9A5C43B-7D6A-4E7D-98CF-93156E630ABA}"><rls><ruleset><rule uid="{69BD7B96-6F74-471E-93A6-CFDCE980B8C5}" s:name="Repeat Visitor" /><rule uid="{00000000-0000-0000-0000-000000000000}"><actions><action uid="5F086DE92F8F449C81EA1177DCC37FC1" s:id="{25F351A1-712D-45F8-857D-8AD95BB2ACE9}" /></actions></rule></ruleset></rls></r></d></r>
-----field----
-field: {25BED78C-4957-4165-998A-CA1B52F67497}
-name: __Created
-key: __created
-content-length: 16
-
-20160204T204117Z
-----field----
-field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
-name: __Created by
-key: __created by
-content-length: 0
-
-
-----field----
-field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
-name: __Revision
-key: __revision
-content-length: 36
-
-2025fde7-aa57-4dc0-ada2-5dfb66242e67
-----field----
-field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
-name: __Updated
-key: __updated
-content-length: 16
-
-20160411T192520Z
-----field----
-field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
-name: __Updated by
-key: __updated by
-content-length: 18
-
-extranet\Anonymous
-----field----
-field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
-name: __Lock
-key: __lock
-content-length: 5
-
-<r />
