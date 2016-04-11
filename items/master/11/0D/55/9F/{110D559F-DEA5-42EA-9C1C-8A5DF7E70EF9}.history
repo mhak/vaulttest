@@ -52,11 +52,26 @@
     "language": "en",
     "timestamp": "2016-04-11T21:47:56.9372275Z",
     "label": "Installed from package - Strategy deployment",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5136b21d39b3456567b78f2a3084a9c8ab50a79b",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "Home",
     "itemPath": "/sitecore/content/Home",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "04/11/2016 21:47:56",
+    "label": null,
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Home",
+    "itemPath": "[orphan]/Home",
     "commandType": "Item"
   }
 ]
