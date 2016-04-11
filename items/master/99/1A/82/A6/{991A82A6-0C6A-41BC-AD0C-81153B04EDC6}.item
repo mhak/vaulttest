@@ -2,8 +2,8 @@
 version: 1
 id: {991A82A6-0C6A-41BC-AD0C-81153B04EDC6}
 database: master
-path: /sitecore/templates/Demo/Page/Metadata/Head
-parent: {FF1B1BE0-9041-48FD-AB9F-9575374D748C}
+path: /Head
+parent: {00000000-0000-0000-0000-000000000000}
 name: Head
 master: {00000000-0000-0000-0000-000000000000}
 template: {455A3E98-A627-4B40-8035-E683A0331AC7}
@@ -23,43 +23,3 @@ key: __sortorder
 content-length: 2
 
 50
-----version----
-language: en
-version: 1
-revision: 006744b2-0911-45cf-97a4-281e35c65dee
-
-----field----
-field: {25BED78C-4957-4165-998A-CA1B52F67497}
-name: __Created
-key: __created
-content-length: 16
-
-20160204T214105Z
-----field----
-field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
-name: __Created by
-key: __created by
-content-length: 0
-
-
-----field----
-field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
-name: __Revision
-key: __revision
-content-length: 36
-
-006744b2-0911-45cf-97a4-281e35c65dee
-----field----
-field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
-name: __Updated
-key: __updated
-content-length: 16
-
-20160411T192347Z
-----field----
-field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
-name: __Updated by
-key: __updated by
-content-length: 18
-
-extranet\Anonymous
