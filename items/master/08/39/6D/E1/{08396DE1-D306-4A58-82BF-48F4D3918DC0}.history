@@ -1,0 +1,17 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{08396DE1-D306-4A58-82BF-48F4D3918DC0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T19:02:51.7426827Z",
+    "label": "Installed from package - campaign deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Test Form",
+    "itemPath": "/sitecore/content/Campaign Site/Test Form",
+    "commandType": "Item"
+  }
+]
