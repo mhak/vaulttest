@@ -136,36 +136,72 @@ extranet\Anonymous
 ----version----
 language: de-DE
 version: 1
-revision: 0140a2b2-0c68-4ee6-bee6-9dd14a7ceef8
+revision: add05e15-69eb-4eb5-89c0-3d70ca7fb702
 
+----field----
+field: {75577384-3C97-45DA-A847-81B00500E250}
+name: Title
+key: title
+content-length: 29
+
+Sitecore Experience Plattform
+----field----
+field: {A60ACD61-A6DB-4182-8329-C957982CEC74}
+name: Text
+key: text
+content-length: 806
+
+<p style="line-height: 22px;">Dank einer einzelnen verbundenen Plattform, die auch mit anderen kundennahmen Plattformen verbunden ist, über eine einzelne Ansich des Kunden im Big Data Marketing Repository und einer  Eleminierung der Komplexität, die Marketer ehemals zurückgehalten hat, macht die neuste Version von Sitecore Kundenzufriedenheit absolut erreichbar. Lernen sie, wie die neuste Version von Sitecore Marketern vollständige Daten, integrierte Tools und Automatisierungsfähigkeiten zur Kundenbindung in einem interaktiven Zyklus liefert; die Technologie ist überaus wichtig zur nachhaltigen Kundengewinnung.  </p>
+<p>Für weitere Informationen begeben Sie sich bitte zur <a href="https://doc.sitecore.net/" target="_blank" title="Sitecore-Dokumentationsseite">Sitecore Documentation site</a></p>
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 4
+
+Home
+----field----
+field: {577F1689-7DE4-4AD2-A15F-7FDC1759285F}
+name: __Long description
+key: __long description
+content-length: 59
+
+Das Home Item ist der vorgegebene Startpunkt einer Website.
+----field----
+field: {9541E67D-CE8C-4225-803D-33F7F29F09EF}
+name: __Short description
+key: __short description
+content-length: 23
+
+Willkommen bei Sitecore
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
 name: __Owner
 key: __owner
-content-length: 18
+content-length: 14
 
-extranet\Anonymous
+sitecore\admin
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
 key: __created
-content-length: 16
+content-length: 34
 
-20160411T214756Z
+20140516T175833:635358599136286942
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
 key: __created by
-content-length: 18
+content-length: 14
 
-extranet\Anonymous
+sitecore\admin
 ----field----
 field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
 name: __Revision
 key: __revision
 content-length: 36
 
-0140a2b2-0c68-4ee6-bee6-9dd14a7ceef8
+add05e15-69eb-4eb5-89c0-3d70ca7fb702
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
