@@ -67,11 +67,26 @@
     "language": "en",
     "timestamp": "2016-04-11T19:52:40.5816346Z",
     "label": "Installed from package - campaign deployment",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "93532567ff16dfa2cf656d8959f0557277fdee03",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "Thanks",
     "itemPath": "/sitecore/content/Campaign Site/All In One/Have us contact you/Thanks",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "Rollback",
+    "database": "master",
+    "itemId": "{B8D18C6D-4DC0-480D-A8A3-0D4A583B6A2C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T19:54:15.1860456Z",
+    "label": "Rollback package - campaign deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Thanks",
+    "itemPath": "[orphan]/Thanks",
     "commandType": "Item"
   }
 ]
