@@ -50,13 +50,28 @@
     "itemId": "{83DC9BCD-62D5-4EA9-BC01-AB3E8EE9F24F}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-11T19:40:42.0335360Z",
+    "timestamp": "2016-04-11T19:40:42.033536Z",
     "label": "Rollback package - campaign deployment",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "ae38e7a2e0dc474432ce98aa3082ce0147017ffd",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "Body",
     "itemPath": "[orphan]/Body",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{83DC9BCD-62D5-4EA9-BC01-AB3E8EE9F24F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T19:51:16.0768012Z",
+    "label": "Installed from package - campaign deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Body",
+    "itemPath": "/sitecore/templates/Demo/Page/Content/Body",
     "commandType": "Item"
   }
 ]
