@@ -1,0 +1,398 @@
+----item----
+version: 1
+id: {EB5B29DD-9A44-403E-8F6C-177A5B5DDAFF}
+database: master
+path: /sitecore/content/Campaign Site/About Us
+parent: {AFABFA22-A045-42AA-BD3F-FC91688C5A8C}
+name: About Us
+master: {00000000-0000-0000-0000-000000000000}
+template: {F6282399-0A44-405B-B3DB-C2B882A328CA}
+templatekey: Page
+
+----field----
+field: {B0A67B2A-8B07-4E0B-8809-69F751709806}
+name: __Tracking
+key: __tracking
+content-length: 595
+
+<tracking>
+  <profile id="{24DFF2CF-B30A-4B75-8967-2FE3DED82271}" name="Audience" presets="rising stars|100||">
+    <key name="Borrowing" value="5" />
+    <key name="Saving" value="0" />
+    <key name="Investing" value="0" />
+    <key name="Refinancing" value="5" />
+    <key name="Checking" value="3" />
+  </profile>
+  <profile id="{E4D51AC1-FD43-4B16-BB52-37066E73D424}" name="Age" presets="rising star|100||">
+    <key name="25-39" value="5" />
+    <key name="35-64" value="3" />
+    <key name="45 Plus" value="0" />
+    <key name="65 Plus" value="0" />
+  </profile>
+</tracking>
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+200
+----version----
+language: en
+version: 1
+revision: a5a7e907-f509-4efa-aebc-872e722fde82
+
+----field----
+field: {CC45B3FB-4DDB-4C7D-8FD0-9CAC3BD67156}
+name: Title
+key: title
+content-length: 8
+
+About Us
+----field----
+field: {83DC9BCD-62D5-4EA9-BC01-AB3E8EE9F24F}
+name: Body
+key: body
+content-length: 45959
+
+<div class="grid_4" style="display: inline; float: left; position: relative; margin-left: 15px; margin-right: 15px; width: 474px;">
+<div class="company-profile-subheader" style="font-stretch: normal; font-size: 26px; line-height: 31px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; color: #092e23; padding-top: 10px;">About First Republic Bank</div>
+<div class="company-profile-description" style="font-stretch: normal; font-size: 17px; line-height: 20px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; color: #4b4b4b; padding-top: 13px;">
+<p style="margin-bottom: 12px;">Founded in 1985, First Republic and its subsidiaries offer private banking, private business banking and private wealth management, including investment, trust and brokerage services. First Republic specializes in delivering exceptional, relationship-based service, with a solid commitment to responsiveness and action. Services are offered through preferred banking or wealth management offices primarily in San Francisco, Palo Alto, Los Angeles, Santa Barbara, Newport Beach, San Diego, Portland, Palm Beach, Boston, Greenwich, and New York City. First Republic offers a complete line of banking products for individuals and businesses, including deposit services, as well as residential, commercial and personal loans</p>
+<p style="margin-bottom: 12px;">
+</div>
+<div class="key-fact-header" style="font-stretch: normal; line-height: 15px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; text-transform: uppercase;">OUR HERITAGE</div>
+<div class="key-fact" style="font-stretch: normal; font-size: 17px; line-height: 20px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; color: #4b4b4b; margin-top: 11px; margin-bottom: 16px;">Over the years, First Republic&rsquo;s focus on exceptional, relationship-based service and consistent leadership has led to continuous growth and profitability.</div>
+<a class="our-heritage-link link-w-arrow" href="https://www.firstrepublic.com/aboutus/heritage" style="color: #ab8421; font-stretch: normal; font-size: 16px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; line-height: 21px;">Learn More About Our Heritage</a>
+<div class="main-body-content" style="font-family: adobe-garamond-pro, 'Times New Roman', Times; font-size: 16px;">
+<div class="container_8 corporate-values-preview-banner" style="margin-left: auto; margin-right: auto; width: 1008px; overflow: hidden; padding-bottom: 57px;">
+<h2 class="grid_8 banner-uppercase-title corporate-values-header" style="font-size: 12px; margin: 0px 15px; padding: 27px 0px; display: inline; float: left; position: relative; font-weight: normal; font-stretch: normal; font-family: HelveticaNeueW01-75Bold, Arial, Helvetica, sans-serif; color: #4b4b4b; text-transform: uppercase; letter-spacing: 1px; width: 978px;">CORPORATE VALUES</h2>
+<div class="grid_4" style="display: inline; float: left; position: relative; margin-left: 15px; margin-right: 15px; width: 474px;"><a href="https://www.firstrepublic.com/aboutus/corporatevalues#do-the-right-thing" style="color: #ab8421;"><img alt="" class="corporate-values-img" src="https://www.firstrepublic.com/content/images/corporateValues/FRB-Website_Values_179x157_1-do-right.png?hash=e8d384bfaf5172b43f9cd24015d7d4e8" style="border: 0px; width: 179px; height: 157px; float: left;"><img alt="" class="image-video-preview" src="https://www.firstrepublic.com/content/images/videoIcons/video_icon_small.png?hash=c5d17bfdbad60a6f31792f37ac1b31c8" style="border: 0px; height: 45px; width: 45px; position: absolute; z-index: 1; top: 0px; left: 0px;"></a>
+<div class="title-paragraph-module paragraph-after-image" style="margin-left: 15px; width: 265px; float: left;">
+<h2 style="margin: 0px; padding: 0px;"><a class="tpm-title" href="https://www.firstrepublic.com/aboutus/corporatevalues#do-the-right-thing" style="color: #ab8421; font-weight: normal; font-stretch: normal; font-size: 19px; line-height: 23px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; display: block;">Do the Right Thing</a></h2>
+<div class="banner-desc" style="font-stretch: normal; font-size: 15px; line-height: 21px; font-family: HelveticaNeueW01-55Roma, Arial, Helvetica, sans-serif; color: #4b4b4b;">We strive to do things right at First Republic. We also recognize that we're a business of humans; mistakes will happen. Therefore, our mandate is to do the right thing...&nbsp;<a class="link-font-style" href="https://www.firstrepublic.com/aboutus/corporatevalues#do-the-right-thing" style="color: #ab8421; font-stretch: normal; font-size: 17px; line-height: 20px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif;">More</a></div>
+</div>
+</div>
+<div class="grid_4" style="display: inline; float: left; position: relative; margin-left: 15px; margin-right: 15px; width: 474px;"><a href="https://www.firstrepublic.com/aboutus/corporatevalues#extraordinary-service" style="color: #ab8421;"><img alt="" class="corporate-values-img" src="https://www.firstrepublic.com/content/images/corporateValues/FRB-Website_Values_179x157_2-provide.png?hash=8ecf06f96f2c0be2bdc02e3229289ca7" style="border: 0px; width: 179px; height: 157px; float: left;"><img alt="" class="image-video-preview" src="https://www.firstrepublic.com/content/images/videoIcons/video_icon_small.png?hash=c5d17bfdbad60a6f31792f37ac1b31c8" style="border: 0px; height: 45px; width: 45px; position: absolute; z-index: 1; top: 0px; left: 0px;"></a>
+<div class="title-paragraph-module paragraph-after-image" style="margin-left: 15px; width: 265px; float: left;">
+<h2 style="margin: 0px; padding: 0px;"><a class="tpm-title" href="https://www.firstrepublic.com/aboutus/corporatevalues#extraordinary-service" style="color: #ab8421; font-weight: normal; font-stretch: normal; font-size: 19px; line-height: 23px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; display: block;">Provide Extraordinary Service</a></h2>
+<div class="banner-desc" style="font-stretch: normal; font-size: 15px; line-height: 21px; font-family: HelveticaNeueW01-55Roma, Arial, Helvetica, sans-serif; color: #4b4b4b;">We always aim to exceed expectations and serve our clients in unexpected ways. We'll take on only what we can do right. Our business may be about wealth management...&nbsp;<a class="link-font-style" href="https://www.firstrepublic.com/aboutus/corporatevalues#extraordinary-service" style="color: #ab8421; font-stretch: normal; font-size: 17px; line-height: 20px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif;">Mor</a>e&nbsp;<a class="corporate-values-more" href="https://www.firstrepublic.com/aboutus/corporatevalues" style="font-weight: lighter; color: #ab8421; font-stretch: normal; font-size: 19px; line-height: 23px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; padding-top: 23px; display: inline !important;">Read More of Our Values Her</a>e</div>
+</div>
+</div>
+</div>
+<div class="container_8" style="margin-left: auto; margin-right: auto; width: 1008px; overflow: auto;">
+</div>
+<div class="article-banner container_8" style="margin-left: auto; margin-right: auto; width: 1008px; overflow: auto; page-break-inside: avoid;">
+<h2 class="grid_4 banner-uppercase-title" style="font-size: 12px; margin: 30px 15px; padding: 0px; display: inline; float: left; position: relative; font-weight: normal; font-stretch: normal; font-family: HelveticaNeueW01-75Bold, Arial, Helvetica, sans-serif; color: #4b4b4b; text-transform: uppercase; line-height: 18px; letter-spacing: 1px; width: 474px;">NEWSROOM</h2>
+<div class="clear" style="clear: both; overflow: hidden; visibility: hidden; width: 0px; height: 0px;"></div>
+<div class="article-banner-item grid_4 padB60" style="display: inline; float: left; position: relative; margin-left: 15px; margin-right: 15px; padding-bottom: 60px; width: 474px;"><a class="article-header article-heading" href="https://www.firstrepublic.com/content/uploads/Article/FRB%20Earnings%20Release%204Q%202015_845619112.pdf" target="_blank" style="color: #ab8421; font-stretch: normal; font-size: 26px; line-height: 27px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; display: block; padding-bottom: 17px;">First Republic Reports Record Quarterly and Annual Results</a>
+<div class="article-subheader" style="font-stretch: normal; font-size: 17px; line-height: 20px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; color: #4b4b4b; padding-bottom: 18px;">First Republic Bank,&nbsp;January 14, 2016</div>
+<p class="article-content" style="font-stretch: normal; font-size: 15px; line-height: 21px; font-family: HelveticaNeueW01-55Roma, Arial, Helvetica, sans-serif; color: #4b4b4b;">First Republic Bank (NYSE: FRC) today announced financial results for the quarter and year ended December 31, 2015. "First Republic reported record revenue...&nbsp;<a class="link-font-style" href="https://www.firstrepublic.com/content/uploads/Article/FRB%20Earnings%20Release%204Q%202015_845619112.pdf" target="_blank" style="color: #ab8421; font-stretch: normal; font-size: 17px; line-height: 20px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; display: inline-block;">More</a></p>
+<p class="article-content" style="font-stretch: normal; font-size: 15px; line-height: 21px; font-family: HelveticaNeueW01-55Roma, Arial, Helvetica, sans-serif; color: #4b4b4b;"><a class="article-header article-heading" href="https://www.firstrepublic.com/aboutus/newsroom/first-republic-bank-launches-financial-literacy-initiative-for-elementary-school-students" style="font-weight: lighter; color: #ab8421; font-stretch: normal; font-size: 26px; line-height: 27px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; padding-bottom: 17px; display: inline !important;">First Republic Bank Launches Financial Literacy Initiative For Elementary School Students</a></p>
+</div>
+<div class="article-banner-item grid_4 padB60" style="display: inline; float: left; position: relative; margin-left: 15px; margin-right: 15px; padding-bottom: 60px; width: 474px;">
+<div class="article-subheader" style="font-stretch: normal; font-size: 17px; line-height: 20px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; color: #4b4b4b; padding-bottom: 18px;">First Republic Bank,&nbsp;December 2, 2015</div>
+<div class="article-content" style="font-stretch: normal; font-size: 15px; line-height: 21px; font-family: HelveticaNeueW01-55Roma, Arial, Helvetica, sans-serif; color: #4b4b4b;">First Republic Bank (NYSE:FRC), a leading private bank and wealth management company, is expanding its efforts to improve financial literacy among elementary...<a class="link-font-style" href="https://www.firstrepublic.com/aboutus/newsroom/first-republic-bank-launches-financial-literacy-initiative-for-elementary-school-students" style="color: #ab8421; font-stretch: normal; font-size: 17px; line-height: 20px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; display: inline-block;">More</a></div>
+</div>
+</div>
+<div id="board-of-directors" style="margin-top: 25px;">
+<div class="team-grid-wrapper" style="margin-bottom: 40px;">
+<div class="container_3" style="margin-left: auto; margin-right: auto; width: 1008px; overflow: auto;">
+<h2 class="grid_3 banner-uppercase-title team-grid-title" style="font-size: 12px; margin: 0px 15px; padding: 0px; display: inline; float: left; position: relative; font-weight: normal; font-stretch: normal; font-family: HelveticaNeueW01-75Bold, Arial, Helvetica, sans-serif; color: #4b4b4b; text-transform: uppercase; letter-spacing: 1px; width: 978px;">BOARD OF DIRECTORS</h2>
+<div class="clear" style="clear: both; overflow: hidden; visibility: hidden; width: 0px; height: 0px;"></div>
+<div class="grid_2 team-grid-description" style="display: inline; float: left; position: relative; margin-left: 15px; margin-right: 15px; width: 642px; font-stretch: normal; font-size: 15px; line-height: 21px; font-family: HelveticaNeueW01-55Roma, Arial, Helvetica, sans-serif; color: #4b4b4b; padding-top: 24px;">Learn more about the members of First Republic Bank's board of directors.</div>
+</div>
+<div class="container_3 grid-content" style="margin-left: auto; margin-right: auto; width: 1008px; overflow: auto;">
+<div class="grid_1 team-member left-grid-member clickable" style="display: inline; float: left; position: relative; margin: 0px 20px 20px 15px; cursor: pointer; width: 311px;"><img src="https://www.firstrepublic.com/content/uploads/Person/2015_JimHerbert_119x140_1416422211.jpg" alt="James H. Herbert II Photo" style="border: 0px; width: 119px; height: 140px; float: left;">
+<div class="team-member-description" style="float: left; width: 172px; height: 120px; padding: 10px; background-color: #f2f1ef;">
+<div class="team-member-name" style="font-stretch: normal; line-height: 18px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; color: #ab8421;"><a class="corporate-values-more person-details" href="https://www.firstrepublic.com/profiles/james-h-herbert-ii" style="color: #ab8421;">James H. Herbert II</a></div>
+<div class="team-member-title" style="font-stretch: normal; font-size: 13px; line-height: 15px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; color: #4b4b4b; padding-top: 5px;">Chairman&nbsp;<br>
+Chief Executive Officer (Founding) and Board Member</div>
+</div>
+</div>
+<div class="grid_1 team-member clickable" style="display: inline; float: left; position: relative; margin: 0px 20px 20px 0px; cursor: pointer; width: 311px;"><img src="https://www.firstrepublic.com/content/uploads/Person/2013_Katherine-August-DeWilde_3507860004.jpg" alt="Katherine August-deWilde Photo" style="border: 0px; width: 119px; height: 140px; float: left;">
+<div class="team-member-description" style="float: left; width: 172px; height: 120px; padding: 10px; background-color: #f2f1ef;">
+<div class="team-member-name" style="font-stretch: normal; line-height: 18px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; color: #ab8421;"><a class="corporate-values-more person-details" href="https://www.firstrepublic.com/profiles/katherine-august-dewilde" style="color: #ab8421;">Katherine August-deWilde</a></div>
+<div class="team-member-title" style="font-stretch: normal; font-size: 13px; line-height: 15px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; color: #4b4b4b; padding-top: 5px;">Vice Chair and Board Member&nbsp;<br>
+</div>
+</div>
+</div>
+<div class="grid_1 team-member right-grid-member clickable" style="display: inline; float: left; position: relative; margin: 0px 0px 20px; cursor: pointer; width: 311px;"><img src="https://www.firstrepublic.com/content/uploads/Person/2013_Thomas-Barrack_3161347473.jpg" alt="Thomas J. Barrack Jr. Photo" style="border: 0px; width: 119px; height: 140px; float: left;">
+<div class="team-member-description" style="float: left; width: 172px; height: 120px; padding: 10px; background-color: #f2f1ef;">
+<div class="team-member-name" style="font-stretch: normal; line-height: 18px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; color: #ab8421;"><a class="corporate-values-more person-details" href="https://www.firstrepublic.com/profiles/thomas-j-barrack-jr" style="color: #ab8421;">Thomas J. Barrack Jr.</a></div>
+<div class="team-member-title" style="font-stretch: normal; font-size: 13px; line-height: 15px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; color: #4b4b4b; padding-top: 5px;">Board Member&nbsp;<br>
+</div>
+</div>
+</div>
+<div class="grid_1 team-member left-grid-member clickable" style="display: inline; float: left; position: relative; margin: 0px 20px 20px 15px; cursor: pointer; width: 311px;"><img src="https://www.firstrepublic.com/content/uploads/Person/2013_Frank-Fahrenkopf_3204812651.jpg" alt="Frank J. Fahrenkopf Jr. Photo" style="border: 0px; width: 119px; height: 140px; float: left;">
+<div class="team-member-description" style="float: left; width: 172px; height: 120px; padding: 10px; background-color: #f2f1ef;">
+<div class="team-member-name" style="font-stretch: normal; line-height: 18px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; color: #ab8421;"><a class="corporate-values-more person-details" href="https://www.firstrepublic.com/profiles/frank-j-fahrenkopf-jr" style="color: #ab8421;">Frank J. Fahrenkopf Jr.</a></div>
+<div class="team-member-title" style="font-stretch: normal; font-size: 13px; line-height: 15px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; color: #4b4b4b; padding-top: 5px;">Board Member&nbsp;<br>
+</div>
+</div>
+</div>
+<div class="grid_1 team-member clickable" style="display: inline; float: left; position: relative; margin: 0px 20px 20px 0px; cursor: pointer; width: 311px;"><img src="https://www.firstrepublic.com/content/uploads/Person/2013_L.Martin-Gibbs_219224097.jpg" alt="L. Martin Gibbs Photo" style="border: 0px; width: 119px; height: 140px; float: left;">
+<div class="team-member-description" style="float: left; width: 172px; height: 120px; padding: 10px; background-color: #f2f1ef;">
+<div class="team-member-name" style="font-stretch: normal; line-height: 18px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; color: #ab8421;"><a class="corporate-values-more person-details" href="https://www.firstrepublic.com/profiles/l-martin-gibbs" style="color: #ab8421;">L. Martin Gibbs</a></div>
+<div class="team-member-title" style="font-stretch: normal; font-size: 13px; line-height: 15px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; color: #4b4b4b; padding-top: 5px;">Board Member / Lead Outside Director&nbsp;<br>
+</div>
+</div>
+</div>
+<div class="grid_1 team-member right-grid-member clickable" style="display: inline; float: left; position: relative; margin: 0px 0px 20px; cursor: pointer; width: 311px;"><img src="https://www.firstrepublic.com/content/uploads/Person/Boris%20Groysberg_3792574328.jpg" alt="Boris Groysberg Photo" style="border: 0px; width: 119px; height: 140px; float: left;">
+<div class="team-member-description" style="float: left; width: 172px; height: 120px; padding: 10px; background-color: #f2f1ef;">
+<div class="team-member-name" style="font-stretch: normal; line-height: 18px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; color: #ab8421;"><a class="corporate-values-more person-details" href="https://www.firstrepublic.com/profiles/boris-groysberg" style="color: #ab8421;">Boris Groysberg</a></div>
+<div class="team-member-title" style="font-stretch: normal; font-size: 13px; line-height: 15px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; color: #4b4b4b; padding-top: 5px;">Board Member&nbsp;<br>
+</div>
+</div>
+</div>
+<div class="grid_1 team-member left-grid-member clickable" style="display: inline; float: left; position: relative; margin: 0px 20px 20px 15px; cursor: pointer; width: 311px;"><img src="https://www.firstrepublic.com/content/uploads/Person/2013_Sandra-Hernadez_3295257186.jpg" alt="Sandra R. Hern&aacute;ndez, M.D. Photo" style="border: 0px; width: 119px; height: 140px; float: left;">
+<div class="team-member-description" style="float: left; width: 172px; height: 120px; padding: 10px; background-color: #f2f1ef;">
+<div class="team-member-name" style="font-stretch: normal; line-height: 18px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; color: #ab8421;"><a class="corporate-values-more person-details" href="https://www.firstrepublic.com/profiles/sandra-r-hernndez-md" style="color: #ab8421;">Sandra R. Hern&aacute;ndez, M.D.</a></div>
+<div class="team-member-title" style="font-stretch: normal; font-size: 13px; line-height: 15px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; color: #4b4b4b; padding-top: 5px;">Board Member&nbsp;<br>
+</div>
+</div>
+</div>
+<div class="grid_1 team-member clickable" style="display: inline; float: left; position: relative; margin: 0px 20px 20px 0px; cursor: pointer; width: 311px;"><img src="https://www.firstrepublic.com/content/uploads/Person/2013_Pamela-Joyner_1434100688.jpg" alt="Pamela J. Joyner Photo" style="border: 0px; width: 119px; height: 140px; float: left;">
+<div class="team-member-description" style="float: left; width: 172px; height: 120px; padding: 10px; background-color: #f2f1ef;">
+<div class="team-member-name" style="font-stretch: normal; line-height: 18px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; color: #ab8421;"><a class="corporate-values-more person-details" href="https://www.firstrepublic.com/profiles/pamela-j-joyner" style="color: #ab8421;">Pamela J. Joyner</a></div>
+<div class="team-member-title" style="font-stretch: normal; font-size: 13px; line-height: 15px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; color: #4b4b4b; padding-top: 5px;">Board Member&nbsp;<br>
+</div>
+</div>
+</div>
+<div class="grid_1 team-member right-grid-member clickable" style="display: inline; float: left; position: relative; margin: 0px 0px 20px; cursor: pointer; width: 311px;"><img src="https://www.firstrepublic.com/content/uploads/Person/2013_Reynold-Levy_1579785483.jpg" alt="Reynold Levy Photo" style="border: 0px; width: 119px; height: 140px; float: left;">
+<div class="team-member-description" style="float: left; width: 172px; height: 120px; padding: 10px; background-color: #f2f1ef;">
+<div class="team-member-name" style="font-stretch: normal; line-height: 18px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; color: #ab8421;"><a class="corporate-values-more person-details" href="https://www.firstrepublic.com/profiles/reynold-levy" style="color: #ab8421;">Reynold Levy</a></div>
+<div class="team-member-title" style="font-stretch: normal; font-size: 13px; line-height: 15px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; color: #4b4b4b; padding-top: 5px;">Board Member&nbsp;<br>
+</div>
+</div>
+</div>
+<div class="grid_1 team-member left-grid-member clickable" style="display: inline; float: left; position: relative; margin: 0px 20px 20px 15px; cursor: pointer; width: 311px;"><img src="https://www.firstrepublic.com/content/uploads/Person/2013_Jody-Lindell_138824946.jpg" alt="Jody S. Lindell Photo" style="border: 0px; width: 119px; height: 140px; float: left;">
+<div class="team-member-description" style="float: left; width: 172px; height: 120px; padding: 10px; background-color: #f2f1ef;">
+<div class="team-member-name" style="font-stretch: normal; line-height: 18px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; color: #ab8421;"><a class="corporate-values-more person-details" href="https://www.firstrepublic.com/profiles/jody-s-lindell" style="color: #ab8421;">Jody S. Lindell</a></div>
+<div class="team-member-title" style="font-stretch: normal; font-size: 13px; line-height: 15px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; color: #4b4b4b; padding-top: 5px;">Board Member&nbsp;<br>
+</div>
+</div>
+</div>
+<div class="grid_1 team-member clickable" style="display: inline; float: left; position: relative; margin: 0px 20px 20px 0px; cursor: pointer; width: 311px;"><img src="https://www.firstrepublic.com/content/uploads/Person/Duncan%20Niederauer_746833965.jpg" alt="Duncan L. Niederauer Photo" style="border: 0px; width: 119px; height: 140px; float: left;">
+<div class="team-member-description" style="float: left; width: 172px; height: 120px; padding: 10px; background-color: #f2f1ef;">
+<div class="team-member-name" style="font-stretch: normal; line-height: 18px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; color: #ab8421;"><a class="corporate-values-more person-details" href="https://www.firstrepublic.com/profiles/duncan-l-niederauer" style="color: #ab8421;">Duncan L. Niederauer</a></div>
+<div class="team-member-title" style="font-stretch: normal; font-size: 13px; line-height: 15px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; color: #4b4b4b; padding-top: 5px;">Board Member&nbsp;<br>
+</div>
+</div>
+</div>
+<div class="grid_1 team-member right-grid-member clickable" style="display: inline; float: left; position: relative; margin: 0px 0px 20px; cursor: pointer; width: 311px;"><img src="https://www.firstrepublic.com/content/uploads/Person/2013_George-Parker_1729449815.jpg" alt="George G. C. Parker Photo" style="border: 0px; width: 119px; height: 140px; float: left;">
+<div class="team-member-description" style="float: left; width: 172px; height: 120px; padding: 10px; background-color: #f2f1ef;">
+<div class="team-member-name" style="font-stretch: normal; line-height: 18px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; color: #ab8421;"><a class="corporate-values-more person-details" href="https://www.firstrepublic.com/profiles/george-g-c-parker" style="color: #ab8421;">George G. C. Parker</a></div>
+<div class="team-member-title" style="font-stretch: normal; font-size: 13px; line-height: 15px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; color: #4b4b4b; padding-top: 5px;">Board Member&nbsp;<br>
+</div>
+</div>
+</div>
+<div class="grid_1 team-member left-grid-member clickable" style="display: inline; float: left; position: relative; margin: 0px 20px 20px 15px; cursor: pointer; width: 311px;"><img src="https://www.firstrepublic.com/content/uploads/Person/2013_Roger-Walther_3133507914.jpg" alt="Roger O. Walther Photo" style="border: 0px; width: 119px; height: 140px; float: left;">
+<div class="team-member-description" style="float: left; width: 172px; height: 120px; padding: 10px; background-color: #f2f1ef;">
+<div class="team-member-name" style="font-stretch: normal; line-height: 18px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; color: #ab8421;"><a class="corporate-values-more person-details" href="https://www.firstrepublic.com/profiles/roger-o-walther" style="color: #ab8421;">Roger O. Walther</a></div>
+<div class="team-member-title" style="font-stretch: normal; font-size: 13px; line-height: 15px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; color: #4b4b4b; padding-top: 5px;">Chairman Emeritus&nbsp;<br>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="container_8" style="margin-left: auto; margin-right: auto; width: 1008px; overflow: auto;"><hr class="grid_8 gray-divide" style="border-style: none none solid; border-bottom-color: #ededed; margin: 0px 15px; display: inline; float: left; position: relative; width: 978px;">
+</div>
+<div id="management-team" style="margin-top: 25px;">
+<div class="team-grid-wrapper" style="margin-bottom: 40px;">
+<div class="container_3" style="margin-left: auto; margin-right: auto; width: 1008px; overflow: auto;">
+<h2 class="grid_3 banner-uppercase-title team-grid-title" style="font-size: 12px; margin: 0px 15px; padding: 0px; display: inline; float: left; position: relative; font-weight: normal; font-stretch: normal; font-family: HelveticaNeueW01-75Bold, Arial, Helvetica, sans-serif; color: #4b4b4b; text-transform: uppercase; letter-spacing: 1px; width: 978px;">MANAGEMENT TEAM</h2>
+<div class="clear" style="clear: both; overflow: hidden; visibility: hidden; width: 0px; height: 0px;"></div>
+<div class="grid_2 team-grid-description" style="display: inline; float: left; position: relative; margin-left: 15px; margin-right: 15px; width: 642px; font-stretch: normal; font-size: 15px; line-height: 21px; font-family: HelveticaNeueW01-55Roma, Arial, Helvetica, sans-serif; color: #4b4b4b; padding-top: 24px;">Learn more about the members of First Republic Bank's management team.</div>
+</div>
+<div class="container_3 grid-content" style="margin-left: auto; margin-right: auto; width: 1008px; overflow: auto;">
+<div class="grid_1 team-member left-grid-member clickable" style="display: inline; float: left; position: relative; margin: 0px 20px 20px 15px; cursor: pointer; width: 311px;"><img src="https://www.firstrepublic.com/content/uploads/Person/2015_JimHerbert_119x140_1416422211.jpg" alt="James H. Herbert II Photo" style="border: 0px; width: 119px; height: 140px; float: left;">
+<div class="team-member-description" style="float: left; width: 172px; height: 120px; padding: 10px; background-color: #f2f1ef;">
+<div class="team-member-name" style="font-stretch: normal; line-height: 18px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; color: #ab8421;"><a class="corporate-values-more person-details" href="https://www.firstrepublic.com/profiles/james-h-herbert-ii" style="color: #ab8421;">James H. Herbert II</a></div>
+<div class="team-member-title" style="font-stretch: normal; font-size: 13px; line-height: 15px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; color: #4b4b4b; padding-top: 5px;">Chairman&nbsp;<br>
+Chief Executive Officer (Founding) and Board Member</div>
+</div>
+</div>
+<div class="grid_1 team-member clickable" style="display: inline; float: left; position: relative; margin: 0px 20px 20px 0px; cursor: pointer; width: 311px;"><img src="https://www.firstrepublic.com/content/uploads/Person/Mike-Selfridge_3090722449.jpg" alt="Michael D. Selfridge Photo" style="border: 0px; width: 119px; height: 140px; float: left;">
+<div class="team-member-description" style="float: left; width: 172px; height: 120px; padding: 10px; background-color: #f2f1ef;">
+<div class="team-member-name" style="font-stretch: normal; line-height: 18px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; color: #ab8421;"><a class="corporate-values-more person-details" href="https://www.firstrepublic.com/profiles/michael-d-selfridge" style="color: #ab8421;">Michael D. Selfridge</a></div>
+<div class="team-member-title" style="font-stretch: normal; font-size: 13px; line-height: 15px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; color: #4b4b4b; padding-top: 5px;">Senior Executive Vice President&nbsp;<br>
+Chief Banking Officer</div>
+</div>
+</div>
+<div class="grid_1 team-member right-grid-member clickable" style="display: inline; float: left; position: relative; margin: 0px 0px 20px; cursor: pointer; width: 311px;"><img src="https://www.firstrepublic.com/content/uploads/Person/Jason-Bender_709527251.jpg" alt="Jason C. Bender Photo" style="border: 0px; width: 119px; height: 140px; float: left;">
+<div class="team-member-description" style="float: left; width: 172px; height: 120px; padding: 10px; background-color: #f2f1ef;">
+<div class="team-member-name" style="font-stretch: normal; line-height: 18px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; color: #ab8421;"><a class="corporate-values-more person-details" href="https://www.firstrepublic.com/profiles/jason-c-bender" style="color: #ab8421;">Jason C. Bender</a></div>
+<div class="team-member-title" style="font-stretch: normal; font-size: 13px; line-height: 15px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; color: #4b4b4b; padding-top: 5px;">Executive Vice President&nbsp;<br>
+Chief Operating Officer</div>
+</div>
+</div>
+<div class="grid_1 team-member left-grid-member clickable" style="display: inline; float: left; position: relative; margin: 0px 20px 20px 15px; cursor: pointer; width: 311px;"><img src="https://www.firstrepublic.com/content/uploads/Person/Ed-Dobranski_3530620081.jpg" alt="Edward J. Dobranski Photo" style="border: 0px; width: 119px; height: 140px; float: left;">
+<div class="team-member-description" style="float: left; width: 172px; height: 120px; padding: 10px; background-color: #f2f1ef;">
+<div class="team-member-name" style="font-stretch: normal; line-height: 18px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; color: #ab8421;"><a class="corporate-values-more person-details" href="https://www.firstrepublic.com/profiles/edward-j-dobranski" style="color: #ab8421;">Edward J. Dobranski</a></div>
+<div class="team-member-title" style="font-stretch: normal; font-size: 13px; line-height: 15px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; color: #4b4b4b; padding-top: 5px;">Executive Vice President&nbsp;<br>
+Secretary and General Counsel</div>
+</div>
+</div>
+<div class="grid_1 team-member clickable" style="display: inline; float: left; position: relative; margin: 0px 20px 20px 0px; cursor: pointer; width: 311px;"><img src="https://www.firstrepublic.com/content/uploads/Person/Hafize-Gaye-Erkan_763657715.jpg" alt="Hafize Gaye Erkan Photo" style="border: 0px; width: 119px; height: 140px; float: left;">
+<div class="team-member-description" style="float: left; width: 172px; height: 120px; padding: 10px; background-color: #f2f1ef;">
+<div class="team-member-name" style="font-stretch: normal; line-height: 18px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; color: #ab8421;"><a class="corporate-values-more person-details" href="https://www.firstrepublic.com/profiles/hafize-gaye-erkan" style="color: #ab8421;">Hafize Gaye Erkan</a></div>
+<div class="team-member-title" style="font-stretch: normal; font-size: 13px; line-height: 15px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; color: #4b4b4b; padding-top: 5px;">Senior Vice President&nbsp;<br>
+Chief Deposit Officer and Chief Investment Officer</div>
+</div>
+</div>
+<div class="grid_1 team-member right-grid-member clickable" style="display: inline; float: left; position: relative; margin: 0px 0px 20px; cursor: pointer; width: 311px;"><img src="https://www.firstrepublic.com/content/uploads/Person/Michael-Harrington_23395635.jpg" alt="Michael J. Harrington Photo" style="border: 0px; width: 119px; height: 140px; float: left;">
+<div class="team-member-description" style="float: left; width: 172px; height: 120px; padding: 10px; background-color: #f2f1ef;">
+<div class="team-member-name" style="font-stretch: normal; line-height: 18px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; color: #ab8421;"><a class="corporate-values-more person-details" href="https://www.firstrepublic.com/profiles/michael-j-harrington" style="color: #ab8421;">Michael J. Harrington</a></div>
+<div class="team-member-title" style="font-stretch: normal; font-size: 13px; line-height: 15px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; color: #4b4b4b; padding-top: 5px;">President&nbsp;<br>
+First Republic Trust Company</div>
+</div>
+</div>
+<div class="grid_1 team-member left-grid-member clickable" style="display: inline; float: left; position: relative; margin: 0px 20px 20px 15px; cursor: pointer; width: 311px;"><img src="https://www.firstrepublic.com/content/uploads/Person/David-Lichtman_3185622353.jpg" alt="David B. Lichtman Photo" style="border: 0px; width: 119px; height: 140px; float: left;">
+<div class="team-member-description" style="float: left; width: 172px; height: 120px; padding: 10px; background-color: #f2f1ef;">
+<div class="team-member-name" style="font-stretch: normal; line-height: 18px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; color: #ab8421;"><a class="corporate-values-more person-details" href="https://www.firstrepublic.com/profiles/david-b-lichtman" style="color: #ab8421;">David B. Lichtman</a></div>
+<div class="team-member-title" style="font-stretch: normal; font-size: 13px; line-height: 15px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; color: #4b4b4b; padding-top: 5px;">Executive Vice President and Chief Credit Officer&nbsp;<br>
+</div>
+</div>
+</div>
+<div class="grid_1 team-member clickable" style="display: inline; float: left; position: relative; margin: 0px 20px 20px 0px; cursor: pointer; width: 311px;"><img src="https://www.firstrepublic.com/content/uploads/Person/FirstRepublic_M_Richardson_0560_2416933208.jpg" alt="Mollie M. Richardson Photo" style="border: 0px; width: 119px; height: 140px; float: left;">
+<div class="team-member-description" style="float: left; width: 172px; height: 120px; padding: 10px; background-color: #f2f1ef;">
+<div class="team-member-name" style="font-stretch: normal; line-height: 18px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; color: #ab8421;"><a class="corporate-values-more person-details" href="https://www.firstrepublic.com/profiles/mollie-m-richardson" style="color: #ab8421;">Mollie M. Richardson</a></div>
+<div class="team-member-title" style="font-stretch: normal; font-size: 13px; line-height: 15px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; color: #4b4b4b; padding-top: 5px;">Senior Vice President&nbsp;<br>
+Chief Administrative Officer</div>
+</div>
+</div>
+<div class="grid_1 team-member right-grid-member clickable" style="display: inline; float: left; position: relative; margin: 0px 0px 20px; cursor: pointer; width: 311px;"><img src="https://www.firstrepublic.com/content/uploads/Person/Michael-Roffler_3163463167.jpg" alt="Michael J. Roffler Photo" style="border: 0px; width: 119px; height: 140px; float: left;">
+<div class="team-member-description" style="float: left; width: 172px; height: 120px; padding: 10px; background-color: #f2f1ef;">
+<div class="team-member-name" style="font-stretch: normal; line-height: 18px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; color: #ab8421;"><a class="corporate-values-more person-details" href="https://www.firstrepublic.com/profiles/michael-j-roffler" style="color: #ab8421;">Michael J. Roffler</a></div>
+<div class="team-member-title" style="font-stretch: normal; font-size: 13px; line-height: 15px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; color: #4b4b4b; padding-top: 5px;">Executive Vice President and Chief Financial Officer&nbsp;<br>
+</div>
+</div>
+</div>
+<div class="grid_1 team-member left-grid-member clickable" style="display: inline; float: left; position: relative; margin: 0px 20px 20px 15px; cursor: pointer; width: 311px;"><img src="https://www.firstrepublic.com/content/uploads/Person/2013_Santenilli_119x140_3523696483.jpg" alt="Jonathan Santelli Photo" style="border: 0px; width: 119px; height: 140px; float: left;">
+<div class="team-member-description" style="float: left; width: 172px; height: 120px; padding: 10px; background-color: #f2f1ef;">
+<div class="team-member-name" style="font-stretch: normal; line-height: 18px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; color: #ab8421;"><a class="corporate-values-more person-details" href="https://www.firstrepublic.com/profiles/jonathan-santelli" style="color: #ab8421;">Jonathan Santelli</a></div>
+<div class="team-member-title" style="font-stretch: normal; font-size: 13px; line-height: 15px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; color: #4b4b4b; padding-top: 5px;">Senior Vice President and Deputy General Counsel&nbsp;<br>
+</div>
+</div>
+</div>
+<div class="grid_1 team-member clickable" style="display: inline; float: left; position: relative; margin: 0px 20px 20px 0px; cursor: pointer; width: 311px;"><img src="https://www.firstrepublic.com/content/uploads/Person/Dale-Smith_1095545410.jpg" alt="Dale A. Smith Photo" style="border: 0px; width: 119px; height: 140px; float: left;">
+<div class="team-member-description" style="float: left; width: 172px; height: 120px; padding: 10px; background-color: #f2f1ef;">
+<div class="team-member-name" style="font-stretch: normal; line-height: 18px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; color: #ab8421;"><a class="corporate-values-more person-details" href="https://www.firstrepublic.com/profiles/dale-a-smith" style="color: #ab8421;">Dale A. Smith</a></div>
+<div class="team-member-title" style="font-stretch: normal; font-size: 13px; line-height: 15px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; color: #4b4b4b; padding-top: 5px;">Executive Vice President and Chief Information Officer&nbsp;<br>
+</div>
+</div>
+</div>
+<div class="grid_1 team-member right-grid-member clickable" style="display: inline; float: left; position: relative; margin: 0px 0px 20px; cursor: pointer; width: 311px;"><img src="https://www.firstrepublic.com/content/uploads/Person/FirstRepublic_D_Snedaker_0578_514032187.jpg" alt="Dianne Snedaker Photo" style="border: 0px; width: 119px; height: 140px; float: left;">
+<div class="team-member-description" style="float: left; width: 172px; height: 120px; padding: 10px; background-color: #f2f1ef;">
+<div class="team-member-name" style="font-stretch: normal; line-height: 18px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; color: #ab8421;"><a class="corporate-values-more person-details" href="https://www.firstrepublic.com/profiles/dianne-snedaker" style="color: #ab8421;">Dianne Snedaker</a></div>
+<div class="team-member-title" style="font-stretch: normal; font-size: 13px; line-height: 15px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; color: #4b4b4b; padding-top: 5px;">Executive Vice President and Chief Marketing Officer&nbsp;<br>
+</div>
+</div>
+</div>
+<div class="grid_1 team-member left-grid-member clickable" style="display: inline; float: left; position: relative; margin: 0px 20px 20px 15px; cursor: pointer; width: 311px;"><img src="https://www.firstrepublic.com/content/uploads/Person/Dave-Tateosian%20New_658375427.jpg" alt="David Tateosian Photo" style="border: 0px; width: 119px; height: 140px; float: left;">
+<div class="team-member-description" style="float: left; width: 172px; height: 120px; padding: 10px; background-color: #f2f1ef;">
+<div class="team-member-name" style="font-stretch: normal; line-height: 18px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; color: #ab8421;"><a class="corporate-values-more person-details" href="https://www.firstrepublic.com/profiles/david-tateosian" style="color: #ab8421;">David Tateosian</a></div>
+<div class="team-member-title" style="font-stretch: normal; font-size: 13px; line-height: 15px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; color: #4b4b4b; padding-top: 5px;">President&nbsp;<br>
+First Republic Securities Company</div>
+</div>
+</div>
+<div class="grid_1 team-member clickable" style="display: inline; float: left; position: relative; margin: 0px 20px 20px 0px; cursor: pointer; width: 311px;"><img src="https://www.firstrepublic.com/content/uploads/Person/Bob-Thornton%20New_2887990387.jpg" alt="Bob Thornton Photo" style="border: 0px; width: 119px; height: 140px; float: left;">
+<div class="team-member-description" style="float: left; width: 172px; height: 120px; padding: 10px; background-color: #f2f1ef;">
+<div class="team-member-name" style="font-stretch: normal; line-height: 18px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; color: #ab8421;"><a class="corporate-values-more person-details" href="https://www.firstrepublic.com/profiles/bob-thornton" style="color: #ab8421;">Bob Thornton</a></div>
+<div class="team-member-title" style="font-stretch: normal; font-size: 13px; line-height: 15px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; color: #4b4b4b; padding-top: 5px;">President&nbsp;<br>
+Private Wealth Management</div>
+</div>
+</div>
+<div class="grid_1 team-member right-grid-member clickable" style="display: inline; float: left; position: relative; margin: 0px 0px 20px; cursor: pointer; width: 311px;"><img src="https://www.firstrepublic.com/content/uploads/Person/Bill-Ward%20revised_3964436451.jpg" alt="Bill Ward Photo" style="border: 0px; width: 119px; height: 140px; float: left;">
+<div class="team-member-description" style="float: left; width: 172px; height: 120px; padding: 10px; background-color: #f2f1ef;">
+<div class="team-member-name" style="font-stretch: normal; line-height: 18px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; color: #ab8421;"><a class="corporate-values-more person-details" href="https://www.firstrepublic.com/profiles/bill-ward" style="color: #ab8421;">Bill Ward</a></div>
+<div class="team-member-title" style="font-stretch: normal; font-size: 13px; line-height: 15px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; color: #4b4b4b; padding-top: 5px;">Executive Vice President&nbsp;<br>
+Chief BSA/AML and Security Officer</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="external-tooltip-div" style="height: 0px; overflow: visible; font-family: adobe-garamond-pro, 'Times New Roman', Times; font-size: 16px;"></div>
+<footer id="footer" class="noPrintBlock" style="color: #4b4b4b; padding-top: 56px; padding-bottom: 43px; font-family: adobe-garamond-pro, 'Times New Roman', Times; font-size: 16px; background-color: #d1d0cb;">
+<div class="container_8 footer-link-widget noPrintBlock" style="margin-left: auto; margin-right: auto; width: 1008px; overflow: hidden;">
+<div class="grid_2 ft-bar" style="display: inline; float: left; position: relative; margin-left: 15px; margin-right: 15px; width: 222px;"></div>
+</div>
+</footer><br>
+</div>
+<div class="intro-banner-Links" style="float: right; width: 210px; padding-top: 20px; overflow: hidden;">
+<div class="link noPrintBlock" style="position: relative; z-index: 3; height: 28px; margin-bottom: 19px; background-color: #f2f1ef;"><a class="shareAnimate" style="color: #ab8421; cursor: pointer; display: inline-block; height: 27px;"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewbox="0 0 23.5 23.5" enable-background="new 0 0 23.5 23.5" xml:space="preserve" class="svg replaced-svg">
+<path d="M23.4 11.7c0 6.4-5.2 11.7-11.7 11.7c-6.4 0-11.7-5.2-11.7-11.7c0-6.4 5.2-11.7 11.7-11.7C18.2 0.1 23.4 5.3 23.4 11.7"></path>
+<path d="M15.5 13.6c-0.7 0-1.4 0.3-1.8 0.8l-4.4-2.2c0-0.1 0-0.3 0-0.4c0 0 0-0.1 0-0.1l4.5-2.4 c0.4 0.4 1 0.6 1.6 0.6c1.3 0 2.4-1.1 2.4-2.4c0-1.3-1.1-2.4-2.4-2.4c-1.3 0-2.4 1.1-2.4 2.4c0 0.1 0 0.2 0 0.3l-4.4 2.3 C8.3 9.6 7.6 9.3 6.9 9.3c-1.3 0-2.4 1.1-2.4 2.4s1.1 2.4 2.4 2.4c0.6 0 1.1-0.2 1.5-0.5l4.6 2.3c0 0 0 0 0 0c0 1.3 1.1 2.4 2.4 2.4 c1.3 0 2.4-1.1 2.4-2.4C17.9 14.7 16.8 13.6 15.5 13.6" fill="#ffffff"></path>
+</svg></a></div>
+</div>
+----field----
+field: {30F053C4-4168-4FF9-BFE5-B9743B9DAB08}
+name: Bottom
+key: bottom
+content-length: 7048
+
+<div class="grid_2 ft-bar" style="display: inline; float: left; position: relative; margin-left: 15px; margin-right: 15px; width: 222px; color: #4b4b4b; font-family: adobe-garamond-pro, 'Times New Roman', Times; font-size: 16px; background-color: #d1d0cb;">
+<h4 class="clw-title lower-spacing" style="font-size: 20px; margin: 0px; padding: 0px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; font-weight: normal;">Contact Us</h4>
+<p style="margin: 0px;"><a href="https://www.firstrepublic.com/locations" class="clw-link lower-spacing" style="color: #ab8421; font-stretch: normal; font-size: 17px; line-height: 21px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; display: inline-block; margin-top: 1px; margin-bottom: 0px;">Locations</a></p>
+<p style="margin: 0px;"><a href="https://www.firstrepublic.com/contactus" class="clw-link lower-spacing" style="color: #ab8421; font-stretch: normal; font-size: 17px; line-height: 21px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; display: inline-block; margin-top: 1px; margin-bottom: 0px;">Client Support Directory</a></p>
+<p style="margin: 0px;"><a class="clw-link lower-spacing contact-email" href="https://www.firstrepublic.com/contactus/form" style="color: #ab8421; font-stretch: normal; font-size: 17px; line-height: 21px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; display: inline-block; margin-top: 1px; margin-bottom: 0px;">Have Us Contact You</a></p>
+<p style="margin-top: 0px; margin-right: 0px; margin-left: 0px;"><a class="clw-link lower-spacing send-feedback" href="mailto:feedback@firstrepublic.com?subject=Feedback%20for%20First%20Republic%20Bank" style="color: #ab8421; font-stretch: normal; font-size: 17px; line-height: 21px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; display: inline-block; margin-top: 1px; margin-bottom: 0px;">Send Feedback</a></p>
+</div>
+<div class="grid_2 " style="display: inline; float: left; position: relative; margin-left: 15px; margin-right: 15px; width: 222px; color: #4b4b4b; font-family: adobe-garamond-pro, 'Times New Roman', Times; font-size: 16px; background-color: #d1d0cb;">
+<h4 class="clw-title lower-spacing" style="font-size: 20px; margin: 0px; padding: 0px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; font-weight: normal;">Social Media</h4>
+<p style="margin: 0px;"><a href="http://www.facebook.com/firstrepublicbank" target="_blank" class="supress-external-tooltip clw-link lower-spacing facebook" style="color: #ab8421; font-stretch: normal; font-size: 17px; line-height: 21px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; display: inline-block; margin-top: 1px; margin-bottom: 0px;">Facebook</a></p>
+<p style="margin: 0px;"><a href="http://www.linkedin.com/company/9112?trk=tyah" target="_blank" class="supress-external-tooltip clw-link lower-spacing linkedIn" style="color: #ab8421; font-stretch: normal; font-size: 17px; line-height: 21px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; display: inline-block; margin-top: 1px; margin-bottom: 0px;">LinkedIn</a></p>
+<p style="margin-top: 0px; margin-right: 0px; margin-left: 0px;"><a href="http://www.twitter.com/firstrepublic" target="_blank" class="supress-external-tooltip clw-link lower-spacing twitter" style="color: #ab8421; font-stretch: normal; font-size: 17px; line-height: 21px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; display: inline-block; margin-top: 1px; margin-bottom: 0px;">Twitter</a></p>
+</div>
+<div class="grid_2 " style="display: inline; float: left; position: relative; margin-left: 15px; margin-right: 15px; width: 222px; color: #4b4b4b; font-family: adobe-garamond-pro, 'Times New Roman', Times; font-size: 16px; background-color: #d1d0cb;">
+<h4 class="clw-title lower-spacing" style="font-size: 20px; margin: 0px; padding: 0px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; font-weight: normal;">Privacy &amp; Legal</h4>
+<p style="margin: 0px;"><a class="clw-link lower-spacing" href="https://www.firstrepublic.com/privacyandsecurity/online-mobile-privacy" style="color: #ab8421; font-stretch: normal; font-size: 17px; line-height: 21px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; display: inline-block; margin-top: 1px; margin-bottom: 0px;">Online &amp; Mobile Privacy</a></p>
+<p style="margin: 0px;"><a href="https://www.firstrepublic.com/privacyandsecurity" class="clw-link lower-spacing" style="color: #ab8421; font-stretch: normal; font-size: 17px; line-height: 21px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; display: inline-block; margin-top: 1px; margin-bottom: 0px;">Privacy &amp; Security</a></p>
+<p style="margin-top: 0px; margin-right: 0px; margin-left: 0px;"><a href="https://www.firstrepublic.com/termsandconditions" class="clw-link lower-spacing" style="color: #ab8421; font-stretch: normal; font-size: 17px; line-height: 21px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; display: inline-block; margin-top: 1px; margin-bottom: 0px;">Terms &amp; Conditions</a></p>
+</div>
+<div class="grid_2 " style="display: inline; float: left; position: relative; margin-left: 15px; margin-right: 15px; width: 222px; color: #4b4b4b; font-family: adobe-garamond-pro, 'Times New Roman', Times; font-size: 16px; background-color: #d1d0cb;">
+<h4 class="clw-title lower-spacing" style="font-size: 20px; margin: 0px; padding: 0px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; font-weight: normal;">More...</h4>
+<p style="margin: 0px;"><a class="Careers clw-link lower-spacing" href="https://www.firstrepublic.com/careers" style="color: #ab8421; font-stretch: normal; font-size: 17px; line-height: 21px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; display: inline-block; margin-top: 1px; margin-bottom: 0px;">Careers</a></p>
+<p style="margin: 0px;"><a class="clw-link lower-spacing" href="https://www.firstrepublic.com/aboutus/fdic" style="color: #ab8421; font-stretch: normal; font-size: 17px; line-height: 21px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; display: inline-block; margin-top: 1px; margin-bottom: 0px;">FDIC FAQs</a></p>
+<p style="margin: 0px;"><a class="clw-link lower-spacing" href="https://www.firstrepublic.com/privacyandsecurity/mortgage-payment-issues" style="color: #ab8421; font-stretch: normal; font-size: 17px; line-height: 21px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; display: inline-block; margin-top: 1px; margin-bottom: 0px;">Mortgage Payment Issues</a></p>
+<p style="margin-top: 0px; margin-right: 0px; margin-left: 0px;"><a href="https://www.firstrepublic.com/resource/supplier-diversity-program" class="clw-link lower-spacing" style="color: #ab8421; font-stretch: normal; font-size: 17px; line-height: 21px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; display: inline-block; margin-top: 1px; margin-bottom: 0px;">Supplier Diversity</a></p>
+</div>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160204T204850Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+extranet\Anonymous
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+a5a7e907-f509-4efa-aebc-872e722fde82
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160411T190229Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+extranet\Anonymous
