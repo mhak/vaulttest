@@ -37,11 +37,26 @@
     "language": "en",
     "timestamp": "2016-04-11T19:23:25.1512297Z",
     "label": "Installed from package - campaign deployment",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "1c72563cfa25f1f191824b2d94d92cb43be10739",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "FooterLogo2x",
     "itemPath": "/sitecore/templates/Demo/Site Footer/Footer Section/FooterLogo2x",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "Rollback",
+    "database": "master",
+    "itemId": "{A195C6FE-DF4A-4374-BECE-3F794D5D2A93}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T19:41:59.2939550Z",
+    "label": "Rollback package - campaign deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "FooterLogo2x",
+    "itemPath": "[orphan]/FooterLogo2x",
     "commandType": "Item"
   }
 ]
