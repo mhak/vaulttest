@@ -5,13 +5,28 @@
     "itemId": "{94EE4BEF-ED69-445D-B00B-9D314BC1C1E4}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-11T21:30:00.0326320Z",
+    "timestamp": "2016-04-11T21:30:00.032632Z",
+    "label": "Installed from package - Strategy deployment",
+    "sourceControlRevisionId": "de39e3d0039d03f0af281709ce2a5e4dd911693d",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Navigation",
+    "itemPath": "/sitecore/templates/Demo/Vault/Section/Navigation",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{94EE4BEF-ED69-445D-B00B-9D314BC1C1E4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T21:47:28.1385803Z",
     "label": "Installed from package - Strategy deployment",
     "sourceControlRevisionId": null,
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "Navigation",
-    "itemPath": "/sitecore/templates/Demo/Vault/Section/Navigation",
+    "itemPath": "[orphan]/Demo/Vault/Section/Navigation",
     "commandType": "Item"
   }
 ]
