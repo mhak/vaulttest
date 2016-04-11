@@ -1,0 +1,17 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{8D4FC2FB-3E6E-41F6-BA92-A87573C77750}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T21:30:23.5219756Z",
+    "label": "Installed from package - Strategy deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Individual Strategy",
+    "itemPath": "/sitecore/content/Home/Strategic Initiatives/Individual Strategy",
+    "commandType": "Item"
+  }
+]
