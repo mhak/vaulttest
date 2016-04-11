@@ -1,0 +1,17 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{CFB6BB46-C6A8-44F9-977D-63C0A765B698}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-11T19:00:40.9582023Z",
+    "label": "Installed from package - campaign deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Promotion",
+    "itemPath": "/sitecore/templates/Demo/Promotion",
+    "commandType": "Item"
+  }
+]
