@@ -37,11 +37,26 @@
     "language": "en",
     "timestamp": "2016-04-12T20:10:55.2197302Z",
     "label": "Installed from package - Ecommerce deployment",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "89b75fcd1b1af0b23a2e70e574393691bfe9dd19",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "Shopping Cart",
     "itemPath": "/sitecore/content/Home/Ecommerce/Shopping Cart",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "Rollback",
+    "database": "master",
+    "itemId": "{61382548-7EB4-406C-8E74-BD888590ECBF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T00:17:40.9910815Z",
+    "label": "Rollback package - Ecommerce deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Shopping Cart",
+    "itemPath": "[orphan]/Shopping Cart",
     "commandType": "Item"
   }
 ]
