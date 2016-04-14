@@ -292,11 +292,26 @@
     "language": "en",
     "timestamp": "2016-04-13T00:17:45.2093228Z",
     "label": "Rollback package - Ecommerce deployment",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "e92cd7bc545739160e0307e4439007c7807c6c72",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "Home",
     "itemPath": "[orphan]/Home",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-14T17:19:13.6570821Z",
+    "label": "Installed from package - Ecommerce deployment",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Home",
+    "itemPath": "/sitecore/content/Home",
     "commandType": "Item"
   }
 ]
