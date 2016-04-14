@@ -307,11 +307,27 @@
     "language": "en",
     "timestamp": "2016-04-14T17:19:13.6570821Z",
     "label": "Installed from package - Ecommerce deployment",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "b5270e6c8fe08a8838776d7a054a33a06112a638",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "Home",
     "itemPath": "/sitecore/content/Home",
     "commandType": "Item"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-14T19:24:41.2626365Z",
+    "label": "Saved",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Home",
+    "itemPath": "/sitecore/content/Home",
+    "commandType": "Item",
+    "template": "Sample Item"
   }
 ]
