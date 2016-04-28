@@ -6,13 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "03/23/2016 19:19:33",
-    "label": "Saved",
-    "sourceControlRevisionId": "e1247df5df1e13298fd56e6c5d6115b08eedd765",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Home",
     "itemPath": "/sitecore/content/Home",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "e1247df5df1e13298fd56e6c5d6115b08eedd765"
   },
   {
     "eventType": "PackageInstall",
@@ -21,13 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-11T21:30:17.7026427Z",
-    "label": "Installed from package - Strategy deployment",
-    "sourceControlRevisionId": "605ac045cfce221a0ac8988559b3436668c5c304",
+    "label": null,
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "Home",
     "itemPath": "/sitecore/content/Home",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "605ac045cfce221a0ac8988559b3436668c5c304"
   },
   {
     "eventType": "Rollback",
@@ -36,13 +38,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-11T21:45:22.7394079Z",
-    "label": "Rollback package - Strategy deployment",
-    "sourceControlRevisionId": "3f011864efb070217b6ad4746f484497ad25fae0",
+    "label": null,
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "Home",
     "itemPath": "[orphan]/Home",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "3f011864efb070217b6ad4746f484497ad25fae0"
   },
   {
     "eventType": "PackageInstall",
@@ -51,13 +54,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-11T21:47:56.9372275Z",
-    "label": "Installed from package - Strategy deployment",
-    "sourceControlRevisionId": "5136b21d39b3456567b78f2a3084a9c8ab50a79b",
+    "label": null,
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "Home",
     "itemPath": "/sitecore/content/Home",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "5136b21d39b3456567b78f2a3084a9c8ab50a79b"
   },
   {
     "eventType": "Created",
@@ -67,12 +71,13 @@
     "language": "en",
     "timestamp": "04/11/2016 21:47:56",
     "label": null,
-    "sourceControlRevisionId": "41ec68514a61c2e9780b2e61882f4cf7e5f088a5",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "Home",
     "itemPath": "[orphan]/Home",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "41ec68514a61c2e9780b2e61882f4cf7e5f088a5"
   },
   {
     "eventType": "Saved",
@@ -82,12 +87,13 @@
     "language": "da",
     "timestamp": "04/11/2016 21:47:56",
     "label": null,
-    "sourceControlRevisionId": "295a97c16117b352ca8208164376aaef7632ac72",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "Home",
     "itemPath": "[orphan]/Home",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "295a97c16117b352ca8208164376aaef7632ac72"
   },
   {
     "eventType": "VersionAdded",
@@ -97,12 +103,13 @@
     "language": "da",
     "timestamp": "04/11/2016 21:47:56",
     "label": null,
-    "sourceControlRevisionId": "43971e16ab1f338a5b43d40891ac767df684e9e0",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "Home",
     "itemPath": "[orphan]/Home",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "43971e16ab1f338a5b43d40891ac767df684e9e0"
   },
   {
     "eventType": "Saved",
@@ -112,12 +119,13 @@
     "language": "da",
     "timestamp": "04/11/2016 21:47:56",
     "label": null,
-    "sourceControlRevisionId": "1df9a1866f3d6f53d47e84eac2dfa84015a81cdd",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "Hjem",
     "itemPath": "/sitecore/content/Home",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "1df9a1866f3d6f53d47e84eac2dfa84015a81cdd"
   },
   {
     "eventType": "Saved",
@@ -127,12 +135,13 @@
     "language": "de-DE",
     "timestamp": "04/11/2016 21:47:56",
     "label": null,
-    "sourceControlRevisionId": "33be9e550913a94e252c1ff056f15041e4220688",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "Home",
     "itemPath": "/sitecore/content/Home",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "33be9e550913a94e252c1ff056f15041e4220688"
   },
   {
     "eventType": "VersionAdded",
@@ -142,12 +151,13 @@
     "language": "de-DE",
     "timestamp": "04/11/2016 21:47:56",
     "label": null,
-    "sourceControlRevisionId": "4196032784f063b5c3f9900a68b587d8ee4af81d",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "Home",
     "itemPath": "/sitecore/content/Home",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "4196032784f063b5c3f9900a68b587d8ee4af81d"
   },
   {
     "eventType": "Saved",
@@ -157,12 +167,13 @@
     "language": "de-DE",
     "timestamp": "04/11/2016 21:47:56",
     "label": null,
-    "sourceControlRevisionId": "d4ff7532e135e27df4f7800f7d1c61d15332d5c4",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "Home",
     "itemPath": "/sitecore/content/Home",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "d4ff7532e135e27df4f7800f7d1c61d15332d5c4"
   },
   {
     "eventType": "Saved",
@@ -172,12 +183,13 @@
     "language": "en",
     "timestamp": "04/11/2016 21:47:56",
     "label": null,
-    "sourceControlRevisionId": "4aa4310657467614008b88ee79134dad55250b8f",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "Home",
     "itemPath": "/sitecore/content/Home",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "4aa4310657467614008b88ee79134dad55250b8f"
   },
   {
     "eventType": "VersionAdded",
@@ -187,12 +199,13 @@
     "language": "en",
     "timestamp": "04/11/2016 21:47:56",
     "label": null,
-    "sourceControlRevisionId": "beaa2fc764723cdf7129c210788026dd38164315",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "Home",
     "itemPath": "/sitecore/content/Home",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "beaa2fc764723cdf7129c210788026dd38164315"
   },
   {
     "eventType": "Saved",
@@ -202,12 +215,13 @@
     "language": "en",
     "timestamp": "04/11/2016 21:47:56",
     "label": null,
-    "sourceControlRevisionId": "791fbad6ef41312552c4728f94651a898147272d",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "Home",
     "itemPath": "/sitecore/content/Home",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "791fbad6ef41312552c4728f94651a898147272d"
   },
   {
     "eventType": "Saved",
@@ -217,12 +231,13 @@
     "language": "ja-JP",
     "timestamp": "04/11/2016 21:47:56",
     "label": null,
-    "sourceControlRevisionId": "ece6112bd39d9587e697ef1558a82616397025f0",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "Home",
     "itemPath": "/sitecore/content/Home",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "ece6112bd39d9587e697ef1558a82616397025f0"
   },
   {
     "eventType": "VersionAdded",
@@ -232,12 +247,13 @@
     "language": "ja-JP",
     "timestamp": "04/11/2016 21:47:56",
     "label": null,
-    "sourceControlRevisionId": "107d9d77aebd8e9eced5265a8e55fb8dc4d8d48a",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "Home",
     "itemPath": "/sitecore/content/Home",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "107d9d77aebd8e9eced5265a8e55fb8dc4d8d48a"
   },
   {
     "eventType": "Saved",
@@ -247,12 +263,13 @@
     "language": "ja-JP",
     "timestamp": "04/11/2016 21:47:56",
     "label": null,
-    "sourceControlRevisionId": "50ea88ea9899ea1c2e2a19165d60072a1cfc1fec",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "ホーム",
     "itemPath": "/sitecore/content/Home",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "50ea88ea9899ea1c2e2a19165d60072a1cfc1fec"
   },
   {
     "eventType": "PackageInstall",
@@ -261,13 +278,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-11T22:35:35.8757494Z",
-    "label": "Installed from package - Ecommerce deployment",
-    "sourceControlRevisionId": "1a7b6787189584502a76487bebef135a172407e7",
+    "label": null,
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "Home",
     "itemPath": "/sitecore/content/Home",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "1a7b6787189584502a76487bebef135a172407e7"
   },
   {
     "eventType": "PackageInstall",
@@ -276,13 +294,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-12T20:10:42.7570174Z",
-    "label": "Installed from package - Ecommerce deployment",
-    "sourceControlRevisionId": "1411aabf9b6f77c629d354b3de8985323e77ee7b",
+    "label": null,
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "Home",
     "itemPath": "/sitecore/content/Home",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "1411aabf9b6f77c629d354b3de8985323e77ee7b"
   },
   {
     "eventType": "Rollback",
@@ -291,13 +310,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T00:17:45.2093228Z",
-    "label": "Rollback package - Ecommerce deployment",
-    "sourceControlRevisionId": "e92cd7bc545739160e0307e4439007c7807c6c72",
+    "label": null,
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "Home",
     "itemPath": "[orphan]/Home",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "e92cd7bc545739160e0307e4439007c7807c6c72"
   },
   {
     "eventType": "PackageInstall",
@@ -306,13 +326,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-14T17:19:13.6570821Z",
-    "label": "Installed from package - Ecommerce deployment",
-    "sourceControlRevisionId": "b5270e6c8fe08a8838776d7a054a33a06112a638",
+    "label": null,
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "Home",
     "itemPath": "/sitecore/content/Home",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "b5270e6c8fe08a8838776d7a054a33a06112a638"
   },
   {
     "eventType": "Saved",
@@ -321,14 +342,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-14T19:24:41.2626365Z",
-    "label": "Saved",
-    "sourceControlRevisionId": "d4600a4b72263d975c9178287ea193e834520b1c",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Home",
     "itemPath": "/sitecore/content/Home",
     "commandType": "Item",
-    "template": "Sample Item"
+    "template": "Sample Item",
+    "sourceControlRevisionId": "d4600a4b72263d975c9178287ea193e834520b1c"
   },
   {
     "eventType": "PackageInstall",
@@ -337,13 +358,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-27T02:04:13.3770608Z",
-    "label": "Installed from package - home release",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "Home",
     "itemPath": "/sitecore/content/Home",
     "commandType": "Item",
-    "template": "Sample Item"
+    "template": "Sample Item",
+    "sourceControlRevisionId": "12b6a46b25b4cf1ff284c69b8ad6ebbac19b76af"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-28T20:38:17.0598486Z",
+    "label": "Installed from package - home release",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Home",
+    "itemPath": "/sitecore/content/Home",
+    "commandType": "Item",
+    "template": "Sample Item",
+    "sourceControlRevisionId": null
   }
 ]
