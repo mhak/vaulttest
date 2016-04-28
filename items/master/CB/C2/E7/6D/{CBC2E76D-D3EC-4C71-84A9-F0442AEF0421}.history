@@ -6,13 +6,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-27T02:04:21.0524998Z",
-    "label": "Installed from package - home release",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "{190B1C84-F1BE-47ED-AA41-F42193D9C8FC}",
     "activeUser": "extranet\\Anonymous",
     "itemName": "Sample Item 2",
     "itemPath": "/sitecore/content/Home/Sample Item 2",
     "commandType": "Item",
-    "template": "Sample Item"
+    "template": "Sample Item",
+    "sourceControlRevisionId": "2fe2fa12d3b4e5ac949a106fb12107e788e77da2"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{CBC2E76D-D3EC-4C71-84A9-F0442AEF0421}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-28T20:38:28.0344763Z",
+    "label": "Installed from package - home release",
+    "workflowState": "{190B1C84-F1BE-47ED-AA41-F42193D9C8FC}",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Sample Item 2",
+    "itemPath": "/sitecore/content/Home/Sample Item 2",
+    "commandType": "Item",
+    "template": "Sample Item",
+    "sourceControlRevisionId": null
   }
 ]
