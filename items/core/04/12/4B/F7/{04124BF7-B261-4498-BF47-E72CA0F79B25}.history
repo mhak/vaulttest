@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{04124BF7-B261-4498-BF47-E72CA0F79B25}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:23:36.5799270Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "SnapshotItems",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Snapshots/PageSettings/Lists/SnapshotItems",
+    "commandType": "Item",
+    "template": "ListControl",
+    "sourceControlRevisionId": null
+  }
+]
