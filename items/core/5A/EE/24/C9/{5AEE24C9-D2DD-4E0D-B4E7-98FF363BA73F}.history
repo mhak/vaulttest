@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{5AEE24C9-D2DD-4E0D-B4E7-98FF363BA73F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:17:48.5800225Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Meng's report 2",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Navigation/Reporting/Reports/Mengs report 2",
+    "commandType": "Item",
+    "template": "HyperlinkButton Parameters",
+    "sourceControlRevisionId": null
+  }
+]
