@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{9F0AD44A-ADBD-4E38-86B6-1F9BCFF96FDC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:29:43.4259094Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "TheVault",
+    "itemPath": "/sitecore/content/Applications/Content Editor/Menues/TheVault",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]
