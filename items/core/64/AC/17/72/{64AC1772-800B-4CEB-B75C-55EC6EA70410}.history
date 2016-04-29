@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{64AC1772-800B-4CEB-B75C-55EC6EA70410}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:22:13.0951519Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "ActionControl Parameters",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Expander/ActionControl Parameters",
+    "commandType": "Item",
+    "template": "ActionControl Parameters",
+    "sourceControlRevisionId": null
+  }
+]
