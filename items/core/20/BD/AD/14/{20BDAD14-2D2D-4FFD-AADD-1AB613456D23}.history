@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{20BDAD14-2D2D-4FFD-AADD-1AB613456D23}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:23:51.8908027Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Execute Deployment",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Execute Deployment",
+    "commandType": "Item",
+    "template": "Speak-DashboardPage",
+    "sourceControlRevisionId": null
+  }
+]
