@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{139AC730-E041-4791-8813-094826C1E87E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:25:38.8849224Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Rules ActionGroup",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Rules Accordion/Rules ActionControl Parameters/Rules ActionColumn/Rules ActionGroup",
+    "commandType": "Item",
+    "template": "ActionGroup",
+    "sourceControlRevisionId": null
+  }
+]
