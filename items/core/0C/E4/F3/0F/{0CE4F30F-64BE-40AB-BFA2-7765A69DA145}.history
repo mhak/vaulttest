@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{0CE4F30F-64BE-40AB-BFA2-7765A69DA145}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:29:48.3011882Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Vault",
+    "itemPath": "/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Vault",
+    "commandType": "Item",
+    "template": "Chunk",
+    "sourceControlRevisionId": null
+  }
+]
