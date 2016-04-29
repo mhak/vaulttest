@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{200D49D8-7FAA-4945-9853-14DFC88A0AC6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:20:11.5401994Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "DeletedItemsDataSource Parameters",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Deleted Items/PageSettings/Data/RecoveredItemsDataSource/DeletedItemsDataSource Parameters",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]
