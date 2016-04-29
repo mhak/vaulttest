@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{7E29561F-6870-4138-93EF-4877F2FC6E3B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:29:36.5415156Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "ListControl",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dataviewer/PageSettings/ListControl",
+    "commandType": "Item",
+    "template": "ListControl",
+    "sourceControlRevisionId": null
+  }
+]
