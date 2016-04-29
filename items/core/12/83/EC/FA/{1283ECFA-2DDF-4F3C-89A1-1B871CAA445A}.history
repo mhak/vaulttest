@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{1283ECFA-2DDF-4F3C-89A1-1B871CAA445A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:29:46.6570942Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Label Item",
+    "itemPath": "/sitecore/content/Applications/Content Editor/Menues/TheVault/Label Item",
+    "commandType": "Item",
+    "template": "Menu item",
+    "sourceControlRevisionId": null
+  }
+]
