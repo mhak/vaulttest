@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{244BFA20-E2BF-42A2-B1DD-967EA355D7BC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:16:10.0173851Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "RulesList-Parameters",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultRulesList/RulesList-Parameters",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]
