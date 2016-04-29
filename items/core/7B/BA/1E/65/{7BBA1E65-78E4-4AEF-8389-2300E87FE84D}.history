@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{7BBA1E65-78E4-4AEF-8389-2300E87FE84D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:25:57.1869693Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Filter-based selection",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Tabs/SelectTab Parameters/MatchingItems",
+    "commandType": "Item",
+    "template": "Tab",
+    "sourceControlRevisionId": null
+  }
+]
