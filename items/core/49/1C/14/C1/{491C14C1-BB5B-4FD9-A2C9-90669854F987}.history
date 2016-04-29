@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{491C14C1-BB5B-4FD9-A2C9-90669854F987}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:23:46.4004887Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Snapshot Border Parameters",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Snapshots/PageSettings/Snapshot Accordian/Snapshot Border Parameters",
+    "commandType": "Item",
+    "template": "Border Parameters",
+    "sourceControlRevisionId": null
+  }
+]
