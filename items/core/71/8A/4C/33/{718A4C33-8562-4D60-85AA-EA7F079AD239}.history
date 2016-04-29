@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{718A4C33-8562-4D60-85AA-EA7F079AD239}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:25:51.1216223Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "SelectTab Parameters",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Tabs/SelectTab Parameters",
+    "commandType": "Item",
+    "template": "TabControl Parameters",
+    "sourceControlRevisionId": null
+  }
+]
