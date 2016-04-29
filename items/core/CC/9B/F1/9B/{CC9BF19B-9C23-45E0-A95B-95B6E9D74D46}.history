@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{CC9BF19B-9C23-45E0-A95B-95B6E9D74D46}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:18:07.8431243Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Vault StyleSheet",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Dialogs/Deployment/DeploymentSelection/PageSettings/Vault StyleSheet",
+    "commandType": "Item",
+    "template": "Page-Stylesheet-File",
+    "sourceControlRevisionId": null
+  }
+]
