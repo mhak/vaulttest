@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{3D11BCDC-EA31-40C4-A33D-D7669AE750E0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:29:17.3394173Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Item Id",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Reporting/Reports/PageSettings/ListControl/Item Id",
+    "commandType": "Item",
+    "template": "ColumnField",
+    "sourceControlRevisionId": null
+  }
+]
