@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{14D4F6C1-3662-40F9-A879-98CA4C32BDAE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:17:49.9170990Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Deployment",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Dialogs/Deployment",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]
