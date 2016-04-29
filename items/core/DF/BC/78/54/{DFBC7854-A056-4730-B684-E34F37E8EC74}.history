@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{DFBC7854-A056-4730-B684-E34F37E8EC74}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:19:13.2148634Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Recovered Items",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items",
+    "commandType": "Item",
+    "template": "Speak-DashboardPage",
+    "sourceControlRevisionId": null
+  }
+]
