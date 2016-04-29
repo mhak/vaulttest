@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{C3FEB254-4C6B-44A9-B3A4-DADED3C8EE2C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:29:56.4906567Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Versions",
+    "itemPath": "/sitecore/content/Applications/Content Editor/Ribbons/Strips/Vault/Versions",
+    "commandType": "Item",
+    "template": "Reference",
+    "sourceControlRevisionId": null
+  }
+]
