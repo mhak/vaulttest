@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{7A99E5EC-3B38-4395-88B3-EE120E9FD833}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:26:49.7399751Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Buttons",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Buttons",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]
