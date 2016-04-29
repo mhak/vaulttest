@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{EF0D7C08-04AE-405B-8067-A43771A07780}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:15:10.8149989Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Messaging",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultActivity/Activity-Parameters/Messaging",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null
+  }
+]
