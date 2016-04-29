@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{A7ED6128-DA42-467F-85B5-7883D333D89C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:22:31.9762319Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Version",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Lists/DeletedItems/Version",
+    "commandType": "Item",
+    "template": "ColumnField",
+    "sourceControlRevisionId": null
+  }
+]
