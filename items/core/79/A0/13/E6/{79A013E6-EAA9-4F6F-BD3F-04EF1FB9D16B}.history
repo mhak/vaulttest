@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{79A013E6-EAA9-4F6F-BD3F-04EF1FB9D16B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:17:21.2694605Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "IsCheckboxEnabled",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/SitecoreExtended/VaultItemTreeView/VaultItemTreeView Parameters/Behavior/IsCheckboxEnabled",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]
