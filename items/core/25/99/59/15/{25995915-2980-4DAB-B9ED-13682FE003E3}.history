@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{25995915-2980-4DAB-B9ED-13682FE003E3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:16:14.3786345Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Data",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultRulesList/RulesList-Parameters/Data",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null
+  }
+]
