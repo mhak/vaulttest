@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{B85521A6-5C66-44ED-8CA9-2FC24B1AC136}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:29:53.1794673Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "TheVault",
+    "itemPath": "/sitecore/content/Applications/Content Editor/Ribbons/Ribbons/Default/TheVault",
+    "commandType": "Item",
+    "template": "Reference",
+    "sourceControlRevisionId": null
+  }
+]
