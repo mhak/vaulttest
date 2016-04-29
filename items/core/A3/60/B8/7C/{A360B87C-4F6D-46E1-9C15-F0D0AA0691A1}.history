@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{A360B87C-4F6D-46E1-9C15-F0D0AA0691A1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:17:45.6978577Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Reports",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Navigation/Reporting/Reports",
+    "commandType": "Item",
+    "template": "HyperlinkButton Parameters",
+    "sourceControlRevisionId": null
+  }
+]
