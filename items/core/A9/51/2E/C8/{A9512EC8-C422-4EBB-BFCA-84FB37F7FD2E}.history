@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{A9512EC8-C422-4EBB-BFCA-84FB37F7FD2E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:14:03.8141667Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "ItemID",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/DataSource/LabelInformationDS/LabelInformationDS-Parameters/Data/ItemID",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]
