@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{3EA91FE8-83EF-461B-9DD4-590A7EA153C2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:18:59.5190800Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Release",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Release",
+    "commandType": "Item",
+    "template": "LaunchPad-Group",
+    "sourceControlRevisionId": null
+  }
+]
