@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{CF55906E-38AA-4368-BA9A-623C4136D7BE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:15:29.0850439Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Data",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultHealthStatus/HealthStatus-Parameters/Data",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null
+  }
+]
