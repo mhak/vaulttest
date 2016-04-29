@@ -1,0 +1,107 @@
+----item----
+version: 1
+id: {6DBEA31E-08CD-471F-BECB-61633B00F7EF}
+database: core
+path: /sitecore/content/Applications/Content Editor/Ribbons/Chunks/Vault/Versions
+parent: {0CE4F30F-64BE-40AB-BFA2-7765A69DA145}
+name: Versions
+master: {00000000-0000-0000-0000-000000000000}
+template: {19054D88-FED7-48AD-87CD-CF458590C303}
+templatekey: Large Gallery Button
+
+----field----
+field: {E792E033-3264-4F34-BEBF-B2BD82B0FC5A}
+name: Icon
+key: icon
+content-length: 28
+
+business/32x32/data_lock.png
+----field----
+field: {B6D7D860-0ABA-49DD-85D5-4D537646EF7F}
+name: Command
+key: command
+content-length: 21
+
+vault:versionsgallery
+----field----
+field: {9383F6DD-2D09-40A4-8004-4F63125DBDF6}
+name: Gallery
+key: gallery
+content-length: 23
+
+Gallery.VersionsGallery
+----field----
+field: {0A734AF1-CBD3-4896-8615-6374D2D5DCEE}
+name: Gallery Width
+key: gallery width
+content-length: 0
+
+
+----field----
+field: {C13FE317-1F69-42D1-B8EF-EE783D372926}
+name: Gallery Height
+key: gallery height
+content-length: 0
+
+
+----field----
+field: {DEC8D2D5-E3CF-48B6-A653-8E69E2716641}
+name: __Security
+key: __security
+content-length: 62
+
+ar|sitecore\Sitecore Client Users|pe|+item:read|pd|+item:read|
+----version----
+language: en
+version: 1
+revision: b6cdf6b0-f5b1-4152-bb4d-f27ee6e3918b
+
+----field----
+field: {2AC65C2F-127B-43BC-8687-5689E1FB3D78}
+name: Header
+key: header
+content-length: 8
+
+Versions
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20131017T135446Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+b6cdf6b0-f5b1-4152-bb4d-f27ee6e3918b
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160226T214220Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

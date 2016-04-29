@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{6DBEA31E-08CD-471F-BECB-61633B00F7EF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:29:51.5033714Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Versions",
+    "itemPath": "/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Vault/Versions",
+    "commandType": "Item",
+    "template": "Large Gallery Button",
+    "sourceControlRevisionId": null
+  }
+]
