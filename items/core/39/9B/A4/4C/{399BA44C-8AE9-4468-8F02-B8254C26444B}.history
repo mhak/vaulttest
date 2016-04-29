@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{399BA44C-8AE9-4468-8F02-B8254C26444B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:18:26.3051803Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "PageSettings",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Dialogs/RecoverConfirmation/PageSettings",
+    "commandType": "Item",
+    "template": "PageSettings",
+    "sourceControlRevisionId": null
+  }
+]
