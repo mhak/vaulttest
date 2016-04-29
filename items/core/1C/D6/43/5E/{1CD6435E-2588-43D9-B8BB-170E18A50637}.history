@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{1CD6435E-2588-43D9-B8BB-170E18A50637}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:20:50.0714033Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "EnableFacets",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Deleted Items/PageSettings/Data/RecoveredItemsDataSource/Search/Data/EnableFacets",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]
