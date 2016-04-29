@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{48FF102D-CB26-480E-9E29-A306EA43481C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:17:55.8514384Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "RecoverConfirmation",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Dialogs/RecoverConfirmation",
+    "commandType": "Item",
+    "template": "Speak-DialogPage",
+    "sourceControlRevisionId": null
+  }
+]
