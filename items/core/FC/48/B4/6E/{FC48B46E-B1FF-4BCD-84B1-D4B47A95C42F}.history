@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{FC48B46E-B1FF-4BCD-84B1-D4B47A95C42F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:23:12.9215738Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Snapshots/PageSettings/Data/SnapshotsDataSource/SnapshotsDataSource Parameters/__Standard Values",
+    "commandType": "Item",
+    "template": "SnapshotsDataSource Parameters",
+    "sourceControlRevisionId": null
+  }
+]
