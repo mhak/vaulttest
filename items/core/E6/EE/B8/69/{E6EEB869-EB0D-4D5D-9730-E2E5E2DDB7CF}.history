@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{E6EEB869-EB0D-4D5D-9730-E2E5E2DDB7CF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:14:49.4817787Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "VaultVerificationList",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultVerificationList",
+    "commandType": "Item",
+    "template": "View rendering",
+    "sourceControlRevisionId": null
+  }
+]
