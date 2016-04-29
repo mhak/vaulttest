@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{F4202B4B-D627-4ABB-A0F7-E11BAD24FCA2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:24:17.0612424Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Result Filter ActionControl Parameters",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Actions/Result Filter ActionControl Parameters",
+    "commandType": "Item",
+    "template": "ActionControl Parameters",
+    "sourceControlRevisionId": null
+  }
+]
