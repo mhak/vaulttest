@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{DED61578-BE22-43FD-ADFB-A544225A3EF8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:14:11.5906115Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "TargetSystemsDS-Parameters",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/DataSource/TargetSystemsDS/TargetSystemsDS-Parameters",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]
