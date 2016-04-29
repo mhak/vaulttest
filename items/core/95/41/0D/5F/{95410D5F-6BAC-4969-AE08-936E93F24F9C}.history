@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{95410D5F-6BAC-4969-AE08-936E93F24F9C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:22:14.8232508Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "ListManagementAccordion Parameters",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Expander/ListManagementAccordion Parameters",
+    "commandType": "Item",
+    "template": "AdvancedExpander Parameters",
+    "sourceControlRevisionId": null
+  }
+]
