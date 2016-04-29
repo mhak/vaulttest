@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{8D5106AE-EC3E-4455-BD05-85B3DBFBBD30}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:19:02.4692488Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Deleted Items",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Data Recovery/Deleted Items",
+    "commandType": "Item",
+    "template": "LaunchPad-Button",
+    "sourceControlRevisionId": null
+  }
+]
