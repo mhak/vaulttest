@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{AB81A030-0FE5-40D4-8782-96211103B92E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:20:57.5748324Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Recover Selected",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Deleted Items/PageSettings/Expander/ActionControl Parameters/ActionColumn/Deleted Item ActionGroup/Recover Selected",
+    "commandType": "Item",
+    "template": "Action",
+    "sourceControlRevisionId": null
+  }
+]
