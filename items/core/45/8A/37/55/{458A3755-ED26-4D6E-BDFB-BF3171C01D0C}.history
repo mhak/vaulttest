@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{458A3755-ED26-4D6E-BDFB-BF3171C01D0C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:17:59.8656680Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "DeploymentSelection",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Dialogs/Deployment/DeploymentSelection",
+    "commandType": "Item",
+    "template": "Speak-DialogPage",
+    "sourceControlRevisionId": null
+  }
+]
