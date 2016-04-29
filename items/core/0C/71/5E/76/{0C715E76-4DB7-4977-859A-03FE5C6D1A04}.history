@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{0C715E76-4DB7-4977-859A-03FE5C6D1A04}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:12:46.6327521Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "DatabasesDS-Parameters",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/DataSource/DatabasesDS/DatabasesDS-Parameters",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]
