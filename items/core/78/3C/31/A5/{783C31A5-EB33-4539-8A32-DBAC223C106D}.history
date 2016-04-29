@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{783C31A5-EB33-4539-8A32-DBAC223C106D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:12:36.3861661Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "DatabasesDS",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/DataSource/DatabasesDS",
+    "commandType": "Item",
+    "template": "View rendering",
+    "sourceControlRevisionId": null
+  }
+]
