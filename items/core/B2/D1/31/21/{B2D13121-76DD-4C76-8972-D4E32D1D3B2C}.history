@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{B2D13121-76DD-4C76-8972-D4E32D1D3B2C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:12:25.5775479Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Dashboard",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard",
+    "commandType": "Item",
+    "template": "Speak-DashboardPage",
+    "sourceControlRevisionId": null
+  }
+]
