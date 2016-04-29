@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{D15624D2-AADA-4B12-8685-DFAFA7EE974B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:17:05.6615677Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Data",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/SitecoreExtended/VaultItemTreeView/VaultItemTreeView Parameters/Data",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null
+  }
+]
