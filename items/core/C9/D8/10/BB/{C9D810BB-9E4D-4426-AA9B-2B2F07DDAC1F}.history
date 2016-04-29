@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{C9D810BB-9E4D-4426-AA9B-2B2F07DDAC1F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:21:59.9063976Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "FieldName",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/Facet/Data/FieldName",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]
