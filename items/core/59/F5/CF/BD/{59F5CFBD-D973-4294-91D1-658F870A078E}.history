@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{59F5CFBD-D973-4294-91D1-658F870A078E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:28:44.2225231Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Appearance",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Reporting/Reports/PageSettings/Data/HistoryDataSource/HistoryDataSource Parameters/Appearance",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null
+  }
+]
