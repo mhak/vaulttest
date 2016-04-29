@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{95AB3D6D-32A5-4672-98A3-63BBB592061E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:27:12.3802701Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Data/DeploymentItemsDataSource/DeploymentItemsDataSource Parameters/__Standard Values",
+    "commandType": "Item",
+    "template": "DeploymentItemsDataSource Parameters",
+    "sourceControlRevisionId": null
+  }
+]
