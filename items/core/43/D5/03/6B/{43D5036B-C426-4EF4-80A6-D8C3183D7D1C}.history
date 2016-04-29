@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{43D5036B-C426-4EF4-80A6-D8C3183D7D1C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:14:43.6864472Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "VaultRecentActivity",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultRecentActivity",
+    "commandType": "Item",
+    "template": "View rendering",
+    "sourceControlRevisionId": null
+  }
+]
