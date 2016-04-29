@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{77DDC380-BA90-4DDC-861B-4E5F5BFB108F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:18:55.2308348Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "XSpeakRules",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/XSpeakRules",
+    "commandType": "Item",
+    "template": "RuleDefinition",
+    "sourceControlRevisionId": null
+  }
+]
