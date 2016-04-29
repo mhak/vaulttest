@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{60E70B4C-7B8B-47AE-BD71-B9D4DD481D9F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:26:57.3254090Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Vault QuickDeployment",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Vault QuickDeployment",
+    "commandType": "Item",
+    "template": "Page-Stylesheet-File",
+    "sourceControlRevisionId": null
+  }
+]
