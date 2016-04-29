@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{7DB62181-E08C-4148-91D1-533CAA2D162F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:27:51.8635284Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Deploy ActionColumn",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Deploy Accordian/Deploy ActionControl Parameters/Deploy ActionColumn",
+    "commandType": "Item",
+    "template": "ActionColumn",
+    "sourceControlRevisionId": null
+  }
+]
