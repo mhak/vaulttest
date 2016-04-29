@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{9BCE695C-9255-4AEB-B62F-074C7A0F8B70}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:28:15.9689071Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "BarChart Parameters",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Reporting/Reports/PageSettings/BarChart Parameters",
+    "commandType": "Item",
+    "template": "BarChart Parameters",
+    "sourceControlRevisionId": null
+  }
+]
