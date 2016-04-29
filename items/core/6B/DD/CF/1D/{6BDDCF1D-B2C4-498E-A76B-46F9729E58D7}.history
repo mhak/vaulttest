@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{6BDDCF1D-B2C4-498E-A76B-46F9729E58D7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:25:40.3070038Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Add new condition",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Rules Accordion/Rules ActionControl Parameters/Rules ActionColumn/Rules ActionGroup/Add new condition",
+    "commandType": "Item",
+    "template": "Action",
+    "sourceControlRevisionId": null
+  }
+]
