@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{644D1F1A-AE18-4C7C-89BE-1747D84E2E46}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:25:28.3403193Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "ActionGroup",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Results Accordian/Results ActionControl Parameters/ActionColumn/ActionGroup",
+    "commandType": "Item",
+    "template": "ActionGroup",
+    "sourceControlRevisionId": null
+  }
+]
