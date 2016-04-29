@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{72322CAC-FD08-4EDF-B2EE-F62CD3EECE54}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:15:13.9051756Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "UpdatedMessages",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultActivity/Activity-Parameters/Messaging/UpdatedMessages",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]
