@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{064CDDCE-C2F2-4B59-8F22-784D4EEB0D4E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:15:44.3059145Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Data",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultQuickLinks/QuickLinks-Parameters/Data",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null
+  }
+]
