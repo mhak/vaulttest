@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{74F9600D-6DF7-4A7C-9AA4-F9DCB32FADE4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:14:21.2461637Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Messaging/XSpeak/XSpeak-Parameters/__Standard Values",
+    "commandType": "Item",
+    "template": "XSpeak-Parameters",
+    "sourceControlRevisionId": null
+  }
+]
