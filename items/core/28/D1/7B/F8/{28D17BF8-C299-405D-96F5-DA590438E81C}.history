@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{28D17BF8-C299-405D-96F5-DA590438E81C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:22:16.6173534Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "ActionColumn",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Expander/ActionControl Parameters/ActionColumn",
+    "commandType": "Item",
+    "template": "ActionColumn",
+    "sourceControlRevisionId": null
+  }
+]
