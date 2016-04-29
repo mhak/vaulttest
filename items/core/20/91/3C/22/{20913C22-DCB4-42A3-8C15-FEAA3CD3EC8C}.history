@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{20913C22-DCB4-42A3-8C15-FEAA3CD3EC8C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:18:48.3904435Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Data Recovery",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]
