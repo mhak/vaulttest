@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{259269D5-6D5A-4CED-963F-71F40A1AA61F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:26:59.0185058Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Next Button",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Buttons/Next Button",
+    "commandType": "Item",
+    "template": "Button Parameters",
+    "sourceControlRevisionId": null
+  }
+]
