@@ -1,0 +1,9 @@
+{
+  "itemName": "Vault",
+  "templateId": "{5EE505EE-8C0C-4CBD-8815-C1B7B1F06516}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{C625DB2F-6DB2-4645-B7F7-733ABFC2CAC6}",
+  "childIds": [
+    "{FA2FF289-B088-4BB9-8AEE-4D00AAB899A3}"
+  ]
+}
