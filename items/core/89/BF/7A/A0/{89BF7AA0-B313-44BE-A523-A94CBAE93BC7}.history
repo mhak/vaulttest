@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{89BF7AA0-B313-44BE-A523-A94CBAE93BC7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:19:05.0823982Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Recovered Items",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Data Recovery/Recovered Items",
+    "commandType": "Item",
+    "template": "LaunchPad-Button",
+    "sourceControlRevisionId": null
+  }
+]
