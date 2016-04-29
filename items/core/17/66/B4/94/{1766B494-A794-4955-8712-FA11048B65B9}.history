@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{1766B494-A794-4955-8712-FA11048B65B9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:18:51.2176052Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Reporting",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Reporting",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]
