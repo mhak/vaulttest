@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{C5D803C7-B76F-467C-96CD-1D656F4129EB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:12:22.7233846Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Dialogs",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Dialogs",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]
