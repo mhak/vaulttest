@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{586AB759-0519-40AF-ADA8-92CD675BCD90}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:24:20.3464303Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Result ActionColumn",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Actions/Result Filter ActionControl Parameters/Result ActionColumn",
+    "commandType": "Item",
+    "template": "ActionColumn",
+    "sourceControlRevisionId": null
+  }
+]
