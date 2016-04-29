@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{6DF93627-E35B-4C1C-9D84-C4E2BFB51A54}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:26:23.3874678Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Deployed Accordian Parameters",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Execute Deployment/PageSettings/DeploymentAccordian/Deployed Accordian Parameters",
+    "commandType": "Item",
+    "template": "AdvancedExpander Parameters",
+    "sourceControlRevisionId": null
+  }
+]
