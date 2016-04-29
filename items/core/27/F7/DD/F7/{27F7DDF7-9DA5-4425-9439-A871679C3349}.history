@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{27F7DDF7-9DA5-4425-9439-A871679C3349}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:15:26.4118910Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Messaging",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultHealthStatus/HealthStatus-Parameters/Messaging",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null
+  }
+]
