@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{C6957134-BEFE-4A32-B075-C75C56379786}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:26:37.0552496Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Vault StyleSheet",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Rollback/Execute Rollback/PageSettings/Vault StyleSheet",
+    "commandType": "Item",
+    "template": "Page-Stylesheet-File",
+    "sourceControlRevisionId": null
+  }
+]
