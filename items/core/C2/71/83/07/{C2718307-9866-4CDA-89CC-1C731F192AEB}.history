@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{C2718307-9866-4CDA-89CC-1C731F192AEB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:27:00.6565995Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Previous Button",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Buttons/Previous Button",
+    "commandType": "Item",
+    "template": "Button Parameters",
+    "sourceControlRevisionId": null
+  }
+]
