@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{835FD556-A672-49CE-9482-175791629C05}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:14:39.4742063Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "VaultProductName",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultProductName",
+    "commandType": "Item",
+    "template": "View rendering",
+    "sourceControlRevisionId": null
+  }
+]
