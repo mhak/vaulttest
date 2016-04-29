@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{93EFD467-E2F0-466D-A023-A894E2DB1E46}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:22:37.0045195Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Buttons",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Snapshots/PageSettings/Buttons",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]
