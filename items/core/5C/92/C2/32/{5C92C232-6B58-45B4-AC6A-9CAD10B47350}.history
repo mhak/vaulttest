@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{5C92C232-6B58-45B4-AC6A-9CAD10B47350}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:25:55.6668823Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Item selection",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Tabs/SelectTab Parameters/SitecoreTree",
+    "commandType": "Item",
+    "template": "Tab",
+    "sourceControlRevisionId": null
+  }
+]

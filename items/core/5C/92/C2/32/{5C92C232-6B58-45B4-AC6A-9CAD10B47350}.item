@@ -1,0 +1,93 @@
+----item----
+version: 1
+id: {5C92C232-6B58-45B4-AC6A-9CAD10B47350}
+database: core
+path: /sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Tabs/SelectTab Parameters/SitecoreTree
+parent: {718A4C33-8562-4D60-85AA-EA7F079AD239}
+name: SitecoreTree
+master: {00000000-0000-0000-0000-000000000000}
+template: {F62B4CD7-754C-4461-810F-2B6BD2C92A0D}
+templatekey: Tab
+
+----field----
+field: {DEAB3795-056F-4421-ADF0-758844461B72}
+name: Placeholder Name
+key: placeholder name
+content-length: 12
+
+SitecoreTree
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+100
+----field----
+field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
+name: __Renderings
+key: __renderings
+content-length: 2351
+
+<r>
+  <d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+    <r ds="{7960C4FF-5B9E-4FC9-8576-3E6B1E39DA82}" id="{442BD093-FBAD-4E36-BC08-489E16C82D08}" par="Id=SelectionTreeListExpander&amp;IsCollapsible=0&amp;IsOpen=1" uid="{24D16AD1-882A-4515-AFBD-33F03FC13F44}" />
+    <r id="{F6C9F461-FCAF-47DC-AA01-C8C64C2EFFB8}" par="Id=AddItems&amp;PaddingType=Bottom&amp;UsePadding=0" ph="SelectionTreeListExpander.ActionBar" uid="{A8101495-2104-4C15-A8D2-31FA99B942FE}" />
+    <r id="{913AB005-2527-4C2D-9827-FB3A8DFB135C}" par="Click=javascript%3aapp.processTreeSelectedMatching()%3b&amp;Id=AddItemsButton&amp;ButtonType=Primary&amp;Text=Add+Item(s)" ph="AddItems.Content" uid="{395A7450-586D-414C-85E9-69F2344D2E31}" />
+    <r id="{913AB005-2527-4C2D-9827-FB3A8DFB135C}" par="Click=javascript%3aapp.processTreeSelectedMatching(true)%3b&amp;Id=AddItemsRecursiveButton&amp;ButtonType=Primary&amp;Text=Add+with+subitems" ph="AddItems.Content" uid="{395A7450-586D-414C-85E9-69F2344D2E31}" />
+    <r id="{C4393722-39FA-4869-9582-3A8EB8983A0D}" par="Id=rowPanelDatabase" ph="SelectionTreeListExpander.Body" uid="{70EA36D2-363C-476C-880D-0012061F476E}" />
+    <r id="{5CB208F6-1860-426B-8221-FAA85B329848}" par="Id=colPanelDatabase&amp;GridColumns=6" ph="rowPanelDatabase.Content" uid="{30FF6050-886C-406C-BA35-1665120E009A}" />
+    <r id="{F6C9F461-FCAF-47DC-AA01-C8C64C2EFFB8}" par="Id=bDatabase&amp;UsePadding=1" ph="colPanelDatabase.Content" uid="{1DFEF7F1-33D1-4479-9231-39872141318F}" />
+    <r id="{7717EB6C-9F90-4C58-826D-5E87722A0318}" par="Id=txtSelectDatabase&amp;Text=Select+database%3a" ph="bDatabase.Content" uid="{9B9F6997-D455-40A0-A643-EA21B895E630}" />
+    <r id="{25D357D3-3648-4336-9B53-55EED7CFA078}" par="Id=cbDatabase&amp;DisplayFieldName=DisplayName&amp;Items=%7bBinding+DatabasesDS1.databases%7d&amp;ValueFieldName=DBName" ph="bDatabase.Content" uid="{D4417FFD-21CD-4417-B481-BFD3E49B67C8}" />
+    <r id="{783C31A5-EB33-4539-8A32-DBAC223C106D}" par="Id=DatabasesDS1" ph="bDatabase.Content" uid="{1D0059FF-F03A-49FE-96AD-B650BB2D1F78}" />
+    <r id="{77A6FBB3-7C7B-4044-9682-5E47C5448059}" par="Id=SelectDeployTree&amp;SelectMode=2&amp;ShowHiddenItems=1&amp;RootItem=%7b11111111-1111-1111-1111-111111111111%7d&amp;ClickFolderMode=3" ph="SelectionTreeListExpander.Body" uid="{D0F39B18-C0DD-4D61-B312-A56EE7099712}" />
+  </d>
+</r>
+----version----
+language: en
+version: 1
+revision: 4c7d247e-70e6-4475-ad2d-9740804aab71
+
+----field----
+field: {AEA872FB-AA91-4D1A-B877-3CA6FBBB4FD4}
+name: Header
+key: header
+content-length: 12
+
+SitecoreTree
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 14
+
+Item selection
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20151125T160951Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+4c7d247e-70e6-4475-ad2d-9740804aab71
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160429T182555Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+extranet\Anonymous
