@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{DDE1E2F3-667F-4D3B-BAC4-EB26713CAFA1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:25:49.6585387Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "ResultsTab Parameters",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Tabs/ResultsTab Parameters",
+    "commandType": "Item",
+    "template": "TabControl Parameters",
+    "sourceControlRevisionId": null
+  }
+]
