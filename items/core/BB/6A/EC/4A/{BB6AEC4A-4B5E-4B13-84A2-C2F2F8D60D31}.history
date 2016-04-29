@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{BB6AEC4A-4B5E-4B13-84A2-C2F2F8D60D31}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:20:55.9297383Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Deleted Item ActionGroup",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Deleted Items/PageSettings/Expander/ActionControl Parameters/ActionColumn/Deleted Item ActionGroup",
+    "commandType": "Item",
+    "template": "ActionGroup",
+    "sourceControlRevisionId": null
+  }
+]
