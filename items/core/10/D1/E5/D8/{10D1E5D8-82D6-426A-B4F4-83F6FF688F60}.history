@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{10D1E5D8-82D6-426A-B4F4-83F6FF688F60}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:17:38.4284419Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Deleted Items",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Navigation/Data Recovery/Deleted Items",
+    "commandType": "Item",
+    "template": "HyperlinkButton Parameters",
+    "sourceControlRevisionId": null
+  }
+]
