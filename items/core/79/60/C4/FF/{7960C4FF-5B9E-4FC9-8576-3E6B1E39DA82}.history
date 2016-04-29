@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{7960C4FF-5B9E-4FC9-8576-3E6B1E39DA82}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:25:43.3571782Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Select ListManagementAccordion Parameters",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Select Accordian/Select ListManagementAccordion Parameters",
+    "commandType": "Item",
+    "template": "AdvancedExpander Parameters",
+    "sourceControlRevisionId": null
+  }
+]
