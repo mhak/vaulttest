@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{3055E50C-BA58-4107-B465-267F0F54F1A9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-29T18:14:17.1669304Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "XSpeak",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Messaging/XSpeak",
+    "commandType": "Item",
+    "template": "View rendering",
+    "sourceControlRevisionId": null
+  }
+]
