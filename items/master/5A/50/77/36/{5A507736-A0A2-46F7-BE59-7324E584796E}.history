@@ -6,12 +6,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "04/01/2016 20:19:15",
-    "label": "Saved",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\Anonymous",
     "itemName": "Try Finish Test",
     "itemPath": "/sitecore/system/Tasks/Schedules/Content Testing/Try Finish Test",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "45e096d1d573ebe3c4bb208c3c4d84405be912f1"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{5A507736-A0A2-46F7-BE59-7324E584796E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-05T22:56:13.4773447Z",
+    "label": "Saved",
+    "workflowState": "",
+    "activeUser": "sitecore\\Anonymous",
+    "itemName": "Try Finish Test",
+    "itemPath": "/sitecore/system/Tasks/Schedules/Content Testing/Try Finish Test",
+    "commandType": "Item",
+    "template": "Schedule",
+    "sourceControlRevisionId": null
   }
 ]
