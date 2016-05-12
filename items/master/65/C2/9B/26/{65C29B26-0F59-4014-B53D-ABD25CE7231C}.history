@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Home/delete2",
     "commandType": "Item",
     "template": "Sample Item",
-    "sourceControlRevisionId": null
+    "sourceControlRevisionId": "793029dbe7d70bf37992a9cc3bc64aed58a8e10f"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "master",
+    "itemId": "{65C29B26-0F59-4014-B53D-ABD25CE7231C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T21:20:49.9789733Z",
+    "label": "Deleted",
+    "workflowState": "{190B1C84-F1BE-47ED-AA41-F42193D9C8FC}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "delete2",
+    "itemPath": "/sitecore/content/Home/delete2",
+    "commandType": "Item",
+    "template": "Sample Item",
+    "sourceControlRevisionId": "793029dbe7d70bf37992a9cc3bc64aed58a8e10f"
   }
 ]
