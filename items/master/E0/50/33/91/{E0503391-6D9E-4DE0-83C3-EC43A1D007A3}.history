@@ -77,6 +77,22 @@
     "itemPath": "/sitecore/content/Home/delete 1",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "97db949ddd87a388664ce080ddd4eb6841827dee"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{E0503391-6D9E-4DE0-83C3-EC43A1D007A3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T17:24:54.5055175Z",
+    "label": "Installed from package - test",
+    "workflowState": "{190B1C84-F1BE-47ED-AA41-F42193D9C8FC}",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "delete 1",
+    "itemPath": "/sitecore/content/Home/delete 1",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]
