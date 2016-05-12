@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/content/Home/delete2",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "486595e2d785c69c89c58a6cd03c8f0563229eb9"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{65C29B26-0F59-4014-B53D-ABD25CE7231C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T21:16:46.4290430Z",
+    "label": "Saved",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "delete2",
+    "itemPath": "/sitecore/content/Home/delete2",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]
