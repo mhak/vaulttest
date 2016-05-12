@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {65C29B26-0F59-4014-B53D-ABD25CE7231C}
+database: master
+path: /sitecore/content/Home/delete2
+parent: {110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}
+name: delete2
+master: {00000000-0000-0000-0000-000000000000}
+template: {76036F5E-CBCE-46D1-AF0A-4143F9B557AA}
+templatekey: Sample Item
+

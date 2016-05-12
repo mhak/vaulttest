@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{65C29B26-0F59-4014-B53D-ABD25CE7231C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T21:16:31.2501749Z",
+    "label": "Created",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "delete2",
+    "itemPath": "/sitecore/content/Home/delete2",
+    "commandType": "Item",
+    "template": "Sample Item",
+    "sourceControlRevisionId": null
+  }
+]
