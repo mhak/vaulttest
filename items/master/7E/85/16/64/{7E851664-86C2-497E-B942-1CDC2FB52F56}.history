@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/XCentium Vault/Tags/Default",
     "commandType": "Item",
     "template": "Tags Definition",
+    "sourceControlRevisionId": "67e0c99b68044b1d3d33a5cdf1f623bbefed2e01"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{7E851664-86C2-497E-B942-1CDC2FB52F56}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T22:32:02.9772625Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Default",
+    "itemPath": "/sitecore/system/Settings/Rules/XCentium Vault/Tags/Default",
+    "commandType": "Item",
+    "template": "Tags Definition",
     "sourceControlRevisionId": null
   }
 ]
