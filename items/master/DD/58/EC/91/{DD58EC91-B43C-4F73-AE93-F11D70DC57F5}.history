@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/content/Home/delete2a/delete 2",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "1386d5d91c73f531f73cab031a1fb3d8c1219d9b"
+  },
+  {
+    "eventType": "Moved",
+    "database": "master",
+    "itemId": "{DD58EC91-B43C-4F73-AE93-F11D70DC57F5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T23:06:39.2230879Z",
+    "label": "Moved from delete2a to Home",
+    "workflowState": "{190B1C84-F1BE-47ED-AA41-F42193D9C8FC}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "delete 2",
+    "itemPath": "/sitecore/content/Home/delete 2",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]

@@ -2,8 +2,8 @@
 version: 1
 id: {DD58EC91-B43C-4F73-AE93-F11D70DC57F5}
 database: master
-path: /sitecore/content/Home/delete2a/delete 2
-parent: {65C29B26-0F59-4014-B53D-ABD25CE7231C}
+path: /sitecore/content/Home/delete 2
+parent: {110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}
 name: delete 2
 master: {00000000-0000-0000-0000-000000000000}
 template: {76036F5E-CBCE-46D1-AF0A-4143F9B557AA}
