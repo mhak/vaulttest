@@ -2,9 +2,9 @@
 version: 1
 id: {65C29B26-0F59-4014-B53D-ABD25CE7231C}
 database: master
-path: /sitecore/content/Home/delete2
+path: /sitecore/content/Home/delete2a
 parent: {110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}
-name: delete2
+name: delete2a
 master: {00000000-0000-0000-0000-000000000000}
 template: {76036F5E-CBCE-46D1-AF0A-4143F9B557AA}
 templatekey: Sample Item
@@ -19,7 +19,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: e47cd913-ffc4-4964-9e4a-500596655bfa
+revision: f2d2b03e-b18d-42d9-8382-ebfdb86ebadb
 
 ----field----
 field: {75577384-3C97-45DA-A847-81B00500E250}
@@ -48,14 +48,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-e47cd913-ffc4-4964-9e4a-500596655bfa
+f2d2b03e-b18d-42d9-8382-ebfdb86ebadb
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160512T211647Z
+20160513T223347Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
