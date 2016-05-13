@@ -77,6 +77,22 @@
     "itemPath": "/sitecore/content/Home/delete 2",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "58b5ac50ee323ca6e04fd75322ecf4ec02f9819b"
+  },
+  {
+    "eventType": "Renamed",
+    "database": "master",
+    "itemId": "{DD58EC91-B43C-4F73-AE93-F11D70DC57F5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T22:36:21.2260335Z",
+    "label": "Renamed delete 2 to delete 22",
+    "workflowState": "{190B1C84-F1BE-47ED-AA41-F42193D9C8FC}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "delete 22",
+    "itemPath": "/sitecore/content/Home/delete 22",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]
