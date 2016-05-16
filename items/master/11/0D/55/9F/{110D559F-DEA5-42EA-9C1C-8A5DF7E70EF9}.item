@@ -293,7 +293,7 @@ sitecore\admin
 ----version----
 language: ja-JP
 version: 1
-revision: 8e247898-1819-4901-a332-315aa718e7af
+revision: 8b363be9-47ff-4f66-9929-ff326e083225
 
 ----field----
 field: {75577384-3C97-45DA-A847-81B00500E250}
@@ -306,11 +306,11 @@ content-length: 28
 field: {A60ACD61-A6DB-4182-8329-C957982CEC74}
 name: Text
 key: text
-content-length: 482
+content-length: 480
 
 <p>このたびはサイトコア製品をご利用いただき誠にありがとうございます。</p>
-<p style="line-height: 22px;">最新バージョンのサイトコア エクスペリエンス プラットフォームでは、お客様に関連する膨大な保存されたデータを容易に分析する機能など、マーケティングに関連する複雑な操作の解消とさまざまな機能向上により、さらに高度なカスタマー エクスペリエンスの実現が可能となりました。サイトコアにより提供される統合ツール、オートメーションやデータを使用して、コンテンツ ライフサイクルによるお客様との関係構築方法をご習得ご活用ください。</br>価値の高いお客様を獲得するためにはテクノロジーの活用が必要不可欠です。</p>
-<p>サイトコア製品をより活用するために <a href="https://doc.sitecore.net/" target="_blank" title="Sitecore Documentation site">Sitecore Documentation サイト</a>もあわせてご覧ください。</p>
+<p style="line-height: 22px;">最新バージョンのサイトコア エクスペリエンス プラットフォームでは、お客様に関連する膨大な保存されたデータを容易に分析する機能など、マーケティングに関連する複雑な操作の解消とさまざまな機能向上により、さらに高度なカスタマー エクスペリエンスの実現が可能となりました。サイトコアにより提供される統合ツール、オートメーションやデータを使用して、コンテンツ ライフサイクルによるお客様との関係構築方法をご習得ご活用ください。<br>価値の高いお客様を獲得するためにはテクノロジーの活用が必要不可欠です。</p>
+<p>サイトコア製品をより活用するために <a href="https://doc.sitecore.net/" target="_blank" title="Sitecore Documentation site">Sitecore Documentation サイト</a>もあわせてご覧ください。</p>a
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
 name: __Display name
@@ -359,18 +359,18 @@ name: __Revision
 key: __revision
 content-length: 36
 
-8e247898-1819-4901-a332-315aa718e7af
+8b363be9-47ff-4f66-9929-ff326e083225
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160516T233310Z
+20160516T233406Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 18
+content-length: 14
 
-extranet\Anonymous
+sitecore\admin

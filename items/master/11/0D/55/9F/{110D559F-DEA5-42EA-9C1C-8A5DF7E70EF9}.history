@@ -1469,6 +1469,22 @@
     "itemPath": "/sitecore/content/Home233",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "3654cbb2300452506f9efa8eb45a2c60b2bdf6ee"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}",
+    "version": 1,
+    "language": "ja-JP",
+    "timestamp": "2016-05-16T23:34:06.8062222Z",
+    "label": "Saved",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ホーム",
+    "itemPath": "/sitecore/content/Home233",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]
