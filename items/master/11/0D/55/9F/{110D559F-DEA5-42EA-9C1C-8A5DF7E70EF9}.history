@@ -1245,6 +1245,22 @@
     "itemPath": "/sitecore/content/Home233",
     "commandType": "Item",
     "template": "Sample Item",
-    "sourceControlRevisionId": "7d20c8598fef28ca75f6b69912bf0150ef99aa61"
+    "sourceControlRevisionId": "4d6dfa7c33386ff409b8fd2a5c393c8535e70a18"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-16T21:37:08.7487703Z",
+    "label": "Installed from package - demo",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Home233",
+    "itemPath": "/sitecore/content/Home233",
+    "commandType": "Item",
+    "template": "Sample Item",
+    "sourceControlRevisionId": null
   }
 ]
