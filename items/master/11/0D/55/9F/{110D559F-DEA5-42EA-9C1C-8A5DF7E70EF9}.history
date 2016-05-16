@@ -1213,6 +1213,22 @@
     "itemPath": "/sitecore/content/Home233",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "8cd7133cd49c188290e727f6d2882431caf25a3d"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-16T21:31:44.6202312Z",
+    "label": "Saved",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Home233",
+    "itemPath": "/sitecore/content/Home233",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]
