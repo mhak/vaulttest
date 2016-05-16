@@ -493,6 +493,22 @@
     "itemPath": "[orphan]/Home233",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "5f954b7436d1d582af26283b4902b181aa375ffc"
+  },
+  {
+    "eventType": "RecycleBinRestored",
+    "database": "master",
+    "itemId": "{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}",
+    "version": 4,
+    "language": "en",
+    "timestamp": "2016-05-16T19:52:52.2118744Z",
+    "label": "Restored from recycle bin",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Home",
+    "itemPath": "[orphan]/Home233",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]
