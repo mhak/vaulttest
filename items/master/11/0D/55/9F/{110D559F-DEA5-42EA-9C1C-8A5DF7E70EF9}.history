@@ -989,6 +989,22 @@
     "itemPath": "[orphan]/Home233",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "cd73545fe22c527738615ee0add42cfa14f85fa9"
+  },
+  {
+    "eventType": "VersionAdded",
+    "database": "master",
+    "itemId": "{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-05-16T21:08:37.1648612Z",
+    "label": "Version 1 Added",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Home233",
+    "itemPath": "[orphan]/Home233",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]
