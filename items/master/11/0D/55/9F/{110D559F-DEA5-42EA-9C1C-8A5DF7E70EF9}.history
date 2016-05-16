@@ -1037,6 +1037,22 @@
     "itemPath": "/sitecore/content/Home233",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "4eb7bedbea1ff9e61ee824c8751c8569ff1c2f6e"
+  },
+  {
+    "eventType": "VersionAdded",
+    "database": "master",
+    "itemId": "{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}",
+    "version": 1,
+    "language": "de-DE",
+    "timestamp": "2016-05-16T21:08:37.1968630Z",
+    "label": "Version 1 Added",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Home233",
+    "itemPath": "/sitecore/content/Home233",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]
