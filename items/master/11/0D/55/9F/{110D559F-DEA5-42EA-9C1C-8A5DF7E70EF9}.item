@@ -34,9 +34,9 @@ content-length: 77
 field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
 name: __Renderings
 key: __renderings
-content-length: 0
+content-length: 792
 
-
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{B343725A-3A93-446E-A9C8-3A2CBD3DB489}"><rls><ruleset><rule uid="{F61A27CD-EEBD-4121-BE05-4DA3F270FF3E}" s:name="Condition Name"><conditions><condition uid="DBAC02D36C3D4A6F867041A09529FAEB" s:id="{E00DB4F0-B206-4544-AD90-25D201CFB62C}" s:ProfileName="Age" s:PatternName="test" /></conditions></rule><rule uid="{00000000-0000-0000-0000-000000000000}" s:name="Default"><conditions><condition uid="9CBD5DB84C25470AA27A96A55B318B4B" s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" /></conditions><actions /></rule></ruleset></rls></r><r uid="{A4085ABE-5B09-4DD3-B3A4-4E1F092C8200}" s:id="{6D3B4E7D-FEF8-4110-804A-B56605688830}" s:par="FormID={6B066897-BF7D-4D28-96CF-D6CF63FF820C}" s:ph="content" /></d></r>
 ----field----
 field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
 name: __Workflow
@@ -54,7 +54,7 @@ content-length: 0
 ----version----
 language: da
 version: 1
-revision: 6f27ca9b-95db-4ac7-9209-def05c7f4a48
+revision: ecc2b9dc-21ec-4b78-92d3-dc416bd6977c
 
 ----field----
 field: {75577384-3C97-45DA-A847-81B00500E250}
@@ -67,11 +67,9 @@ Sitecore
 field: {A60ACD61-A6DB-4182-8329-C957982CEC74}
 name: Text
 key: text
-content-length: 814
+content-length: 29
 
-><p style="line-height: 22px;">Fra en enkelt forbundet platform, der også integrerer med andre kundevendte platforme, til et enkelt billede af kunden i et stor data marketing repository, der helt eliminere meget af den kompleksitet, der tidligere har holdt marketingfolk tilbage, den nyeste version af Sitecore gør kundeoplevelsen meget nemt opnåeligt. Lær, hvordan den nyeste version af Sitecore giver marketingfolk det komplette overblik, integrerede værktøjer og automatiserings kapaciteter til at engagere kunder i hele den iterativ livscyklus - teknologi fundamentet der er absolut nødvendigt for at vinde kunder for livet.</p>
-<p>For yderligere oplysninger, kan du gå til <a href="https://doc.sitecore.net/" target="_blank" title="Sitecore Documentation webstedet">Sitecore Documentation webstedet</a></p>
-
+<p>Velkommen til Sitecore</p>
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
 name: __Display name
@@ -120,14 +118,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-6f27ca9b-95db-4ac7-9209-def05c7f4a48
+ecc2b9dc-21ec-4b78-92d3-dc416bd6977c
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160428T203816Z
+20160516T194403Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
