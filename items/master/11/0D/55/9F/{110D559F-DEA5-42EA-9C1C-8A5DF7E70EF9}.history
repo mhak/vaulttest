@@ -541,6 +541,22 @@
     "itemPath": "/sitecore/content/Home233",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "1f38e6b35aaaf2d5f3b251b68d05290bf97758f0"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}",
+    "version": 1,
+    "language": "de-DE",
+    "timestamp": "2016-05-16T19:57:56.8332993Z",
+    "label": "Saved",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Home",
+    "itemPath": "/sitecore/content/Home233",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]
