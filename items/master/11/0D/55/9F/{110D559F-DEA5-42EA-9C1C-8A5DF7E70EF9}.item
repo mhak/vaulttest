@@ -2,9 +2,9 @@
 version: 1
 id: {110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}
 database: master
-path: /sitecore/content/Home
+path: /sitecore/content/Home233
 parent: {0DE95AE4-41AB-4D01-9EB0-67441B7C2450}
-name: Home
+name: Home233
 master: {00000000-0000-0000-0000-000000000000}
 template: {76036F5E-CBCE-46D1-AF0A-4143F9B557AA}
 templatekey: Sample Item
@@ -212,7 +212,7 @@ extranet\Anonymous
 ----version----
 language: en
 version: 1
-revision: 80d34c8b-1c04-42af-8801-ad269150e9cd
+revision: 8597285f-2047-47a0-aebc-35feef533d20
 
 ----field----
 field: {75577384-3C97-45DA-A847-81B00500E250}
@@ -275,14 +275,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-80d34c8b-1c04-42af-8801-ad269150e9cd
+8597285f-2047-47a0-aebc-35feef533d20
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160516T231657Z
+20160516T231816Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
