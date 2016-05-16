@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/content/Home/Sample Item",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "30f85eeb8896c4bf4afc8e1753b8c107b2264c3f"
+  },
+  {
+    "eventType": "RecycleBinRestored",
+    "database": "master",
+    "itemId": "{CBC2E76D-D3EC-4C71-84A9-F0442AEF0421}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-16T19:52:56.3251097Z",
+    "label": "Restored from recycle bin",
+    "workflowState": "{190B1C84-F1BE-47ED-AA41-F42193D9C8FC}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sample Item",
+    "itemPath": "[orphan]/Home233/Sample Item",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]
