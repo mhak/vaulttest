@@ -1341,6 +1341,22 @@
     "itemPath": "/sitecore/content/Home233",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "60035068e9175a2ffd04e16ba7ea9f5a24425d31"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-16T22:44:39.6074994Z",
+    "label": "Saved",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Home233",
+    "itemPath": "/sitecore/content/Home233",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]
