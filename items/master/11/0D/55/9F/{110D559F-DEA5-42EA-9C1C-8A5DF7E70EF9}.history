@@ -1005,6 +1005,22 @@
     "itemPath": "[orphan]/Home233",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "d5ae217e1e3d3263ca484a4e36e7b00db7f30905"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-05-16T21:08:37.1838623Z",
+    "label": "Saved",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Hjem",
+    "itemPath": "/sitecore/content/Home233",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]
