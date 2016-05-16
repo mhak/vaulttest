@@ -669,6 +669,22 @@
     "itemPath": "/sitecore/content/Home",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "1bb78d7063fb1139d47d5b12db110279ad370dbe"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "master",
+    "itemId": "{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}",
+    "version": 1,
+    "language": "ja-JP",
+    "timestamp": "2016-05-16T21:00:04.5495413Z",
+    "label": "Version 1 Removed",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ホーム",
+    "itemPath": "/sitecore/content/Home",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]
