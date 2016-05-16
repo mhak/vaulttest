@@ -717,6 +717,22 @@
     "itemPath": "[orphan]/Home",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "693e3277eae68f7edad5e821504ca08d71f87566"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-05-16T21:06:49.1246816Z",
+    "label": "Saved",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Home233",
+    "itemPath": "[orphan]/Home",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]
