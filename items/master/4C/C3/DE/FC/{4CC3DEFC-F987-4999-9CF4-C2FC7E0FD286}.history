@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{4CC3DEFC-F987-4999-9CF4-C2FC7E0FD286}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-17T17:02:32.8498018Z",
+    "label": "Installed from package - demo",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Contact Us Reasons",
+    "itemPath": "/sitecore/content/Home233a/Contact Us Reasons",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]
