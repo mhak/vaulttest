@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/content/Home233a/Have Us Contact You",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "7ac80ebef5482e4ee518a1fc3e4572ec0c9a4792"
+  },
+  {
+    "eventType": "Rollback",
+    "database": "master",
+    "itemId": "{4ECAEDAC-1610-4949-B6FD-D15AF9738622}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-17T17:41:29.6915430Z",
+    "label": "Rollback package - demo",
+    "workflowState": "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Have Us Contact You",
+    "itemPath": "[orphan]/Have Us Contact You",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]
