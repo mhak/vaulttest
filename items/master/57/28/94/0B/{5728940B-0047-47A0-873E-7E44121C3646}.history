@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/content/Home233a/Banking with your iWatch",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "9fbed512ff6f8cc92c92e3128cb027df112670f6"
+  },
+  {
+    "eventType": "Rollback",
+    "database": "master",
+    "itemId": "{5728940B-0047-47A0-873E-7E44121C3646}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-17T17:41:37.2390014Z",
+    "label": "Rollback package - demo",
+    "workflowState": "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Banking with your iWatch",
+    "itemPath": "[orphan]/Banking with your iWatch",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]
