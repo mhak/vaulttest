@@ -157,6 +157,22 @@
     "itemPath": "/sitecore/content/Home233a/register",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "0a452f1fba1240e15df9b7bf243ae6a5d0fce124"
+  },
+  {
+    "eventType": "Rollback",
+    "database": "master",
+    "itemId": "{A80E2959-E58C-434F-8F5A-01174B8AF8EE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-17T17:37:55.0147825Z",
+    "label": "Rollback package - demo",
+    "workflowState": "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "registera",
+    "itemPath": "/sitecore/content/Home233a/registera",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]
