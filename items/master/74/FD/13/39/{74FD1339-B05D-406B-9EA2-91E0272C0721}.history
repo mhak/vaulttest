@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/content/Home233a/Personal/Personal and Business Banking",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "647eb5d9f3c7f7d1ca26a2cc3466d13db49912ea"
+  },
+  {
+    "eventType": "Rollback",
+    "database": "master",
+    "itemId": "{74FD1339-B05D-406B-9EA2-91E0272C0721}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-17T17:41:02.6616106Z",
+    "label": "Rollback package - demo",
+    "workflowState": "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Personal and Business Banking",
+    "itemPath": "[orphan]/Personal and Business Banking",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]
