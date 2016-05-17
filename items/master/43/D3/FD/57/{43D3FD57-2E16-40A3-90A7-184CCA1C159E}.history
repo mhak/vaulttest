@@ -45,6 +45,22 @@
     "itemPath": "/sitecore/content/Home233a/register/folder 2",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "2377dc6d5816b640d513f3493b43bf36ba9b2ce6"
+  },
+  {
+    "eventType": "Rollback",
+    "database": "master",
+    "itemId": "{43D3FD57-2E16-40A3-90A7-184CCA1C159E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-17T17:37:22.8361963Z",
+    "label": "Rollback package - demo",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "folder 2",
+    "itemPath": "[orphan]/folder 2",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]
