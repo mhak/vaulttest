@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/content/Home233a/Smart Investing",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "f1e9a7addad2bd61fe18a3bef52edac51749a37c"
+  },
+  {
+    "eventType": "Rollback",
+    "database": "master",
+    "itemId": "{A88EA326-7E0F-48AF-95DD-6DF099A04B5A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-17T17:41:20.3998631Z",
+    "label": "Rollback package - demo",
+    "workflowState": "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Smart Investing",
+    "itemPath": "[orphan]/Smart Investing",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]
