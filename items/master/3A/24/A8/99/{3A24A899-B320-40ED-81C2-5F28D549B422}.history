@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/content/Home233a/Contact Us Reasons/Open a business account",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "dec9a3851aa7dbd58003157da54fa51abbb99c06"
+  },
+  {
+    "eventType": "Rollback",
+    "database": "master",
+    "itemId": "{3A24A899-B320-40ED-81C2-5F28D549B422}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-17T17:41:11.0716786Z",
+    "label": "Rollback package - demo",
+    "workflowState": "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Open a business account",
+    "itemPath": "[orphan]/Open a business account",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]
