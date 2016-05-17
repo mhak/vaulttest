@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{094AED03-02E7-4868-80CB-19926661FB77}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-17T22:02:36.8483208Z",
+    "label": "Saved",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "sc_logo",
+    "itemPath": "/sitecore/media library/Default Website/sc_logo",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null
+  }
+]
