@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/content/Home233a/newcampaigntest",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "cc5dbab59e96de98517064bb49dd4da6cda4d9d2"
+  },
+  {
+    "eventType": "Rollback",
+    "database": "master",
+    "itemId": "{2115CCA7-B12B-4535-A100-A7A03436F7F9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-17T17:41:27.8558099Z",
+    "label": "Rollback package - demo",
+    "workflowState": "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "newcampaigntest",
+    "itemPath": "[orphan]/newcampaigntest",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]
