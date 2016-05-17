@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/content/Home233a/About Us",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "40babbb55c30a6f5b6178c97d3b72cae12cf983e"
+  },
+  {
+    "eventType": "Rollback",
+    "database": "master",
+    "itemId": "{BCA475B8-0588-4158-8B61-6466385FE0AB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-17T17:41:42.8207102Z",
+    "label": "Rollback package - demo",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "About Us",
+    "itemPath": "[orphan]/About Us",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]
