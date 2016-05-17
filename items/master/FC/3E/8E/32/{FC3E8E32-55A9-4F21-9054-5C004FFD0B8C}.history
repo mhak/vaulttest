@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/content/Home233a/Personal/College Savings",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "6d27b7c38008192b2c7fcf8d469c590c74115c3e"
+  },
+  {
+    "eventType": "Rollback",
+    "database": "master",
+    "itemId": "{FC3E8E32-55A9-4F21-9054-5C004FFD0B8C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-17T17:41:09.1889395Z",
+    "label": "Rollback package - demo",
+    "workflowState": "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "College Savings",
+    "itemPath": "[orphan]/College Savings",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]
