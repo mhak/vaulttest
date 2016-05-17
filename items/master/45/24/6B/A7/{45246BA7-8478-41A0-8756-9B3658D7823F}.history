@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/content/Home233a/Find an Office",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "4c5eb582688b6702e47d550b7d4922e0f8321862"
+  },
+  {
+    "eventType": "Rollback",
+    "database": "master",
+    "itemId": "{45246BA7-8478-41A0-8756-9B3658D7823F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-17T17:41:31.6132870Z",
+    "label": "Rollback package - demo",
+    "workflowState": "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Find an Office",
+    "itemPath": "[orphan]/Find an Office",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]
