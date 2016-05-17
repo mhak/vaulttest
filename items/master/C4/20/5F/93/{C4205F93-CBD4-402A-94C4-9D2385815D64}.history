@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/content/Home233a/Aliastest",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "28afed36660b11cb47795014572905288cbe7e5d"
+  },
+  {
+    "eventType": "Rollback",
+    "database": "master",
+    "itemId": "{C4205F93-CBD4-402A-94C4-9D2385815D64}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-17T17:41:39.0532318Z",
+    "label": "Rollback package - demo",
+    "workflowState": "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Aliastest",
+    "itemPath": "[orphan]/Aliastest",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]
