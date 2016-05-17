@@ -2,9 +2,9 @@
 version: 1
 id: {A80E2959-E58C-434F-8F5A-01174B8AF8EE}
 database: master
-path: /sitecore/content/Home233a/register
+path: /sitecore/content/Home233a/registera
 parent: {110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}
-name: register
+name: registera
 master: {00000000-0000-0000-0000-000000000000}
 template: {76036F5E-CBCE-46D1-AF0A-4143F9B557AA}
 templatekey: Sample Item
