@@ -29,6 +29,22 @@
     "itemPath": "/sitecore/content/Home233a/registera/Sample Item",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "c25f4f324f036df3fcf9325f09e2a9ae41493648"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{E0D2D49D-F693-4393-90FE-2AD9196EA0FB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-17T00:20:56.9779563Z",
+    "label": "Saved",
+    "workflowState": "{190B1C84-F1BE-47ED-AA41-F42193D9C8FC}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sample Item",
+    "itemPath": "/sitecore/content/Home233a/registera/Sample Item",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]
