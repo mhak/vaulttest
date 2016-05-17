@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/content/Home233a/registera",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "b9f063eb9cbc6485f11f2502ecd71275c943545d"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{A80E2959-E58C-434F-8F5A-01174B8AF8EE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-17T00:21:23.6144798Z",
+    "label": "Installed from package - demo",
+    "workflowState": "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "register",
+    "itemPath": "/sitecore/content/Home233a/register",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]
