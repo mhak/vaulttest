@@ -1,0 +1,114 @@
+----item----
+version: 1
+id: {9EDE7312-B1C3-472F-8E7C-3657DF5D2678}
+database: master
+path: /sitecore/content/Home233a/Personal/Free Checking
+parent: {1ACC0CD2-F4E2-428E-8D2C-BEC12ED8430B}
+name: Free Checking
+master: {00000000-0000-0000-0000-000000000000}
+template: {76036F5E-CBCE-46D1-AF0A-4143F9B557AA}
+templatekey: Sample Item
+
+----field----
+field: {B0A67B2A-8B07-4E0B-8809-69F751709806}
+name: __Tracking
+key: __tracking
+content-length: 111
+
+<tracking><event id="{F7A3529C-6ED3-493A-B03F-946C653344C7}" name="Visited Campaign Landing Page" /></tracking>
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+300
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{A5BC37E7-ED96-4C1E-8590-A26E64DB55EA}
+----version----
+language: en
+version: 1
+revision: bc733c81-e7f0-4550-869f-4539b0bb003a
+
+----field----
+field: {75577384-3C97-45DA-A847-81B00500E250}
+name: Title
+key: title
+content-length: 13
+
+Free Checking
+----field----
+field: {A60ACD61-A6DB-4182-8329-C957982CEC74}
+name: Text
+key: text
+content-length: 738
+
+<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+<nav class="navbar navbar-default">
+<div class="container-fluid">
+<div class="navbar-header">
+<a class="navbar-brand" href="#">WebSiteName</a>
+</div>
+<ul class="nav navbar-nav">
+    <li class="active"><a href="~/link.aspx?_id=110D559FDEA542EA9C1C8A5DF7E70EF9&amp;_z=z">Home</a></li>
+    <li><a href="~/link.aspx?_id=74FD1339B05D406B9EA291E0272C0721&amp;_z=z">Personal &amp; Business Banking</a></li>
+    <li><a href="~/link.aspx?_id=7AED5A894B5445CAB9389396FD8A5680&amp;_z=z">Private Wealth Management</a></li>
+    <li><a href="~/link.aspx?_id=1F9C10F09F7542CA841E672EE9C6AAE2&amp;_z=z">About Us</a></li>
+</ul>
+</div>
+</nav>
+Free Checking
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160108T215919Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+bc733c81-e7f0-4550-869f-4539b0bb003a
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160517T170233Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+extranet\Anonymous
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
