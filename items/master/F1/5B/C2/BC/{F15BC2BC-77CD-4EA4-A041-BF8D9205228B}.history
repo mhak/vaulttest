@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{F15BC2BC-77CD-4EA4-A041-BF8D9205228B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-17T17:02:33.1388385Z",
+    "label": "Installed from package - demo",
+    "workflowState": "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "test",
+    "itemPath": "/sitecore/content/Home233a/test",
+    "commandType": "Item",
+    "template": "Sample Item",
+    "sourceControlRevisionId": null
+  }
+]
