@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{1ACC0CD2-F4E2-428E-8D2C-BEC12ED8430B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-17T17:02:33.0023211Z",
+    "label": "Installed from package - demo",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Personal",
+    "itemPath": "/sitecore/content/Home233a/Personal",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]
