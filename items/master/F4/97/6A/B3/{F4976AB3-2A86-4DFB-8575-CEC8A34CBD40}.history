@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{F4976AB3-2A86-4DFB-8575-CEC8A34CBD40}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-17T17:02:32.8172976Z",
+    "label": "Installed from package - demo",
+    "workflowState": "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Choose Rates",
+    "itemPath": "/sitecore/content/Home233a/Choose Rates",
+    "commandType": "Item",
+    "template": "Sample Item",
+    "sourceControlRevisionId": null
+  }
+]
