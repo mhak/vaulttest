@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/content/Home233a/Personal",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "e219eb408207a2a3d3adfa3275a68041dc11f1b2"
+  },
+  {
+    "eventType": "Rollback",
+    "database": "master",
+    "itemId": "{1ACC0CD2-F4E2-428E-8D2C-BEC12ED8430B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-17T17:41:25.8665573Z",
+    "label": "Rollback package - demo",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Personal",
+    "itemPath": "[orphan]/Personal",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]
