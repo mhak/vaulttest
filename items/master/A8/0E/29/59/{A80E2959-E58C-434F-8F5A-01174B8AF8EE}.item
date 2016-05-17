@@ -2,9 +2,9 @@
 version: 1
 id: {A80E2959-E58C-434F-8F5A-01174B8AF8EE}
 database: master
-path: /sitecore/content/Home233a/registera
+path: /sitecore/content/Home233a/register
 parent: {110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}
-name: registera
+name: register
 master: {00000000-0000-0000-0000-000000000000}
 template: {76036F5E-CBCE-46D1-AF0A-4143F9B557AA}
 templatekey: Sample Item
@@ -33,7 +33,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: ffcdcad8-a609-45a1-aed2-aadaa54fde1d
+revision: d93f3657-3f5c-4b04-805b-399ab8eb7e0e
 
 ----field----
 field: {75577384-3C97-45DA-A847-81B00500E250}
@@ -62,21 +62,21 @@ name: __Revision
 key: __revision
 content-length: 36
 
-ffcdcad8-a609-45a1-aed2-aadaa54fde1d
+d93f3657-3f5c-4b04-805b-399ab8eb7e0e
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160517T001649Z
+20160517T001657Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 14
+content-length: 18
 
-sitecore\admin
+extranet\Anonymous
 ----field----
 field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
 name: __Workflow state
