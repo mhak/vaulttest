@@ -29,6 +29,22 @@
     "itemPath": "[orphan]/folder 1",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "5eee087eaaf28fcae558fb0a7c83340a39982132"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{8A8A5532-E3CA-41BA-98C5-80487352ADC7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-17T17:02:33.2453520Z",
+    "label": "Installed from package - demo",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "folder 1",
+    "itemPath": "/sitecore/content/Home233a/register/folder 1",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]
