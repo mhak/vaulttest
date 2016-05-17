@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{8A8A5532-E3CA-41BA-98C5-80487352ADC7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-17T00:22:57.8358690Z",
+    "label": "Installed from package - demo",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "folder 1",
+    "itemPath": "/sitecore/content/Home233a/register/folder 1",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]
