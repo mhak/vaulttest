@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{DC5A1DFB-AB76-499E-8E0A-6646AD531F41}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-17T17:02:33.0283244Z",
+    "label": "Installed from package - demo",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Private Wealth",
+    "itemPath": "/sitecore/content/Home233a/Private Wealth",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]
