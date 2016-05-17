@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{9704FAA4-C29C-469D-A665-B49FDD86AE99}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-17T17:02:33.0748303Z",
+    "label": "Installed from package - demo",
+    "workflowState": "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Review Rates",
+    "itemPath": "/sitecore/content/Home233a/Review Rates",
+    "commandType": "Item",
+    "template": "Sample Item",
+    "sourceControlRevisionId": null
+  }
+]
