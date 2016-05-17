@@ -1565,6 +1565,22 @@
     "itemPath": "/sitecore/content/Home233a",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "62d88deec77239c7c0e1e497226b30666eb08f23"
+  },
+  {
+    "eventType": "Renamed",
+    "database": "master",
+    "itemId": "{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}",
+    "version": 8,
+    "language": "en",
+    "timestamp": "2016-05-16T23:59:44.4391712Z",
+    "label": "Renamed Home233a to Home233",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Home233",
+    "itemPath": "/sitecore/content/Home233",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]
