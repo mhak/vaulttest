@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/content/Home233a/register",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "afabb44bf5c85e3f68ee286e83b5e3bc5b05d722"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{A80E2959-E58C-434F-8F5A-01174B8AF8EE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-17T00:22:57.8008670Z",
+    "label": "Installed from package - demo",
+    "workflowState": "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "register",
+    "itemPath": "/sitecore/content/Home233a/register",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]
