@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{A88EA326-7E0F-48AF-95DD-6DF099A04B5A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-17T17:02:33.1078345Z",
+    "label": "Installed from package - demo",
+    "workflowState": "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Smart Investing",
+    "itemPath": "/sitecore/content/Home233a/Smart Investing",
+    "commandType": "Item",
+    "template": "Sample Item",
+    "sourceControlRevisionId": null
+  }
+]
