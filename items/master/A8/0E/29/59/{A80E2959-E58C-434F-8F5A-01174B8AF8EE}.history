@@ -29,6 +29,22 @@
     "itemPath": "[orphan]/register",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "4432ab7a091786e1343736e47ef2744bb6217eff"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{A80E2959-E58C-434F-8F5A-01174B8AF8EE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-17T00:16:30.4067093Z",
+    "label": "Installed from package - demo",
+    "workflowState": "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "register",
+    "itemPath": "[orphan]/register",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]
