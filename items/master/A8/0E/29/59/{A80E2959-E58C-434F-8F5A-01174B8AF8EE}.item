@@ -2,9 +2,9 @@
 version: 1
 id: {A80E2959-E58C-434F-8F5A-01174B8AF8EE}
 database: master
-path: /sitecore/content/Home233a/registera
+path: /sitecore/content/Home233a/register
 parent: {110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}
-name: registera
+name: register
 master: {00000000-0000-0000-0000-000000000000}
 template: {76036F5E-CBCE-46D1-AF0A-4143F9B557AA}
 templatekey: Sample Item
@@ -33,7 +33,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 645b16a1-bb1b-4169-968c-e542fb81ec31
+revision: 4e46ac5d-07e9-40f6-a932-b3f7404fdc88
 
 ----field----
 field: {75577384-3C97-45DA-A847-81B00500E250}
@@ -62,14 +62,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-645b16a1-bb1b-4169-968c-e542fb81ec31
+4e46ac5d-07e9-40f6-a932-b3f7404fdc88
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160517T002257Z
+20160517T170232Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
