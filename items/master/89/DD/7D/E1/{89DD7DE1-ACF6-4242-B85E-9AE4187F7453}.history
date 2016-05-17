@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/content/Home233a/login",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "b5c6c08d6bfffa19976d07eff72da9c49cc3add6"
+  },
+  {
+    "eventType": "Rollback",
+    "database": "master",
+    "itemId": "{89DD7DE1-ACF6-4242-B85E-9AE4187F7453}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-17T17:41:14.7216421Z",
+    "label": "Rollback package - demo",
+    "workflowState": "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "login",
+    "itemPath": "[orphan]/login",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]
