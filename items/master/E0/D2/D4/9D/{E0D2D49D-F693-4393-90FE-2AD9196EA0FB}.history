@@ -77,6 +77,22 @@
     "itemPath": "/sitecore/content/Home233a/registera/Sample Item",
     "commandType": "Item",
     "template": "Sample Item",
-    "sourceControlRevisionId": null
+    "sourceControlRevisionId": "0b9bd04a804c043373dee23cc37140328356c46f"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "master",
+    "itemId": "{E0D2D49D-F693-4393-90FE-2AD9196EA0FB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T19:01:57.9494790Z",
+    "label": "Deleted",
+    "workflowState": "{190B1C84-F1BE-47ED-AA41-F42193D9C8FC}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sample Item",
+    "itemPath": "/sitecore/content/Home233a/registera/Sample Item",
+    "commandType": "Item",
+    "template": "Sample Item",
+    "sourceControlRevisionId": "0b9bd04a804c043373dee23cc37140328356c46f"
   }
 ]
