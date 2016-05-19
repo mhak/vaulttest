@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{05BDFBE3-C167-4643-AC27-7B06FF30FF65}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:56.6801028Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "VersionCount",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Workflow/Not Enough Versions Execute Command Action/Versions/VersionCount",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

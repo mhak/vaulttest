@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B45A9906-AA81-41B8-B6BF-030900C78377}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:04.3231082Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Visibility",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Federated Experience Manager - Domain Matching/Visibility",
+    "commandType": "Item",
+    "template": "Visibility",
+    "sourceControlRevisionId": null
+  }
+]

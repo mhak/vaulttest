@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B2942AC8-B432-4C2B-BE30-7C0A5085270D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:51.2982268Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Workflow",
+    "itemPath": "/sitecore/templates/System/Validation/Global Validation Rules/Validation Rules/Workflow",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

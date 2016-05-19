@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8D033506-60D3-4D71-9D59-4319FD566564}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:12.3145652Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Site Name",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visit/Site Name",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null
+  }
+]

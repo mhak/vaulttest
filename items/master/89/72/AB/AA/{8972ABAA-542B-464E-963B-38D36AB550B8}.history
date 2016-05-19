@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8972ABAA-542B-464E-963B-38D36AB550B8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:00.5564609Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Social",
+    "itemPath": "/sitecore/social",
+    "commandType": "Item",
+    "template": "Main section",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DC67C5C0-17F2-4022-9CA2-913A26ABF456}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:39.9547144Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Indonesia",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Indonesia",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

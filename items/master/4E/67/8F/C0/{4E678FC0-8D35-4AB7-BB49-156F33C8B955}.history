@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4E678FC0-8D35-4AB7-BB49-156F33C8B955}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:10.0398669Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "User agent",
+    "itemPath": "/sitecore/templates/System/Layout/Preview Simulators/Simulator/Data/User agent",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

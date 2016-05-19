@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{75D27C2B-5F88-4CC8-B1DE-8412A1628408}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:00.8434773Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Controllers",
+    "itemPath": "/sitecore/layout/Controllers",
+    "commandType": "Item",
+    "template": "Node",
+    "sourceControlRevisionId": null
+  }
+]

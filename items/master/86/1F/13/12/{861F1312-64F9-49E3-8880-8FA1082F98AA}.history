@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{861F1312-64F9-49E3-8880-8FA1082F98AA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:23.0466109Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Checkbox",
+    "itemPath": "/sitecore/templates/System/Menus/Menu item/Data/Checkbox",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

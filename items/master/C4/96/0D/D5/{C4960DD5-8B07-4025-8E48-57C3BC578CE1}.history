@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C4960DD5-8B07-4025-8E48-57C3BC578CE1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:46.6390967Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Single",
+    "itemPath": "/sitecore/system/Settings/Analytics/Preset Types/Single",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D7A067AB-0AC0-410B-82E2-4AC0879B3E9A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:18.8219374Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Referring Site",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Segment Builder/Conditions/Referring Site",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EAEF3BE2-3800-48D4-9199-A88C3947F752}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:23.3347638Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Facebook Goal Messages",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Campaigns/Social/Facebook/Facebook Goal Messages",
+    "commandType": "Item",
+    "template": "Campaign",
+    "sourceControlRevisionId": null
+  }
+]

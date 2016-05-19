@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9F7328C3-7195-4E44-85B2-AA657C052FEB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:10.2640162Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CampaignsViewerNoResults",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Campaigns/Viewer/CampaignsViewerNoResults",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null
+  }
+]

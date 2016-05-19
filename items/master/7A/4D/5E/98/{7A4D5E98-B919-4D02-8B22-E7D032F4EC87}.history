@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7A4D5E98-B919-4D02-8B22-E7D032F4EC87}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:25.1683004Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Default",
+    "itemPath": "/sitecore/system/Settings/Rules/Marketing Workflows/Tags/Default",
+    "commandType": "Item",
+    "template": "Tags Definition",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2164F252-B031-4D1C-864A-08BED69148F5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:54.0483841Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Branches",
+    "itemPath": "/sitecore/templates/System/Experience Analytics/Branches",
+    "commandType": "Item",
+    "template": "Branch Folder",
+    "sourceControlRevisionId": null
+  }
+]

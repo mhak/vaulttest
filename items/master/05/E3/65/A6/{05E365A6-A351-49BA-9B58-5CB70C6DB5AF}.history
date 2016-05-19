@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{05E365A6-A351-49BA-9B58-5CB70C6DB5AF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:39.9261445Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Search",
+    "itemPath": "/sitecore/templates/List Manager/Segmented List/Search",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null
+  }
+]

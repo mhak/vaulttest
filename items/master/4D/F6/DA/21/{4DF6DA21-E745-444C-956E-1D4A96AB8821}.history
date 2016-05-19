@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4DF6DA21-E745-444C-956E-1D4A96AB8821}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:30.6910481Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Header",
+    "itemPath": "/sitecore/templates/System/Ribbon/Large Button/Data/Header",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

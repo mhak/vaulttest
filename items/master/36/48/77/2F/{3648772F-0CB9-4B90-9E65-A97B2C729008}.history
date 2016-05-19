@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3648772F-0CB9-4B90-9E65-A97B2C729008}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:18.0924639Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Offline",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Offline",
+    "commandType": "Item",
+    "template": "Channel Type",
+    "sourceControlRevisionId": null
+  }
+]

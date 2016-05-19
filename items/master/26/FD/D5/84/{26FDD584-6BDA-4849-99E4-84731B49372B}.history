@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{26FDD584-6BDA-4849-99E4-84731B49372B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:14.5162594Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "PresetEditorTitle",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Preset/Editor/PresetEditorTitle",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null
+  }
+]

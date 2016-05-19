@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{36AC4F0E-AC76-4F12-9D1E-BE2F3E1F91B0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:16.6243799Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Viewer",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Tags/Viewer",
+    "commandType": "Item",
+    "template": "Dictionary folder",
+    "sourceControlRevisionId": null
+  }
+]

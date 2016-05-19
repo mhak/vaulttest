@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{71735855-1910-4764-A924-A0D595A3E55F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:10.4120246Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "JourneyMode",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Common/JourneyMode",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null
+  }
+]

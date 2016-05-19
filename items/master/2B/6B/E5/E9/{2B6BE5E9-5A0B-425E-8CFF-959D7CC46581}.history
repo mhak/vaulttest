@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2B6BE5E9-5A0B-425E-8CFF-959D7CC46581}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:20.4070281Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Item Attributes",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/Item Attributes",
+    "commandType": "Item",
+    "template": "Tag",
+    "sourceControlRevisionId": null
+  }
+]

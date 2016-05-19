@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CF007357-FEA7-4E2E-82F2-B3B239C496A8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:07.6342975Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Publishable",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Item Version CM/Publishable",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null
+  }
+]

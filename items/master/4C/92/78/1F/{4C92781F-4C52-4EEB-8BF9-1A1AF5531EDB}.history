@@ -7,12 +7,13 @@
     "language": "en",
     "timestamp": "04/01/2016 19:21:59",
     "label": "Saved",
-    "sourceControlRevisionId": "c657ac50dee130dd43c76a1d6f7e21b6dcf01e88",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "word document",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/word document",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "c657ac50dee130dd43c76a1d6f7e21b6dcf01e88"
   },
   {
     "eventType": "PackageInstall",
@@ -22,12 +23,13 @@
     "language": "en",
     "timestamp": "2016-04-05T02:21:47.8096624Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "662f98fd0dc37e0b4fb843a64c2446136a422945",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "word document",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/word document",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "662f98fd0dc37e0b4fb843a64c2446136a422945"
   },
   {
     "eventType": "PackageInstall",
@@ -37,12 +39,13 @@
     "language": "en",
     "timestamp": "2016-04-05T02:26:08.0722561Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "6df7238bd9fe479a312d58cfb2052595caf22565",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "word document",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/word document",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "6df7238bd9fe479a312d58cfb2052595caf22565"
   },
   {
     "eventType": "PackageInstall",
@@ -52,12 +55,13 @@
     "language": "en",
     "timestamp": "2016-04-05T02:27:09.3561433Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "4484bdbca16ff4e7dff12da1620d0f0b95fe13cc",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "word document",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/word document",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "4484bdbca16ff4e7dff12da1620d0f0b95fe13cc"
   },
   {
     "eventType": "PackageInstall",
@@ -67,12 +71,13 @@
     "language": "en",
     "timestamp": "2016-04-05T02:28:21.4167411Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "a75c7d5c97b0a93da9158d1686c0e8fd4bab5cdf",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "word document",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/word document",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "a75c7d5c97b0a93da9158d1686c0e8fd4bab5cdf"
   },
   {
     "eventType": "PackageInstall",
@@ -82,12 +87,13 @@
     "language": "en",
     "timestamp": "2016-04-05T02:29:48.6345011Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "cef6681d2f594d213c0f637b7cda52895755089c",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "word document",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/word document",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "cef6681d2f594d213c0f637b7cda52895755089c"
   },
   {
     "eventType": "PackageInstall",
@@ -97,12 +103,13 @@
     "language": "en",
     "timestamp": "2016-04-05T02:33:38.2526316Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "191a7fcd6fea0ab3578f4e9f24c01764123a3fa2",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "word document",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/word document",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "191a7fcd6fea0ab3578f4e9f24c01764123a3fa2"
   },
   {
     "eventType": "PackageInstall",
@@ -112,12 +119,13 @@
     "language": "en",
     "timestamp": "2016-04-05T02:36:37.2040824Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "0a7cd132161b8fd5ee385296b8167f2769eaea5d",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "word document",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/word document",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "0a7cd132161b8fd5ee385296b8167f2769eaea5d"
   },
   {
     "eventType": "PackageInstall",
@@ -127,12 +135,13 @@
     "language": "en",
     "timestamp": "2016-04-05T02:37:50.8342938Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "66255501332685b12d1eaec7366120a6e4207695",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "word document",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/word document",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "66255501332685b12d1eaec7366120a6e4207695"
   },
   {
     "eventType": "PackageInstall",
@@ -142,12 +151,13 @@
     "language": "en",
     "timestamp": "2016-04-05T02:47:43.2791797Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "5d05a8530a946f87db2d6591f4d99d8f57d7ef28",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "word document",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/word document",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "5d05a8530a946f87db2d6591f4d99d8f57d7ef28"
   },
   {
     "eventType": "PackageInstall",
@@ -157,12 +167,13 @@
     "language": "en",
     "timestamp": "2016-04-05T02:49:43.4200514Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "46bad68d17a3324815cd898f048ea2a8e91987c0",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "word document",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/word document",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "46bad68d17a3324815cd898f048ea2a8e91987c0"
   },
   {
     "eventType": "PackageInstall",
@@ -170,14 +181,15 @@
     "itemId": "{4C92781F-4C52-4EEB-8BF9-1A1AF5531EDB}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-05T03:59:25.698264Z",
+    "timestamp": "2016-04-05T03:59:25.6982640Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "1306326282c84cf209597a58fe26328c77d8136e",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "word document",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/word document",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "1306326282c84cf209597a58fe26328c77d8136e"
   },
   {
     "eventType": "PackageInstall",
@@ -187,12 +199,13 @@
     "language": "en",
     "timestamp": "2016-04-05T04:00:46.3918794Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "536a249ef128aadd44eb7d1b73758f78ff5c7972",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "word document",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/word document",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "536a249ef128aadd44eb7d1b73758f78ff5c7972"
   },
   {
     "eventType": "PackageInstall",
@@ -202,12 +215,13 @@
     "language": "en",
     "timestamp": "2016-04-05T04:06:21.8100643Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "d640ccba88987fee6f9b6a290f8556460e6596ec",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "word document",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/word document",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "d640ccba88987fee6f9b6a290f8556460e6596ec"
   },
   {
     "eventType": "PackageInstall",
@@ -217,12 +231,13 @@
     "language": "en",
     "timestamp": "2016-04-05T16:23:27.3582315Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "12a18ca369e112cc9fad938e45e30a6542eaa778",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "word document",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/word document",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "12a18ca369e112cc9fad938e45e30a6542eaa778"
   },
   {
     "eventType": "PackageInstall",
@@ -232,12 +247,13 @@
     "language": "en",
     "timestamp": "2016-04-05T16:27:34.6633754Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "1325d408a43c16a7eaef62b3b73a123b279b7c00",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "word document",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/word document",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "1325d408a43c16a7eaef62b3b73a123b279b7c00"
   },
   {
     "eventType": "PackageInstall",
@@ -247,12 +263,13 @@
     "language": "en",
     "timestamp": "2016-04-05T16:33:43.7394853Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "7d781babd4a96f5c8b61b7dcba98e38a6bfd8356",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "word document",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/word document",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "7d781babd4a96f5c8b61b7dcba98e38a6bfd8356"
   },
   {
     "eventType": "PackageInstall",
@@ -262,12 +279,13 @@
     "language": "en",
     "timestamp": "2016-04-05T16:41:08.9059474Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "07c1ede886150da92ed10a70a6cbfc760d52f197",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "word document",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/word document",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "07c1ede886150da92ed10a70a6cbfc760d52f197"
   },
   {
     "eventType": "PackageInstall",
@@ -277,12 +295,13 @@
     "language": "en",
     "timestamp": "2016-04-05T16:45:34.7931553Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "f7efa5162a48f6243b752892ac703b762998a058",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "word document",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/word document",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "f7efa5162a48f6243b752892ac703b762998a058"
   },
   {
     "eventType": "PackageInstall",
@@ -292,12 +311,13 @@
     "language": "en",
     "timestamp": "2016-04-05T17:23:38.1587563Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "04f20ee66a4187ca99af6c9d2880824b380d2528",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "word document",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/word document",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "04f20ee66a4187ca99af6c9d2880824b380d2528"
   },
   {
     "eventType": "PackageInstall",
@@ -307,12 +327,13 @@
     "language": "en",
     "timestamp": "2016-04-05T17:25:47.4411509Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "af3f9387dddf0e395b1cb8748189e5b75fe78408",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "word document",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/word document",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "af3f9387dddf0e395b1cb8748189e5b75fe78408"
   },
   {
     "eventType": "PackageInstall",
@@ -322,12 +343,13 @@
     "language": "en",
     "timestamp": "2016-04-05T17:47:16.3038696Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "fa94bbe7f067aee18e1ac553d9711005b1e0007e",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "word document",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/word document",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "fa94bbe7f067aee18e1ac553d9711005b1e0007e"
   },
   {
     "eventType": "PackageInstall",
@@ -337,12 +359,13 @@
     "language": "en",
     "timestamp": "2016-04-05T17:48:42.4737982Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "a0e57303855b07cb1b5ad2d379176da7aa6d88d8",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "word document",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/word document",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "a0e57303855b07cb1b5ad2d379176da7aa6d88d8"
   },
   {
     "eventType": "PackageInstall",
@@ -352,12 +375,13 @@
     "language": "en",
     "timestamp": "2016-04-05T18:01:58.3123154Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "a448bc5ab51a22d833d3d76d13474f6c0438cba7",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "word document",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/word document",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "a448bc5ab51a22d833d3d76d13474f6c0438cba7"
   },
   {
     "eventType": "PackageInstall",
@@ -367,12 +391,13 @@
     "language": "en",
     "timestamp": "2016-04-05T18:03:29.5625346Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "637179ebb834be3b6fcc5ef7283bbfb316a86f1a",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "word document",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/word document",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "637179ebb834be3b6fcc5ef7283bbfb316a86f1a"
   },
   {
     "eventType": "PackageInstall",
@@ -382,11 +407,28 @@
     "language": "en",
     "timestamp": "2016-04-06T00:09:24.6839928Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": null,
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "word document",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/word document",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "be3df300bc7a57dfb0f925e18ec40c112552d1e9"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4C92781F-4C52-4EEB-8BF9-1A1AF5531EDB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:55.2004500Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "word document",
+    "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/word document",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
   }
 ]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D5217BE5-859D-494D-8A16-56DBD70F319D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:49.1542405Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Number of Sessions Above Average Value",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Content Testing/Number of Sessions Above Average Value",
+    "commandType": "Item",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null
+  }
+]

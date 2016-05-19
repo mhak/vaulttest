@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C7815F60-96E1-40CB-BB06-B5F833F73B61}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:47.5350115Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Persistent Bucket Filter",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Item Buckets/Item Buckets/__Persistent Bucket Filter",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

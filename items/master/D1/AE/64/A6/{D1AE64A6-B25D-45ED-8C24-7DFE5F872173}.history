@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D1AE64A6-B25D-45ED-8C24-7DFE5F872173}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:16.7843891Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "TagsEditorValue",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Tags/Editor/TagsEditorValue",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{13CC3C50-B20D-4310-AA06-791193E160FD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:56.2200765Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Deploy Associated Multivariate Tests",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Workflow/Deploy Associated Tests Action/Associated Tests/Deploy Associated Multivariate Tests",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

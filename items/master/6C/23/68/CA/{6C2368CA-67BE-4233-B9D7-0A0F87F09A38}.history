@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6C2368CA-67BE-4233-B9D7-0A0F87F09A38}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:20.8530536Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Security Editor",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/Security Editor",
+    "commandType": "Item",
+    "template": "Tag",
+    "sourceControlRevisionId": null
+  }
+]

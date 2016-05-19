@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B255994E-3CE0-4FB5-89CE-195EC35200CA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:13.7922180Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ModeEditorQuestionMark",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Mode/Editor/ModeEditorQuestionMark",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BC62A688-AE9E-4462-ABD4-73E28782D74A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:36.0264897Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Send E-Mail Message",
+    "itemPath": "/sitecore/system/Settings/Analytics/Engagement Automation/Predefined items/Actions/Send E-Mail Message",
+    "commandType": "Item",
+    "template": "Engagement Automation Action",
+    "sourceControlRevisionId": null
+  }
+]

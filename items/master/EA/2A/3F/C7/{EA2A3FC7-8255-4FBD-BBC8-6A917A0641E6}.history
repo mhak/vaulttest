@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EA2A3FC7-8255-4FBD-BBC8-6A917A0641E6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:00.3943152Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Type",
+    "itemPath": "/sitecore/templates/System/Feeds/RSS Feed/Extensibility/Type",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

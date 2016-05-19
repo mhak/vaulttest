@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E640AFAE-E9AB-478D-849A-F576BEAFBE6E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:22.2046991Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Other resources",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Offline/Resources/Other resources",
+    "commandType": "Item",
+    "template": "Channel",
+    "sourceControlRevisionId": null
+  }
+]

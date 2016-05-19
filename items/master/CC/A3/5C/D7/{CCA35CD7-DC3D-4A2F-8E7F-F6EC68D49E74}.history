@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CCA35CD7-DC3D-4A2F-8E7F-F6EC68D49E74}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:15.7681946Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Parameters",
+    "itemPath": "/sitecore/templates/System/Layout/Renderings/Xsl Rendering/Data/Parameters",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

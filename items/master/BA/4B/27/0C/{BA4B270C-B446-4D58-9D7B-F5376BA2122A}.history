@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BA4B270C-B446-4D58-9D7B-F5376BA2122A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:51.3713674Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Country",
+    "itemPath": "/sitecore/system/Settings/Analytics/Vendor Specific Filters/MSSQL/Country",
+    "commandType": "Item",
+    "template": "Vendor Specific Filter",
+    "sourceControlRevisionId": null
+  }
+]

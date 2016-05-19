@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{67759D75-62E4-4945-8199-913BBECD1879}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:36.6509572Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "$name",
+    "itemPath": "/sitecore/templates/Branches/System/Analytics/Profile/$name",
+    "commandType": "Item",
+    "template": "Profile",
+    "sourceControlRevisionId": null
+  }
+]

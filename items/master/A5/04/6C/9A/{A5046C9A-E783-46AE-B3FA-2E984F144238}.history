@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A5046C9A-E783-46AE-B3FA-2E984F144238}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:19.8064256Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Track Number",
+    "itemPath": "/sitecore/templates/System/Media/Unversioned/Mp3/ID3/Track Number",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

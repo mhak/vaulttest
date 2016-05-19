@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6601373B-C31A-43D7-8DD8-6429ACA38298}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:02.5035723Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sharing",
+    "itemPath": "/sitecore/layout/Renderings/Social MVC/Sharing",
+    "commandType": "Item",
+    "template": "Rendering Folder",
+    "sourceControlRevisionId": null
+  }
+]

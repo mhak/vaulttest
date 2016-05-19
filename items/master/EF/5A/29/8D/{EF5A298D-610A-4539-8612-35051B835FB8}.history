@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EF5A298D-610A-4539-8612-35051B835FB8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:54.5455489Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "In Workflow",
+    "itemPath": "/sitecore/system/Settings/Buckets/Facets/In Workflow",
+    "commandType": "Item",
+    "template": "Facet",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{501EDCEF-3588-4EBD-B1A0-2C1AE44D4607}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:43.6319247Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Somalia",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Somalia",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

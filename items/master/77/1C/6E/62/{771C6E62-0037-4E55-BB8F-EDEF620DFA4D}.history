@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{771C6E62-0037-4E55-BB8F-EDEF620DFA4D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:45.2844510Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Base/Taxonomy/__Standard Values",
+    "commandType": "Item",
+    "template": "Taxonomy",
+    "sourceControlRevisionId": null
+  }
+]

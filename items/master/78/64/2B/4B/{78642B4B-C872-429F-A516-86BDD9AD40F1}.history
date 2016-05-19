@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{78642B4B-C872-429F-A516-86BDD9AD40F1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:22.6801581Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Suggestion",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Validation Results/Suggestion",
+    "commandType": "Item",
+    "template": "Validation Result",
+    "sourceControlRevisionId": null
+  }
+]

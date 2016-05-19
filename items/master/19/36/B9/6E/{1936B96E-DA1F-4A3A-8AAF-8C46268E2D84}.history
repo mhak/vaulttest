@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1936B96E-DA1F-4A3A-8AAF-8C46268E2D84}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:01.9045380Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sample",
+    "itemPath": "/sitecore/layout/Renderings/Sample",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

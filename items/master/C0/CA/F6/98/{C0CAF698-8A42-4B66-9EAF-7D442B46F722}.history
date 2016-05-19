@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C0CAF698-8A42-4B66-9EAF-7D442B46F722}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:39.4081149Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Segmented List",
+    "itemPath": "/sitecore/templates/List Manager/Segmented List",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

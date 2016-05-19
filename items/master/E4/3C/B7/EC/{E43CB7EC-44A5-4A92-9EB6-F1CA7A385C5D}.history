@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E43CB7EC-44A5-4A92-9EB6-F1CA7A385C5D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:55.9540613Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Remove Tests Action",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Workflow/Remove Tests Action",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

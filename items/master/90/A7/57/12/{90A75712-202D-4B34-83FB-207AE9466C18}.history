@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{90A75712-202D-4B34-83FB-207AE9466C18}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:23.5162059Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Default",
+    "itemPath": "/sitecore/system/Settings/Rules/Federated Experience Manager - Domain Tracking/Tags/Default",
+    "commandType": "Item",
+    "template": "Tags Definition",
+    "sourceControlRevisionId": null
+  }
+]

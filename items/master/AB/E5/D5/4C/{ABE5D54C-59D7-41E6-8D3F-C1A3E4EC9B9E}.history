@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{ABE5D54C-59D7-41E6-8D3F-C1A3E4EC9B9E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:48.9370917Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Reminder date",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Tasks/Tasks/__Reminder date",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

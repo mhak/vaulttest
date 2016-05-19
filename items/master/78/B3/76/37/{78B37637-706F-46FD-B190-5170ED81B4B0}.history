@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{78B37637-706F-46FD-B190-5170ED81B4B0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:12.7295890Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Interaction Start Date",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visit/Interaction Start Date",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null
+  }
+]

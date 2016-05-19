@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{86FE4F77-4D9A-4EC3-9ED9-263D03BD1965}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:48.2820543Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Publish",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Publishing/Publishing/__Publish",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A34F2EFE-CF7A-4BF3-86DC-589B33C1B236}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:55.1125813Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Location",
+    "itemPath": "/sitecore/system/Settings/Buckets/Search Types/Location",
+    "commandType": "Item",
+    "template": "Field Search Type",
+    "sourceControlRevisionId": null
+  }
+]

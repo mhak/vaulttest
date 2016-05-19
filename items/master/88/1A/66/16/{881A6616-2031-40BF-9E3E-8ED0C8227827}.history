@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{881A6616-2031-40BF-9E3E-8ED0C8227827}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:06.1047783Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-organic-search",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-organic-search",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null
+  }
+]

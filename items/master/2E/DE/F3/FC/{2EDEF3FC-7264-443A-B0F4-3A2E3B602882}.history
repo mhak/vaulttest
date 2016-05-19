@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2EDEF3FC-7264-443A-B0F4-3A2E3B602882}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:07.3097108Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Header Template",
+    "itemPath": "/sitecore/templates/System/Item Buckets/View/View Details/Header Template",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

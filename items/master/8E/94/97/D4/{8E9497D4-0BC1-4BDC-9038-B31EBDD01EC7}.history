@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8E9497D4-0BC1-4BDC-9038-B31EBDD01EC7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:38.8015120Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Portrait",
+    "itemPath": "/sitecore/templates/System/Security/User/Data/Portrait",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

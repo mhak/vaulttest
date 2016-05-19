@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{87025BA9-5F86-4D40-AF75-92F91B4DCCD7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:10.5040299Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ViewerPanelHeader",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Common/ViewerPanelHeader",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null
+  }
+]

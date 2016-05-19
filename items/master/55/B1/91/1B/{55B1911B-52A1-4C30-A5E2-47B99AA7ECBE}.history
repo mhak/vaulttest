@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{55B1911B-52A1-4C30-A5E2-47B99AA7ECBE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:26.3699374Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Identification",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Outcomes/Identification",
+    "commandType": "Item",
+    "template": "Outcome Type",
+    "sourceControlRevisionId": null
+  }
+]

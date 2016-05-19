@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B23E7557-10FB-4288-9D4F-371F6A83602E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:05.7986244Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Icon",
+    "itemPath": "/sitecore/templates/System/Item Buckets/Dropdown List/Dropdown List/Icon",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

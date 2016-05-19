@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BEEBC988-14CE-441A-B9E2-2A38D6E4A87D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:28.6329304Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Portlet",
+    "itemPath": "/sitecore/templates/System/Portal/Portlet",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

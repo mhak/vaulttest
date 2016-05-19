@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/media library/Default Website/sc_logo",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "be3df300bc7a57dfb0f925e18ec40c112552d1e9"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{094AED03-02E7-4868-80CB-19926661FB77}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:04.5726906Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "sc_logo",
+    "itemPath": "/sitecore/media library/Default Website/sc_logo",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]

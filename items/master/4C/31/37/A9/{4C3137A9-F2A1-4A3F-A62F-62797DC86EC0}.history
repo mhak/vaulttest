@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4C3137A9-F2A1-4A3F-A62F-62797DC86EC0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:46.8781104Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Text",
+    "itemPath": "/sitecore/system/Settings/Analytics/Profile Key Controls/Text",
+    "commandType": "Item",
+    "template": "Profile Key Control",
+    "sourceControlRevisionId": null
+  }
+]

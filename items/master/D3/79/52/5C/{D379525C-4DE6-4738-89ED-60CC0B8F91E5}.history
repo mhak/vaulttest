@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D379525C-4DE6-4738-89ED-60CC0B8F91E5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:11.9745458Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Campaign was Triggered",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visit/Campaign was Triggered",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null
+  }
+]

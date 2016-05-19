@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{852CB897-42E0-4885-A1D8-642BC153A868}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:14.3572503Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Editor",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Preset/Editor",
+    "commandType": "Item",
+    "template": "Dictionary folder",
+    "sourceControlRevisionId": null
+  }
+]

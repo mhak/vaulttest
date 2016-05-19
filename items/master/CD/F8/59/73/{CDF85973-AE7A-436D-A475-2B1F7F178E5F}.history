@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CDF85973-AE7A-436D-A475-2B1F7F178E5F}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:22.5715837Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Year",
+    "itemPath": "/sitecore/templates/System/Media/Versioned/Mp3/ID3/Year",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F2AB8BD3-7FD4-4E5E-8A89-179866166575}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:27.6250091Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "visitor is competitor",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Personalization/Predefined Conditions/visitor is competitor",
+    "commandType": "Item",
+    "template": "Conditional Rendering Rule",
+    "sourceControlRevisionId": null
+  }
+]

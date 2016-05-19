@@ -7,12 +7,13 @@
     "language": "en",
     "timestamp": "04/01/2016 19:21:58",
     "label": "Saved",
-    "sourceControlRevisionId": "0c87328386545b9fcd474dd705f7785cae989103",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "grouped droplink",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/grouped droplink",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "0c87328386545b9fcd474dd705f7785cae989103"
   },
   {
     "eventType": "PackageInstall",
@@ -22,12 +23,13 @@
     "language": "en",
     "timestamp": "2016-04-05T02:21:38.1901122Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "11dc8d69826df4d80618409c490deefa8c1ec7f5",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "grouped droplink",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/grouped droplink",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "11dc8d69826df4d80618409c490deefa8c1ec7f5"
   },
   {
     "eventType": "PackageInstall",
@@ -37,12 +39,13 @@
     "language": "en",
     "timestamp": "2016-04-05T02:25:54.8582234Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "d7fe1a6577f74c3fa2a078efd5702f2d12289f57",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "grouped droplink",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/grouped droplink",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "d7fe1a6577f74c3fa2a078efd5702f2d12289f57"
   },
   {
     "eventType": "PackageInstall",
@@ -52,12 +55,13 @@
     "language": "en",
     "timestamp": "2016-04-05T02:26:57.9189824Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "7752b998477b38248423460fe52fc48b60825ae4",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "grouped droplink",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/grouped droplink",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "7752b998477b38248423460fe52fc48b60825ae4"
   },
   {
     "eventType": "PackageInstall",
@@ -67,12 +71,13 @@
     "language": "en",
     "timestamp": "2016-04-05T02:28:11.6651834Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "5cbe56af0da622007e1ce7194d7193e58514549e",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "grouped droplink",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/grouped droplink",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "5cbe56af0da622007e1ce7194d7193e58514549e"
   },
   {
     "eventType": "PackageInstall",
@@ -82,12 +87,13 @@
     "language": "en",
     "timestamp": "2016-04-05T02:29:38.7303477Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "156eb44472f4b59e53f7681f6ce21763be8bc136",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "grouped droplink",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/grouped droplink",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "156eb44472f4b59e53f7681f6ce21763be8bc136"
   },
   {
     "eventType": "PackageInstall",
@@ -97,12 +103,13 @@
     "language": "en",
     "timestamp": "2016-04-05T02:33:29.3094822Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "7250ecd81231363fbc534d07fa9540084d978a6f",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "grouped droplink",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/grouped droplink",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "7250ecd81231363fbc534d07fa9540084d978a6f"
   },
   {
     "eventType": "PackageInstall",
@@ -112,12 +119,13 @@
     "language": "en",
     "timestamp": "2016-04-05T02:36:27.3795205Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "1876ae853364306d864a082c19fffb533edc9718",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "grouped droplink",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/grouped droplink",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "1876ae853364306d864a082c19fffb533edc9718"
   },
   {
     "eventType": "PackageInstall",
@@ -127,12 +135,13 @@
     "language": "en",
     "timestamp": "2016-04-05T02:37:39.9386706Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "fd916c5fa2a70461c30f9802a2a62880dd39ebf2",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "grouped droplink",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/grouped droplink",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "fd916c5fa2a70461c30f9802a2a62880dd39ebf2"
   },
   {
     "eventType": "PackageInstall",
@@ -142,12 +151,13 @@
     "language": "en",
     "timestamp": "2016-04-05T02:47:33.1816022Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "bb506d619ef6eaec5543f2aaf67245de876faf16",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "grouped droplink",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/grouped droplink",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "bb506d619ef6eaec5543f2aaf67245de876faf16"
   },
   {
     "eventType": "PackageInstall",
@@ -157,12 +167,13 @@
     "language": "en",
     "timestamp": "2016-04-05T02:49:33.2574701Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "6153ea9cffe9805e942e85549ba304f04d6bd6ef",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "grouped droplink",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/grouped droplink",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "6153ea9cffe9805e942e85549ba304f04d6bd6ef"
   },
   {
     "eventType": "PackageInstall",
@@ -172,12 +183,13 @@
     "language": "en",
     "timestamp": "2016-04-05T03:59:15.0186532Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "45b545c3b35ee63345db9ac79ac40db4f849959b",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "grouped droplink",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/grouped droplink",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "45b545c3b35ee63345db9ac79ac40db4f849959b"
   },
   {
     "eventType": "PackageInstall",
@@ -187,12 +199,13 @@
     "language": "en",
     "timestamp": "2016-04-05T04:00:36.2753008Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "1ebd75eed0357aa12785244c63e6bab44d9ceb0c",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "grouped droplink",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/grouped droplink",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "1ebd75eed0357aa12785244c63e6bab44d9ceb0c"
   },
   {
     "eventType": "PackageInstall",
@@ -202,12 +215,13 @@
     "language": "en",
     "timestamp": "2016-04-05T04:05:55.9175833Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "1750e4ddb18eafd4c1b15fb450215440061f4519",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "grouped droplink",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/grouped droplink",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "1750e4ddb18eafd4c1b15fb450215440061f4519"
   },
   {
     "eventType": "PackageInstall",
@@ -217,12 +231,13 @@
     "language": "en",
     "timestamp": "2016-04-05T16:23:17.8436873Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "0ff723bebfb75b37d40225f3de3cdb1b6f50b235",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "grouped droplink",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/grouped droplink",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "0ff723bebfb75b37d40225f3de3cdb1b6f50b235"
   },
   {
     "eventType": "PackageInstall",
@@ -232,12 +247,13 @@
     "language": "en",
     "timestamp": "2016-04-05T16:27:25.6048573Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "14a1c12fffd7a57696c9fad7b7936a38fecc967e",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "grouped droplink",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/grouped droplink",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "14a1c12fffd7a57696c9fad7b7936a38fecc967e"
   },
   {
     "eventType": "PackageInstall",
@@ -247,12 +263,13 @@
     "language": "en",
     "timestamp": "2016-04-05T16:33:32.8698636Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "79256177df01456bfdb6e2c7c1aa41453d6464f9",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "grouped droplink",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/grouped droplink",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "79256177df01456bfdb6e2c7c1aa41453d6464f9"
   },
   {
     "eventType": "PackageInstall",
@@ -260,14 +277,15 @@
     "itemId": "{7872B916-A18C-4182-B2EB-771BFB6979AA}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-05T16:40:58.146332Z",
+    "timestamp": "2016-04-05T16:40:58.1463320Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "a04c4a1f8130e376de787534783648097015dafe",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "grouped droplink",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/grouped droplink",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "a04c4a1f8130e376de787534783648097015dafe"
   },
   {
     "eventType": "PackageInstall",
@@ -277,12 +295,13 @@
     "language": "en",
     "timestamp": "2016-04-05T16:45:25.7506381Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "b83c3538f9703bf0413b1cdbb68ba89be65a7afd",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "grouped droplink",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/grouped droplink",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "b83c3538f9703bf0413b1cdbb68ba89be65a7afd"
   },
   {
     "eventType": "PackageInstall",
@@ -292,12 +311,13 @@
     "language": "en",
     "timestamp": "2016-04-05T17:23:28.6882146Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "01794541d33ee53984128d4c7a8deba326de9c31",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "grouped droplink",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/grouped droplink",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "01794541d33ee53984128d4c7a8deba326de9c31"
   },
   {
     "eventType": "PackageInstall",
@@ -307,12 +327,13 @@
     "language": "en",
     "timestamp": "2016-04-05T17:25:37.8466021Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "72a1cd73464f5e0d39eb4f05255d80ce88d42687",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "grouped droplink",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/grouped droplink",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "72a1cd73464f5e0d39eb4f05255d80ce88d42687"
   },
   {
     "eventType": "PackageInstall",
@@ -322,12 +343,13 @@
     "language": "en",
     "timestamp": "2016-04-05T17:47:07.3203558Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "e30ed5e5ae7d1f8b87ed63d2e4199c4b5e99d855",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "grouped droplink",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/grouped droplink",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "e30ed5e5ae7d1f8b87ed63d2e4199c4b5e99d855"
   },
   {
     "eventType": "PackageInstall",
@@ -337,12 +359,13 @@
     "language": "en",
     "timestamp": "2016-04-05T17:48:32.8632485Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "af3e391b6ed919d3f3539b81a510ed5d1b2ff8e0",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "grouped droplink",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/grouped droplink",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "af3e391b6ed919d3f3539b81a510ed5d1b2ff8e0"
   },
   {
     "eventType": "PackageInstall",
@@ -352,12 +375,13 @@
     "language": "en",
     "timestamp": "2016-04-05T18:01:48.9147778Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "438599fc22bd6aa715d52886685dcf429c318cc7",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "grouped droplink",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/grouped droplink",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "438599fc22bd6aa715d52886685dcf429c318cc7"
   },
   {
     "eventType": "PackageInstall",
@@ -365,14 +389,15 @@
     "itemId": "{7872B916-A18C-4182-B2EB-771BFB6979AA}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-05T18:03:20.251002Z",
+    "timestamp": "2016-04-05T18:03:20.2510020Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "9456729b38f051fa51bfe4de74341a8284b50a48",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "grouped droplink",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/grouped droplink",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "9456729b38f051fa51bfe4de74341a8284b50a48"
   },
   {
     "eventType": "PackageInstall",
@@ -382,11 +407,28 @@
     "language": "en",
     "timestamp": "2016-04-06T00:09:14.0523847Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": null,
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "grouped droplink",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/grouped droplink",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "be3df300bc7a57dfb0f925e18ec40c112552d1e9"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7872B916-A18C-4182-B2EB-771BFB6979AA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:55.5124678Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "grouped droplink",
+    "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/grouped droplink",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
   }
 ]

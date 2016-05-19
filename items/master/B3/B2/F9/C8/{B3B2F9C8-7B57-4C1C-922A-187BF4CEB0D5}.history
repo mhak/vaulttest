@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B3B2F9C8-7B57-4C1C-922A-187BF4CEB0D5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:44.0278109Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Data",
+    "itemPath": "/sitecore/templates/System/Social/Posting Configuration/Content Posting Configuration/Data",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FCF4296B-B11A-4C74-B922-A4DDC451F2EA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:38.5754991Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ClientLanguage",
+    "itemPath": "/sitecore/templates/System/Security/User/Data/ClientLanguage",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

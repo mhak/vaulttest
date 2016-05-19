@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3DB3A3CA-A0A9-4228-994B-F70C8E99A1CE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:20.1134431Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Doc",
+    "itemPath": "/sitecore/templates/System/Media/Versioned/Doc",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

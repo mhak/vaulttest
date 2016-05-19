@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2DA13C4C-2493-4614-B3F8-C6989A5A25F0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:53.8329400Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Multivariate Test Definition/__Standard Values",
+    "commandType": "Item",
+    "template": "Multivariate Test Definition",
+    "sourceControlRevisionId": null
+  }
+]

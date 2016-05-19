@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CCB11355-CD36-4785-BFFA-4F12484348EA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:38.3314851Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Roles",
+    "itemPath": "/sitecore/templates/System/Security/Role/Data/Roles",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

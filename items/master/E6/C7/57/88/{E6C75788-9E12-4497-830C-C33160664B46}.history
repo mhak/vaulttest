@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E6C75788-9E12-4497-830C-C33160664B46}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:00.2363062Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Copyright",
+    "itemPath": "/sitecore/templates/System/Feeds/RSS Feed/Additional Metadata/Copyright",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4331FA5B-F639-440C-96A2-5902DDC481C0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:48.8210851Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tasks",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Tasks/Tasks",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null
+  }
+]

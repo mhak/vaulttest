@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{46D024D5-B1AD-4D6E-B778-1920EEC02860}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:39.4576859Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Guatemala",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Guatemala",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

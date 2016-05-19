@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{748DF8F7-09E4-4A34-8CE3-6908C5E9BD11}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:53.5919262Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Behaviors/Behavior/__Standard Values",
+    "commandType": "Item",
+    "template": "Behavior",
+    "sourceControlRevisionId": null
+  }
+]

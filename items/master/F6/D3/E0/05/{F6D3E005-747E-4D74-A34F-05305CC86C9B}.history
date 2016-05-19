@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F6D3E005-747E-4D74-A34F-05305CC86C9B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:21.5955279Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Version",
+    "itemPath": "/sitecore/templates/System/Media/Versioned/Flash/Flash/Version",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

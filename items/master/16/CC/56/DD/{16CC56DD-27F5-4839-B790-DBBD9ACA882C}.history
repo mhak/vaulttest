@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{16CC56DD-27F5-4839-B790-DBBD9ACA882C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:00.0702967Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Title",
+    "itemPath": "/sitecore/templates/System/Feeds/RSS Feed/Data/Title",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

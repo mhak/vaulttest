@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{525C7B5A-8FD2-4B99-89F6-4F3F6D23BB02}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:02.1099816Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Set Parameters",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Conditional Renderings/Set Parameters",
+    "commandType": "Item",
+    "template": "Action",
+    "sourceControlRevisionId": null
+  }
+]

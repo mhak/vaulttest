@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7764F713-C4D0-4D1E-BBA2-34538A202ECA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:47.8761674Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Pages Visits",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Pages Visits",
+    "commandType": "Item",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null
+  }
+]

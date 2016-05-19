@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E28C144E-6575-4909-977B-7CC66C686499}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:07.1272685Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Item Can have Subitems",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Item Security/Item Can have Subitems",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null
+  }
+]

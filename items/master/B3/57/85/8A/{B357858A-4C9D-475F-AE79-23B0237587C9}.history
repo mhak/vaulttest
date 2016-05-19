@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B357858A-4C9D-475F-AE79-23B0237587C9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:40.3017342Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Jordan",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Jordan",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

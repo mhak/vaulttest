@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7557C2AA-3193-4D37-93DC-681FC7E6C78A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:35.0864359Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Source Value Per Visits",
+    "itemPath": "/sitecore/system/Settings/Analytics/Dashboard Reports/Traffic Type/Source Value Per Visits",
+    "commandType": "Item",
+    "template": "Dashboard Report",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{378694DB-683D-4DFF-83E2-2F4202664001}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:27.7900186Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "visitor is press",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Personalization/Predefined Conditions/visitor is press",
+    "commandType": "Item",
+    "template": "Conditional Rendering Rule",
+    "sourceControlRevisionId": null
+  }
+]

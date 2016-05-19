@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{70244923-FA84-477C-8CBD-62F39642C42B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:44.8688590Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Schedule",
+    "itemPath": "/sitecore/templates/System/Tasks/Schedule",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

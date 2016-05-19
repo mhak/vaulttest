@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{40E50ED9-BA07-4702-992E-A912738D32DC}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:17.9303182Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Blob",
+    "itemPath": "/sitecore/templates/System/Media/Unversioned/File/Media/Blob",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

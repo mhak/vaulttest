@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4EE72570-E022-4F2D-BC60-003F5C35513A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:56.0640676Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Workflow/Deploy Associated Tests Action/__Standard Values",
+    "commandType": "Item",
+    "template": "Deploy Associated Tests Action",
+    "sourceControlRevisionId": null
+  }
+]

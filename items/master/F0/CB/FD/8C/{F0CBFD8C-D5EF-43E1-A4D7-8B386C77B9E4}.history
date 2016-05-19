@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F0CBFD8C-D5EF-43E1-A4D7-8B386C77B9E4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:40.3851708Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Child Sorting",
+    "itemPath": "/sitecore/templates/System/Child Sorting",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

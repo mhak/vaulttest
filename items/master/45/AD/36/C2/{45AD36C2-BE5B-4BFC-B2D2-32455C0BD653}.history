@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{45AD36C2-BE5B-4BFC-B2D2-32455C0BD653}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:55.7120474Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Test Type",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Test Variable/Data/Test Type",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F201003B-514B-4A86-8C56-48B39DE53306}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:26.0739204Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Paid search",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Filters/Paid search",
+    "commandType": "Item",
+    "template": "DimensionFolder",
+    "sourceControlRevisionId": null
+  }
+]

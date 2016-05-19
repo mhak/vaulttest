@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{23B07DD2-7159-4A78-BB68-49D23D806110}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:24.3176836Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Location",
+    "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Preset/Location",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null
+  }
+]

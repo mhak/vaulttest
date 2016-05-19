@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{493B3A83-0FA7-4484-8FC9-4680991CF743}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:02.1465519Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sample Rendering",
+    "itemPath": "/sitecore/layout/Renderings/Sample/Sample Rendering",
+    "commandType": "Item",
+    "template": "Xsl Rendering",
+    "sourceControlRevisionId": null
+  }
+]

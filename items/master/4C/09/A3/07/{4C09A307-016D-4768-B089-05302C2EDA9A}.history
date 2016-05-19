@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4C09A307-016D-4768-B089-05302C2EDA9A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:55.7176159Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "date",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Client Side Hooks/date",
+    "commandType": "Item",
+    "template": "Clientside Hook",
+    "sourceControlRevisionId": null
+  }
+]

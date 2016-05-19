@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AC3BC9B6-46A2-4EAD-AF5E-6BDB532EB832}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:49.9497178Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "IsGoal",
+    "itemPath": "/sitecore/templates/System/Analytics/Page Event/Options/IsGoal",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

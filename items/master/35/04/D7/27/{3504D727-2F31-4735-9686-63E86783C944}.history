@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3504D727-2F31-4735-9686-63E86783C944}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:50.6813279Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Winner Found",
+    "itemPath": "/sitecore/system/Settings/Analytics/Testing/End Test Behavior/Is Mv Test/Winner Found",
+    "commandType": "Item",
+    "template": "Rule Container",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AC2A4D43-DC79-458D-8A2B-E79028D47A1E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:19.7039879Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Campaigns",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/Campaigns",
+    "commandType": "Item",
+    "template": "Tag",
+    "sourceControlRevisionId": null
+  }
+]

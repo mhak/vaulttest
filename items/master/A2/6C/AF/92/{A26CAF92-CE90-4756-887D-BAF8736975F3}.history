@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A26CAF92-CE90-4756-887D-BAF8736975F3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:57.7547325Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Close All",
+    "itemPath": "/sitecore/system/Settings/Buckets/Tab Options/Close All",
+    "commandType": "Item",
+    "template": "Tab Option",
+    "sourceControlRevisionId": null
+  }
+]

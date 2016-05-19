@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F172B787-7B88-4BD5-AE4D-6308E102EF11}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:16.7502508Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Enable Datasource Query",
+    "itemPath": "/sitecore/templates/System/Layout/Sections/Rendering Options/Editor Options/Enable Datasource Query",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

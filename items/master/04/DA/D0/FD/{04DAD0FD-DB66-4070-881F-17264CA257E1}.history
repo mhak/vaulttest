@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{04DAD0FD-DB66-4070-881F-17264CA257E1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:04.5196876Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "cover",
+    "itemPath": "/sitecore/media library/Default Website/cover",
+    "commandType": "Item",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null
+  }
+]

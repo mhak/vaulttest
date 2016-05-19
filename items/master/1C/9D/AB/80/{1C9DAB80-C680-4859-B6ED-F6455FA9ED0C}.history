@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1C9DAB80-C680-4859-B6ED-F6455FA9ED0C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:45.7710470Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Follow hit",
+    "itemPath": "/sitecore/system/Settings/Analytics/Page Events/Follow hit",
+    "commandType": "Item",
+    "template": "Page Event",
+    "sourceControlRevisionId": null
+  }
+]

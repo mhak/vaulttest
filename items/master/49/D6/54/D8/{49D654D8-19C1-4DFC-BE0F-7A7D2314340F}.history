@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{49D654D8-19C1-4DFC-BE0F-7A7D2314340F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:30.9366304Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Check in",
+    "itemPath": "/sitecore/system/Settings/Workflow/Check in",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null
+  }
+]

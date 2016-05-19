@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{07B61643-429B-4ED0-89D7-CE29C4F3D960}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:13.0850411Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Parameters Template",
+    "itemPath": "/sitecore/templates/System/Layout/Renderings/Method Rendering/Editor Options/Parameters Template",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

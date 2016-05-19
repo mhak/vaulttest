@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{88CA41B4-1661-4C75-8C98-1D952F56D815}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:03.6516379Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "iPhone",
+    "itemPath": "/sitecore/layout/Simulators/iPhone",
+    "commandType": "Item",
+    "template": "Simulator",
+    "sourceControlRevisionId": null
+  }
+]

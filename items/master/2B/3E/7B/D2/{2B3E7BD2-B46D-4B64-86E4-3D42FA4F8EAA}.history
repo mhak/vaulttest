@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2B3E7BD2-B46D-4B64-86E4-3D42FA4F8EAA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:55.9216276Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Add to Favorites",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Quick Actions/Add to Favorites",
+    "commandType": "Item",
+    "template": "Quick Action",
+    "sourceControlRevisionId": null
+  }
+]

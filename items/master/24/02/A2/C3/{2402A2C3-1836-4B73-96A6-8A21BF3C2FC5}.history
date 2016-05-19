@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2402A2C3-1836-4B73-96A6-8A21BF3C2FC5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:37.6484461Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Rules/Taxonomy/Rules Folder/__Standard Values",
+    "commandType": "Item",
+    "template": "Rules Folder",
+    "sourceControlRevisionId": null
+  }
+]

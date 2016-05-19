@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8273FA5D-090A-439C-A1E3-E0F787DDE5C0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:57.4211452Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Analytics/Visitor Identification/__Standard Values",
+    "commandType": "Item",
+    "template": "Visitor Identification",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{03379AF5-F1AE-4610-B15B-4C7F1032B464}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:28.2300438Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Background",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Focus/Background",
+    "commandType": "Item",
+    "template": "Profile Key",
+    "sourceControlRevisionId": null
+  }
+]

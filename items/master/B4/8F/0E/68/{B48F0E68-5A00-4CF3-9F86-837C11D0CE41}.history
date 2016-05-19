@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B48F0E68-5A00-4CF3-9F86-837C11D0CE41}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:44.6278453Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sharing",
+    "itemPath": "/sitecore/templates/System/Social/Sharing/SharingControlParameters/Sharing",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null
+  }
+]

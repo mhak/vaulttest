@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2CCD765C-3399-41F8-8069-81C99345E3CC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:50.1582980Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Has never been tested",
+    "itemPath": "/sitecore/system/Settings/Analytics/Test Suggestions/Has never been tested",
+    "commandType": "Item",
+    "template": "Suggested Test",
+    "sourceControlRevisionId": null
+  }
+]

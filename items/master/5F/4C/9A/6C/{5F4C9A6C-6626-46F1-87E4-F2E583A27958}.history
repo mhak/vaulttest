@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5F4C9A6C-6626-46F1-87E4-F2E583A27958}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:42.0008314Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Niger",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Niger",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

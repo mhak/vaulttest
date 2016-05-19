@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{03DDD6D9-7D7D-4EEA-9F4C-E84DA5A8016F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:15.3087365Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Campaign Enrollment",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Campaigns/Actions/Campaign Enrollment",
+    "commandType": "Item",
+    "template": "Action",
+    "sourceControlRevisionId": null
+  }
+]

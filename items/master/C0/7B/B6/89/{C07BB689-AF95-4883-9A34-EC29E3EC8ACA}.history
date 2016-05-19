@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C07BB689-AF95-4883-9A34-EC29E3EC8ACA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:01.9925431Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "AppEditor",
+    "itemPath": "/sitecore/layout/Renderings/App Center Sync/AppEditor",
+    "commandType": "Item",
+    "template": "Webcontrol",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5A128E99-48A5-4E6E-BCE4-B612A43BEDFE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:25.7177637Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Notification",
+    "itemPath": "/sitecore/templates/System/Navigation/Notification",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

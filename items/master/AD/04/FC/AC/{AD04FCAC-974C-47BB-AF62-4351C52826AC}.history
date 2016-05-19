@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AD04FCAC-974C-47BB-AF62-4351C52826AC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:53.7395028Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Visits",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Subreports/Not Found Urls Visits/Visits",
+    "commandType": "Item",
+    "template": "Report",
+    "sourceControlRevisionId": null
+  }
+]

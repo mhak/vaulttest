@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EB1B57AA-DE4F-4610-B280-1004BE806A25}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:34.2423876Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Overview",
+    "itemPath": "/sitecore/system/Settings/Analytics/Dashboard Reports/Overview",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

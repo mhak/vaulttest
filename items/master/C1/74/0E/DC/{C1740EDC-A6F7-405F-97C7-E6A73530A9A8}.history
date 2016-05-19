@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C1740EDC-A6F7-405F-97C7-E6A73530A9A8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:24.9642888Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Clear Rules Cache",
+    "itemPath": "/sitecore/system/Settings/Rules/Item Saved/Rules/Clear Rules Cache",
+    "commandType": "Item",
+    "template": "Rule",
+    "sourceControlRevisionId": null
+  }
+]

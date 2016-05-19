@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{31C7DB00-43E8-4171-8B56-0C6369FD7586}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:07.6648675Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "RSS",
+    "itemPath": "/sitecore/media library/System/Page Event Images/RSS",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7FE3A2CB-A592-46AB-837E-1F2354EF7E9F}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:34.0242388Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Header",
+    "itemPath": "/sitecore/templates/System/Ribbon/Small Input Box/Data/Header",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

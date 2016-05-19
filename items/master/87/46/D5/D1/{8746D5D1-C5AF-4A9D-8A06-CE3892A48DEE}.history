@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8746D5D1-C5AF-4A9D-8A06-CE3892A48DEE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:34.8474222Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Campaign Categories Overview",
+    "itemPath": "/sitecore/system/Settings/Analytics/Dashboard Reports/Overview/Campaign Categories Overview",
+    "commandType": "Item",
+    "template": "Dashboard Report",
+    "sourceControlRevisionId": null
+  }
+]

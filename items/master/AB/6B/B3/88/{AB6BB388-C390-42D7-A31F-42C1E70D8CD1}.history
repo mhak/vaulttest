@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AB6BB388-C390-42D7-A31F-42C1E70D8CD1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:05.5516102Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Item Buckets/Dropdown List/__Standard Values",
+    "commandType": "Item",
+    "template": "Dropdown List",
+    "sourceControlRevisionId": null
+  }
+]

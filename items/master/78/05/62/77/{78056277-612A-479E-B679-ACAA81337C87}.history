@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{78056277-612A-479E-B679-ACAA81337C87}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:56.9901205Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "RequireTestCandidates",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Workflow/Test Candidate Check Action/Tests/RequireTestCandidates",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

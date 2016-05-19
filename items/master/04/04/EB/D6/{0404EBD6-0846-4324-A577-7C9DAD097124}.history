@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0404EBD6-0846-4324-A577-7C9DAD097124}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:34.5744066Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ByDay",
+    "itemPath": "/sitecore/system/Settings/Analytics/Dashboard Reports/Campaigns Categories/Campaign Assets/ByDay",
+    "commandType": "Item",
+    "template": "Dashboard Report",
+    "sourceControlRevisionId": null
+  }
+]

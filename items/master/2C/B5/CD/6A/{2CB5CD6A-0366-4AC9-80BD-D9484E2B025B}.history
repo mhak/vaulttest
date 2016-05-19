@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2CB5CD6A-0366-4AC9-80BD-D9484E2B025B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:42.3357142Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Application ID",
+    "itemPath": "/sitecore/templates/System/Social/Klout/Klout Application/Data/Application ID",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

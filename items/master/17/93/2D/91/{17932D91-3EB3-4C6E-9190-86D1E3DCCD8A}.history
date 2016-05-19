@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{17932D91-3EB3-4C6E-9190-86D1E3DCCD8A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:27.5338675Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Start",
+    "itemPath": "/sitecore/templates/System/Path Analyzer/BaseMap/Scope/Start",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

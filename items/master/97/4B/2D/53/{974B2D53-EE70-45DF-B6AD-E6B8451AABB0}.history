@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{974B2D53-EE70-45DF-B6AD-E6B8451AABB0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:50.3087384Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Analytics/Patterns/Pattern Card/__Standard Values",
+    "commandType": "Item",
+    "template": "Pattern Card",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FBF40BE3-56C5-4479-A991-42362C7722FB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:39.4906878Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Guernsey",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Guernsey",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

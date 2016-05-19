@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5380D907-A1BC-41FB-BBB6-4B04E83E25D1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:00.4403179Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "HTML Class",
+    "itemPath": "/sitecore/templates/System/Html editor/HTML Class",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

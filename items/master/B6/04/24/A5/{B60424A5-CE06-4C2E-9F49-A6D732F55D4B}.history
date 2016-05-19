@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B60424A5-CE06-4C2E-9F49-A6D732F55D4B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:17.4292896Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Mp3",
+    "itemPath": "/sitecore/templates/System/Media/Unversioned/Mp3",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

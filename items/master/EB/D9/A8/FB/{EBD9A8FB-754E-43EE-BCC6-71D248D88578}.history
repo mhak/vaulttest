@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EBD9A8FB-754E-43EE-BCC6-71D248D88578}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:32.8853100Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Google",
+    "itemPath": "/sitecore/system/Modules/Experience Explorer/Map Settings/Google",
+    "commandType": "Item",
+    "template": "Map Provider",
+    "sourceControlRevisionId": null
+  }
+]

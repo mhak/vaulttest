@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CD521D55-CFD4-447A-B386-8FC9F122B01E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:06.8466843Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Command",
+    "itemPath": "/sitecore/templates/System/Item Buckets/Quick Action/Command/Command",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

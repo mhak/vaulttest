@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FE5DD826-48C6-436D-B87A-7C4210C7413B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:16.8922589Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Media folder",
+    "itemPath": "/sitecore/templates/System/Media/Media folder",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{733DCB4D-6477-44DB-87F1-8798B14DB804}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:45.3040203Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Only Evaluate for Subscribed Events",
+    "itemPath": "/sitecore/system/Settings/Analytics/Marketing Automation Evaluation/Only Evaluate for Subscribed Events",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

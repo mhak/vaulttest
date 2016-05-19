@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B6D7D860-0ABA-49DD-85D5-4D537646EF7F}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:31.5690983Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Command",
+    "itemPath": "/sitecore/templates/System/Ribbon/Large Gallery Button/Data/Command",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

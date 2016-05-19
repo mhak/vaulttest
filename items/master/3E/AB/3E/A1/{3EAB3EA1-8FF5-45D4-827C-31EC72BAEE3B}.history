@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3EAB3EA1-8FF5-45D4-827C-31EC72BAEE3B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:03.9625193Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Click",
+    "itemPath": "/sitecore/templates/System/Html Editor Profiles/Html Editor Drop Down/Data/Click",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

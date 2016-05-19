@@ -1,0 +1,10 @@
+{
+  "itemName": "Domain Matcher",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{869D1B82-50FB-4CD0-B1BF-B2482C5FBA97}",
+  "childIds": [
+    "{AC47BEA7-3514-4AE9-BA37-088D54B6DBE1}",
+    "{18B02A1C-FD60-461A-A3F4-259634DB5704}"
+  ]
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3799B830-7D8B-4FED-99D8-5D5EF6607D0E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:56.0826368Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Download",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Quick Actions/Download",
+    "commandType": "Item",
+    "template": "Quick Action",
+    "sourceControlRevisionId": null
+  }
+]

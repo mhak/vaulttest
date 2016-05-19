@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{17394C5A-35A3-45A3-BF2C-F1AC607D1476}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:29.4159752Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Preview publishing target",
+    "itemPath": "/sitecore/templates/System/Publishing target/Data/Preview publishing target",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

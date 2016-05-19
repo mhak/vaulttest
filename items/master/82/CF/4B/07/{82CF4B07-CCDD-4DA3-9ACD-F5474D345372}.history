@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{82CF4B07-CCDD-4DA3-9ACD-F5474D345372}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:40.2851651Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Archiving",
+    "itemPath": "/sitecore/templates/System/Archiving",
+    "commandType": "Item",
+    "template": "Node",
+    "sourceControlRevisionId": null
+  }
+]

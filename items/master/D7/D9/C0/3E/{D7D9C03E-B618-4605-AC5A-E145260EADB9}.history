@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D7D9C03E-B618-4605-AC5A-E145260EADB9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:59.6368401Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Order By Operators",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Order By Operators",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D0F541BF-A58B-4FD2-A72E-12C7519B4A14}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:27.9194578Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Trim",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Sample/Max Length 40/Trim",
+    "commandType": "Item",
+    "template": "Menu item",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{763A4A9F-DA95-497F-AA74-20C68D0AFD3E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:42.7127357Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Social/Message/Social Marketer Message/__Standard Values",
+    "commandType": "Item",
+    "template": "Social Marketer Message",
+    "sourceControlRevisionId": null
+  }
+]

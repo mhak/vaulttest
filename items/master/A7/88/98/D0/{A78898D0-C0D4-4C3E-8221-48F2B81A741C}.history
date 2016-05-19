@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A78898D0-C0D4-4C3E-8221-48F2B81A741C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:28.2779101Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Report",
+    "itemPath": "/sitecore/templates/System/Path Analyzer/Report/Report",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null
+  }
+]

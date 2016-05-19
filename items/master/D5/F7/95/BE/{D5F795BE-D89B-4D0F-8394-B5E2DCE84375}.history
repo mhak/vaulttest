@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D5F795BE-D89B-4D0F-8394-B5E2DCE84375}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:55.6456118Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Search Result Options",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Result Options",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4F4E0E1F-B3EE-4175-950D-B353F5764FDE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:19.0875208Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Webinar live",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Digital Events/Webinar live",
+    "commandType": "Item",
+    "template": "Channel",
+    "sourceControlRevisionId": null
+  }
+]

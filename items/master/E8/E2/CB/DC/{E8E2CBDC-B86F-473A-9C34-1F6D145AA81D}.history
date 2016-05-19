@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E8E2CBDC-B86F-473A-9C34-1F6D145AA81D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:02.9886000Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Connector",
+    "itemPath": "/sitecore/layout/Sublayouts/Social/Connector",
+    "commandType": "Item",
+    "template": "Sublayout Folder",
+    "sourceControlRevisionId": null
+  }
+]

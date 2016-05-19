@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2B6BD0BD-7B87-4E8D-99C8-16BBE70E7DE0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:03.8375122Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Key",
+    "itemPath": "/sitecore/templates/System/Html Editor Profiles/Html Editor Class Translation/Data/Key",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

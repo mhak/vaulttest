@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BFAE0304-DE5F-4FF6-A729-8CA582E25AD6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:10.3330201Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ExperienceEditor",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Common/ExperienceEditor",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null
+  }
+]

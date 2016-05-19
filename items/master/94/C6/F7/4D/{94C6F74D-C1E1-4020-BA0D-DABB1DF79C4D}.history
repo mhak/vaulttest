@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{94C6F74D-C1E1-4020-BA0D-DABB1DF79C4D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:58.3417660Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tag View",
+    "itemPath": "/sitecore/system/Settings/Buckets/Views/Tag View",
+    "commandType": "Item",
+    "template": "View",
+    "sourceControlRevisionId": null
+  }
+]

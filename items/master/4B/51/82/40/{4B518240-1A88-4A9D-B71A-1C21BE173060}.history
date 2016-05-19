@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4B518240-1A88-4A9D-B71A-1C21BE173060}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:45.6400395Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Download brochure",
+    "itemPath": "/sitecore/system/Settings/Analytics/Page Events/Download brochure",
+    "commandType": "Item",
+    "template": "Page Event",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{36DEEEAE-4F2A-4501-831B-741F7BB6D07B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:49.5632639Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Test Outcomes",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Content Testing/Test Outcomes",
+    "commandType": "Item",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null
+  }
+]

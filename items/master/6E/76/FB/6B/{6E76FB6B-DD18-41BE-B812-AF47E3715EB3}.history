@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6E76FB6B-DD18-41BE-B812-AF47E3715EB3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:59.6768424Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "String Operators",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/String Operators",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

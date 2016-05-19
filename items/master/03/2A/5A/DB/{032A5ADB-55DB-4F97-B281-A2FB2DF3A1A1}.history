@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{032A5ADB-55DB-4F97-B281-A2FB2DF3A1A1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:44.1338170Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Post automatically",
+    "itemPath": "/sitecore/templates/System/Social/Posting Configuration/Content Posting Configuration/Data/Post automatically",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BB9C917A-3015-405C-9152-AB5FDFB4D134}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:35.6604687Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "States",
+    "itemPath": "/sitecore/system/Settings/Analytics/Engagement Automation/Predefined items/States",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

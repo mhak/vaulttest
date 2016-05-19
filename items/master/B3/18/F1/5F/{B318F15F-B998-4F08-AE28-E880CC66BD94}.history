@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B318F15F-B998-4F08-AE28-E880CC66BD94}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:14.1382377Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "PageEventEditorSearchWaterMark",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/PageEvents/Editor/PageEventEditorSearchWaterMark",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6AA5AA9F-071A-4808-91AC-709FAAFFB310}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:04.7517009Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Facebook",
+    "itemPath": "/sitecore/media library/Images/Social/Connector/Facebook",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null
+  }
+]

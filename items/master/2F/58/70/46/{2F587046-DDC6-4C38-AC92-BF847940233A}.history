@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2F587046-DDC6-4C38-AC92-BF847940233A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:42.3418509Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Palestinian Territory",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Palestinian Territory",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

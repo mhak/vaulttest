@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1597272C-C823-4AAC-86F8-CA9CC4D573B5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:45.9409204Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Statistics",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Statistics",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

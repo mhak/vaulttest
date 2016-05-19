@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{ADABB557-CCD7-4023-B8AB-02AF2391BB79}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:29.0945250Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Lower Case",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Text/Start with a Capital Letter and End with a Dot/Lower Case",
+    "commandType": "Item",
+    "template": "Menu item",
+    "sourceControlRevisionId": null
+  }
+]

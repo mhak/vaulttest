@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E78F4374-2C52-4FAF-9AB7-A280DB7575BE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:59.6842746Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "EnclosureField",
+    "itemPath": "/sitecore/templates/System/Feeds/Feed Rendering Parameters/Data/EnclosureField",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

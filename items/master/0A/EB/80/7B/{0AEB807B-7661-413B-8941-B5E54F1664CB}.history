@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0AEB807B-7661-413B-8941-B5E54F1664CB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:34.1108119Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Draft",
+    "itemPath": "/sitecore/system/Workflows/Social Marketer Message Workflow/Draft",
+    "commandType": "Item",
+    "template": "State",
+    "sourceControlRevisionId": null
+  }
+]

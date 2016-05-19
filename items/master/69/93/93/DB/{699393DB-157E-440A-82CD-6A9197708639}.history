@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{699393DB-157E-440A-82CD-6A9197708639}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:24.3702548Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Pattern Folder Insert Option",
+    "itemPath": "/sitecore/system/Settings/Rules/Insert Options/Rules/Pattern Folder Insert Option",
+    "commandType": "Item",
+    "template": "Insert Options Rule",
+    "sourceControlRevisionId": null
+  }
+]

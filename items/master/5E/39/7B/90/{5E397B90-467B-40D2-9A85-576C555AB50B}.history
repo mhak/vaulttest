@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5E397B90-467B-40D2-9A85-576C555AB50B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:10.4560271Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "SettingsPanelHeader",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Common/SettingsPanelHeader",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E5807574-D79C-4D27-B259-90539F665837}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:38.0896077Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Cook Islands",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Cook Islands",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

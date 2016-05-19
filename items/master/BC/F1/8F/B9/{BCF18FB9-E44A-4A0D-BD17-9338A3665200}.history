@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BCF18FB9-E44A-4A0D-BD17-9338A3665200}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:52.2758509Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Last Run",
+    "itemPath": "/sitecore/templates/System/Analytics/Report Schedule/Data/Last Run",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

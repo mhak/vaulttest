@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{01265C34-A863-45A6-97B1-588B0508A867}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:57.1326969Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Presentation",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Operations/Presentation",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

@@ -173,6 +173,22 @@
     "itemPath": "/sitecore/content/Home233a/registera",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "be3df300bc7a57dfb0f925e18ec40c112552d1e9"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A80E2959-E58C-434F-8F5A-01174B8AF8EE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:00.7664729Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "registera",
+    "itemPath": "/sitecore/content/Home233a/registera",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]

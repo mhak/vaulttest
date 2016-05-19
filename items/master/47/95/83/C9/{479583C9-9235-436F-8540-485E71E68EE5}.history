@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{479583C9-9235-436F-8540-485E71E68EE5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:39.9631466Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/List Manager/Segmented List/__Standard Values",
+    "commandType": "Item",
+    "template": "Segmented List",
+    "sourceControlRevisionId": null
+  }
+]

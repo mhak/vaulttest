@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BA5E7B23-491E-40C6-A7F4-931101255077}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:12.6840182Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Method",
+    "itemPath": "/sitecore/templates/System/Layout/Renderings/Method Rendering/Data/Method",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

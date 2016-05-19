@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{27BE440A-4803-4FD4-A0CC-F6DA87C4DCA3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:37.1125518Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Benin",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Benin",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

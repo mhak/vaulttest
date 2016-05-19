@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FE3A1E84-098D-41FE-9652-3F7821A8889A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:58.1601875Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "User name",
+    "itemPath": "/sitecore/templates/System/Archiving/Archived item/Data/User name",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

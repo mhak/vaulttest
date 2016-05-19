@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2329744E-7968-4CEA-B5FD-60131F50E744}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:59.3242540Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Feed Rendering Parameters",
+    "itemPath": "/sitecore/templates/System/Feeds/Feed Rendering Parameters",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

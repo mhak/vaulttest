@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{251A0217-0AB7-4731-A2E4-70F0317B23CF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:20.9986301Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Call Center",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Offline/Call Center",
+    "commandType": "Item",
+    "template": "Channel Group",
+    "sourceControlRevisionId": null
+  }
+]

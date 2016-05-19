@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0620F810-9294-4F14-AF9F-F5772EFCA0B2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:07.8437413Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Regional Iso Code",
+    "itemPath": "/sitecore/templates/System/Language/Data/Regional Iso Code",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

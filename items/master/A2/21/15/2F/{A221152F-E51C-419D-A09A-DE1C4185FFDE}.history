@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A221152F-E51C-419D-A09A-DE1C4185FFDE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:23.6457815Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Twitter Share Buttons",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Campaigns/Social/Twitter/Twitter Share Buttons",
+    "commandType": "Item",
+    "template": "Campaign",
+    "sourceControlRevisionId": null
+  }
+]

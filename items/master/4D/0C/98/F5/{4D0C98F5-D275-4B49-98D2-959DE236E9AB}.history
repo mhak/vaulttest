@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4D0C98F5-D275-4B49-98D2-959DE236E9AB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:12.2901320Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Coordinates",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Geo/Common/Coordinates",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null
+  }
+]

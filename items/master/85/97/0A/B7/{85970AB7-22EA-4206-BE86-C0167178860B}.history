@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{85970AB7-22EA-4206-BE86-C0167178860B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:51.0297796Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Profile Card Value",
+    "itemPath": "/sitecore/templates/System/Analytics/Profile Card/Data/Profile Card Value",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

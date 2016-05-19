@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9F22CF59-A4B5-4359-A72A-FC27C3562FDE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:22.4207115Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Other sales",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Offline/Sales/Other sales",
+    "commandType": "Item",
+    "template": "Channel",
+    "sourceControlRevisionId": null
+  }
+]

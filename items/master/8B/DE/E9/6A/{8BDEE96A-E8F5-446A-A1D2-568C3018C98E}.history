@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8BDEE96A-E8F5-446A-A1D2-568C3018C98E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:45.4814623Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Image",
+    "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Base/Taxon Definition/General/Image",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{52054874-4767-47DC-8099-8C08BFA307AA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:26.6279521Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Marketing Lead",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Outcomes/Lead Management Funnel/Marketing Lead",
+    "commandType": "Item",
+    "template": "Outcome Definition",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C98CF969-BA71-42DA-833D-B3FC1368BA27}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:16.2492221Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "VaryByDevice",
+    "itemPath": "/sitecore/templates/System/Layout/Sections/Caching/Caching/VaryByDevice",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

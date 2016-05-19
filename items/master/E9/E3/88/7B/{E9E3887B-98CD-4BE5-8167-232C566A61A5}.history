@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E9E3887B-98CD-4BE5-8167-232C566A61A5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:37.4255697Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Brunei Darussalam",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Brunei Darussalam",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

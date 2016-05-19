@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3A0621CA-94E6-4474-ACA1-64D67F3976EA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:04.9287110Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "List Manager",
+    "itemPath": "/sitecore/media library/System/List Manager",
+    "commandType": "Item",
+    "template": "Media folder",
+    "sourceControlRevisionId": null
+  }
+]

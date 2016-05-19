@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{60B84CA2-BB8E-4C8C-95F6-495057DAD4D4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:44.7884226Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Campaign Facet 6",
+    "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Base/Classification/Campaign Classification/Classification/Campaign Facet 6",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

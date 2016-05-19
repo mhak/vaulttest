@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{87BB1699-ABF0-4B53-8ACE-D7EC54D1ED71}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:25.8473393Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tags",
+    "itemPath": "/sitecore/system/Settings/Rules/Segment Builder/Tags",
+    "commandType": "Item",
+    "template": "Tags Definitions Folder",
+    "sourceControlRevisionId": null
+  }
+]

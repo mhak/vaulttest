@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{64C4F646-A3FA-4205-B98E-4DE2C609B60F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:08.8739366Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Languages",
+    "itemPath": "/sitecore/system/Languages",
+    "commandType": "Item",
+    "template": "Node",
+    "sourceControlRevisionId": null
+  }
+]

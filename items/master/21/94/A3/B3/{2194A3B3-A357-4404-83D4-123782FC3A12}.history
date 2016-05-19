@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2194A3B3-A357-4404-83D4-123782FC3A12}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:37.0379793Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Device",
+    "itemPath": "/sitecore/templates/Branches/System/Layouts/__Device",
+    "commandType": "Item",
+    "template": "Branch",
+    "sourceControlRevisionId": null
+  }
+]

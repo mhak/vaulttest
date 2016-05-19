@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3C6805F8-5C27-4414-9592-92C3A3279C9F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:27.1688467Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "TargetAsset",
+    "itemPath": "/sitecore/templates/System/Path Analyzer/AssetMap/Scope/TargetAsset",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

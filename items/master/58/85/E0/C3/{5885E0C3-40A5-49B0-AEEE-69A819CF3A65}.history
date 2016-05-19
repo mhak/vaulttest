@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5885E0C3-40A5-49B0-AEEE-69A819CF3A65}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:09.4839715Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Device",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Device",
+    "commandType": "Item",
+    "template": "Dictionary folder",
+    "sourceControlRevisionId": null
+  }
+]

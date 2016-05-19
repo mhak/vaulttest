@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E7B8658E-3B0A-492B-99E4-6AF310D46CEC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:24.0036656Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Api Key",
+    "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Map Provider/Data/Api Key",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

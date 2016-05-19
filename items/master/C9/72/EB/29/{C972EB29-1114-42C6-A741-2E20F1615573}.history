@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C972EB29-1114-42C6-A741-2E20F1615573}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:15.4873149Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ProfileViewerNoPatternCardsToMatch",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Profile/Viewer/ProfileViewerNoPatternCardsToMatch",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null
+  }
+]

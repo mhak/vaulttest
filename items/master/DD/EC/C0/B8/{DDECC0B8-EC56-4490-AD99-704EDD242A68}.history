@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DDECC0B8-EC56-4490-AD99-704EDD242A68}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:25.3657435Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Education",
+    "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Preset Persona/Data/Education",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

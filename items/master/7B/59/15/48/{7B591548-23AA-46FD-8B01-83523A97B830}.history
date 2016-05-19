@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7B591548-23AA-46FD-8B01-83523A97B830}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:27.7548802Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "TargetCampaign",
+    "itemPath": "/sitecore/templates/System/Path Analyzer/CampaignMap/Scope/TargetCampaign",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{291EAA46-D969-41A0-AC3A-F27CB2B8C943}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:54.9645729Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "End Date",
+    "itemPath": "/sitecore/system/Settings/Buckets/Search Types/End Date",
+    "commandType": "Item",
+    "template": "Field Search Type",
+    "sourceControlRevisionId": null
+  }
+]

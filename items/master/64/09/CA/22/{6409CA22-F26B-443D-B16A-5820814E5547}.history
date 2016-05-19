@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6409CA22-F26B-443D-B16A-5820814E5547}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:38.5446337Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Egypt",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Egypt",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

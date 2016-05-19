@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D0036AFB-C8DB-4CEB-A746-C8932B683047}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:36.7685321Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Australia",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Australia",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

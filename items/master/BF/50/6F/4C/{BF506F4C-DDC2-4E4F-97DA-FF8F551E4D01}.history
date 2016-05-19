@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BF506F4C-DDC2-4E4F-97DA-FF8F551E4D01}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:54.5719822Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Tasks/Rebuild Index Command/__Standard Values",
+    "commandType": "Item",
+    "template": "Rebuild Index Command",
+    "sourceControlRevisionId": null
+  }
+]

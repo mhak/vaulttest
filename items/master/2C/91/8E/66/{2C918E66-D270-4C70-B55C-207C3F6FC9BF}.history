@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2C918E66-D270-4C70-B55C-207C3F6FC9BF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:36.2675035Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Aland Islands",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Aland Islands",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

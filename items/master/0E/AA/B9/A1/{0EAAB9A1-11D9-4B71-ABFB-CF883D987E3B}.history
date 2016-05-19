@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0EAAB9A1-11D9-4B71-ABFB-CF883D987E3B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:00.1588700Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Federated Experience Manager - Domain Tracking",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Federated Experience Manager - Domain Tracking",
+    "commandType": "Item",
+    "template": "Element Folder",
+    "sourceControlRevisionId": null
+  }
+]

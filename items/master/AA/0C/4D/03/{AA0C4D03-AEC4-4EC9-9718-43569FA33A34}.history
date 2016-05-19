@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AA0C4D03-AEC4-4EC9-9718-43569FA33A34}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:28.0848991Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Path Analyzer/MapGroupFolder/__Standard Values",
+    "commandType": "Item",
+    "template": "MapGroupFolder",
+    "sourceControlRevisionId": null
+  }
+]

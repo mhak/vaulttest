@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{864E44EB-514F-4DD2-8A36-86B7ADA06077}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:15.5391815Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Open Properties after Add",
+    "itemPath": "/sitecore/templates/System/Layout/Renderings/XmlControl/Editor Options/Open Properties after Add",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{63AF4405-7F65-4079-8C62-5D09C705545B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:54.2395314Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Author",
+    "itemPath": "/sitecore/system/Settings/Buckets/Facets/Author",
+    "commandType": "Item",
+    "template": "Facet",
+    "sourceControlRevisionId": null
+  }
+]

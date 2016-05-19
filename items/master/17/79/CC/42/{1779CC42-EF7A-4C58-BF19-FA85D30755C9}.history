@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1779CC42-EF7A-4C58-BF19-FA85D30755C9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:22.9307406Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Newsletter Signup",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Goals/Newsletter Signup",
+    "commandType": "Item",
+    "template": "Page Event",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{75DA7671-C7A8-4DDF-BB8A-9A22B3D86D7B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:58.2607614Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Preview View",
+    "itemPath": "/sitecore/system/Settings/Buckets/Views/Preview View",
+    "commandType": "Item",
+    "template": "View",
+    "sourceControlRevisionId": null
+  }
+]

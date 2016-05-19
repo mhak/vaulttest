@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EEB94A6A-8D63-487F-A48E-04D906E1832E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:12.0161164Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Wait",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/General/Common/Wait",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null
+  }
+]

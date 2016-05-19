@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1A9F7BDC-7ED9-4A05-A322-5EF7848799C9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:41.6688124Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Mozambique",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Mozambique",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

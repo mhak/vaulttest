@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2962EFE4-22E9-40B9-A7CC-0CE903733CDE}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:32.7371652Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tooltip",
+    "itemPath": "/sitecore/templates/System/Ribbon/Small Combo Button/Data/Tooltip",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

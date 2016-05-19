@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4B6F46F0-ED6D-4920-A447-1DEE7586044D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:46.2755077Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Country Code",
+    "itemPath": "/sitecore/templates/System/Analytics/Country/Data/Country Code",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

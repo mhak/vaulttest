@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CE335C7E-7642-49D7-BA25-5A7FF85C2EC4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:41.7676817Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Social",
+    "itemPath": "/sitecore/templates/System/Social/Connector/Login with Facebook Button Parameters/Social",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null
+  }
+]

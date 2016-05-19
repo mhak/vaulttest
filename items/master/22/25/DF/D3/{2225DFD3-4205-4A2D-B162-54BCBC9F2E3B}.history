@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2225DFD3-4205-4A2D-B162-54BCBC9F2E3B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:55.1800170Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "WinnerCombination",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Test Definition/Data/WinnerCombination",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

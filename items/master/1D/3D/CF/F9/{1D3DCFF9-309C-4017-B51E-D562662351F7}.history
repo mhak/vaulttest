@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1D3DCFF9-309C-4017-B51E-D562662351F7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:53.2929091Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Test Variable Strategy Script",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Multivariate Test Strategy/Test Variable Strategy Script",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null
+  }
+]

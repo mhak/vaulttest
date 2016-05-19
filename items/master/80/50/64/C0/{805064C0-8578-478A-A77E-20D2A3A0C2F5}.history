@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{805064C0-8578-478A-A77E-20D2A3A0C2F5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:52.0644070Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "910 - Bot - Seach Engine",
+    "itemPath": "/sitecore/system/Settings/Analytics/Visitor Identifications/910 - Bot - Seach Engine",
+    "commandType": "Item",
+    "template": "Visitor Identification",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D850D9AF-325B-423E-A87B-D121A95AA0A2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:11.8691080Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "VisitorInformation",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/General/Common/VisitorInformation",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null
+  }
+]

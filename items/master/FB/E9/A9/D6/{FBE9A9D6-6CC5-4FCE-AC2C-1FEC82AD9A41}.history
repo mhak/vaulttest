@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FBE9A9D6-6CC5-4FCE-AC2C-1FEC82AD9A41}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:37.6570147Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "$name",
+    "itemPath": "/sitecore/templates/Branches/System/Layouts/Renderings/__Webcontrol/$name",
+    "commandType": "Item",
+    "template": "Webcontrol",
+    "sourceControlRevisionId": null
+  }
+]

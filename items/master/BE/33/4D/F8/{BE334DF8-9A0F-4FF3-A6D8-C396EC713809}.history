@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BE334DF8-9A0F-4FF3-A6D8-C396EC713809}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:12.2085592Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Page was Visited",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visit/Page was Visited",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null
+  }
+]

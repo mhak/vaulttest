@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EA83E778-E0F5-4C36-9EC6-D50D2ED9AE5A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:59.7788482Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Bucketing",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Bucketing",
+    "commandType": "Item",
+    "template": "Element Folder",
+    "sourceControlRevisionId": null
+  }
+]

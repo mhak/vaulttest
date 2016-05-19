@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DED9E431-3604-4921-A4B3-A6EC7636A5B6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:11.7629655Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Controller Action",
+    "itemPath": "/sitecore/templates/System/Layout/Renderings/Controller rendering/Data/Controller Action",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

@@ -157,6 +157,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/XCentium Vault/Tags",
     "commandType": "Item",
     "template": "Tags Definitions Folder",
+    "sourceControlRevisionId": "be3df300bc7a57dfb0f925e18ec40c112552d1e9"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A3EE8D3D-3DEC-4DFC-BC10-A0AA010FB932}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:26.4273724Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tags",
+    "itemPath": "/sitecore/system/Settings/Rules/XCentium Vault/Tags",
+    "commandType": "Item",
+    "template": "Tags Definitions Folder",
     "sourceControlRevisionId": null
   }
 ]

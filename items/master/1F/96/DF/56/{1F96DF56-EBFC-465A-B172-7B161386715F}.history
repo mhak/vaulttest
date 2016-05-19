@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1F96DF56-EBFC-465A-B172-7B161386715F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:43.9269416Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Swaziland",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Swaziland",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

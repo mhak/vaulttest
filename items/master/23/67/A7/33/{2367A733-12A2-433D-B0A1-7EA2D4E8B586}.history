@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2367A733-12A2-433D-B0A1-7EA2D4E8B586}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:29.0320896Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Business Classification",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Analytics Filters/Report Filters/Business Classification",
+    "commandType": "Item",
+    "template": "Filter",
+    "sourceControlRevisionId": null
+  }
+]

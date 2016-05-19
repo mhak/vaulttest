@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{689E2994-4656-4C58-9112-7826CB46EE69}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:32.1697009Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Analytics Workflow",
+    "itemPath": "/sitecore/system/Workflows/Analytics Workflow",
+    "commandType": "Item",
+    "template": "Workflow",
+    "sourceControlRevisionId": null
+  }
+]

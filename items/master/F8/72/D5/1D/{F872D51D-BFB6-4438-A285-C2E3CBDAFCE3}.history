@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F872D51D-BFB6-4438-A285-C2E3CBDAFCE3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:50.2873054Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Page",
+    "itemPath": "/sitecore/system/Settings/Analytics/Test Types/Page",
+    "commandType": "Item",
+    "template": "Test Type",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{59070C8E-4734-4A35-B309-F40B7203599A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:08.6959265Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "video",
+    "itemPath": "/sitecore/media library/System/Template Thumbnails/video",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null
+  }
+]

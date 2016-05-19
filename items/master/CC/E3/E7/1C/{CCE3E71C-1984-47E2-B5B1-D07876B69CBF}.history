@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CCE3E71C-1984-47E2-B5B1-D07876B69CBF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:09.9388612Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Layout/Preview Simulators/No Silverlight Support Trait/__Standard Values",
+    "commandType": "Item",
+    "template": "No Silverlight Support Trait",
+    "sourceControlRevisionId": null
+  }
+]

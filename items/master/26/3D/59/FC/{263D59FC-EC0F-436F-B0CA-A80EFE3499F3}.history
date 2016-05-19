@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{263D59FC-EC0F-436F-B0CA-A80EFE3499F3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:10.8150477Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "DeviceViewerDescription",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Device/Viewer/DeviceViewerDescription",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null
+  }
+]

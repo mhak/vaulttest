@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FBB51D1A-3CA0-4E92-89F5-207098D54283}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:36.9599749Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Layout",
+    "itemPath": "/sitecore/templates/Branches/System/Layouts/Layout",
+    "commandType": "Item",
+    "template": "Command Template",
+    "sourceControlRevisionId": null
+  }
+]

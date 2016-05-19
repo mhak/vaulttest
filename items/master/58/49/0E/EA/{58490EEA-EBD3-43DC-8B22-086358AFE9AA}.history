@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{58490EEA-EBD3-43DC-8B22-086358AFE9AA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:59.0458063Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Marketing Workflows",
+    "itemPath": "/sitecore/system/Settings/Rules/Marketing Workflows",
+    "commandType": "Item",
+    "template": "Rules Context Folder",
+    "sourceControlRevisionId": null
+  }
+]

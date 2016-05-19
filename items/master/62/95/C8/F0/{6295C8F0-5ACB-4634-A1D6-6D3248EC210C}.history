@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6295C8F0-5ACB-4634-A1D6-6D3248EC210C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:24.8598510Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "By Language",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Dimensions/Visits/By Language",
+    "commandType": "Item",
+    "template": "Dimension",
+    "sourceControlRevisionId": null
+  }
+]

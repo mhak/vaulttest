@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3DF4C8C0-02A2-45E1-8BAF-64D960C515E6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:42.1637043Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Application",
+    "itemPath": "/sitecore/templates/System/Social/Connector/Login with Twitter Button Parameters/Social/Application",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

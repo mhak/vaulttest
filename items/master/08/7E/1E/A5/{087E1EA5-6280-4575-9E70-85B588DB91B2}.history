@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{087E1EA5-6280-4575-9E70-85B588DB91B2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:09.1259511Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Settings",
+    "itemPath": "/sitecore/system/Settings",
+    "commandType": "Item",
+    "template": "Node",
+    "sourceControlRevisionId": null
+  }
+]

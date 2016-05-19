@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{52AFDA4E-F554-4F8E-96FE-A339D94CA414}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:27.7240148Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "visitor is ISP",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Personalization/Predefined Conditions/visitor is ISP",
+    "commandType": "Item",
+    "template": "Conditional Rendering Rule",
+    "sourceControlRevisionId": null
+  }
+]

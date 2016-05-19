@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6E043133-BF5F-4B19-94F5-15F66783EEE0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:28.4184863Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Image Has Alt Text from Media Library",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/System/Image Has Alt Text from Media Library",
+    "commandType": "Item",
+    "template": "Validation Rule",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{374A4E05-ABA2-4B7B-8872-5706000FA7BF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:07.3348486Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Page Not Found",
+    "itemPath": "/sitecore/media library/System/Page Event Images/Page Not Found",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{26BB792E-9067-4830-8C15-2F0E3C24F500}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:18.1614679Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "3rd Party",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/3rd Party",
+    "commandType": "Item",
+    "template": "Channel Group",
+    "sourceControlRevisionId": null
+  }
+]

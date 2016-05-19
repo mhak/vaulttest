@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BE351A73-FCB0-4213-93FA-C302D8AB4F51}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:49.9301485Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Shared",
+    "itemPath": "/sitecore/templates/System/Templates/Template field/Data/Shared",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

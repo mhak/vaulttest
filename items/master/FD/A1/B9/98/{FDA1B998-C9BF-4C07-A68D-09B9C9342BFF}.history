@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FDA1B998-C9BF-4C07-A68D-09B9C9342BFF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:59.2872519Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Dictionary/Dictionary folder/__Standard Values",
+    "commandType": "Item",
+    "template": "Dictionary folder",
+    "sourceControlRevisionId": null
+  }
+]

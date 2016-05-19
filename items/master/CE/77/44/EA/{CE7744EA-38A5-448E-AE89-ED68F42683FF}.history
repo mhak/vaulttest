@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CE7744EA-38A5-448E-AE89-ED68F42683FF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:15.3803088Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ProfileViewerDescription",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Profile/Viewer/ProfileViewerDescription",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E17C0039-0D69-4137-BE6F-C430A1A994DA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:56.7206733Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Search Operations",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Box Dropdown/Search Operations",
+    "commandType": "Item",
+    "template": "Dropdown List",
+    "sourceControlRevisionId": null
+  }
+]

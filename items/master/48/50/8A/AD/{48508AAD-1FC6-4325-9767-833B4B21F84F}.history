@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{48508AAD-1FC6-4325-9767-833B4B21F84F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:42.5718641Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Pitcairn",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Pitcairn",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

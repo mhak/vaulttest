@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E3F0A288-1633-4006-9022-25011AE373EA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:27.2174176Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Path Analyzer",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Path Analyzer",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{39156DC0-21C6-4F64-B641-31E85C8F5DFE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:32.7967368Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Draft",
+    "itemPath": "/sitecore/system/Workflows/Analytics Workflow/Draft",
+    "commandType": "Item",
+    "template": "State",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0DE95AE4-41AB-4D01-9EB0-67441B7C2450}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:00.4564552Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Content",
+    "itemPath": "/sitecore/content",
+    "commandType": "Item",
+    "template": "Main section",
+    "sourceControlRevisionId": null
+  }
+]

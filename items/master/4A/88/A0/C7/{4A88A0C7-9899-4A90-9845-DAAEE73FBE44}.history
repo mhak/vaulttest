@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4A88A0C7-9899-4A90-9845-DAAEE73FBE44}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:04.2566726Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "No Silverlight Support",
+    "itemPath": "/sitecore/layout/Simulators/iPhone/No Silverlight Support",
+    "commandType": "Item",
+    "template": "No Silverlight Support Trait",
+    "sourceControlRevisionId": null
+  }
+]

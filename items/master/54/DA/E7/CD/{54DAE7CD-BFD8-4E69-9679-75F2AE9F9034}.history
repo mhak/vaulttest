@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{54DAE7CD-BFD8-4E69-9679-75F2AE9F9034}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:36.9414056Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Element Folder",
+    "itemPath": "/sitecore/templates/System/Rules/Taxonomy/Element Folder",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

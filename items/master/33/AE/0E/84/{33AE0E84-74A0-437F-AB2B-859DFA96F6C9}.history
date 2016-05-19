@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{33AE0E84-74A0-437F-AB2B-859DFA96F6C9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:49.7087041Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Points",
+    "itemPath": "/sitecore/templates/System/Analytics/Page Event/Data/Points",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

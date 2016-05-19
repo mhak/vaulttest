@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A87C6D3F-D797-4147-9292-899A9DB561B3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:00.5223226Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "HTML Font",
+    "itemPath": "/sitecore/templates/System/Html editor/HTML Font",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

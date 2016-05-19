@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6EDBD98D-A66F-4ED6-AFD3-0D6D669A107A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:54.7359916Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Scheduling",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Test Definition/Scheduling",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null
+  }
+]

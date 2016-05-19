@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{89E3D647-5F12-4C48-9C7C-C0C8C5433E35}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:00.3078785Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Indexing & Search",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Indexing and Search",
+    "commandType": "Item",
+    "template": "Element Folder",
+    "sourceControlRevisionId": null
+  }
+]

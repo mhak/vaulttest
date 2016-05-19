@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BDC7BCDE-AFB6-4694-AE2C-40F3EB544FAC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:41.1152125Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Portal",
+    "itemPath": "/sitecore/templates/System/Portal",
+    "commandType": "Item",
+    "template": "Node",
+    "sourceControlRevisionId": null
+  }
+]

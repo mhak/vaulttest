@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B5ECE3E2-5DE3-4CE7-9975-0421D2C5E5AB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:38.6786414Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Estonia",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Estonia",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

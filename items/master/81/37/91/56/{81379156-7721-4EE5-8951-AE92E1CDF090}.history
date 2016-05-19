@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{81379156-7721-4EE5-8951-AE92E1CDF090}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:24.0998075Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "By Entry Pages",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Dimensions/Pages/By Entry Pages",
+    "commandType": "Item",
+    "template": "Dimension",
+    "sourceControlRevisionId": null
+  }
+]

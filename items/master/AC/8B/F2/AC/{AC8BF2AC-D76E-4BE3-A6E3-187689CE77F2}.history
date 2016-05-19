@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AC8BF2AC-D76E-4BE3-A6E3-187689CE77F2}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:21.1855044Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Format",
+    "itemPath": "/sitecore/templates/System/Media/Versioned/File/Properties/Format",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{765F0C13-C542-42C4-8244-A1FD78842536}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:43.7069290Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "South Georgia and the South Sandwich Islands",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/South Georgia and the South Sandwich Islands",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

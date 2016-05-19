@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{10537C58-1684-4CAB-B4C0-40C10907CE31}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:19.3059651Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "is equal to",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/String Operators/is equal to",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

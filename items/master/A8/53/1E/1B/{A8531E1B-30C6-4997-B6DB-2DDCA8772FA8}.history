@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A8531E1B-30C6-4997-B6DB-2DDCA8772FA8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:28.8885132Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "No Tags",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Text/No Tags",
+    "commandType": "Item",
+    "template": "Validation Rule",
+    "sourceControlRevisionId": null
+  }
+]

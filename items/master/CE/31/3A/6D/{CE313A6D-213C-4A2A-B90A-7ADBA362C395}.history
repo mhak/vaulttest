@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CE313A6D-213C-4A2A-B90A-7ADBA362C395}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:23.0951819Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Social",
+    "itemPath": "/sitecore/system/Settings/Rules/Conditional Renderings/Tags/Social",
+    "commandType": "Item",
+    "template": "Tags Definition",
+    "sourceControlRevisionId": null
+  }
+]

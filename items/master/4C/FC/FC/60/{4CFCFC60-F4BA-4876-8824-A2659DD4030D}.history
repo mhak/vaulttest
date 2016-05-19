@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4CFCFC60-F4BA-4876-8824-A2659DD4030D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:45.3400224Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Random",
+    "itemPath": "/sitecore/system/Settings/Analytics/Multivariate Test Strategies/Random",
+    "commandType": "Item",
+    "template": "Multivariate Test Strategy",
+    "sourceControlRevisionId": null
+  }
+]

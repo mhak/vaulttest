@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{079AFCFE-8ACA-4863-BDA7-07893541E2F5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:46.6249595Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Skin",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Appearance/Appearance/__Skin",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

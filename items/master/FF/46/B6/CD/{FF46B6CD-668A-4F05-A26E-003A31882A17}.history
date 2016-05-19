@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FF46B6CD-668A-4F05-A26E-003A31882A17}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:15.7723312Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ReferralEditorReferrer",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Referral/Editor/ReferralEditorReferrer",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null
+  }
+]

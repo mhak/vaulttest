@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E7E554F9-52B4-492D-8F1D-DD863F2E5597}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:34.6388421Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Approved",
+    "itemPath": "/sitecore/system/Workflows/Social Message Workflow/Approved",
+    "commandType": "Item",
+    "template": "State",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3EBEC263-B57E-4A3C-A232-7C70519F9908}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:31.4836617Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Commands",
+    "itemPath": "/sitecore/system/Tasks/Commands",
+    "commandType": "Item",
+    "template": "Node",
+    "sourceControlRevisionId": null
+  }
+]

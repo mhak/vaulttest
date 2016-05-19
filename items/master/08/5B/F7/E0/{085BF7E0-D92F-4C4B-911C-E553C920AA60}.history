@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{085BF7E0-D92F-4C4B-911C-E553C920AA60}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:53.2324738Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Business Overview",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Subreports/Business Overview",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

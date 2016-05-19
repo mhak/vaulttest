@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D8F3BC0F-F8CB-4990-8169-5A1E421ADE02}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:51.3063636Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "State",
+    "itemPath": "/sitecore/system/Settings/Analytics/Vendor Specific Filters/MongoDb/State",
+    "commandType": "Item",
+    "template": "Vendor Specific Filter",
+    "sourceControlRevisionId": null
+  }
+]

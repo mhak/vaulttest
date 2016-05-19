@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{243867BB-0C4C-4B65-A67E-74ECC86BD783}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:51.8083924Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "040 - Press",
+    "itemPath": "/sitecore/system/Settings/Analytics/Visitor Identifications/040 - Press",
+    "commandType": "Item",
+    "template": "Visitor Identification",
+    "sourceControlRevisionId": null
+  }
+]

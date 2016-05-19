@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7D372FEA-7C13-459A-8C71-23D931F29B71}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:13.2656196Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Has Workflow",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Workflows/Has Workflow",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null
+  }
+]

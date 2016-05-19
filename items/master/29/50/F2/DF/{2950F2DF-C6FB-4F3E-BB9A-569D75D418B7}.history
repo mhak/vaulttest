@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2950F2DF-C6FB-4F3E-BB9A-569D75D418B7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:56.2466462Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Personalize",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Quick Actions/Personalize",
+    "commandType": "Item",
+    "template": "Quick Action",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D1A9CF15-2C03-43C8-9FF5-B57029F62E4D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:24.2186779Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Data",
+    "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Preset/Data",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null
+  }
+]

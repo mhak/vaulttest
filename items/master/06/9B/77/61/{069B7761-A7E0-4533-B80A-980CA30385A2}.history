@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{069B7761-A7E0-4533-B80A-980CA30385A2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:12.1745572Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Page Index",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visit/Page Index",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null
+  }
+]

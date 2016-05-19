@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{69805F4A-FA0C-4834-9892-B82E7495B48D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:24.7217067Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Associated Sitecore User",
+    "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Preset/Visitor Information/Associated Sitecore User",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

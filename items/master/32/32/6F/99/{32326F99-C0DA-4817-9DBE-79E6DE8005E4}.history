@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{32326F99-C0DA-4817-9DBE-79E6DE8005E4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:08.9618053Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Query string",
+    "itemPath": "/sitecore/templates/System/Layout/Device/Detection/Query string",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

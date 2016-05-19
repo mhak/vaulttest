@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CD48EE5C-18FF-4E2A-8E0B-97ADB9833043}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:01.3413694Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Clean on drop",
+    "itemPath": "/sitecore/templates/System/Html editor/HTML Tidy/Data/Clean on drop",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

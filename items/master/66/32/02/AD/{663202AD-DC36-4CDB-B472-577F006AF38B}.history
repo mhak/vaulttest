@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{663202AD-DC36-4CDB-B472-577F006AF38B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:21.3235123Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Latitude",
+    "itemPath": "/sitecore/templates/System/Media/Versioned/File/Location/Latitude",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

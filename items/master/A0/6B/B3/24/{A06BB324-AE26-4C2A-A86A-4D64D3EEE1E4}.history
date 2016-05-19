@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A06BB324-AE26-4C2A-A86A-4D64D3EEE1E4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:24.1186722Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Map Settings/__Standard Values",
+    "commandType": "Item",
+    "template": "Map Settings",
+    "sourceControlRevisionId": null
+  }
+]

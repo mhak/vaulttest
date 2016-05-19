@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1D99005E-65CA-45CA-9D9A-FD7016E23F1E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:48.8900890Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Archive Version date",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Tasks/Tasks/__Archive Version date",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

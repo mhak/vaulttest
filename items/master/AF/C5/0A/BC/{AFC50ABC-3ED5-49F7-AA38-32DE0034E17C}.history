@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AFC50ABC-3ED5-49F7-AA38-32DE0034E17C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:23.2156205Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ID",
+    "itemPath": "/sitecore/templates/System/Menus/Menu item/Data/ID",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

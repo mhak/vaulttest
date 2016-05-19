@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CAB694FC-E37C-44EB-9012-488B775CF638}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:23.2506226Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Message",
+    "itemPath": "/sitecore/templates/System/Menus/Menu item/Data/Message",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

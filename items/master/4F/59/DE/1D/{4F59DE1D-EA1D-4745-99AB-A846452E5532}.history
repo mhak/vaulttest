@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4F59DE1D-EA1D-4745-99AB-A846452E5532}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:07.4542872Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Language",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Item Version/Language",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null
+  }
+]

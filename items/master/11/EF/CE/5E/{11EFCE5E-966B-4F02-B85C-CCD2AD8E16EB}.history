@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{11EFCE5E-966B-4F02-B85C-CCD2AD8E16EB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:27.2539879Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "{D86A72B4-7C3D-447E-9622-66B0DC1243F8}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Login Goal Experience",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Maps/Path Experience Maps/Goals/Login",
+    "commandType": "Item",
+    "template": "GoalMap",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{38D3EF6C-497B-44D8-AC0E-3EF6DE427BBC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:04.1946690Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "iPhone Landscape",
+    "itemPath": "/sitecore/layout/Simulators/iPhone/iPhone Landscape",
+    "commandType": "Item",
+    "template": "Simulator Rotated State",
+    "sourceControlRevisionId": null
+  }
+]

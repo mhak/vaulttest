@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8BD03279-185C-4D87-9CE7-F3E20E8CD790}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:09.3073932Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "User Name",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Security/User Name",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null
+  }
+]

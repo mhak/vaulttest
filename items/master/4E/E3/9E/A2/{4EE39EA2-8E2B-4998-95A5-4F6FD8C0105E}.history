@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4EE39EA2-8E2B-4998-95A5-4F6FD8C0105E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:14.3686827Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Template",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/Template",
+    "commandType": "Item",
+    "template": "Macro",
+    "sourceControlRevisionId": null
+  }
+]

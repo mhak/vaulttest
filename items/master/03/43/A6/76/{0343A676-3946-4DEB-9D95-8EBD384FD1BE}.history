@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0343A676-3946-4DEB-9D95-8EBD384FD1BE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:56.1350716Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Deploy Associated Page Level Tests",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Workflow/Deploy Associated Tests Action/Associated Tests/Deploy Associated Page Level Tests",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

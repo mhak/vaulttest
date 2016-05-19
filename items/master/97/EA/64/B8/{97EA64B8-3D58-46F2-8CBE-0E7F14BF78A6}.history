@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{97EA64B8-3D58-46F2-8CBE-0E7F14BF78A6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:16.9153966Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "TagsViewerQuestionMark",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Tags/Viewer/TagsViewerQuestionMark",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null
+  }
+]

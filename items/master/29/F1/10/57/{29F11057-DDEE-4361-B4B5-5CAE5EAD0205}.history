@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{29F11057-DDEE-4361-B4B5-5CAE5EAD0205}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:10.0038649Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Layout/Preview Simulators/Simulator/__Standard Values",
+    "commandType": "Item",
+    "template": "Simulator",
+    "sourceControlRevisionId": null
+  }
+]

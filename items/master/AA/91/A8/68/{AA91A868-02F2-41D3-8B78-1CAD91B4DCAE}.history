@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AA91A868-02F2-41D3-8B78-1CAD91B4DCAE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:37.2664242Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Visibility",
+    "itemPath": "/sitecore/templates/System/Rules/Taxonomy/Visibility",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

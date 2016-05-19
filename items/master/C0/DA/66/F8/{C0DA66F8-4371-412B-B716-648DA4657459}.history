@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C0DA66F8-4371-412B-B716-648DA4657459}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:32.9087432Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Initializing",
+    "itemPath": "/sitecore/system/Workflows/Path Analyzer Maps/Initializing",
+    "commandType": "Item",
+    "template": "State",
+    "sourceControlRevisionId": null
+  }
+]

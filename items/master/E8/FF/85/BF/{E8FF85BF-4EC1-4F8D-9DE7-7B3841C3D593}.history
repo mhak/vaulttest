@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E8FF85BF-4EC1-4F8D-9DE7-7B3841C3D593}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:54.6909890Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Test Definition/__Standard Values",
+    "commandType": "Item",
+    "template": "Test Definition",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1172F251-DAD4-4EFB-A329-0C63500E4F1E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:47.2869974Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Masters",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Insert Options/Insert Options/__Masters",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

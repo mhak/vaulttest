@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{57CE27F4-5806-4003-A1D1-66618A110EE4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:39.4791190Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/List Manager/Contact List/__Standard Values",
+    "commandType": "Item",
+    "template": "Contact List",
+    "sourceControlRevisionId": null
+  }
+]

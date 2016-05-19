@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{61C65B4B-DB25-40C0-A1F9-01E60400DD69}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:30.1915877Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Duplicate Sort Order",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Item/Duplicate Sort Order",
+    "commandType": "Item",
+    "template": "Validation Rule",
+    "sourceControlRevisionId": null
+  }
+]

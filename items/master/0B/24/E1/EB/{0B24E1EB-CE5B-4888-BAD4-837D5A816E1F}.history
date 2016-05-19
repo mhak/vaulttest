@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0B24E1EB-CE5B-4888-BAD4-837D5A816E1F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:06.1727821Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-ppc-advertising",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-ppc-advertising",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null
+  }
+]

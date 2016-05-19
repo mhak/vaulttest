@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{96D9EB23-161D-4D15-A468-1169087EFD45}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:34.9268586Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Edit Message",
+    "itemPath": "/sitecore/system/Workflows/Social Message Workflow/Awaiting Approval/Edit/Edit Message",
+    "commandType": "Item",
+    "template": "Action",
+    "sourceControlRevisionId": null
+  }
+]

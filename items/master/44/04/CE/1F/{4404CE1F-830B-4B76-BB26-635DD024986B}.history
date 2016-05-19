@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4404CE1F-830B-4B76-BB26-635DD024986B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:18.9755144Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Other automation",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Automation Programs/Other automation",
+    "commandType": "Item",
+    "template": "Channel",
+    "sourceControlRevisionId": null
+  }
+]

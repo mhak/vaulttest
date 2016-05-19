@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{ED74C2C9-20B3-47A4-B021-A652E1E808AA}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:22.0995567Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Copyright",
+    "itemPath": "/sitecore/templates/System/Media/Versioned/Jpeg/Exif/Copyright",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

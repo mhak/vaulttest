@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{556876E9-EDA9-49F1-B399-C3CACEBEF7A1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:46.3875141Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Queries",
+    "itemPath": "/sitecore/templates/System/Analytics/Dashboard/Dashboard Report/Queries",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null
+  }
+]

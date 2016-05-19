@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{63EE5DE3-5DAC-41E7-A184-2A9D764CEA5D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:39.1526685Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Georgia",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Georgia",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

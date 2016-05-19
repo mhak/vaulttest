@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D25A8DEA-1AA0-4537-88C6-07E6388E22D3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:58.3827684Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Presets",
+    "itemPath": "/sitecore/system/Settings/Layouts/Presets",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

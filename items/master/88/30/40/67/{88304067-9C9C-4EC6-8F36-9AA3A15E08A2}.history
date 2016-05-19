@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{88304067-9C9C-4EC6-8F36-9AA3A15E08A2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:37.7745897Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Chad",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Chad",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5FFA799E-88B2-4E3C-BF4D-7AC417C9B0A3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:54.0219508Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Hide Component",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Multivariate Test Value/Data/Hide Component",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

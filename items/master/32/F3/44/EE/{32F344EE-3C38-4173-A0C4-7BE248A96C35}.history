@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{32F344EE-3C38-4173-A0C4-7BE248A96C35}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:56.2116442Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Page Editor",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Quick Actions/Page Editor",
+    "commandType": "Item",
+    "template": "Quick Action",
+    "sourceControlRevisionId": null
+  }
+]

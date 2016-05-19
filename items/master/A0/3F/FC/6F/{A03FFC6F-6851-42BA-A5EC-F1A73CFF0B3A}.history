@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A03FFC6F-6851-42BA-A5EC-F1A73CFF0B3A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:19.5005445Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Email notifications",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Email Campaigns/Email notifications",
+    "commandType": "Item",
+    "template": "Channel",
+    "sourceControlRevisionId": null
+  }
+]

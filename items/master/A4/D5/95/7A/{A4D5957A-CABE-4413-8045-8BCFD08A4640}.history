@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A4D5957A-CABE-4413-8045-8BCFD08A4640}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:38.1646120Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Cote dIvoire",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Cote dIvoire",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

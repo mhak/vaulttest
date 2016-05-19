@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D9409DA1-2614-4CFF-AD9B-6ED1A1688B33}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:00.3143107Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Cacheable",
+    "itemPath": "/sitecore/templates/System/Feeds/RSS Feed/Caching/Cacheable",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

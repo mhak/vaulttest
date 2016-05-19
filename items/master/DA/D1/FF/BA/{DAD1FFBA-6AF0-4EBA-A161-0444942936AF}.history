@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DAD1FFBA-6AF0-4EBA-A161-0444942936AF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:15.4601770Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Description",
+    "itemPath": "/sitecore/templates/System/Layout/Renderings/XmlControl/Editor Options/Description",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

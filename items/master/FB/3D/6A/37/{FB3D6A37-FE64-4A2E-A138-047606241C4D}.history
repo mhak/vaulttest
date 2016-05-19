@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FB3D6A37-FE64-4A2E-A138-047606241C4D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:35.0104316Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Traffic Overview",
+    "itemPath": "/sitecore/system/Settings/Analytics/Dashboard Reports/Overview/Traffic Overview",
+    "commandType": "Item",
+    "template": "Dashboard Report",
+    "sourceControlRevisionId": null
+  }
+]

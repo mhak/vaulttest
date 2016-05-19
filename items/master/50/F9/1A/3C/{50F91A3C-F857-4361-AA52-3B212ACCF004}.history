@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{50F91A3C-F857-4361-AA52-3B212ACCF004}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:09.8678571Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sections",
+    "itemPath": "/sitecore/templates/System/Layout/Preview Simulators/Sections",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

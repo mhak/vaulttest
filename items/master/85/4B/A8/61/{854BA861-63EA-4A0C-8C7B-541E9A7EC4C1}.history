@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{854BA861-63EA-4A0C-8C7B-541E9A7EC4C1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:37.1924200Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tags Definition",
+    "itemPath": "/sitecore/templates/System/Rules/Taxonomy/Tags Definition",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

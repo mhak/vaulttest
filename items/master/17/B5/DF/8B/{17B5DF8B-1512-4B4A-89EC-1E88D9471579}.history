@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{17B5DF8B-1512-4B4A-89EC-1E88D9471579}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:42.2008428Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Oman",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Oman",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

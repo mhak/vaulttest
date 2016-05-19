@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FCD09AF6-9BA4-4092-BDD1-C1FCDD54276B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:54.8205646Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "User Defined",
+    "itemPath": "/sitecore/system/Settings/Buckets/Search Types/User Defined",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

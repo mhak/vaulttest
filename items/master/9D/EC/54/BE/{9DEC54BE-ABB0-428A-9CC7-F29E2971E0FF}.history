@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9DEC54BE-ABB0-428A-9CC7-F29E2971E0FF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:00.8293401Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Data",
+    "itemPath": "/sitecore/templates/System/Html editor/Html Custom Button/Data",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,290 @@
+----item----
+version: 1
+id: {8A86098B-2A7A-42CD-8B62-EC5AF1BE4D42}
+database: master
+path: /sitecore/system/Marketing Control Panel/Experience Analytics/Dimensions/Visits/By Local Search Keyword/All visits by Local Search Keyword
+parent: {CBEE2CF5-51DB-4106-A7A9-BF87AB173742}
+name: All visits by Local Search Keyword
+master: {00000000-0000-0000-0000-000000000000}
+template: {A87EE256-044E-450D-A73C-9A464AA773EF}
+templatekey: Segment
+
+----field----
+field: {F6D8A61C-2F84-4401-BD24-52D2068172BC}
+name: __Originator
+key: __originator
+content-length: 0
+
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{933DFBF3-3D97-4FF7-9F5E-74579BD1A219}
+----version----
+language: da
+version: 1
+revision: 91c85580-3cc0-4024-ad70-d9064895db36
+
+----field----
+field: {9B0413DA-641E-46D9-8A2A-D8598479952C}
+name: Name
+key: name
+content-length: 31
+
+Alle besøg efter lokalt søgeord
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 31
+
+Alle besøg efter lokalt søgeord
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20150812T120235Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+91c85580-3cc0-4024-ad70-d9064895db36
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20150812T120235Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{3C70E8B1-D6D2-42CC-8E21-1AE8EC72A0FB}
+----version----
+language: de-DE
+version: 1
+revision: 9e1a69be-106b-4301-8818-bf7344a9d4b1
+
+----field----
+field: {9B0413DA-641E-46D9-8A2A-D8598479952C}
+name: Name
+key: name
+content-length: 39
+
+Alle Besuche nach lokalem Schlüsselwort
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 39
+
+Alle Besuche nach lokalem Schlüsselwort
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20150812T115823Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+9e1a69be-106b-4301-8818-bf7344a9d4b1
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20150812T115823Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{3C70E8B1-D6D2-42CC-8E21-1AE8EC72A0FB}
+----version----
+language: en
+version: 1
+revision: b81b426d-8ffe-4070-bc7d-181aeeb576f3
+
+----field----
+field: {9B0413DA-641E-46D9-8A2A-D8598479952C}
+name: Name
+key: name
+content-length: 34
+
+All visits By Local Search Keyword
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20140716T161137
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+b81b426d-8ffe-4070-bc7d-181aeeb576f3
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20150812T120913Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{3C70E8B1-D6D2-42CC-8E21-1AE8EC72A0FB}
+----version----
+language: ja-JP
+version: 1
+revision: 764d40df-1693-4421-a19e-f53e8924c9b3
+
+----field----
+field: {9B0413DA-641E-46D9-8A2A-D8598479952C}
+name: Name
+key: name
+content-length: 22
+
+サイト内検索キーワードに関連するすべての訪問
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 22
+
+サイト内検索キーワードに関連するすべての訪問
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20150812T115411Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+764d40df-1693-4421-a19e-f53e8924c9b3
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20150812T115411Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{3C70E8B1-D6D2-42CC-8E21-1AE8EC72A0FB}

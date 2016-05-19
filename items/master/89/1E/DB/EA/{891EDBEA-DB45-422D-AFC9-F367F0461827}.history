@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{891EDBEA-DB45-422D-AFC9-F367F0461827}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:15.0637225Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Page Events",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Page Events",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

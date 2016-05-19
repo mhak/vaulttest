@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{89948750-5DE2-4AEA-9F18-48BA169413F5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:57.2867057Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Apply Security Rule",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Operations/Information Architecture/Apply Security Rule",
+    "commandType": "Item",
+    "template": "Dropdown List",
+    "sourceControlRevisionId": null
+  }
+]

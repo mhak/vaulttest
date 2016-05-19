@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7F09A46C-00AF-47EC-8A6B-4375EDA7759E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:48.3841965Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Visit Goals",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Visit Goals",
+    "commandType": "Item",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null
+  }
+]

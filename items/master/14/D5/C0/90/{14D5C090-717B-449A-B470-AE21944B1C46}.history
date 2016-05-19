@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{14D5C090-717B-449A-B470-AE21944B1C46}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:07.6308655Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Register for Event",
+    "itemPath": "/sitecore/media library/System/Page Event Images/Register for Event",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null
+  }
+]

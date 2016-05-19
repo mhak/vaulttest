@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9551FA9B-2C25-40A1-9C00-038DE67ABDC2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:52.1944144Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Manual",
+    "itemPath": "/sitecore/system/Settings/Analytics/Test Winner Strategies/Manual",
+    "commandType": "Item",
+    "template": "Test Winner Strategy",
+    "sourceControlRevisionId": null
+  }
+]

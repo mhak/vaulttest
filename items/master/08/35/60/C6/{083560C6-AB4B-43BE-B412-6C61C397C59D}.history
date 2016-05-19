@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{083560C6-AB4B-43BE-B412-6C61C397C59D}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:01.3045037Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "App Center Sync",
+    "itemPath": "/sitecore/layout/Layouts/System/App Center Sync",
+    "commandType": "Item",
+    "template": "Layout Folder",
+    "sourceControlRevisionId": null
+  }
+]

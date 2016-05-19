@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0D8082D0-7992-4372-A2B0-9434C4089AA9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:53.6373606Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Unknown",
+    "itemPath": "/sitecore/templates/System/Workflow/Validation Action/Data/Unknown",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

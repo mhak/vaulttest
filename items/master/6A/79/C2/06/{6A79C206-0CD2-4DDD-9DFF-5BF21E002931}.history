@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6A79C206-0CD2-4DDD-9DFF-5BF21E002931}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:31.6046686Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Calculate Statistical Relevancy",
+    "itemPath": "/sitecore/system/Tasks/Commands/Content Testing/Calculate Statistical Relevancy",
+    "commandType": "Item",
+    "template": "Command",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AAF72F7B-EC98-4545-87EC-750149572F3C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:49.3616842Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Ignore Additional Registrations",
+    "itemPath": "/sitecore/templates/System/Analytics/Outcome/Outcome Definition/Data/Ignore Additional Registrations",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

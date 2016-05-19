@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6892B190-D0C8-4628-A179-24D197AB0C07}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:22.9811753Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Global Rules",
+    "itemPath": "/sitecore/system/Settings/Rules/Conditional Renderings/Global Rules",
+    "commandType": "Item",
+    "template": "Rules Folder",
+    "sourceControlRevisionId": null
+  }
+]

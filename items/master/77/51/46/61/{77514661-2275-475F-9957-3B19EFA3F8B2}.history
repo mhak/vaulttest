@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{77514661-2275-475F-9957-3B19EFA3F8B2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:24.5072626Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rules Categories",
+    "itemPath": "/sitecore/system/Settings/Rules/Insert Options/Rules/Rules Categories",
+    "commandType": "Item",
+    "template": "Insert Options Rule",
+    "sourceControlRevisionId": null
+  }
+]

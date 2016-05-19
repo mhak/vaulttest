@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9C92CD3B-FE25-46F6-8F78-B0D7BFEBCFBC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:08.5269168Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Windows Phone_ landscape",
+    "itemPath": "/sitecore/media library/System/Simulator Backgrounds/Windows Phone_ landscape",
+    "commandType": "Item",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null
+  }
+]

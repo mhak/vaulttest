@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F0AAF137-C776-46C3-A8C1-E9160ABAE010}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:05.3737364Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-counter",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-counter",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null
+  }
+]

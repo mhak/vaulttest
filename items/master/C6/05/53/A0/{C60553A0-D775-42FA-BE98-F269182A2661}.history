@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C60553A0-D775-42FA-BE98-F269182A2661}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:26.1197867Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Users",
+    "itemPath": "/sitecore/templates/System/Notification/Notification/Data/Users",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

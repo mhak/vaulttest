@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{51F79FEE-1D7B-4196-BCB9-E434658071E4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:24.3032510Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Page Events",
+    "itemPath": "/sitecore/system/Settings/Rules/Insert Options/Rules/Page Events",
+    "commandType": "Item",
+    "template": "Insert Options Rule",
+    "sourceControlRevisionId": null
+  }
+]

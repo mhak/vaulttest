@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{958A3BBB-C1B2-42C5-B8FE-930698836E5F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:50.6071873Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "WebEdit Control",
+    "itemPath": "/sitecore/templates/System/Templates/Template field type/Data/WebEdit Control",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

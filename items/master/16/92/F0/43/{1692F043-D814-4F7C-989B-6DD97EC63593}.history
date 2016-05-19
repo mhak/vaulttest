@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1692F043-D814-4F7C-989B-6DD97EC63593}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:44.3413971Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Taxon Definition",
+    "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Base/Taxon Definition",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

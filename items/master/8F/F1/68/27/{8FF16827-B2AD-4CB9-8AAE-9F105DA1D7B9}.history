@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8FF16827-B2AD-4CB9-8AAE-9F105DA1D7B9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:57.0156902Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Fields",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Operations/Fields",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

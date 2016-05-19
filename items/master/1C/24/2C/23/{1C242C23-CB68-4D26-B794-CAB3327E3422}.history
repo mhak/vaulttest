@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1C242C23-CB68-4D26-B794-CAB3327E3422}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:27.5630056Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "visitor is analyst",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Personalization/Predefined Conditions/visitor is analyst",
+    "commandType": "Item",
+    "template": "Conditional Rendering Rule",
+    "sourceControlRevisionId": null
+  }
+]

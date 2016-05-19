@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7EE0975B-0698-493E-B3A2-0B2EF33D0522}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:11.3519420Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rendering Folder",
+    "itemPath": "/sitecore/templates/System/Layout/Renderings/Rendering Folder",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A2C0C7A2-697D-40E2-9516-54E0C2D6028E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:45.1928776Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Async",
+    "itemPath": "/sitecore/templates/System/Tasks/Schedule/Data/Async",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

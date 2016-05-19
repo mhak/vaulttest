@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{85387808-47A0-453E-93C7-4B5DD27F0D55}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:43.3659095Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Senegal",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Senegal",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

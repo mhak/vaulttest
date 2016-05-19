@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{406796F9-54DB-4152-B831-272774F34272}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:12.5115765Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Asset was downloaded",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visit/Asset was downloaded",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null
+  }
+]

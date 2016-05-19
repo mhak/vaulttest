@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D188A0C4-888D-4692-8F87-DB489419E5B7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:12.5525789Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Number of assets downloaded",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visit/Number of assets downloaded",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null
+  }
+]

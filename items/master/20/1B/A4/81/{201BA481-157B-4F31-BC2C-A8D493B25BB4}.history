@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{201BA481-157B-4F31-BC2C-A8D493B25BB4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:21.1306377Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "PR",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Offline/PR",
+    "commandType": "Item",
+    "template": "Channel Group",
+    "sourceControlRevisionId": null
+  }
+]

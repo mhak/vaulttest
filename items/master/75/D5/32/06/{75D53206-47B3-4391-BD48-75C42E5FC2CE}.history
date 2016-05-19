@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{75D53206-47B3-4391-BD48-75C42E5FC2CE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:26.4809437Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Contact Acquisition",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Outcomes/Identification/Contact Acquisition",
+    "commandType": "Item",
+    "template": "Outcome Definition",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{517C88A6-AE3D-458A-9696-5B101B7E2630}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:10.7054732Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Call Script",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/System/Call Script",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{814C7598-3537-448E-8685-C2654053FBEC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:08.2897668Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Preset Folder",
+    "itemPath": "/sitecore/templates/System/Layout/Preset Folder",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{63AE78FF-7DAA-4B80-9A93-0D8145269716}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:52.3254219Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Reports",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Reports",
+    "commandType": "Item",
+    "template": "Report Schedule",
+    "sourceControlRevisionId": null
+  }
+]

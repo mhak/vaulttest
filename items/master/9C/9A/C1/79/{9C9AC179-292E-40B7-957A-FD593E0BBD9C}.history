@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9C9AC179-292E-40B7-957A-FD593E0BBD9C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:11.8311058Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Views",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/General/Common/Views",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null
+  }
+]

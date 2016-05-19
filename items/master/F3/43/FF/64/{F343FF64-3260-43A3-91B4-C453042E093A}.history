@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F343FF64-3260-43A3-91B4-C453042E093A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:32.9881795Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Gallery Parameters",
+    "itemPath": "/sitecore/templates/System/Ribbon/Small Combo Button/Data/Gallery Parameters",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

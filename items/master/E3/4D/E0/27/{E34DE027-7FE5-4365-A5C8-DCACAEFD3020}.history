@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E34DE027-7FE5-4365-A5C8-DCACAEFD3020}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:36.5435193Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Antarctica",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Antarctica",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

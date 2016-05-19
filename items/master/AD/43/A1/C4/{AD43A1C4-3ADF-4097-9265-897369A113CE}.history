@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AD43A1C4-3ADF-4097-9265-897369A113CE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:01.7393922Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tidy on save",
+    "itemPath": "/sitecore/templates/System/Html editor/HTML Tidy/Data/Tidy on save",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

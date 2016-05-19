@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6477CB98-1547-4A08-BFC6-C9F68ED2B3A5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:26.8949674Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Other Experience Maps",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Maps/OtherMaps",
+    "commandType": "Item",
+    "template": "MapGroupFolder",
+    "sourceControlRevisionId": null
+  }
+]

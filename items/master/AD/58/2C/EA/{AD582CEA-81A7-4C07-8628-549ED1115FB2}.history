@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AD582CEA-81A7-4C07-8628-549ED1115FB2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:48.3846283Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Analytics/Federated Experience Manager/Filters and Actions/Element Placeholder/__Standard Values",
+    "commandType": "Item",
+    "template": "Element Placeholder",
+    "sourceControlRevisionId": null
+  }
+]

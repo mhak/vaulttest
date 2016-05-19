@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6E5B63D6-2401-4A52-8B4D-CFEF5E4E9752}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:46.6855311Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Engagement Plan",
+    "itemPath": "/sitecore/templates/System/Analytics/Engagement Automation/Engagement Plan",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

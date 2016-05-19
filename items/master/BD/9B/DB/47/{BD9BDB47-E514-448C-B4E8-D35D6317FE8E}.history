@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BD9BDB47-E514-448C-B4E8-D35D6317FE8E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:14.1511021Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Designer Options",
+    "itemPath": "/sitecore/templates/System/Layout/Renderings/View rendering/Designer Options",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null
+  }
+]

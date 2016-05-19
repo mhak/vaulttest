@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B3AB64B4-450D-4660-896C-DBB53E58CF11}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:05.2467292Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-callcenter",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-callcenter",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null
+  }
+]

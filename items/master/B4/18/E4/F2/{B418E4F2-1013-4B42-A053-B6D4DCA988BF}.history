@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B418E4F2-1013-4B42-A053-B6D4DCA988BF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:19.1585249Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Direct",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Direct/Direct",
+    "commandType": "Item",
+    "template": "Channel",
+    "sourceControlRevisionId": null
+  }
+]

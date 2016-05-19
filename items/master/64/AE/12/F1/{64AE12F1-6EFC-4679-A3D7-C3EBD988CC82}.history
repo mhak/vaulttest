@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{64AE12F1-6EFC-4679-A3D7-C3EBD988CC82}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:39.9887163Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Iran Islamic Republic of",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Iran Islamic Republic of",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

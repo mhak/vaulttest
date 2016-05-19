@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{51CAFBDA-A980-4DEB-989A-AD288D76F5D7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:32.3092771Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Experience",
+    "itemPath": "/sitecore/system/Modules/Experience Explorer/Components/ExpViewer/Experience",
+    "commandType": "Item",
+    "template": "Accordion",
+    "sourceControlRevisionId": null
+  }
+]

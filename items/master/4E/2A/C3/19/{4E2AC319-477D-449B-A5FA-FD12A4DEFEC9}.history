@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4E2AC319-477D-449B-A5FA-FD12A4DEFEC9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:14.3026790Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Social",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/Social",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

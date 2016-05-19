@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4888ABBB-F17D-4485-B14B-842413F88732}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:11.0014901Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "True",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/System/True",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null
+  }
+]

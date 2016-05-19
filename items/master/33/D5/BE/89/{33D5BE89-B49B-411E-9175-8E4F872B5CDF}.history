@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{33D5BE89-B49B-411E-9175-8E4F872B5CDF}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:29.8880022Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Small Combo Button",
+    "itemPath": "/sitecore/templates/System/Ribbon/Small Combo Button",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

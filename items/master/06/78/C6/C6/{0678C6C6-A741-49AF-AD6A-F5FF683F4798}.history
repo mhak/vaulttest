@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0678C6C6-A741-49AF-AD6A-F5FF683F4798}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:49.4622582Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Test Outcome Count After Date",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Content Testing/Test Outcome Count After Date",
+    "commandType": "Item",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F47C0D78-61F9-479C-96DF-1159727D32C6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:49.2721109Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Suppressed Validation Rules",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Validators/Validation Rules/__Suppressed Validation Rules",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

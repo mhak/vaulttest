@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{60669E54-7B9C-4B55-A0C4-8F25059D8B94}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:07.7397354Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Dictionary",
+    "itemPath": "/sitecore/templates/System/Language/Data/Dictionary",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

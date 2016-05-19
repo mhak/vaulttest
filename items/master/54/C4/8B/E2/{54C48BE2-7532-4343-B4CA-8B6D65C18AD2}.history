@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{54C48BE2-7532-4343-B4CA-8B6D65C18AD2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:57.9187418Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "2012",
+    "itemPath": "/sitecore/system/Settings/Buckets/TagRepository/2012",
+    "commandType": "Item",
+    "template": "Bucket",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{65329376-32D9-4B9E-8067-757B9FB75B7D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:49.3256822Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Image",
+    "itemPath": "/sitecore/templates/System/Analytics/Outcome/Outcome Definition/Data/Image",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

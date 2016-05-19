@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{43FE2907-F04C-47DF-BC10-AE4DDA4865FD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:01.0713540Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Reference name",
+    "itemPath": "/sitecore/templates/System/Html editor/HTML Font/Data/Reference name",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

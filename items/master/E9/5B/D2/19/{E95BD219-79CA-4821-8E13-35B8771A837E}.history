@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E95BD219-79CA-4821-8E13-35B8771A837E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:10.4184568Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Klout Score",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Social/Klout Score",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null
+  }
+]

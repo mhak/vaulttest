@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{22554EEB-6022-4CEA-A963-23D344527037}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:32.4582856Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Page Configuration",
+    "itemPath": "/sitecore/system/Modules/Experience Explorer/Components/ExpViewer/Page Configuration",
+    "commandType": "Item",
+    "template": "Accordion",
+    "sourceControlRevisionId": null
+  }
+]

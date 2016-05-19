@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3B0AFE59-35C9-4CDA-8C4C-C9A22A3DD540}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:43.2329019Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "San Marino",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/San Marino",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

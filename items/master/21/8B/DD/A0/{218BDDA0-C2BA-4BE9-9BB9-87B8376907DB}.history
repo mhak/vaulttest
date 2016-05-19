@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{218BDDA0-C2BA-4BE9-9BB9-87B8376907DB}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:31.6981057Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "KeyCode",
+    "itemPath": "/sitecore/templates/System/Ribbon/Large Gallery Button/Data/KeyCode",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

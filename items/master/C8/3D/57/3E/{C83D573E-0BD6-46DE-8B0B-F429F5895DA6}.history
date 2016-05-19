@@ -7,12 +7,13 @@
     "language": "en",
     "timestamp": "04/01/2016 19:21:59",
     "label": "Saved",
-    "sourceControlRevisionId": "8f476ee50e1f963f0ae2a711c5ac276984c8518a",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "checkbox",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/checkbox",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "8f476ee50e1f963f0ae2a711c5ac276984c8518a"
   },
   {
     "eventType": "PackageInstall",
@@ -22,12 +23,13 @@
     "language": "en",
     "timestamp": "2016-04-05T02:21:53.5239893Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "9c95b1debb148d26112f931020dad28134c212b9",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "checkbox",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/checkbox",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "9c95b1debb148d26112f931020dad28134c212b9"
   },
   {
     "eventType": "PackageInstall",
@@ -37,12 +39,13 @@
     "language": "en",
     "timestamp": "2016-04-05T02:26:15.0562666Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "0d318e4f8ad3c4e8188acfe0bcd4ffe051593fb7",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "checkbox",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/checkbox",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "0d318e4f8ad3c4e8188acfe0bcd4ffe051593fb7"
   },
   {
     "eventType": "PackageInstall",
@@ -52,12 +55,13 @@
     "language": "en",
     "timestamp": "2016-04-05T02:27:17.3661679Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "ca8544a1d31c9f8dbd960cf50f07f16ddf863aab",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "checkbox",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/checkbox",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "ca8544a1d31c9f8dbd960cf50f07f16ddf863aab"
   },
   {
     "eventType": "PackageInstall",
@@ -67,12 +71,13 @@
     "language": "en",
     "timestamp": "2016-04-05T02:28:27.2740762Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "b591587848af825da50cd85cb392b7df4ea2040e",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "checkbox",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/checkbox",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "b591587848af825da50cd85cb392b7df4ea2040e"
   },
   {
     "eventType": "PackageInstall",
@@ -82,12 +87,13 @@
     "language": "en",
     "timestamp": "2016-04-05T02:29:54.4345762Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "91f447c31fcff2f8e673967014a84ba40781b5d9",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "checkbox",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/checkbox",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "91f447c31fcff2f8e673967014a84ba40781b5d9"
   },
   {
     "eventType": "PackageInstall",
@@ -97,12 +103,13 @@
     "language": "en",
     "timestamp": "2016-04-05T02:33:44.1737398Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "8bd33648d0ef94bd955aac781072d07a485abd0e",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "checkbox",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/checkbox",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "8bd33648d0ef94bd955aac781072d07a485abd0e"
   },
   {
     "eventType": "PackageInstall",
@@ -112,12 +119,13 @@
     "language": "en",
     "timestamp": "2016-04-05T02:36:42.5773897Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "b817e5d457e743e3ac01f0e25a9beb040f8781d8",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "checkbox",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/checkbox",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "b817e5d457e743e3ac01f0e25a9beb040f8781d8"
   },
   {
     "eventType": "PackageInstall",
@@ -127,12 +135,13 @@
     "language": "en",
     "timestamp": "2016-04-05T02:37:56.2466034Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "85d649e082c9b51f9975f06368a728f95eb0a868",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "checkbox",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/checkbox",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "85d649e082c9b51f9975f06368a728f95eb0a868"
   },
   {
     "eventType": "PackageInstall",
@@ -142,12 +151,13 @@
     "language": "en",
     "timestamp": "2016-04-05T02:47:49.3065245Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "972a8fc97f28bd16a093ff66e72d21fecd600cd7",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "checkbox",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/checkbox",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "972a8fc97f28bd16a093ff66e72d21fecd600cd7"
   },
   {
     "eventType": "PackageInstall",
@@ -157,12 +167,13 @@
     "language": "en",
     "timestamp": "2016-04-05T02:49:49.0653743Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "9a667b80b8f28b9f676c30325f4d23d5e9324d5f",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "checkbox",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/checkbox",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "9a667b80b8f28b9f676c30325f4d23d5e9324d5f"
   },
   {
     "eventType": "PackageInstall",
@@ -172,12 +183,13 @@
     "language": "en",
     "timestamp": "2016-04-05T03:59:31.3545875Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "a819158e183ec1281cc024f2b2792a00eb03afea",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "checkbox",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/checkbox",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "a819158e183ec1281cc024f2b2792a00eb03afea"
   },
   {
     "eventType": "PackageInstall",
@@ -187,12 +199,13 @@
     "language": "en",
     "timestamp": "2016-04-05T04:00:52.3032175Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "78baf36044bc4181c88006d390d25a793fe35658",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "checkbox",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/checkbox",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "78baf36044bc4181c88006d390d25a793fe35658"
   },
   {
     "eventType": "PackageInstall",
@@ -202,12 +215,13 @@
     "language": "en",
     "timestamp": "2016-04-05T04:06:29.9135277Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "659e875b81c2d619a19a0955134625285142b2a6",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "checkbox",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/checkbox",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "659e875b81c2d619a19a0955134625285142b2a6"
   },
   {
     "eventType": "PackageInstall",
@@ -215,14 +229,15 @@
     "itemId": "{C83D573E-0BD6-46DE-8B0B-F429F5895DA6}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-05T16:23:32.664535Z",
+    "timestamp": "2016-04-05T16:23:32.6645350Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "4d3a684ae1e72a13a8d382ddd0d281a1cb1c398c",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "checkbox",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/checkbox",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "4d3a684ae1e72a13a8d382ddd0d281a1cb1c398c"
   },
   {
     "eventType": "PackageInstall",
@@ -232,12 +247,13 @@
     "language": "en",
     "timestamp": "2016-04-05T16:27:39.8116699Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "6d8a2d60628b586e500c5455b7d09a941fb334b3",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "checkbox",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/checkbox",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "6d8a2d60628b586e500c5455b7d09a941fb334b3"
   },
   {
     "eventType": "PackageInstall",
@@ -247,12 +263,13 @@
     "language": "en",
     "timestamp": "2016-04-05T16:33:48.9657843Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "020ce2c3615618c051a14455a6665910bd6dbea4",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "checkbox",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/checkbox",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "020ce2c3615618c051a14455a6665910bd6dbea4"
   },
   {
     "eventType": "PackageInstall",
@@ -262,12 +279,13 @@
     "language": "en",
     "timestamp": "2016-04-05T16:41:13.9402354Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "9a9da7625535e335b6c6101e310f47aa4d294be1",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "checkbox",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/checkbox",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "9a9da7625535e335b6c6101e310f47aa4d294be1"
   },
   {
     "eventType": "PackageInstall",
@@ -277,12 +295,13 @@
     "language": "en",
     "timestamp": "2016-04-05T16:45:40.1344608Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "8166ec3818a57f26cf6e8f4962195557ffa9f90e",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "checkbox",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/checkbox",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "8166ec3818a57f26cf6e8f4962195557ffa9f90e"
   },
   {
     "eventType": "PackageInstall",
@@ -292,12 +311,13 @@
     "language": "en",
     "timestamp": "2016-04-05T17:23:43.8630826Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "a42df6ec87e1374f5edd2ae8b3827d697716fa10",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "checkbox",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/checkbox",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "a42df6ec87e1374f5edd2ae8b3827d697716fa10"
   },
   {
     "eventType": "PackageInstall",
@@ -307,12 +327,13 @@
     "language": "en",
     "timestamp": "2016-04-05T17:25:52.6664497Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "138c0e10096c8c3b8af66303756489568e6a21a5",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "checkbox",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/checkbox",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "138c0e10096c8c3b8af66303756489568e6a21a5"
   },
   {
     "eventType": "PackageInstall",
@@ -322,12 +343,13 @@
     "language": "en",
     "timestamp": "2016-04-05T17:47:21.2811543Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "9210732737b69fae46e8c805379ec14d683685f9",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "checkbox",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/checkbox",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "9210732737b69fae46e8c805379ec14d683685f9"
   },
   {
     "eventType": "PackageInstall",
@@ -337,12 +359,13 @@
     "language": "en",
     "timestamp": "2016-04-05T17:48:47.9551117Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "0b4d0e7d8a1c3a43dc274510704002f828309390",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "checkbox",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/checkbox",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "0b4d0e7d8a1c3a43dc274510704002f828309390"
   },
   {
     "eventType": "PackageInstall",
@@ -352,12 +375,13 @@
     "language": "en",
     "timestamp": "2016-04-05T18:02:06.0967606Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "2b28e5e2e8c6fe45e1e71474974c4a42012da46f",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "checkbox",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/checkbox",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "2b28e5e2e8c6fe45e1e71474974c4a42012da46f"
   },
   {
     "eventType": "PackageInstall",
@@ -367,12 +391,13 @@
     "language": "en",
     "timestamp": "2016-04-05T18:03:35.9378992Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "3abb62f3f70c925785cec1ac354939bc517fedc4",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "checkbox",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/checkbox",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "3abb62f3f70c925785cec1ac354939bc517fedc4"
   },
   {
     "eventType": "PackageInstall",
@@ -382,11 +407,28 @@
     "language": "en",
     "timestamp": "2016-04-06T00:09:30.3793185Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": null,
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "checkbox",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/checkbox",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "be3df300bc7a57dfb0f925e18ec40c112552d1e9"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C83D573E-0BD6-46DE-8B0B-F429F5895DA6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:55.0334404Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "checkbox",
+    "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/checkbox",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
   }
 ]

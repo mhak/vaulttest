@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{249A9C7D-BAD8-451F-8D95-CC1A393B40F5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:09.8338552Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Trait",
+    "itemPath": "/sitecore/templates/System/Layout/Preview Simulators/Trait",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

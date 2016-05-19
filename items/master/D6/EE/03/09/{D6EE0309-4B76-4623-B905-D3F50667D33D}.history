@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D6EE0309-4B76-4623-B905-D3F50667D33D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:12.2765631Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Search Keywords",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visit/Search Keywords",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null
+  }
+]

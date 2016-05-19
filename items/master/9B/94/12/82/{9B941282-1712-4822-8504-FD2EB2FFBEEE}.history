@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9B941282-1712-4822-8504-FD2EB2FFBEEE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:51.4743733Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Dns",
+    "itemPath": "/sitecore/system/Settings/Analytics/Visitor Identification Types/Dns",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E3ABB5FA-C298-41AC-B07C-7D2F142F0A39}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:10.3690222Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FixedMode",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Common/FixedMode",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null
+  }
+]

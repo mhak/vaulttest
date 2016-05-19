@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{573F696B-BA0C-454B-8F6F-924C88EC2805}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:28.0284640Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Empty Message",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Social/Empty Message",
+    "commandType": "Item",
+    "template": "Validation Rule",
+    "sourceControlRevisionId": null
+  }
+]

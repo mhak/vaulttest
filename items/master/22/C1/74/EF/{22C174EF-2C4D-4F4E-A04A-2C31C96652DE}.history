@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{22C174EF-2C4D-4F4E-A04A-2C31C96652DE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:12.6441523Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Postal Code",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Geo/Common/Postal Code",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9F4C699C-BA5C-496B-ABC1-0D57FEABFE61}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:56.1796424Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Open",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Quick Actions/Open",
+    "commandType": "Item",
+    "template": "Quick Action",
+    "sourceControlRevisionId": null
+  }
+]

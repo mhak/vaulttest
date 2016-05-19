@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{08C1A006-7BBA-42F2-BC29-F297669281FE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:13.1301801Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Domain",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Geo/Viewer/Domain",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null
+  }
+]

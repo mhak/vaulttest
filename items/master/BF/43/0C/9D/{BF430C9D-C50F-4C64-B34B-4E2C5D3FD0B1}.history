@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BF430C9D-C50F-4C64-B34B-4E2C5D3FD0B1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:01.4503756Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Filter on button",
+    "itemPath": "/sitecore/templates/System/Html editor/HTML Tidy/Data/Filter on button",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{920A5A2F-DCBA-4F3A-BA5D-2CF46447E27F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:17.2894180Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Path Analyzer",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

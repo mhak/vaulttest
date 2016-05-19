@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D01E123E-F00D-42B3-BFC1-8B811BE715B2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:38.6425029Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "DefaultItem",
+    "itemPath": "/sitecore/templates/System/Security/User/Data/DefaultItem",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

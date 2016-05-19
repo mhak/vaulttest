@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3C14D331-85BB-464D-B255-2603B6451923}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:03.4120560Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "January",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Date/Month of Year/Month List/January",
+    "commandType": "Item",
+    "template": "Standard template",
+    "sourceControlRevisionId": null
+  }
+]

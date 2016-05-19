@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0E681959-D547-40F9-9CDF-0E408A8269A5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:36.0669238Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "RenderOnPageEditorEditing",
+    "itemPath": "/sitecore/templates/App Center Sync/Markup Rendering/Markup Rendering Parameters/Render On/RenderOnPageEditorEditing",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

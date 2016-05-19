@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F96B8936-2F00-4102-8F4C-C344763C9A84}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:39.7317016Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Honduras",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Honduras",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

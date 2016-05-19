@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C591E630-93F4-46F3-9F11-551F6A3AA37C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:33.3417679Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Approve with Test",
+    "itemPath": "/sitecore/system/Workflows/Sample Workflow/Awaiting Approval/Approve with Test",
+    "commandType": "Item",
+    "template": "Command",
+    "sourceControlRevisionId": null
+  }
+]

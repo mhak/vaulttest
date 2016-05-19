@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{964A1B11-FFFB-46B6-A301-AAAF6A82704A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:36.0954936Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Is Email Address Validated",
+    "itemPath": "/sitecore/system/Settings/Analytics/Engagement Automation/Predefined items/Conditions/Is Email Address Validated",
+    "commandType": "Item",
+    "template": "Engagement Plan Condition",
+    "sourceControlRevisionId": null
+  }
+]

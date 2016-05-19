@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4A505FF0-50A8-4B84-84CF-0CAD8EF3D695}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:01.4379431Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "New Item Template",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Bucketing/New Item Template",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null
+  }
+]

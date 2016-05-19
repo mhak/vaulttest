@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{16156647-DE5D-4E6A-A6AE-5B8D4A3A40BE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:54.8535665Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Author",
+    "itemPath": "/sitecore/system/Settings/Buckets/Search Types/Author",
+    "commandType": "Item",
+    "template": "Field Search Type",
+    "sourceControlRevisionId": null
+  }
+]

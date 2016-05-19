@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F5652C06-676B-4E12-A9D0-06D000E5F1C8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:28.3020479Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Process",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Focus/Process",
+    "commandType": "Item",
+    "template": "Profile Key",
+    "sourceControlRevisionId": null
+  }
+]

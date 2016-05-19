@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FAD4312B-579F-461D-A492-AFFA4966FAC8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:45.3244533Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "General",
+    "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Base/Taxon Definition/General",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null
+  }
+]

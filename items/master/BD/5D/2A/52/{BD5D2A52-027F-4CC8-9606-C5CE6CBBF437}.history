@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BD5D2A52-027F-4CC8-9606-C5CE6CBBF437}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:49.9007150Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "IsFailure",
+    "itemPath": "/sitecore/templates/System/Analytics/Page Event/Options/IsFailure",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

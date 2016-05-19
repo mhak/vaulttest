@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4C116EA6-9312-4930-8C0F-6663554D8CEA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:26.5628120Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Package readme",
+    "itemPath": "/sitecore/templates/System/Packages/Package registration/Data/Package readme",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8575417C-AF30-4A40-94D1-F522AD2C1E25}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:06.5808055Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-youtube-post",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-youtube-post",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null
+  }
+]

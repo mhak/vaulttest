@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A86A6E2B-8E8B-4FC6-947F-D6593D1F82AD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:58.7327884Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Content Editor Warnings",
+    "itemPath": "/sitecore/system/Settings/Rules/Content Editor Warnings",
+    "commandType": "Item",
+    "template": "Rules Context Folder",
+    "sourceControlRevisionId": null
+  }
+]

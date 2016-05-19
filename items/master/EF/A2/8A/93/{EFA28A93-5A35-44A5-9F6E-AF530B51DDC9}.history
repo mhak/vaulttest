@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EFA28A93-5A35-44A5-9F6E-AF530B51DDC9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:15.4211747Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Login rendering",
+    "itemPath": "/sitecore/templates/System/Layout/Renderings/XmlControl/Data/Login rendering",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

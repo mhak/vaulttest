@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E6CC7A2B-6E72-40CE-9315-88F4617CDB10}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:24.9958588Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "By Referring Sites",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Dimensions/Visits/By Referring Sites",
+    "commandType": "Item",
+    "template": "Dimension",
+    "sourceControlRevisionId": null
+  }
+]

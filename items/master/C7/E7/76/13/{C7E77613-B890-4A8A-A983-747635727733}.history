@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C7E77613-B890-4A8A-A983-747635727733}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:51.1053521Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Paid",
+    "itemPath": "/sitecore/system/Settings/Analytics/Traffic Type/Paid",
+    "commandType": "Item",
+    "template": "Traffic Type",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "itemName": "TestChannelType",
+  "templateId": "{F13CE61A-B9F1-4573-8EC8-08CD14410BAF}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{F575D5E6-74DE-49B6-A866-E2256D213D83}",
+  "childIds": [
+    "{BD817F7D-B5E8-4341-8745-DE85D59896B8}"
+  ]
+}

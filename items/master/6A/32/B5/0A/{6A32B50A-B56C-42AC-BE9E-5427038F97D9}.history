@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6A32B50A-B56C-42AC-BE9E-5427038F97D9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:05.0887201Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-advertising",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-advertising",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null
+  }
+]

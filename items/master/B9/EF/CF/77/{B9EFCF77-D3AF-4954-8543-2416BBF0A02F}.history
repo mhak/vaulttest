@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B9EFCF77-D3AF-4954-8543-2416BBF0A02F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:39.1146663Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Gambia",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Gambia",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

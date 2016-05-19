@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F706FDBE-4809-4642-B21D-33003C73E8AF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:24.3362528Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Page Level Test Definition",
+    "itemPath": "/sitecore/system/Settings/Rules/Insert Options/Rules/Page Level Test Definition",
+    "commandType": "Item",
+    "template": "Insert Options Rule",
+    "sourceControlRevisionId": null
+  }
+]

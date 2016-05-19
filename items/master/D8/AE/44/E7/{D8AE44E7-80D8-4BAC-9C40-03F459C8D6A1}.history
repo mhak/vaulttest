@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D8AE44E7-80D8-4BAC-9C40-03F459C8D6A1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:03.7906459Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Android Tablet Portrait",
+    "itemPath": "/sitecore/layout/Simulators/Android Tablet/Android Tablet Portrait",
+    "commandType": "Item",
+    "template": "Simulator Rotated State",
+    "sourceControlRevisionId": null
+  }
+]

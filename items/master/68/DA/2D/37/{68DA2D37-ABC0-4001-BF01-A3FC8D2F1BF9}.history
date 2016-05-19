@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{68DA2D37-ABC0-4001-BF01-A3FC8D2F1BF9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:58.2997636Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Table View",
+    "itemPath": "/sitecore/system/Settings/Buckets/Views/Table View",
+    "commandType": "Item",
+    "template": "View",
+    "sourceControlRevisionId": null
+  }
+]

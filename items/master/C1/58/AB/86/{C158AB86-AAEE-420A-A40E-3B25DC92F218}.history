@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C158AB86-AAEE-420A-A40E-3B25DC92F218}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:03.4706276Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Large Android Phone",
+    "itemPath": "/sitecore/layout/Simulators/Large Android Phone",
+    "commandType": "Item",
+    "template": "Simulator",
+    "sourceControlRevisionId": null
+  }
+]

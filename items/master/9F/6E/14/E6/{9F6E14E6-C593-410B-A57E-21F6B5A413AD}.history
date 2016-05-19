@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9F6E14E6-C593-410B-A57E-21F6B5A413AD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:04.9125737Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Item Buckets Settings",
+    "itemPath": "/sitecore/templates/System/Item Buckets/Item Buckets Settings",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

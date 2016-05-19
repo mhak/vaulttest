@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{05A83526-F2A8-4C51-88E1-E9907EA1A41F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:37.4795728Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Bulgaria",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Bulgaria",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

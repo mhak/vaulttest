@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D7D814A0-294D-444C-BED0-EEAEA7CD5A27}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:17.9024530Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Goal Facet 3",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Goal Facet 3",
+    "commandType": "Item",
+    "template": "Custom Taxonomy",
+    "sourceControlRevisionId": null
+  }
+]

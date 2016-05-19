@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1BFD3DF4-0156-426F-82A5-29CD1C09457A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:13.8756545Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "include upper value",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Inclusion Operators/include upper value",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

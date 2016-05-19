@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AAA6DCBF-A55F-452F-8740-CD4B1313CB31}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:07.8453096Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Contact Has Registered Outcome During Any Interaction",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Outcomes/Contact Has Registered Outcome During Any Interaction",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null
+  }
+]

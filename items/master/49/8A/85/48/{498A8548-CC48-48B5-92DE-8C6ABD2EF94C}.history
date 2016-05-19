@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{498A8548-CC48-48B5-92DE-8C6ABD2EF94C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:40.4627434Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Korea Republic of",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Korea Republic of",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

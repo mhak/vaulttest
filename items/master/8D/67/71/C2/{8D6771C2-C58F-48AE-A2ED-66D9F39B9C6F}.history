@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8D6771C2-C58F-48AE-A2ED-66D9F39B9C6F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:38.4686294Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Dominican Republic",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Dominican Republic",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

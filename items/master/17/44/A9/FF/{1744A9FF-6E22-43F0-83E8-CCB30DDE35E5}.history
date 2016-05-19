@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1744A9FF-6E22-43F0-83E8-CCB30DDE35E5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:45.4100264Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sticky",
+    "itemPath": "/sitecore/system/Settings/Analytics/Multivariate Test Strategies/Sticky",
+    "commandType": "Item",
+    "template": "Multivariate Test Strategy",
+    "sourceControlRevisionId": null
+  }
+]

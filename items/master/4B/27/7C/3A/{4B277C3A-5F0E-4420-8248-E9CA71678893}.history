@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4B277C3A-5F0E-4420-8248-E9CA71678893}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:50.7813336Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Direct",
+    "itemPath": "/sitecore/system/Settings/Analytics/Traffic Type/Direct",
+    "commandType": "Item",
+    "template": "Traffic Type",
+    "sourceControlRevisionId": null
+  }
+]

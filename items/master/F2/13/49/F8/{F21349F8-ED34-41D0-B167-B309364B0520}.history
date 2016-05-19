@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F21349F8-ED34-41D0-B167-B309364B0520}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:39.5586917Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Guinea-Bissau",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Guinea-Bissau",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

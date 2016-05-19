@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3071A91E-77BA-40BC-929B-58E1E8205281}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:35.5074600Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "DMS",
+    "itemPath": "/sitecore/system/Settings/Analytics/Engagement Automation/Flow Type/DMS",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

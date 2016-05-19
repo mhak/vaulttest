@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9104A389-816E-493C-BC36-82F1C4F3788B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:48.8222216Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Average Unique Page Views",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Content Testing/Average Unique Page Views",
+    "commandType": "Item",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{22A56492-327C-4E74-9754-1647A3D2438C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:40.5277471Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Kyrgyzstan",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Kyrgyzstan",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D01396F8-6A55-4A4E-ACB9-8023FDA0DD26}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:00.7089014Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Outcomes",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Outcomes",
+    "commandType": "Item",
+    "template": "Element Folder",
+    "sourceControlRevisionId": null
+  }
+]

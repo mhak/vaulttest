@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{954EA401-7274-4E9B-A65F-21FE13343604}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:10.3014501Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Gender",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Social/Gender",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null
+  }
+]

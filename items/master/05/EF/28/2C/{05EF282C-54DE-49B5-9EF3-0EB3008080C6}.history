@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{05EF282C-54DE-49B5-9EF3-0EB3008080C6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:54.5055466Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Image Dimensions",
+    "itemPath": "/sitecore/system/Settings/Buckets/Facets/Image Dimensions",
+    "commandType": "Item",
+    "template": "Facet",
+    "sourceControlRevisionId": null
+  }
+]

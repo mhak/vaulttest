@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C5BC372F-30EB-4251-87D2-BB22350E4510}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:48.1911855Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Top Leads By Value - Unclassified",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Top Leads By Value - Unclassified",
+    "commandType": "Item",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null
+  }
+]

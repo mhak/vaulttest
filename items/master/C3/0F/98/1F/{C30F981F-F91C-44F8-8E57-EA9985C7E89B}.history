@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C30F981F-F91C-44F8-8E57-EA9985C7E89B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:33.0107490Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Validate Map",
+    "itemPath": "/sitecore/system/Workflows/Path Analyzer Maps/Initializing/Deploy/Validate Map",
+    "commandType": "Item",
+    "template": "Validation Action",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3E5559CE-D96D-4807-84A6-DD6B0969DB9B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:59.2938205Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Testing",
+    "itemPath": "/sitecore/system/Settings/Rules/Testing",
+    "commandType": "Item",
+    "template": "Rules Context Folder",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{93265539-4152-4789-A780-C95DBA16F75A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:44.5569776Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Ukraine",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Ukraine",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

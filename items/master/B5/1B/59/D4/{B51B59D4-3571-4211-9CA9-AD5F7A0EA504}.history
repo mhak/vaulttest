@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B51B59D4-3571-4211-9CA9-AD5F7A0EA504}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:10.1950122Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CampaignsEditorSearchWaterMark",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Campaigns/Editor/CampaignsEditorSearchWaterMark",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null
+  }
+]

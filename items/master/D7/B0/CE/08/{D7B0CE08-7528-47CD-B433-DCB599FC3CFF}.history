@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D7B0CE08-7528-47CD-B433-DCB599FC3CFF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:28.6795013Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sitecore Command",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/System/Sitecore Command",
+    "commandType": "Item",
+    "template": "Validation Rule",
+    "sourceControlRevisionId": null
+  }
+]

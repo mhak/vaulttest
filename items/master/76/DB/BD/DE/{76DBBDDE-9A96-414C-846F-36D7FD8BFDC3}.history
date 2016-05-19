@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{76DBBDDE-9A96-414C-846F-36D7FD8BFDC3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:04.9937147Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Simulator Backgrounds",
+    "itemPath": "/sitecore/media library/System/Simulator Backgrounds",
+    "commandType": "Item",
+    "template": "Media folder",
+    "sourceControlRevisionId": null
+  }
+]

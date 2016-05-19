@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{74A590B5-CC32-4777-8ADE-7369C753B7FF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:26.5313784Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Remove Inherit",
+    "itemPath": "/sitecore/system/Settings/Security/Presets/Remove Inherit",
+    "commandType": "Item",
+    "template": "Security Preset",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0335CB18-C887-4F23-A674-A560D89B3A99}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:47.8041633Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Page Url",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Page Url",
+    "commandType": "Item",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null
+  }
+]

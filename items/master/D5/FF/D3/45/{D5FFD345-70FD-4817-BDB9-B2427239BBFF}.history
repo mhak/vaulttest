@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D5FFD345-70FD-4817-BDB9-B2427239BBFF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:23.1787548Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Social Marketer",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Campaigns/Social/Social Marketer",
+    "commandType": "Item",
+    "template": "Campaign Category",
+    "sourceControlRevisionId": null
+  }
+]

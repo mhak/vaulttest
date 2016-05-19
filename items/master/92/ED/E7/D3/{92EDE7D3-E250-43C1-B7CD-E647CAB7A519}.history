@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{92EDE7D3-E250-43C1-B7CD-E647CAB7A519}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:43.9803764Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Asset/Asset/__Standard Values",
+    "commandType": "Item",
+    "template": "Asset",
+    "sourceControlRevisionId": null
+  }
+]

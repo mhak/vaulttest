@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B37C44BB-AB02-4DB1-AC5B-E0A28D47184F}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:41.3062235Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Ribbon",
+    "itemPath": "/sitecore/templates/System/Ribbon",
+    "commandType": "Item",
+    "template": "Node",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3EB16DFC-94A1-4278-BA56-195F3344FB02}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:06.3417918Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-self-service",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-self-service",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null
+  }
+]

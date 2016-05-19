@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1BE32547-F4C1-4BEA-BA80-4B935D5BE90F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:27.4289979Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Most Efficient Full Path",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Reports/Most Efficient Full Path",
+    "commandType": "Item",
+    "template": "Report",
+    "sourceControlRevisionId": null
+  }
+]

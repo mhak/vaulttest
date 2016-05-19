@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A500DABD-90F0-4844-BC51-29A67C58C3D0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:33.1083228Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Proxies",
+    "itemPath": "/sitecore/system/Settings/Proxies",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

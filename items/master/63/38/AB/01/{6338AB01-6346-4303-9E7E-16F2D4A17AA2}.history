@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6338AB01-6346-4303-9E7E-16F2D4A17AA2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:44.9560004Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Virgin Islands US",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Virgin Islands US",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

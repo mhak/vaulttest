@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B5A37A78-F237-42DB-9CB6-A70E6F0051CB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:45.6634727Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Options",
+    "itemPath": "/sitecore/templates/System/Analytics/Campaign/Options",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null
+  }
+]

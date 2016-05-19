@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A25A8B45-A2F4-430F-81F1-5DD2EAB45DA4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:32.5617233Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Deploy",
+    "itemPath": "/sitecore/system/Workflows/Analytics Testing Workflow/Draft/Deploy",
+    "commandType": "Item",
+    "template": "Command",
+    "sourceControlRevisionId": null
+  }
+]

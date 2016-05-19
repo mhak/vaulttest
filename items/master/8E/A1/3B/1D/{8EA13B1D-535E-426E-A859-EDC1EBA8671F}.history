@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8EA13B1D-535E-426E-A859-EDC1EBA8671F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:47.5801505Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Organization Goals",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Organization Goals",
+    "commandType": "Item",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null
+  }
+]

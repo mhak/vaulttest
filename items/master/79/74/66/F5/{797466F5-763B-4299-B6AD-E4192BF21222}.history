@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{797466F5-763B-4299-B6AD-E4192BF21222}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:49.7817082Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Description",
+    "itemPath": "/sitecore/templates/System/Analytics/Page Event/Data/Description",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

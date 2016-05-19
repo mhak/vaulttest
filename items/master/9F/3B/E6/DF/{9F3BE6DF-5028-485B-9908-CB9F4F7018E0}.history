@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9F3BE6DF-5028-485B-9908-CB9F4F7018E0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:35.9944879Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Remove Visitor from this Plan",
+    "itemPath": "/sitecore/system/Settings/Analytics/Engagement Automation/Predefined items/Actions/Remove Visitor from this Plan",
+    "commandType": "Item",
+    "template": "Engagement Automation Action",
+    "sourceControlRevisionId": null
+  }
+]

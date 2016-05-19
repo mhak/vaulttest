@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5DE17054-0141-4E58-935B-FEC623A60806}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:05.9496330Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "DisplayName",
+    "itemPath": "/sitecore/templates/System/Item Buckets/Facet/Facet/DisplayName",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

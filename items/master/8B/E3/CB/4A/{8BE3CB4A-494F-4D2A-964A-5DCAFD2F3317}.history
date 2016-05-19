@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8BE3CB4A-494F-4D2A-964A-5DCAFD2F3317}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:10.2218773Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Stylesheet",
+    "itemPath": "/sitecore/templates/System/Layout/Preview Simulators/Trait/Data/Stylesheet",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

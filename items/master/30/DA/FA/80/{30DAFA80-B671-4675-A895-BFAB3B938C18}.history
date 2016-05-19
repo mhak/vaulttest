@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{30DAFA80-B671-4675-A895-BFAB3B938C18}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:44.2099577Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Timor-Leste",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Timor-Leste",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

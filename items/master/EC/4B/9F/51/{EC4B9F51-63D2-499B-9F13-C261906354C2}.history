@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EC4B9F51-63D2-499B-9F13-C261906354C2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:56.8676817Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Color Picker",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Filter Control Types/Color Picker",
+    "commandType": "Item",
+    "template": "Search Control Type",
+    "sourceControlRevisionId": null
+  }
+]

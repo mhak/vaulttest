@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4593C5C7-67D1-42B7-B2E5-905F7419A299}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:12.6091503Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Metro Code",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Geo/Common/Metro Code",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null
+  }
+]

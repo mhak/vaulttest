@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{004324C1-26C3-4C8B-8A7B-BEFB7A2F5A3B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:12.1541243Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Address",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Geo/Common/Address",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null
+  }
+]

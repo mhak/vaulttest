@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C7505543-0CA4-4C31-82CB-7B7A6B53373A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:02.1175502Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "HiddenComponentsHead",
+    "itemPath": "/sitecore/layout/Renderings/App Center Sync/HiddenComponents/HiddenComponentsHead",
+    "commandType": "Item",
+    "template": "Webcontrol",
+    "sourceControlRevisionId": null
+  }
+]

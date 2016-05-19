@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7146F1A4-45FB-4CEC-9855-C95E9E595827}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:54.3915401Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Date Range",
+    "itemPath": "/sitecore/system/Settings/Buckets/Facets/Date Range",
+    "commandType": "Item",
+    "template": "Facet",
+    "sourceControlRevisionId": null
+  }
+]

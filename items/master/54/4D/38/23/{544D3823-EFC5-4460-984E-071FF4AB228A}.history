@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{544D3823-EFC5-4460-984E-071FF4AB228A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:05.7717592Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-google-display-network",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-google-display-network",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null
+  }
+]

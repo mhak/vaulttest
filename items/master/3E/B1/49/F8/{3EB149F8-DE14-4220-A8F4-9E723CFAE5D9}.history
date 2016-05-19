@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3EB149F8-DE14-4220-A8F4-9E723CFAE5D9}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:21.0674977Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Extension",
+    "itemPath": "/sitecore/templates/System/Media/Versioned/File/Information/Extension",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

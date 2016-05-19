@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F9AFAF63-33A5-4017-9401-69F36D87295A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:14.9897183Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Item Saved",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Item Saved",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

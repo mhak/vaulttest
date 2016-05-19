@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{94CBB5B7-1890-4612-9510-F68C1DEE6B42}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:39.7381338Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "PredefinedSourceType",
+    "itemPath": "/sitecore/templates/List Manager/Contact List/Data/PredefinedSourceType",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

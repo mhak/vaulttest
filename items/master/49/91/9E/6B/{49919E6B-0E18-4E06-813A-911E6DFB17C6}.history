@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{49919E6B-0E18-4E06-813A-911E6DFB17C6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:01.7455289Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__formend",
+    "itemPath": "/sitecore/layout/Placeholder Settings/App Center Sync/__formend",
+    "commandType": "Item",
+    "template": "Head Placeholder Setting",
+    "sourceControlRevisionId": null
+  }
+]

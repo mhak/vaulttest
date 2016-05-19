@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1846B535-C548-4BA2-BE00-8B2D380367FD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:24.2702491Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "MVC Renderings",
+    "itemPath": "/sitecore/system/Settings/Rules/Insert Options/Rules/MVC Renderings",
+    "commandType": "Item",
+    "template": "Insert Options Rule",
+    "sourceControlRevisionId": null
+  }
+]

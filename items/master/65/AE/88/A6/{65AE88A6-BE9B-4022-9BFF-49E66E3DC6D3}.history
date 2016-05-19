@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{65AE88A6-BE9B-4022-9BFF-49E66E3DC6D3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:08.0748909Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Blackberry",
+    "itemPath": "/sitecore/media library/System/Simulator Backgrounds/Blackberry",
+    "commandType": "Item",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null
+  }
+]

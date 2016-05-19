@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{854CC8F6-94AD-4521-A4B6-44ED8F794C98}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:58.4452038Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Command",
+    "itemPath": "/sitecore/templates/System/Branches/Command Template/Data/Command",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0898AB8C-87D4-4639-88E7-4E1C81E7F84C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:53.0124612Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Latest Failures",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Reports/Site Health/Latest Failures",
+    "commandType": "Item",
+    "template": "Report",
+    "sourceControlRevisionId": null
+  }
+]

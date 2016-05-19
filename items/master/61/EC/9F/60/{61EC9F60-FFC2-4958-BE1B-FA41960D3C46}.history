@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{61EC9F60-FFC2-4958-BE1B-FA41960D3C46}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:28.4669209Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Group",
+    "itemPath": "/sitecore/templates/System/Path Analyzer/Report/Report/Group",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

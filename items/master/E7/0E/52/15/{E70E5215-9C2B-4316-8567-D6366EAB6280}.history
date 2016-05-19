@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E70E5215-9C2B-4316-8567-D6366EAB6280}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:43.3979113Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Serbia",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Serbia",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

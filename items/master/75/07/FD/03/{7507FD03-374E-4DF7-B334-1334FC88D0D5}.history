@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7507FD03-374E-4DF7-B334-1334FC88D0D5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:24.3846874Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "History",
+    "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Preset/History",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null
+  }
+]

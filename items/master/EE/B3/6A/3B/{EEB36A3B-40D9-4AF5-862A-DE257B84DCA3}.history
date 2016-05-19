@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EEB36A3B-40D9-4AF5-862A-DE257B84DCA3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:35.5673270Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Text",
+    "itemPath": "/sitecore/templates/System/Rules/Action/Data/Text",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

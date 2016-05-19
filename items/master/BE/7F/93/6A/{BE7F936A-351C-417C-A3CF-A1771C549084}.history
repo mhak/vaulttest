@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BE7F936A-351C-417C-A3CF-A1771C549084}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:07.2128416Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Long Running Request",
+    "itemPath": "/sitecore/media library/System/Page Event Images/Long Running Request",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null
+  }
+]

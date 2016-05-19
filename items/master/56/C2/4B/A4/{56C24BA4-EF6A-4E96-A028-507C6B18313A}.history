@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{56C24BA4-EF6A-4E96-A028-507C6B18313A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:35.8094773Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Decrease the Profile Value",
+    "itemPath": "/sitecore/system/Settings/Analytics/Engagement Automation/Predefined items/Actions/Decrease the Profile Value",
+    "commandType": "Item",
+    "template": "Engagement Automation Action",
+    "sourceControlRevisionId": null
+  }
+]

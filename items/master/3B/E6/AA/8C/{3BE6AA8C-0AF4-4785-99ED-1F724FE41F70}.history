@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3BE6AA8C-0AF4-4785-99ED-1F724FE41F70}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:54.1243884Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "BaseSegment",
+    "itemPath": "/sitecore/templates/System/Experience Analytics/BaseSegment",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3E0F39E0-5845-4660-899D-B6071DA81306}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:28.3149122Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Path Analyzer/Report/__Standard Values",
+    "commandType": "Item",
+    "template": "Report",
+    "sourceControlRevisionId": null
+  }
+]

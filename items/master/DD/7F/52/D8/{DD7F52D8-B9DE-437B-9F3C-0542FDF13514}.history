@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DD7F52D8-B9DE-437B-9F3C-0542FDF13514}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:31.3286528Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "LinkedIn",
+    "itemPath": "/sitecore/system/Social/Networks/LinkedIn",
+    "commandType": "Item",
+    "template": "Network",
+    "sourceControlRevisionId": null
+  }
+]

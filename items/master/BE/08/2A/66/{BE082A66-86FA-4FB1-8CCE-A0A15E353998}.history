@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BE082A66-86FA-4FB1-8CCE-A0A15E353998}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:13.9536590Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "DateTime",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/DateTime",
+    "commandType": "Item",
+    "template": "Macro",
+    "sourceControlRevisionId": null
+  }
+]

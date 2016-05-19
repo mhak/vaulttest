@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{331B709C-4536-4F60-94FF-127605023327}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:37.9564637Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "$name",
+    "itemPath": "/sitecore/templates/System/Rules/Validation Result/__Standard Values",
+    "commandType": "Item",
+    "template": "Validation Result",
+    "sourceControlRevisionId": null
+  }
+]

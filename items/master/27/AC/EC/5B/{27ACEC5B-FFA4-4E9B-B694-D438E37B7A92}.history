@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{27ACEC5B-FFA4-4E9B-B694-D438E37B7A92}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:27.0279750Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Campaigns",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Maps/Path Experience Maps/Campaigns",
+    "commandType": "Item",
+    "template": "MapGroup",
+    "sourceControlRevisionId": null
+  }
+]

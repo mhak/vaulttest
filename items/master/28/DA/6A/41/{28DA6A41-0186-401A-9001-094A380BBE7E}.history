@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{28DA6A41-0186-401A-9001-094A380BBE7E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:52.3998580Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Analytics/Rules/Session End Rule/__Standard Values",
+    "commandType": "Item",
+    "template": "Session End Rule",
+    "sourceControlRevisionId": null
+  }
+]

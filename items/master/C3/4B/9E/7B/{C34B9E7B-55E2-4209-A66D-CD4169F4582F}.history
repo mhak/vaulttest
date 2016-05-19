@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C34B9E7B-55E2-4209-A66D-CD4169F4582F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:06.9058241Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "End Transaction",
+    "itemPath": "/sitecore/media library/System/Page Event Images/End Transaction",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null
+  }
+]

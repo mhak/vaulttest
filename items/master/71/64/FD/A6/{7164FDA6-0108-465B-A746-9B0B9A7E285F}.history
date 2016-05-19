@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7164FDA6-0108-465B-A746-9B0B9A7E285F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:41.9102580Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Marketing Taxonomy",
+    "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy",
+    "commandType": "Item",
+    "template": "Template Folder",
+    "sourceControlRevisionId": null
+  }
+]

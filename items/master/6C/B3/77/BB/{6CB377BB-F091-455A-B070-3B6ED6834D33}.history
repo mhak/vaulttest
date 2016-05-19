@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6CB377BB-F091-455A-B070-3B6ED6834D33}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:43.2577669Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Link Title",
+    "itemPath": "/sitecore/templates/System/Social/Message/Facebook Message/Data/Link Title",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

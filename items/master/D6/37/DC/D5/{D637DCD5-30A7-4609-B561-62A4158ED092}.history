@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D637DCD5-30A7-4609-B561-62A4158ED092}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:47.5475805Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Analytics/Engagement Automation/Engagement Plan State/__Standard Values",
+    "commandType": "Item",
+    "template": "Engagement Plan State",
+    "sourceControlRevisionId": null
+  }
+]

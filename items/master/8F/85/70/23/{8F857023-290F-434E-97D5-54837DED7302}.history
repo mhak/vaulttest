@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8F857023-290F-434E-97D5-54837DED7302}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:10.6750397Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "SelectDevice",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Device/Common/SelectDevice",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null
+  }
+]

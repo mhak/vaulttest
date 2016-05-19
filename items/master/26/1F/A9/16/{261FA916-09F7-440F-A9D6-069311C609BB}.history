@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{261FA916-09F7-440F-A9D6-069311C609BB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:06.4266603Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Control Type Parameters",
+    "itemPath": "/sitecore/templates/System/Item Buckets/Field Search Type/Search Type/Control Type Parameters",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

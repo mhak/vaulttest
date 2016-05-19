@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0954E5B1-246C-4FB7-A68F-106D3B49013A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:51.7598214Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Analytics/Profile Key/__Standard Values",
+    "commandType": "Item",
+    "template": "Profile Key",
+    "sourceControlRevisionId": null
+  }
+]

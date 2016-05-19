@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4ADCA61B-10A6-4AAA-94FD-72DB877813D0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:58.1457548Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Image View",
+    "itemPath": "/sitecore/system/Settings/Buckets/Views/Image View",
+    "commandType": "Item",
+    "template": "View",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F7B94D8C-A842-49F8-AB7A-2169D00426B0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:47.4670076Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Should Not Organize In Bucket",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Item Buckets/Item Buckets/__Should Not Organize In Bucket",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AD486F6B-AA44-49FE-8B66-8D4B63C0E477}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:03.1656101Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Login with Twitter",
+    "itemPath": "/sitecore/layout/Sublayouts/Social/Connector/Login with Twitter",
+    "commandType": "Item",
+    "template": "Sublayout",
+    "sourceControlRevisionId": null
+  }
+]

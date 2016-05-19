@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0013ED97-2131-4954-A46D-D7FAE9521D36}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:01.1733598Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Reference size",
+    "itemPath": "/sitecore/templates/System/Html editor/HTML Size/Data/Reference size",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

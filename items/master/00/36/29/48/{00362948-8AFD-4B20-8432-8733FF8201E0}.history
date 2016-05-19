@@ -7,12 +7,13 @@
     "language": "en",
     "timestamp": "04/01/2016 19:21:57",
     "label": "Saved",
-    "sourceControlRevisionId": "2e73d3fbd6ca0d6ca4dde5c3ad11396dbe35d128",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "XCentium",
     "itemPath": "/sitecore/templates/XCentium",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "2e73d3fbd6ca0d6ca4dde5c3ad11396dbe35d128"
   },
   {
     "eventType": "PackageInstall",
@@ -22,12 +23,13 @@
     "language": "en",
     "timestamp": "2016-04-05T02:21:07.3193465Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "5896587c35c7ff6f173521f7374406a8453321cc",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "XCentium",
     "itemPath": "/sitecore/templates/XCentium",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "5896587c35c7ff6f173521f7374406a8453321cc"
   },
   {
     "eventType": "PackageInstall",
@@ -37,12 +39,13 @@
     "language": "en",
     "timestamp": "2016-04-05T02:25:40.5491655Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "bf77b8c356e8863bab81401582738cf3f6dc6bb7",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "XCentium",
     "itemPath": "/sitecore/templates/XCentium",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "bf77b8c356e8863bab81401582738cf3f6dc6bb7"
   },
   {
     "eventType": "PackageInstall",
@@ -52,12 +55,13 @@
     "language": "en",
     "timestamp": "2016-04-05T02:26:43.1968322Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "a00fc240ba4b27f53766142463327588f356f146",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "XCentium",
     "itemPath": "/sitecore/templates/XCentium",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "a00fc240ba4b27f53766142463327588f356f146"
   },
   {
     "eventType": "PackageInstall",
@@ -67,12 +71,13 @@
     "language": "en",
     "timestamp": "2016-04-05T02:27:56.3633082Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "c08ce113bc50e70439760b07599f8d15378ebe36",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "XCentium",
     "itemPath": "/sitecore/templates/XCentium",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "c08ce113bc50e70439760b07599f8d15378ebe36"
   },
   {
     "eventType": "PackageInstall",
@@ -82,12 +87,13 @@
     "language": "en",
     "timestamp": "2016-04-05T02:29:24.6441268Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "0294f5dfc3bc866f21d18f265be83bc8871b0cb2",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "XCentium",
     "itemPath": "/sitecore/templates/XCentium",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "0294f5dfc3bc866f21d18f265be83bc8871b0cb2"
   },
   {
     "eventType": "PackageInstall",
@@ -97,12 +103,13 @@
     "language": "en",
     "timestamp": "2016-04-05T02:33:15.6672425Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "40389725745b1f9d4e87d5e5c727e23c975d5898",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "XCentium",
     "itemPath": "/sitecore/templates/XCentium",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "40389725745b1f9d4e87d5e5c727e23c975d5898"
   },
   {
     "eventType": "PackageInstall",
@@ -112,12 +119,13 @@
     "language": "en",
     "timestamp": "2016-04-05T02:36:12.5026696Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "502f271816528dd600985c0fc5b11d7ba9002545",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "XCentium",
     "itemPath": "/sitecore/templates/XCentium",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "502f271816528dd600985c0fc5b11d7ba9002545"
   },
   {
     "eventType": "PackageInstall",
@@ -125,14 +133,15 @@
     "itemId": "{00362948-8AFD-4B20-8432-8733FF8201E0}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-05T02:37:24.000759Z",
+    "timestamp": "2016-04-05T02:37:24.0007590Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "123f8714ada4480119fab759afd0092403f1fb95",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "XCentium",
     "itemPath": "/sitecore/templates/XCentium",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "123f8714ada4480119fab759afd0092403f1fb95"
   },
   {
     "eventType": "PackageInstall",
@@ -142,12 +151,13 @@
     "language": "en",
     "timestamp": "2016-04-05T02:47:18.2537484Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "5ec08db1c7143122d064a199d23051fd6f51d1c8",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "XCentium",
     "itemPath": "/sitecore/templates/XCentium",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "5ec08db1c7143122d064a199d23051fd6f51d1c8"
   },
   {
     "eventType": "PackageInstall",
@@ -157,12 +167,13 @@
     "language": "en",
     "timestamp": "2016-04-05T02:49:18.8976488Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "a610f84d8c6e132c34ff9dc208e458826d9141ec",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "XCentium",
     "itemPath": "/sitecore/templates/XCentium",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "a610f84d8c6e132c34ff9dc208e458826d9141ec"
   },
   {
     "eventType": "PackageInstall",
@@ -172,12 +183,13 @@
     "language": "en",
     "timestamp": "2016-04-05T03:31:18.2147455Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "f5f400757cc45684e1cebfb3ece5e7f0957ff41e",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "XCentium",
     "itemPath": "/sitecore/templates/XCentium",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "f5f400757cc45684e1cebfb3ece5e7f0957ff41e"
   },
   {
     "eventType": "PackageInstall",
@@ -187,12 +199,13 @@
     "language": "en",
     "timestamp": "2016-04-05T03:58:47.5000792Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "607846b0d56661d666bd5ad292e15a70197ff8af",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "XCentium",
     "itemPath": "/sitecore/templates/XCentium",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "607846b0d56661d666bd5ad292e15a70197ff8af"
   },
   {
     "eventType": "PackageInstall",
@@ -202,12 +215,13 @@
     "language": "en",
     "timestamp": "2016-04-05T04:00:22.1964955Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "38afb1241eb40d33be6727ea22da472cdb095a44",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "XCentium",
     "itemPath": "/sitecore/templates/XCentium",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "38afb1241eb40d33be6727ea22da472cdb095a44"
   },
   {
     "eventType": "PackageInstall",
@@ -215,14 +229,15 @@
     "itemId": "{00362948-8AFD-4B20-8432-8733FF8201E0}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-05T04:03:31.341314Z",
+    "timestamp": "2016-04-05T04:03:31.3413140Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "8cf3d667e277924d87c54d5f897c88dedc248e6d",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "XCentium",
     "itemPath": "/sitecore/templates/XCentium",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "8cf3d667e277924d87c54d5f897c88dedc248e6d"
   },
   {
     "eventType": "PackageInstall",
@@ -232,12 +247,13 @@
     "language": "en",
     "timestamp": "2016-04-05T16:22:55.3424003Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "d38b6f1119eed441719ef0f67264bc18189f2ae0",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "XCentium",
     "itemPath": "/sitecore/templates/XCentium",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "d38b6f1119eed441719ef0f67264bc18189f2ae0"
   },
   {
     "eventType": "PackageInstall",
@@ -247,12 +263,13 @@
     "language": "en",
     "timestamp": "2016-04-05T16:27:12.4401043Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "21f6214ba6bbafeacd2c47c72fc74c5d3d9c1d0f",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "XCentium",
     "itemPath": "/sitecore/templates/XCentium",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "21f6214ba6bbafeacd2c47c72fc74c5d3d9c1d0f"
   },
   {
     "eventType": "PackageInstall",
@@ -262,12 +279,13 @@
     "language": "en",
     "timestamp": "2016-04-05T16:33:19.4380954Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "e549c5102193c5e8e8d818f1ddd04c599b1ef3c9",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "XCentium",
     "itemPath": "/sitecore/templates/XCentium",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "e549c5102193c5e8e8d818f1ddd04c599b1ef3c9"
   },
   {
     "eventType": "PackageInstall",
@@ -277,12 +295,13 @@
     "language": "en",
     "timestamp": "2016-04-05T16:40:45.1575891Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "03225057a88a06d65c8b7a66c470560def41bb8d",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "XCentium",
     "itemPath": "/sitecore/templates/XCentium",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "03225057a88a06d65c8b7a66c470560def41bb8d"
   },
   {
     "eventType": "PackageInstall",
@@ -292,12 +311,13 @@
     "language": "en",
     "timestamp": "2016-04-05T16:45:12.2008631Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "fbb8d428a473bf143c7efa4fdb0f67d9ad35419c",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "XCentium",
     "itemPath": "/sitecore/templates/XCentium",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "fbb8d428a473bf143c7efa4fdb0f67d9ad35419c"
   },
   {
     "eventType": "PackageInstall",
@@ -307,12 +327,13 @@
     "language": "en",
     "timestamp": "2016-04-05T17:23:14.8574236Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "407e381ea7dd8fc53018b85333a4121bbd416a87",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "XCentium",
     "itemPath": "/sitecore/templates/XCentium",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "407e381ea7dd8fc53018b85333a4121bbd416a87"
   },
   {
     "eventType": "PackageInstall",
@@ -322,12 +343,13 @@
     "language": "en",
     "timestamp": "2016-04-05T17:25:09.8119986Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "356d015768e1814432704ec69bd8db32d88534d4",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "XCentium",
     "itemPath": "/sitecore/templates/XCentium",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "356d015768e1814432704ec69bd8db32d88534d4"
   },
   {
     "eventType": "PackageInstall",
@@ -337,12 +359,13 @@
     "language": "en",
     "timestamp": "2016-04-05T17:46:51.3354415Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "0aeeea459f133d1c6b2ebf43e21bcae07d93fe9b",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "XCentium",
     "itemPath": "/sitecore/templates/XCentium",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "0aeeea459f133d1c6b2ebf43e21bcae07d93fe9b"
   },
   {
     "eventType": "PackageInstall",
@@ -350,14 +373,15 @@
     "itemId": "{00362948-8AFD-4B20-8432-8733FF8201E0}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-05T17:48:17.992398Z",
+    "timestamp": "2016-04-05T17:48:17.9923980Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "5a4e8e7d754d4aeb065b47e43c4961a69fb5616d",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "XCentium",
     "itemPath": "/sitecore/templates/XCentium",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "5a4e8e7d754d4aeb065b47e43c4961a69fb5616d"
   },
   {
     "eventType": "PackageInstall",
@@ -367,12 +391,13 @@
     "language": "en",
     "timestamp": "2016-04-05T18:01:33.5648999Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "6a33b5b7d7f4c45926602baa8441de7628be4d4a",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "XCentium",
     "itemPath": "/sitecore/templates/XCentium",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "6a33b5b7d7f4c45926602baa8441de7628be4d4a"
   },
   {
     "eventType": "PackageInstall",
@@ -382,12 +407,13 @@
     "language": "en",
     "timestamp": "2016-04-05T18:03:06.6652249Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "1dd030680e5378f94923d79fcf18a2d9fe53071d",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "XCentium",
     "itemPath": "/sitecore/templates/XCentium",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "1dd030680e5378f94923d79fcf18a2d9fe53071d"
   },
   {
     "eventType": "PackageInstall",
@@ -397,11 +423,28 @@
     "language": "en",
     "timestamp": "2016-04-06T00:08:54.7662816Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": null,
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "XCentium",
     "itemPath": "/sitecore/templates/XCentium",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "be3df300bc7a57dfb0f925e18ec40c112552d1e9"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{00362948-8AFD-4B20-8432-8733FF8201E0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:35.2738784Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "XCentium",
+    "itemPath": "/sitecore/templates/XCentium",
+    "commandType": "Item",
+    "template": "Template Folder",
+    "sourceControlRevisionId": null
   }
 ]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E535D6D4-6EBF-441F-B430-6E5176B80BDC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:15.8043330Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ReferralEditorWaterMark",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Referral/Editor/ReferralEditorWaterMark",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null
+  }
+]

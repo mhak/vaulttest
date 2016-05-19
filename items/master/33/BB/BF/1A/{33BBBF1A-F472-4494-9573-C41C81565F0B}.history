@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{33BBBF1A-F472-4494-9573-C41C81565F0B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:17.6904409Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Campaign Facet 4",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Campaign Facet 4",
+    "commandType": "Item",
+    "template": "Custom Taxonomy",
+    "sourceControlRevisionId": null
+  }
+]

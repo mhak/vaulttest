@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{12BD157E-7D90-4D9A-9D3A-36A294DE96D2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:34.2753895Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Traffic Type",
+    "itemPath": "/sitecore/system/Settings/Analytics/Dashboard Reports/Traffic Type",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

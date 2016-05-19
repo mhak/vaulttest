@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6C1F47A6-C079-452D-9244-FF1E3B2C28BF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:12.4761427Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ISP",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Geo/Common/ISP",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null
+  }
+]

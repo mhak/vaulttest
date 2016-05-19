@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{81511CF3-B258-46C7-89D7-9193E8D0FF98}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:23.0687485Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Facebook",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Campaigns/Social/Facebook",
+    "commandType": "Item",
+    "template": "Campaign Category",
+    "sourceControlRevisionId": null
+  }
+]

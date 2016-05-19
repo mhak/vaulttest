@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{18C2D156-9B7B-494F-ADB2-2D0D9113000E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:21.0620656Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Visit",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/Visit",
+    "commandType": "Item",
+    "template": "Tag",
+    "sourceControlRevisionId": null
+  }
+]

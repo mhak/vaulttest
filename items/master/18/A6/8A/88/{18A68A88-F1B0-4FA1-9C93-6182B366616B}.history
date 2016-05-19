@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{18A68A88-F1B0-4FA1-9C93-6182B366616B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:19.0135166Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "SMS automation",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Automation Programs/SMS automation",
+    "commandType": "Item",
+    "template": "Channel",
+    "sourceControlRevisionId": null
+  }
+]

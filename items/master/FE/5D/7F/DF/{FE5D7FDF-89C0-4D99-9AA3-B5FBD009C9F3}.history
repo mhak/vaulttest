@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:01.1174930Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Default",
+    "itemPath": "/sitecore/layout/Devices/Default",
+    "commandType": "Item",
+    "template": "Device",
+    "sourceControlRevisionId": null
+  }
+]

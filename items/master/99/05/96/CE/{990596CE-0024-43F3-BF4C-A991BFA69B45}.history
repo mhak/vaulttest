@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{990596CE-0024-43F3-BF4C-A991BFA69B45}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:07.7017332Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Code page",
+    "itemPath": "/sitecore/templates/System/Language/Data/Code page",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

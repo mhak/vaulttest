@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{733CECC5-1A6D-4C81-8267-D52A80349EE4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:17.5614335Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Asset",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Asset",
+    "commandType": "Item",
+    "template": "Asset Taxonomy",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B2FAFB1E-3E71-4086-9526-7CAD4C2C56A1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:50.3613096Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "End Test Behavior",
+    "itemPath": "/sitecore/system/Settings/Analytics/Testing/End Test Behavior",
+    "commandType": "Item",
+    "template": "Behavior",
+    "sourceControlRevisionId": null
+  }
+]

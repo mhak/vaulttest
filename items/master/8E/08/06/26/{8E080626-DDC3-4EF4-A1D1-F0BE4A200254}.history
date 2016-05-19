@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8E080626-DDC3-4EF4-A1D1-F0BE4A200254}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:32.9503137Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Internet",
+    "itemPath": "/sitecore/system/Publishing targets/Internet",
+    "commandType": "Item",
+    "template": "Publishing target",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CAF7A3C0-DD82-4089-8A50-2A78898494D5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:21.6335301Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FrameRate",
+    "itemPath": "/sitecore/templates/System/Media/Versioned/Flash/Flash/FrameRate",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

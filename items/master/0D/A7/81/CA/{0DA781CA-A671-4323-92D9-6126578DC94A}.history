@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0DA781CA-A671-4323-92D9-6126578DC94A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:18.0204598Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Asset Facet 3",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Asset Facet 3",
+    "commandType": "Item",
+    "template": "Custom Taxonomy",
+    "sourceControlRevisionId": null
+  }
+]

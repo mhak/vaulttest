@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{315AE2F1-4C23-4341-82B7-63DF7683162C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:37.1529859Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Xml layout",
+    "itemPath": "/sitecore/templates/Branches/System/Layouts/__Xml layout",
+    "commandType": "Item",
+    "template": "Branch",
+    "sourceControlRevisionId": null
+  }
+]

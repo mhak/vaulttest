@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{81B3057A-77C3-4E85-90C3-30301710E5C4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:41.0377763Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Malaysia",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Malaysia",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

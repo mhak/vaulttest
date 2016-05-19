@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4779F71E-E506-4BD4-9AE4-3A3CE57FE657}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:01.6425230Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__bodybegin",
+    "itemPath": "/sitecore/layout/Placeholder Settings/App Center Sync/__bodybegin",
+    "commandType": "Item",
+    "template": "Head Placeholder Setting",
+    "sourceControlRevisionId": null
+  }
+]

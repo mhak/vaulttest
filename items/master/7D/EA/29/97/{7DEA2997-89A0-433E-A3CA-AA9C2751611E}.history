@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7DEA2997-89A0-433E-A3CA-AA9C2751611E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:16.8783945Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "TagsViewerNoResults",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Tags/Viewer/TagsViewerNoResults",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null
+  }
+]

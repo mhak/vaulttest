@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BF552C14-60E9-4724-993D-73580C86C0E8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:16.3577965Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Boosting",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Indexing/Boosting",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

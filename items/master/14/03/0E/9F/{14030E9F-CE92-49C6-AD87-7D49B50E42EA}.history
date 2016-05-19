@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{14030E9F-CE92-49C6-AD87-7D49B50E42EA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:01.2435002Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sample Layout",
+    "itemPath": "/sitecore/layout/Layouts/Sample Layout",
+    "commandType": "Item",
+    "template": "Layout",
+    "sourceControlRevisionId": null
+  }
+]

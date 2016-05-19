@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{ABC069D5-3627-4A20-841E-D199B0EB4957}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:29.8479999Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Small Check Button",
+    "itemPath": "/sitecore/templates/System/Ribbon/Small Check Button",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

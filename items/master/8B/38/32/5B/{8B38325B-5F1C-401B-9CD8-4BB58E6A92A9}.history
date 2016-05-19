@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8B38325B-5F1C-401B-9CD8-4BB58E6A92A9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:11.7561015Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Value",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/General/Common/Value",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null
+  }
+]

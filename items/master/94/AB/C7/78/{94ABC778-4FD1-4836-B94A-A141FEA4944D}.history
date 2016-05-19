@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{94ABC778-4FD1-4836-B94A-A141FEA4944D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:37.4300018Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Xsl file",
+    "itemPath": "/sitecore/templates/Branches/System/Layouts/Renderings/__Xsl file",
+    "commandType": "Item",
+    "template": "Branch",
+    "sourceControlRevisionId": null
+  }
+]

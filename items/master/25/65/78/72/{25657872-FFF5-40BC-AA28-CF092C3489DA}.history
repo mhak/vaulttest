@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{25657872-FFF5-40BC-AA28-CF092C3489DA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:56.6856713Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Search Filters",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Box Dropdown/Search Filters",
+    "commandType": "Item",
+    "template": "Dropdown List",
+    "sourceControlRevisionId": null
+  }
+]

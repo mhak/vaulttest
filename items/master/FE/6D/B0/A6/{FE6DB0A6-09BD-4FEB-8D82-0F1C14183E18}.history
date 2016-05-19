@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FE6DB0A6-09BD-4FEB-8D82-0F1C14183E18}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:55.3015922Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tag",
+    "itemPath": "/sitecore/system/Settings/Buckets/Search Types/Tag",
+    "commandType": "Item",
+    "template": "Field Search Type",
+    "sourceControlRevisionId": null
+  }
+]

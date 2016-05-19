@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{381BEC54-BC94-4FBB-98B3-C56B37237EE3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:37.9430311Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Upload Files - Advanced",
+    "itemPath": "/sitecore/templates/Branches/System/Media/Upload Files - Advanced",
+    "commandType": "Item",
+    "template": "Command Template",
+    "sourceControlRevisionId": null
+  }
+]

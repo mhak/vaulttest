@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5DCF6FF3-41C5-466C-AD5E-991CFCD55716}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:51.6572473Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Text",
+    "itemPath": "/sitecore/templates/System/Validation/Validation Rule/Text/Text",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

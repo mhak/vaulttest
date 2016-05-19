@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3C82B054-218F-40B7-9201-C2A126AD2C07}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:28.5370613Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Define Concept",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Function/Define Concept",
+    "commandType": "Item",
+    "template": "Profile Key",
+    "sourceControlRevisionId": null
+  }
+]

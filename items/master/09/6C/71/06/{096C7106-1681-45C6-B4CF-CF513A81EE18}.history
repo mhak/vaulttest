@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{096C7106-1681-45C6-B4CF-CF513A81EE18}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:20.0960103Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Engagement Automation",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/Engagement Automation",
+    "commandType": "Item",
+    "template": "Tag",
+    "sourceControlRevisionId": null
+  }
+]

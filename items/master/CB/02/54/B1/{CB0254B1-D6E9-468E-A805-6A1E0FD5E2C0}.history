@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CB0254B1-D6E9-468E-A805-6A1E0FD5E2C0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:42.2272762Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Filter",
+    "itemPath": "/sitecore/templates/System/Analytics/Filter",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

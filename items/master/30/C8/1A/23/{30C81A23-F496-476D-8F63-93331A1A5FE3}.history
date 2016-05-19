@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{30C81A23-F496-476D-8F63-93331A1A5FE3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:43.3029059Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Satellite Provider",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Satellite Provider",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{220E8575-DA98-4F87-97A6-34940BEA0109}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:34.0783783Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Visitor Identification Types",
+    "itemPath": "/sitecore/system/Settings/Analytics/Visitor Identification Types",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

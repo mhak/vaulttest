@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AFC5AA94-6663-4AF3-9693-62669C76A3D7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:52.5678676Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Behaviors",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Behaviors",
+    "commandType": "Item",
+    "template": "Template Folder",
+    "sourceControlRevisionId": null
+  }
+]

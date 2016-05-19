@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{03ADA6B9-D09F-4552-A1B0-E6AAF9C3FED9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:02.2895600Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Feeds",
+    "itemPath": "/sitecore/layout/Renderings/System/Feeds",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

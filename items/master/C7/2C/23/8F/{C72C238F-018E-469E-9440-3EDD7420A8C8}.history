@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C72C238F-018E-469E-9440-3EDD7420A8C8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:01.4925145Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ExperienceEditor",
+    "itemPath": "/sitecore/layout/Layouts/System/FXM/ExperienceEditor",
+    "commandType": "Item",
+    "template": "Layout",
+    "sourceControlRevisionId": null
+  }
+]

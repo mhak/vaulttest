@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4533AAD8-B0D5-443D-9315-B2D06B56BC48}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:46.0044922Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Cost Base",
+    "itemPath": "/sitecore/templates/System/Analytics/Campaign/Cost/Cost Base",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

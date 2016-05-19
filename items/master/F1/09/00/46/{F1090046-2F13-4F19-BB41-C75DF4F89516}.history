@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F1090046-2F13-4F19-BB41-C75DF4F89516}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:52.7903121Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Comment Template",
+    "itemPath": "/sitecore/templates/System/Workflow/Command/Data/Comment Template",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

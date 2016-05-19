@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C6FE5270-40AE-4102-9C20-9EC7B2D9E573}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:40.8457653Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Luxembourg",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Luxembourg",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

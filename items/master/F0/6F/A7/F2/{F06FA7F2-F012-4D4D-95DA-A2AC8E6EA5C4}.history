@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F06FA7F2-F012-4D4D-95DA-A2AC8E6EA5C4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:01.7913952Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Data",
+    "itemPath": "/sitecore/templates/System/Html editor/HTML Translation/Data",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null
+  }
+]

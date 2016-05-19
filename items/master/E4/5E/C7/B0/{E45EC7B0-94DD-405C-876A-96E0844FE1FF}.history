@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E45EC7B0-94DD-405C-876A-96E0844FE1FF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:04.7186990Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Connector",
+    "itemPath": "/sitecore/media library/Images/Social/Connector",
+    "commandType": "Item",
+    "template": "Media folder",
+    "sourceControlRevisionId": null
+  }
+]

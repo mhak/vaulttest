@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{63087A5B-2EA8-4F1B-811B-A82C0ECF52AF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:39.8121380Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Recipients",
+    "itemPath": "/sitecore/templates/List Manager/Contact List/Data/Recipients",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

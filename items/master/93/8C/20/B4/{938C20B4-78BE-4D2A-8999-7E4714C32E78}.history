@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{938C20B4-78BE-4D2A-8999-7E4714C32E78}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:33.6083514Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Multivariate Test Strategies",
+    "itemPath": "/sitecore/system/Settings/Analytics/Multivariate Test Strategies",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

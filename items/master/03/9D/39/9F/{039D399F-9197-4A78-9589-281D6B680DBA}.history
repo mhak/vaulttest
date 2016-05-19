@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{039D399F-9197-4A78-9589-281D6B680DBA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:14.8257089Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Content Editor Warnings",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Content Editor Warnings",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

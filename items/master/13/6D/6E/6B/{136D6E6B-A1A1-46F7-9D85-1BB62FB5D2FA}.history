@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{136D6E6B-A1A1-46F7-9D85-1BB62FB5D2FA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:37.0145462Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Belarus",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Belarus",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

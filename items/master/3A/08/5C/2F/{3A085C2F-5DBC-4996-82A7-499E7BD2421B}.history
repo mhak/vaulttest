@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3A085C2F-5DBC-4996-82A7-499E7BD2421B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:12.4695741Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "VisitDuration",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visit/VisitDuration",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{51378BDE-D05B-4B97-9907-A62CB5585F50}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:03.3896230Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Android Phone",
+    "itemPath": "/sitecore/layout/Simulators/Android Phone",
+    "commandType": "Item",
+    "template": "Simulator",
+    "sourceControlRevisionId": null
+  }
+]

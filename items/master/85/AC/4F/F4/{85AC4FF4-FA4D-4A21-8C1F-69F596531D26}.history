@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{85AC4FF4-FA4D-4A21-8C1F-69F596531D26}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:59.1108100Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Path Analyzer Map Groups",
+    "itemPath": "/sitecore/system/Settings/Rules/Path Analyzer Map Groups",
+    "commandType": "Item",
+    "template": "Rules Context Folder",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B43AFD99-AFE1-4A6D-A4B2-3844BE73C9BE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:04.9607128Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Page Event Images",
+    "itemPath": "/sitecore/media library/System/Page Event Images",
+    "commandType": "Item",
+    "template": "Media folder",
+    "sourceControlRevisionId": null
+  }
+]

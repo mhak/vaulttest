@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0D84FB0E-E33D-496C-9432-496A29F24EF9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:41.4477998Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Moldova Republic of",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Moldova Republic of",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

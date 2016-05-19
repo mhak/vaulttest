@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{24DCB4B5-EE9B-4F9C-9904-00B166BFC714}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:16.5073733Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "SettingsViewerTitle",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Settings/Viewer/SettingsViewerTitle",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null
+  }
+]

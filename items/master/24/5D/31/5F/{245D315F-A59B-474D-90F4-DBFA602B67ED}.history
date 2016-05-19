@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{245D315F-A59B-474D-90F4-DBFA602B67ED}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:51.5523777Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "User Agent",
+    "itemPath": "/sitecore/system/Settings/Analytics/Visitor Identification Types/User Agent",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

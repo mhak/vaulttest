@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0DE9CD4F-D0A0-44FE-A9D4-741D08B88F47}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:05.2807311Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-catalogue",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-catalogue",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null
+  }
+]

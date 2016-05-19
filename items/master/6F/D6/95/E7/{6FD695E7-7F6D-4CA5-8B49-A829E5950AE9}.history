@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6FD695E7-7F6D-4CA5-8B49-A829E5950AE9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:46.7529668Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Subitems Sorting",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Appearance/Appearance/__Subitems Sorting",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

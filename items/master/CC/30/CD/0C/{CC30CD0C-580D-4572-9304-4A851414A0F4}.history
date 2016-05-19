@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CC30CD0C-580D-4572-9304-4A851414A0F4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:20.9630599Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Social",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/Social",
+    "commandType": "Item",
+    "template": "Tag",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AFBEA3A2-A2FE-410A-8952-2C7BA59E5D51}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:33.0763209Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Layouts",
+    "itemPath": "/sitecore/system/Settings/Layouts",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

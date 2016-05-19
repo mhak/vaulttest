@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CAC0DD07-6DF7-43A8-953D-1E35B161E380}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:08.3713397Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Remove specified rule element from rendering",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Rule Visibility/Remove specified rule element from rendering",
+    "commandType": "Item",
+    "template": "Action",
+    "sourceControlRevisionId": null
+  }
+]

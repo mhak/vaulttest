@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{88653697-06BE-4774-958E-DD29C7268791}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:21.0290637Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Validation",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/Validation",
+    "commandType": "Item",
+    "template": "Tag",
+    "sourceControlRevisionId": null
+  }
+]

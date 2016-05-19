@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3070B56F-9B3C-48B7-8FBD-DE8CA6E61179}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:28.9549488Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Default",
+    "itemPath": "/sitecore/templates/System/Portal/Portlet/Data/Default",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

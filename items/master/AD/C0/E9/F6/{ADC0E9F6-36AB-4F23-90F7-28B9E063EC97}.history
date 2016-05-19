@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{ADC0E9F6-36AB-4F23-90F7-28B9E063EC97}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:53.7735048Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sample Visits",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Subreports/Sample Visits/Sample Visits",
+    "commandType": "Item",
+    "template": "Report",
+    "sourceControlRevisionId": null
+  }
+]

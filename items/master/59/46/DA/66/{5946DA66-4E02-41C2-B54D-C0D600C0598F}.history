@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5946DA66-4E02-41C2-B54D-C0D600C0598F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:52.2438491Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Schedule",
+    "itemPath": "/sitecore/templates/System/Analytics/Report Schedule/Data/Schedule",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

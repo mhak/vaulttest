@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{52FB4BE6-8936-4A0C-8232-B8A6DF757869}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:57.2591359Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Type",
+    "itemPath": "/sitecore/templates/System/Analytics/Vendor Specific Filter/Configuration/Type",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

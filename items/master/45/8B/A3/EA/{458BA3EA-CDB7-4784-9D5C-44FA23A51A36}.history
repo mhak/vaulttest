@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{458BA3EA-CDB7-4784-9D5C-44FA23A51A36}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:45.0780074Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Western Sahara",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Western Sahara",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{46AC8EDB-C2BA-4A3B-BAF2-9EE562C65B55}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:13.1931837Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "GeoViewerDescription",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Geo/Viewer/GeoViewerDescription",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null
+  }
+]

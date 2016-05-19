@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AE61218A-7D51-4D5B-8E35-915022F989C3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:44.2419596Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Togo",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Togo",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

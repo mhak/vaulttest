@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0C179613-2073-41AB-992E-027D03D523BF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:46.4350850Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Search",
+    "itemPath": "/sitecore/system/Settings/Analytics/Page Events/Search",
+    "commandType": "Item",
+    "template": "Page Event",
+    "sourceControlRevisionId": null
+  }
+]

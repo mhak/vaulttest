@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A41DC4AC-3885-4783-8718-07510C9A0951}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:22.7501621Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Warning",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Validation Results/Warning",
+    "commandType": "Item",
+    "template": "Validation Result",
+    "sourceControlRevisionId": null
+  }
+]

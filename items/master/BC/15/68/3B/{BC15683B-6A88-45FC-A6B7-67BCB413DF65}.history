@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BC15683B-6A88-45FC-A6B7-67BCB413DF65}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:40.0597204Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Ireland",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Ireland",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

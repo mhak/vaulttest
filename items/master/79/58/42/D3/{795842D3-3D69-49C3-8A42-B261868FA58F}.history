@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{795842D3-3D69-49C3-8A42-B261868FA58F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:56.5836655Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Recently Modified",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Box Dropdown/Recent Items",
+    "commandType": "Item",
+    "template": "Dropdown List",
+    "sourceControlRevisionId": null
+  }
+]

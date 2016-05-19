@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{67918816-9524-4666-87B3-C07AFF9CEBD3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:52.5732997Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Role Name",
+    "itemPath": "/sitecore/templates/System/Workflow/Auto Submit Action/Data/Role Name",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

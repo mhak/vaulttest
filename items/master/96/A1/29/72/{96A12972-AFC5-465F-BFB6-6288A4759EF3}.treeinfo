@@ -1,0 +1,9 @@
+{
+  "itemName": "Supertemplate",
+  "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{00362948-8AFD-4B20-8432-8733FF8201E0}",
+  "childIds": [
+    "{2ED2D71C-8100-42CB-8E74-E8D2D8470DA9}"
+  ]
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{57B8F93B-1C97-4468-8C46-69CF97417E77}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:44.1459541Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tanzania United Republic of",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Tanzania United Republic of",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

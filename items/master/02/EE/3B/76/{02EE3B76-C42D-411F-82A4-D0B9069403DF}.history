@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{02EE3B76-C42D-411F-82A4-D0B9069403DF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:24.8417136Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Device",
+    "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Preset/Visitor Information/Device",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{093BC2D6-8B96-464C-89D8-FD57E2CB05F8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:59.5928376Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Operators",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Operators",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

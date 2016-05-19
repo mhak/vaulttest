@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5E6442EC-78CE-4D20-8673-3670222E404D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:26.4908079Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Package author",
+    "itemPath": "/sitecore/templates/System/Packages/Package registration/Data/Package author",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

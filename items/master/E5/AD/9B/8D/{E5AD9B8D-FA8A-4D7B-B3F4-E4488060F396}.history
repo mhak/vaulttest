@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E5AD9B8D-FA8A-4D7B-B3F4-E4488060F396}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:47.9121695Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Profiles",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Profiles",
+    "commandType": "Item",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null
+  }
+]

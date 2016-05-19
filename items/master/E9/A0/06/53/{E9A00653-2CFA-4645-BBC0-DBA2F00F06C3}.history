@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E9A00653-2CFA-4645-BBC0-DBA2F00F06C3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:29.6655577Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Development",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Development",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

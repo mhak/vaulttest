@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{14D0728A-82F9-4B01-AB16-1FE1577CEDE2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:09.5458387Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Editable",
+    "itemPath": "/sitecore/templates/System/Layout/Placeholder/Data/Editable",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

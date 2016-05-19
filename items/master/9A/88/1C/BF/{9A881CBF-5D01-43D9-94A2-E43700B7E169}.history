@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9A881CBF-5D01-43D9-94A2-E43700B7E169}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:29.9545742Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Security",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Security",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

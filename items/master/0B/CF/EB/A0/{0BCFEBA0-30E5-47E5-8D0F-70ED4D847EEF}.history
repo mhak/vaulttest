@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0BCFEBA0-30E5-47E5-8D0F-70ED4D847EEF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:41.4992345Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Services",
+    "itemPath": "/sitecore/templates/System/Services",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{804E29AD-9CFF-4D31-B4D4-B5A6DAED990B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:23.8036542Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tab Name",
+    "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Control/Control/Tab Name",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

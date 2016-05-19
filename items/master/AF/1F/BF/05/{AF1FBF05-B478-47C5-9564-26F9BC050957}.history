@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AF1FBF05-B478-47C5-9564-26F9BC050957}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:26.3583685Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Clear Script Cache",
+    "itemPath": "/sitecore/system/Settings/Rules/Version Removed/Rules/Clear Script Cache",
+    "commandType": "Item",
+    "template": "Rule",
+    "sourceControlRevisionId": null
+  }
+]

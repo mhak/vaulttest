@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3F735A62-B2D3-4A58-97D6-46DBED6C5C73}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:01.8075325Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__invisible",
+    "itemPath": "/sitecore/layout/Placeholder Settings/App Center Sync/__invisible",
+    "commandType": "Item",
+    "template": "Placeholder",
+    "sourceControlRevisionId": null
+  }
+]

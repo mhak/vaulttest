@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{69B47A34-D529-4245-90C0-0858C66582BB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:03.5816339Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "HD TV",
+    "itemPath": "/sitecore/layout/Simulators/HD TV",
+    "commandType": "Item",
+    "template": "Simulator",
+    "sourceControlRevisionId": null
+  }
+]

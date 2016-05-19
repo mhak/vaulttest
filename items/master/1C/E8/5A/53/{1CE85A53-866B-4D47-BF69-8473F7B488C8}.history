@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1CE85A53-866B-4D47-BF69-8473F7B488C8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:37.7105860Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Cayman Islands",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Cayman Islands",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

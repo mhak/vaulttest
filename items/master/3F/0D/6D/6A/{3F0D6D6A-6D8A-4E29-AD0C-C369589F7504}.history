@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3F0D6D6A-6D8A-4E29-AD0C-C369589F7504}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:46.0870651Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Page not found",
+    "itemPath": "/sitecore/system/Settings/Analytics/Page Events/Page not found",
+    "commandType": "Item",
+    "template": "Page Event",
+    "sourceControlRevisionId": null
+  }
+]

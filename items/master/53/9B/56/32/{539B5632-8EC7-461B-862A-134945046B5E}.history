@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{539B5632-8EC7-461B-862A-134945046B5E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:37.9770331Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Taxonomy",
+    "itemPath": "/sitecore/templates/Branches/System/Rules/Taxonomy",
+    "commandType": "Item",
+    "template": "Branch Folder",
+    "sourceControlRevisionId": null
+  }
+]

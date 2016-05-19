@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B33B5B8D-C88C-4F36-ACCB-618ABAAA2034}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:07.4898575Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Print",
+    "itemPath": "/sitecore/media library/System/Page Event Images/Print",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null
+  }
+]

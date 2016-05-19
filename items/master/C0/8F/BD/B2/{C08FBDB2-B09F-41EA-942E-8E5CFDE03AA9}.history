@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C08FBDB2-B09F-41EA-942E-8E5CFDE03AA9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:59.2568184Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Segment Builder",
+    "itemPath": "/sitecore/system/Settings/Rules/Segment Builder",
+    "commandType": "Item",
+    "template": "Rules Context Folder",
+    "sourceControlRevisionId": null
+  }
+]

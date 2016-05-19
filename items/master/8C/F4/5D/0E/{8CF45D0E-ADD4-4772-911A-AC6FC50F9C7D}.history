@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8CF45D0E-ADD4-4772-911A-AC6FC50F9C7D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:21.8515425Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Alt",
+    "itemPath": "/sitecore/templates/System/Media/Versioned/Image/Image/Alt",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AF85F026-6519-4DDB-9861-3882A017FF92}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:44.1708191Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Status",
+    "itemPath": "/sitecore/templates/System/Social/Posting Configuration/Content Posting Configuration/System/Status",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

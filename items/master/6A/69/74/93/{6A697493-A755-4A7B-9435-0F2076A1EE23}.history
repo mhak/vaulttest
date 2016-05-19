@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6A697493-A755-4A7B-9435-0F2076A1EE23}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:54.3464011Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Dimension",
+    "itemPath": "/sitecore/templates/System/Experience Analytics/Branches/Dimension",
+    "commandType": "Item",
+    "template": "Branch",
+    "sourceControlRevisionId": null
+  }
+]

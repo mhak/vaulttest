@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DF12D9FA-CFAA-428E-BD51-7299A727FDAB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:42.7553064Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Profile Key Control",
+    "itemPath": "/sitecore/templates/System/Analytics/Profile Key Control",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

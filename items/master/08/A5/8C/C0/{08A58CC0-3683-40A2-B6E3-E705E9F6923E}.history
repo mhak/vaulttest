@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{08A58CC0-3683-40A2-B6E3-E705E9F6923E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:26.3339353Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Paid search - YouTube",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Filters/Paid search/Paid search - YouTube",
+    "commandType": "Item",
+    "template": "Filter",
+    "sourceControlRevisionId": null
+  }
+]

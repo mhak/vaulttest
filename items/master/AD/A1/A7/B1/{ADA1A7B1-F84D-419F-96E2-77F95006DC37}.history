@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{ADA1A7B1-F84D-419F-96E2-77F95006DC37}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:20.9300580Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sitecore Query",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/Sitecore Query",
+    "commandType": "Item",
+    "template": "Tag",
+    "sourceControlRevisionId": null
+  }
+]

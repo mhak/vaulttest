@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DB14B596-67DD-4C93-BE7C-2BDBADEB64C2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:54.0385199Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tab Options",
+    "itemPath": "/sitecore/system/Settings/Buckets/Tab Options",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{08676F6A-8626-4CCA-93EE-F23BF8AFA132}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:40.7737612Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Liechtenstein",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Liechtenstein",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

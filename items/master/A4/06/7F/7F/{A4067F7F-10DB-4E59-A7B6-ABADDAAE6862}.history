@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A4067F7F-10DB-4E59-A7B6-ABADDAAE6862}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:00.5058898Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Item Hierarchy",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Item Hierarchy",
+    "commandType": "Item",
+    "template": "Element Folder",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CACB48EA-D096-4F39-B9CF-AFDF8E3AB0F6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:05.5577470Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-door",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-door",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EF89B9F9-F0EF-41B4-8311-E154C1C67AB5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:55.4005978Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "UpdatedBy",
+    "itemPath": "/sitecore/system/Settings/Buckets/Search Types/UpdatedBy",
+    "commandType": "Item",
+    "template": "Field Search Type",
+    "sourceControlRevisionId": null
+  }
+]

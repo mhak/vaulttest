@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C2F105D5-4965-4345-9E6A-E407DB501759}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:24.1526741Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Map Provider",
+    "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Map Settings/Data/Map Provider",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

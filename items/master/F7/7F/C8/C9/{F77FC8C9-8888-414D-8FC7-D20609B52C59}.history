@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F77FC8C9-8888-414D-8FC7-D20609B52C59}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:40.3205989Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Account Folder",
+    "itemPath": "/sitecore/templates/System/Social/Account/Account Folder",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{513F1A44-3D32-47D5-871D-AA6FD25C7979}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:44.5239757Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Uganda",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Uganda",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

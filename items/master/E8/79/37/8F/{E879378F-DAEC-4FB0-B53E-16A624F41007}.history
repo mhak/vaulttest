@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E879378F-DAEC-4FB0-B53E-16A624F41007}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:48.5862081Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Contact Interactions",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Contact Interactions",
+    "commandType": "Item",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null
+  }
+]

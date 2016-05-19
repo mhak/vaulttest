@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0DCE6B10-E502-4546-AC92-083A649A0659}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:25.1037285Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Visit 2",
+    "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Preset/History/Visit 2",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

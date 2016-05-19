@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{99EAFEE3-842D-46CF-992F-A82BE2E4C6C2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:39.0096603Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "French Polynesia",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/French Polynesia",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

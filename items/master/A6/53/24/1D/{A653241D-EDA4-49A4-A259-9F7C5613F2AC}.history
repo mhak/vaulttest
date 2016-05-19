@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A653241D-EDA4-49A4-A259-9F7C5613F2AC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:51.6808169Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Authoring Selection",
+    "itemPath": "/sitecore/templates/System/Analytics/Profile Cards/Data/Authoring Selection",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

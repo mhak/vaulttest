@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DAA53CA5-8136-462F-8B2A-F66365BE1238}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:33.8553655Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Report Queries",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{933DFBF3-3D97-4FF7-9F5E-74579BD1A219}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:32.2807072Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Experience Analytics Segment",
+    "itemPath": "/sitecore/system/Workflows/Segment",
+    "commandType": "Item",
+    "template": "Workflow",
+    "sourceControlRevisionId": null
+  }
+]

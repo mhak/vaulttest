@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C8F93AFE-BFD4-4E8F-9C61-152559854661}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:48.1750481Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Valid from",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Lifetime/Lifetime/__Valid from",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{33CFB9CA-F565-4D5B-B88A-7CDFE29A6D71}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:08.9459408Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Marketing Control Panel",
+    "itemPath": "/sitecore/system/Marketing Control Panel",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

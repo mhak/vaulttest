@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AE51A5FA-F306-46F7-BBE2-A4D676DE91A6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:50.1487292Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Analytics/Page Event Category/__Standard Values",
+    "commandType": "Item",
+    "template": "Page Event Category",
+    "sourceControlRevisionId": null
+  }
+]

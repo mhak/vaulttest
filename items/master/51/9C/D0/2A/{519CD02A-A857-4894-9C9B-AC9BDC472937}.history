@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{519CD02A-A857-4894-9C9B-AC9BDC472937}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:04.2885380Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Header",
+    "itemPath": "/sitecore/templates/System/Html Editor Profiles/Html Editor List Item/Data/Header",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

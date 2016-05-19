@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{814EF7D0-1639-44FD-AEEF-735B5AC14425}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:19.0939530Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "is greater than or equal to",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Operators/is greater than or equal to",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

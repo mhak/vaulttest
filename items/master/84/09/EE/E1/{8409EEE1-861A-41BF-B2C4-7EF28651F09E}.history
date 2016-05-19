@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8409EEE1-861A-41BF-B2C4-7EF28651F09E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:57.3011383Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ConstructorParameters",
+    "itemPath": "/sitecore/templates/System/Analytics/Vendor Specific Filter/Configuration/ConstructorParameters",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

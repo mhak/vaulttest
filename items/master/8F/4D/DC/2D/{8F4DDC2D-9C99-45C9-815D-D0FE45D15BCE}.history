@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8F4DDC2D-9C99-45C9-815D-D0FE45D15BCE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:03.2994814Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Disabled",
+    "itemPath": "/sitecore/templates/System/Html editor/Setting group/Data/Disabled",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

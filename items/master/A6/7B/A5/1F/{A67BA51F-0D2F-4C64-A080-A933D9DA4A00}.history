@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A67BA51F-0D2F-4C64-A080-A933D9DA4A00}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:22.1815614Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ImageDescription",
+    "itemPath": "/sitecore/templates/System/Media/Versioned/Jpeg/Exif/ImageDescription",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

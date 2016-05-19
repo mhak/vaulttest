@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{958C2812-1E12-455D-85C3-1763131D973A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:48.8936574Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Analytics/Filter/__Standard Values",
+    "commandType": "Item",
+    "template": "Filter",
+    "sourceControlRevisionId": null
+  }
+]

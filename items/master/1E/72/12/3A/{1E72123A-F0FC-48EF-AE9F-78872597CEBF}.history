@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1E72123A-F0FC-48EF-AE9F-78872597CEBF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:54.8424295Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rule",
+    "itemPath": "/sitecore/templates/System/Experience Analytics/Filter/Data/Rule",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

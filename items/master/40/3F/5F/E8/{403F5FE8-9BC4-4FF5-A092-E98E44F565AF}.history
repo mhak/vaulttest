@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{403F5FE8-9BC4-4FF5-A092-E98E44F565AF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:50.8952037Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rules Validation Rule",
+    "itemPath": "/sitecore/templates/System/Validation/Rules Validation Rule",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

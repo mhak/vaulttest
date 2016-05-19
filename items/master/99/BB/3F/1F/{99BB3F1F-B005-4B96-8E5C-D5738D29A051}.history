@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{99BB3F1F-B005-4B96-8E5C-D5738D29A051}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:01.8375342Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "AppEditor",
+    "itemPath": "/sitecore/layout/Placeholder Settings/App Center Sync/__head/AppEditor",
+    "commandType": "Item",
+    "template": "Layout to append",
+    "sourceControlRevisionId": null
+  }
+]

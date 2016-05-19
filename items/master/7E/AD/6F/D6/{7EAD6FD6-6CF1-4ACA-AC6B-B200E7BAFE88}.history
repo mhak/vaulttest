@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7EAD6FD6-6CF1-4ACA-AC6B-B200E7BAFE88}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:48.3250567Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Unpublish",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Publishing/Publishing/__Unpublish",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

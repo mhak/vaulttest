@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FD42A579-A604-4328-923A-5976E256ECAC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:02.0535465Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "HiddenComponentsBegin",
+    "itemPath": "/sitecore/layout/Renderings/App Center Sync/HiddenComponents/HiddenComponentsBegin",
+    "commandType": "Item",
+    "template": "Webcontrol",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5B503229-440D-4A36-A1F1-677992DDBEE7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:23.3206266Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Experience Explorer",
+    "itemPath": "/sitecore/templates/System/Modules/Experience Explorer",
+    "commandType": "Item",
+    "template": "Template Folder",
+    "sourceControlRevisionId": null
+  }
+]

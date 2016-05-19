@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EF3B7EA9-2E51-4619-8C4D-D7293D766F7F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:53.0504634Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Not Found Urls",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Reports/Site Health/Not Found Urls",
+    "commandType": "Item",
+    "template": "Report",
+    "sourceControlRevisionId": null
+  }
+]

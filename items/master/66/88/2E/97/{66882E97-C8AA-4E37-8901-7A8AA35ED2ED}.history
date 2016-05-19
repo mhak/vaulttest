@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{66882E97-C8AA-4E37-8901-7A8AA35ED2ED}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:52.0702709Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Action",
+    "itemPath": "/sitecore/templates/System/Workflow/Action",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

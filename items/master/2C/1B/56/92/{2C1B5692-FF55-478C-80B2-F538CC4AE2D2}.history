@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2C1B5692-FF55-478C-80B2-F538CC4AE2D2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:37.6864482Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Taxonomy",
+    "itemPath": "/sitecore/templates/System/Rules/Taxonomy/Tags Definition/Taxonomy",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4F4A3A3B-239F-4988-98E1-DA3779749CBC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:17.5422961Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Zip",
+    "itemPath": "/sitecore/templates/System/Media/Unversioned/Zip",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{93D49B7D-0308-4678-AABF-0DE750C55194}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:06.8728222Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Download Brochure",
+    "itemPath": "/sitecore/media library/System/Page Event Images/Download Brochure",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null
+  }
+]

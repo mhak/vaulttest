@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4416BEAF-9915-405A-BBC3-EA186C213826}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:35.4704579Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CMS",
+    "itemPath": "/sitecore/system/Settings/Analytics/Engagement Automation/Flow Type/CMS",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

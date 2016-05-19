@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6E8D8727-309C-46B4-AA47-BCDAE70B5BFA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:26.2219289Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Paid search - Google",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Filters/Paid search/Paid search - Google",
+    "commandType": "Item",
+    "template": "Filter",
+    "sourceControlRevisionId": null
+  }
+]

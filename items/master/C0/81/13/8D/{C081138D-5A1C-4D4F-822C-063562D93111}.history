@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C081138D-5A1C-4D4F-822C-063562D93111}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:53.1234676Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Slow Pages",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Reports/Site Health/Slow Pages",
+    "commandType": "Item",
+    "template": "Report",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1DB34C92-03B0-4475-9A39-DA14E4D9D8FC}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:29.6289874Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Large Button",
+    "itemPath": "/sitecore/templates/System/Ribbon/Large Button",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

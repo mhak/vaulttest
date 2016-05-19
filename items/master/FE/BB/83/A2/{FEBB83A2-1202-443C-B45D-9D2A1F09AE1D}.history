@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FEBB83A2-1202-443C-B45D-9D2A1F09AE1D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:09.4029669Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Campaigns",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Campaigns",
+    "commandType": "Item",
+    "template": "Dictionary folder",
+    "sourceControlRevisionId": null
+  }
+]

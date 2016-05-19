@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3F244A45-496A-4483-938D-B64D3980660F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:11.5940922Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ReferralInformationCampaigns",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/General/Common/ReferralInformationCampaigns",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null
+  }
+]

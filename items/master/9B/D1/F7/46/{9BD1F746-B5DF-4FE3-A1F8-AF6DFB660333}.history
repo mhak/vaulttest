@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9BD1F746-B5DF-4FE3-A1F8-AF6DFB660333}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:12.6405839Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Entry Page",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visit/Entry Page",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null
+  }
+]

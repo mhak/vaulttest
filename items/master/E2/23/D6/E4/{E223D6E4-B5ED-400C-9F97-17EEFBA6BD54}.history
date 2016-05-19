@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E223D6E4-B5ED-400C-9F97-17EEFBA6BD54}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:36.5133811Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "References",
+    "itemPath": "/sitecore/templates/System/Rules/Macro/Script/References",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

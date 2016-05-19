@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5646D20E-B10A-42BA-876B-2A3BB3CBC641}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:26.5969503Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Close - Won",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Outcomes/Lead Management Funnel/Close - Won",
+    "commandType": "Item",
+    "template": "Outcome Definition",
+    "sourceControlRevisionId": null
+  }
+]

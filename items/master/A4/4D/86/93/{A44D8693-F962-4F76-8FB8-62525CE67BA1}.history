@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A44D8693-F962-4F76-8FB8-62525CE67BA1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:27.3768586Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Name",
+    "itemPath": "/sitecore/templates/System/Path Analyzer/BaseMap/Info/Name",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

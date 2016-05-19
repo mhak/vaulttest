@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3267263D-DEE8-4D7D-9EF1-F392EF7AEAB7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:27.6890128Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "visitor is human",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Personalization/Predefined Conditions/visitor is human",
+    "commandType": "Item",
+    "template": "Conditional Rendering Rule",
+    "sourceControlRevisionId": null
+  }
+]

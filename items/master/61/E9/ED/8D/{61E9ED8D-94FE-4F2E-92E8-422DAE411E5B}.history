@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{61E9ED8D-94FE-4F2E-92E8-422DAE411E5B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:24.4722606Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Profiles",
+    "itemPath": "/sitecore/system/Settings/Rules/Insert Options/Rules/Profiles",
+    "commandType": "Item",
+    "template": "Insert Options Rule",
+    "sourceControlRevisionId": null
+  }
+]

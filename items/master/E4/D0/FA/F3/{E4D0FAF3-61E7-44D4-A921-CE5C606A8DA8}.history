@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E4D0FAF3-61E7-44D4-A921-CE5C606A8DA8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:49.9947204Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "IsSystem",
+    "itemPath": "/sitecore/templates/System/Analytics/Page Event/Options/IsSystem",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D664D46C-21C6-484A-B00D-5120CA6BCC99}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:27.6044398Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Spellcheck",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Common/Spellcheck",
+    "commandType": "Item",
+    "template": "Validation Rule",
+    "sourceControlRevisionId": null
+  }
+]

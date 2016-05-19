@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0C0877E5-3A49-490B-AFAB-60158952FA47}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:09.1368153Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Layout/Layout Folder/__Standard Values",
+    "commandType": "Item",
+    "template": "Layout Folder",
+    "sourceControlRevisionId": null
+  }
+]

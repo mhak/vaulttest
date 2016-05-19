@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{612E8F30-2BBE-4C2F-9DF4-13453D6F079E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:32.9787472Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Deploy",
+    "itemPath": "/sitecore/system/Workflows/Path Analyzer Maps/Initializing/Deploy",
+    "commandType": "Item",
+    "template": "Command",
+    "sourceControlRevisionId": null
+  }
+]

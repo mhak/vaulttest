@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A9711DE1-7B29-4CB3-987A-BC975C52D226}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:35.4628892Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/App Center Sync/Head Placeholder/Head Placeholder Setting/__Standard Values",
+    "commandType": "Item",
+    "template": "Head Placeholder Setting",
+    "sourceControlRevisionId": null
+  }
+]

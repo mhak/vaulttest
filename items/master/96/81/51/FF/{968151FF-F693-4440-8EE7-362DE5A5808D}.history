@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{968151FF-F693-4440-8EE7-362DE5A5808D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:09.6489810Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Goals",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Goals",
+    "commandType": "Item",
+    "template": "Dictionary folder",
+    "sourceControlRevisionId": null
+  }
+]

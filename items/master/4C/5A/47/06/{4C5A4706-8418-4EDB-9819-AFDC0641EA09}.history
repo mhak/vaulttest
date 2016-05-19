@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4C5A4706-8418-4EDB-9819-AFDC0641EA09}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:47.0639846Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Indexing",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Indexing/Indexing",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null
+  }
+]

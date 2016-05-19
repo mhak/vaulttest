@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4A3D9575-F0CF-4BC5-BB44-C3A9F93FBE84}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:11.5965242Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Stop Test",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Testing/Stop Test",
+    "commandType": "Item",
+    "template": "Action",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BAB68954-D9E6-464D-88E5-C207CB392AA7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:23.5646405Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Preset Persona",
+    "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Preset Persona",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

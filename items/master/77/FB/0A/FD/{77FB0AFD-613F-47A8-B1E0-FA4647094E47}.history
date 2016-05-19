@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{77FB0AFD-613F-47A8-B1E0-FA4647094E47}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:14.1692395Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "NoPageEventsTriggered",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/PageEvents/Viewer/NoPageEventsTriggered",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A0A04AF2-4090-4481-A7FB-BA9EED686370}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:40.1845911Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Posting Configuration",
+    "itemPath": "/sitecore/templates/System/Social/Posting Configuration",
+    "commandType": "Item",
+    "template": "Template Folder",
+    "sourceControlRevisionId": null
+  }
+]

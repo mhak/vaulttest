@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{161D7248-FED4-440C-845C-527EB90ADA5F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:38.7570777Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Twitter Account",
+    "itemPath": "/sitecore/templates/Branches/System/Social/Twitter Account",
+    "commandType": "Item",
+    "template": "Command Template",
+    "sourceControlRevisionId": null
+  }
+]

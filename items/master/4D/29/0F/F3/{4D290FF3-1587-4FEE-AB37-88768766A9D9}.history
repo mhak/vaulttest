@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4D290FF3-1587-4FEE-AB37-88768766A9D9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:12.0415496Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Goal was Triggered",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visit/Goal was Triggered",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null
+  }
+]

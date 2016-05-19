@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4C844D1B-CAA5-47E7-AD92-C6AEDF1ED9F8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:11.3515102Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Is Mv Test",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Testing/Is Mv Test",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null
+  }
+]

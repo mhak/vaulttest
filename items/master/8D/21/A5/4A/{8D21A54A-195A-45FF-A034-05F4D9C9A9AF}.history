@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8D21A54A-195A-45FF-A034-05F4D9C9A9AF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:26.4069395Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Lead Management Funnel",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Outcomes/Lead Management Funnel",
+    "commandType": "Item",
+    "template": "Outcome Type",
+    "sourceControlRevisionId": null
+  }
+]

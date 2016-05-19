@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{41D245CC-564A-46DC-B0F6-1662F9BB71AD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:11.3450780Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "OnsiteBehavior",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/General/Common/OnsiteBehavior",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null
+  }
+]

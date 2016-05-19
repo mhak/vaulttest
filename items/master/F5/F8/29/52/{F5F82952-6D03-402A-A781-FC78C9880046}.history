@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F5F82952-6D03-402A-A781-FC78C9880046}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:04.1740996Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "GeoIP visibility",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Engagement Automation/Visibility/GeoIP visibility",
+    "commandType": "Item",
+    "template": "Rule Elements Visibility Rule",
+    "sourceControlRevisionId": null
+  }
+]

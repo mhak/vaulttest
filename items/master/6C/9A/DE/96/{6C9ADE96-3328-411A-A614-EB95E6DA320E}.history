@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6C9ADE96-3328-411A-A614-EB95E6DA320E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:08.4119102Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Large Android phone",
+    "itemPath": "/sitecore/media library/System/Simulator Backgrounds/Large Android phone",
+    "commandType": "Item",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null
+  }
+]

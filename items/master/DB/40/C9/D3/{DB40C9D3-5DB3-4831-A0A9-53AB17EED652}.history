@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DB40C9D3-5DB3-4831-A0A9-53AB17EED652}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:27.5320038Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rules",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Personalization/Rules",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

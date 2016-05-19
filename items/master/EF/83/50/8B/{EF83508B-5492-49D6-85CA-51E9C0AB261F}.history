@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EF83508B-5492-49D6-85CA-51E9C0AB261F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:55.2685903Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Start Date",
+    "itemPath": "/sitecore/system/Settings/Buckets/Search Types/Start Date",
+    "commandType": "Item",
+    "template": "Field Search Type",
+    "sourceControlRevisionId": null
+  }
+]

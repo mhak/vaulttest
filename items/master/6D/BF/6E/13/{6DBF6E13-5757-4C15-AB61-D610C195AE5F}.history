@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6DBF6E13-5757-4C15-AB61-D610C195AE5F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:23.2627596Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Facebook Message Campaigns",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Campaigns/Social/Facebook/Facebook Message Campaigns",
+    "commandType": "Item",
+    "template": "Campaign Category",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DB05236E-4099-4DD8-A9D0-0320FCB740F8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:05.5887487Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-email-marketing",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-email-marketing",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null
+  }
+]

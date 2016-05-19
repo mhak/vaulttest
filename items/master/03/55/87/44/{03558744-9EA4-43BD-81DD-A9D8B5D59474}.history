@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{03558744-9EA4-43BD-81DD-A9D8B5D59474}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:05.2151592Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "City",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/GeoIP/City",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null
+  }
+]

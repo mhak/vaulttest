@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5EAF5FEB-DBF2-4EFA-B0A6-833293706B5F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:45.1470113Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Zambia",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Zambia",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6AE28763-9C96-46C1-BBBC-B597068FB36F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:42.1492717Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Engagement Automation",
+    "itemPath": "/sitecore/templates/System/Analytics/Engagement Automation",
+    "commandType": "Item",
+    "template": "Template Folder",
+    "sourceControlRevisionId": null
+  }
+]

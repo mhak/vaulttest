@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F24DF43F-E4D4-4189-A5B0-86C79FBA951F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:11.4635166Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Send Email",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Testing/Send Email",
+    "commandType": "Item",
+    "template": "Action",
+    "sourceControlRevisionId": null
+  }
+]

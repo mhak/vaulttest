@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BB003F3F-1C68-4D36-90AF-39B568B94DFE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:38.7625098Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Password",
+    "itemPath": "/sitecore/templates/System/Security/User/Data/Password",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{07BE739D-DB4B-476C-8C58-04D178FF8F7D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:14.0626652Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Operator",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/Operator",
+    "commandType": "Item",
+    "template": "Macro",
+    "sourceControlRevisionId": null
+  }
+]

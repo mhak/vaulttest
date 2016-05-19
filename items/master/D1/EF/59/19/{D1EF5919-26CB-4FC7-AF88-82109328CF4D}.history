@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D1EF5919-26CB-4FC7-AF88-82109328CF4D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:30.3745982Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Url Characters",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Item/Url Characters",
+    "commandType": "Item",
+    "template": "Validation Rule",
+    "sourceControlRevisionId": null
+  }
+]

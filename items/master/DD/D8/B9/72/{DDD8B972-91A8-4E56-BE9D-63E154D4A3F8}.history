@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DDD8B972-91A8-4E56-BE9D-63E154D4A3F8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:41.4838018Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Monaco",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Monaco",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{301D9665-31F6-4FF1-AB24-586459A0F664}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:53.9045122Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Visit Detail",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Subreports/Visit Detail/Visit Detail",
+    "commandType": "Item",
+    "template": "Report",
+    "sourceControlRevisionId": null
+  }
+]

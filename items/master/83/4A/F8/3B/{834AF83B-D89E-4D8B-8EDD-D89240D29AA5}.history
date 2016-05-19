@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{834AF83B-D89E-4D8B-8EDD-D89240D29AA5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:26.4983765Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Presets",
+    "itemPath": "/sitecore/system/Settings/Security/Presets",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

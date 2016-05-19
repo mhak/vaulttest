@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7B8CC824-2E4B-4A00-85F5-CCCC3354DB15}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:04.6775602Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Boosting Rule",
+    "itemPath": "/sitecore/templates/System/Item Buckets/Boosting Rule",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

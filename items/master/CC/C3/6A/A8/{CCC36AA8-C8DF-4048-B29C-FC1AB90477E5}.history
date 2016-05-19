@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CCC36AA8-C8DF-4048-B29C-FC1AB90477E5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:39.7687037Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Hong Kong",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Hong Kong",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

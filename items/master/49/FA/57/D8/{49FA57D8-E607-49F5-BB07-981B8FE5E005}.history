@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{49FA57D8-E607-49F5-BB07-981B8FE5E005}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:46.4605183Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Report Name",
+    "itemPath": "/sitecore/templates/System/Analytics/Dashboard/Dashboard Report/Data/Report Name",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

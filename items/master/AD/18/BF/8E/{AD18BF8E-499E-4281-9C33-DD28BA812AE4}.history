@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AD18BF8E-499E-4281-9C33-DD28BA812AE4}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:32.9041747Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Gallery Width",
+    "itemPath": "/sitecore/templates/System/Ribbon/Small Combo Button/Data/Gallery Width",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

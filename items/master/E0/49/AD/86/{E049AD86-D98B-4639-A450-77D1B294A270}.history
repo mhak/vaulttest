@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E049AD86-D98B-4639-A450-77D1B294A270}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:27.1389813Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "{D86A72B4-7C3D-447E-9622-66B0DC1243F8}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "First Visit Experience",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Maps/Path Experience Maps/Visits/First Visit Experience",
+    "commandType": "Item",
+    "template": "VisitMap",
+    "sourceControlRevisionId": null
+  }
+]

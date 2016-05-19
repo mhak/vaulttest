@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{633273C1-02A5-4EBC-9B82-BD1A7C684FEA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:33.6823556Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Page Events",
+    "itemPath": "/sitecore/system/Settings/Analytics/Page Events",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

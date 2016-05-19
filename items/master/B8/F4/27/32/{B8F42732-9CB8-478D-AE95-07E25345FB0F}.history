@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B8F42732-9CB8-478D-AE95-07E25345FB0F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:48.1330457Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Hide version",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Lifetime/Lifetime/__Hide version",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

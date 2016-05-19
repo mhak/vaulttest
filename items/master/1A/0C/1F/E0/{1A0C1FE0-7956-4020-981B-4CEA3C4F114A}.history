@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1A0C1FE0-7956-4020-981B-4CEA3C4F114A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:27.0448396Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Visit Map",
+    "itemPath": "/sitecore/templates/System/Path Analyzer/VisitMap",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

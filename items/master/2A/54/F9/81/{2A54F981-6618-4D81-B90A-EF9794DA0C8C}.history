@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2A54F981-6618-4D81-B90A-EF9794DA0C8C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:27.4639999Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Optimization Candidates",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Reports/Optimization Candidates",
+    "commandType": "Item",
+    "template": "Report",
+    "sourceControlRevisionId": null
+  }
+]

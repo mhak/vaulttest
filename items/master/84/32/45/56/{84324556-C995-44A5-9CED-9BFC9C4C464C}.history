@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{84324556-C995-44A5-9CED-9BFC9C4C464C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:32.3197095Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Social Account Renewal",
+    "itemPath": "/sitecore/system/Workflows/Social Account Renewal",
+    "commandType": "Item",
+    "template": "Workflow",
+    "sourceControlRevisionId": null
+  }
+]

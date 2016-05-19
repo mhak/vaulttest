@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0C0B8875-324B-4AB2-B8B1-B8C2BF8010A7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:17.5912989Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Media/Unversioned/Audio/__Standard Values",
+    "commandType": "Item",
+    "template": "Audio",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0BDB5646-FD21-44E2-AE51-364A2A6D9B42}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:36.3365074Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Algeria",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Algeria",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

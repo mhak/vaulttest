@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{105D5494-5EB1-498D-83BB-6AC63A3AA69B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:07.7403036Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Version Count",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Item Version CM/Version Count",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null
+  }
+]

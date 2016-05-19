@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9AF02959-C624-48AD-8181-167C182801E7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:22.6897269Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "TestChannel",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/TestChannelType/TestChannelGroup/TestChannel",
+    "commandType": "Item",
+    "template": "Channel",
+    "sourceControlRevisionId": null
+  }
+]

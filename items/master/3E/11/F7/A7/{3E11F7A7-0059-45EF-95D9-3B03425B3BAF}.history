@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3E11F7A7-0059-45EF-95D9-3B03425B3BAF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:51.0733503Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Email",
+    "itemPath": "/sitecore/system/Settings/Analytics/Traffic Type/Email",
+    "commandType": "Item",
+    "template": "Traffic Type",
+    "sourceControlRevisionId": null
+  }
+]

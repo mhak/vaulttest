@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{78850667-6474-4AB2-8C67-466D653952AF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:11.3105078Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Is Conten Test",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Testing/Is Conten Test",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null
+  }
+]

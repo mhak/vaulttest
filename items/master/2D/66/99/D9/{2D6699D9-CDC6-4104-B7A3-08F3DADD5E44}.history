@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2D6699D9-CDC6-4104-B7A3-08F3DADD5E44}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:12.4461410Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "IpTabTitle",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Geo/Common/IpTabTitle",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null
+  }
+]

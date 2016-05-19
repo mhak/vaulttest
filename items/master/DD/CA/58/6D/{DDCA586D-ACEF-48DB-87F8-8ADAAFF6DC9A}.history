@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DDCA586D-ACEF-48DB-87F8-8ADAAFF6DC9A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:08.9783744Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "String Field",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Search Query Builder/String Field",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null
+  }
+]

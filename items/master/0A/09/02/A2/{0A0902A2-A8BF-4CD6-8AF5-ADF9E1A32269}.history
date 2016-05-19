@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0A0902A2-A8BF-4CD6-8AF5-ADF9E1A32269}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:13.3020535Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Editor Options",
+    "itemPath": "/sitecore/templates/System/Layout/Renderings/Sublayout/Editor Options",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null
+  }
+]

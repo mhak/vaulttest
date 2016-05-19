@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{992E6270-E1E6-4455-8367-EEB6F01619AC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:27.1258442Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Path Analyzer/AssetMap/__Standard Values",
+    "commandType": "Item",
+    "template": "AssetMap",
+    "sourceControlRevisionId": null
+  }
+]

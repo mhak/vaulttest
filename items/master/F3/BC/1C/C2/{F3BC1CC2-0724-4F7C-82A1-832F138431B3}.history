@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F3BC1CC2-0724-4F7C-82A1-832F138431B3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:12.2415611Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Profile Value",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visit/Profile Value",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null
+  }
+]

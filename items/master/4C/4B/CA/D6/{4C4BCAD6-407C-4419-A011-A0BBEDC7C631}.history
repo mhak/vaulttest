@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4C4BCAD6-407C-4419-A011-A0BBEDC7C631}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:47.7671612Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Page Goals",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Page Goals",
+    "commandType": "Item",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null
+  }
+]

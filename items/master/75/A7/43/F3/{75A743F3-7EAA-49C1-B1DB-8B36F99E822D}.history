@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{75A743F3-7EAA-49C1-B1DB-8B36F99E822D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:37.6095802Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Cameroon",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Cameroon",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

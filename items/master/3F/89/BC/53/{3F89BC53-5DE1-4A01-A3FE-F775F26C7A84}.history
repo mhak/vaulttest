@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3F89BC53-5DE1-4A01-A3FE-F775F26C7A84}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:52.9978922Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tasks",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Tasks",
+    "commandType": "Item",
+    "template": "Template Folder",
+    "sourceControlRevisionId": null
+  }
+]

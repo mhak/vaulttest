@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{761E2F5C-8457-4175-BC3F-A526C32050CE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:05.4181708Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Longitude",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/GeoIP/Longitude",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null
+  }
+]

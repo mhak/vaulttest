@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8CB7B8AA-3973-4954-A213-7821EE4CE30E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:21.3615145Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Longitude",
+    "itemPath": "/sitecore/templates/System/Media/Versioned/File/Location/Longitude",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

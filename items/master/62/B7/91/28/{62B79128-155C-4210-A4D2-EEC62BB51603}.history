@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{62B79128-155C-4210-A4D2-EEC62BB51603}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:33.2697638Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__OnSave",
+    "itemPath": "/sitecore/system/Workflows/Sample Workflow/Draft/__OnSave",
+    "commandType": "Item",
+    "template": "Command",
+    "sourceControlRevisionId": null
+  }
+]

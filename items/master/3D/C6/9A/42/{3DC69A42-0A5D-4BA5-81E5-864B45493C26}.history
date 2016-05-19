@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3DC69A42-0A5D-4BA5-81E5-864B45493C26}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:43.4289131Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Seychelles",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Seychelles",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

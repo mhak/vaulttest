@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5940CDEB-2CD7-4827-93BA-4C63D17F7B62}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:23.7467873Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Email",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Dimensions/Email",
+    "commandType": "Item",
+    "template": "DimensionFolder",
+    "sourceControlRevisionId": null
+  }
+]

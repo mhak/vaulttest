@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{178107BF-4294-4FA4-A0DA-30BDE00A1346}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:28.8250778Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Lead",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Score/Lead",
+    "commandType": "Item",
+    "template": "Profile Key",
+    "sourceControlRevisionId": null
+  }
+]

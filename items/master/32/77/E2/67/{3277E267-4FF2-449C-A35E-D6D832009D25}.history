@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3277E267-4FF2-449C-A35E-D6D832009D25}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:44.0729499Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Taiwan",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Taiwan",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

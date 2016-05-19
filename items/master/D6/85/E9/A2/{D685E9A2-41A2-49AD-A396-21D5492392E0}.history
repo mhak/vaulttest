@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D685E9A2-41A2-49AD-A396-21D5492392E0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:54.8910005Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Traffic Allocation",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Test Definition/Data/Traffic Allocation",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

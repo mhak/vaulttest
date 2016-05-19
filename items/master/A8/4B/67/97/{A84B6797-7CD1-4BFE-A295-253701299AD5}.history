@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A84B6797-7CD1-4BFE-A295-253701299AD5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:27.5748699Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "End",
+    "itemPath": "/sitecore/templates/System/Path Analyzer/BaseMap/Scope/End",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

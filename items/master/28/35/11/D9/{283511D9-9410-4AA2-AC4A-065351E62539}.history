@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{283511D9-9410-4AA2-AC4A-065351E62539}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:46.5070891Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Session end",
+    "itemPath": "/sitecore/system/Settings/Analytics/Page Events/Session end",
+    "commandType": "Item",
+    "template": "Page Event",
+    "sourceControlRevisionId": null
+  }
+]

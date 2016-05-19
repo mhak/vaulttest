@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5B5D706C-9EF9-4470-9B60-1A77EE8179FA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:36.9804079Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Group",
+    "itemPath": "/sitecore/templates/System/Rules/Taxonomy/Group",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{48A0E8C2-DFD6-4AEA-BCD9-749A7F61531F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:31.7902474Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Components",
+    "itemPath": "/sitecore/system/Modules/Experience Explorer/Components",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

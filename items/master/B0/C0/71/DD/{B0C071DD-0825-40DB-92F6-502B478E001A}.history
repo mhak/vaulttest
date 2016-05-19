@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B0C071DD-0825-40DB-92F6-502B478E001A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:00.8669105Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Search Query Builder",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Search Query Builder",
+    "commandType": "Item",
+    "template": "Element Folder",
+    "sourceControlRevisionId": null
+  }
+]

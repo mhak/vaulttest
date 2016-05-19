@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CBE7DF8C-F4B1-4F7B-A816-8F3AF6AF7363}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:25.9007741Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Node/__Standard Values",
+    "commandType": "Item",
+    "template": "Node",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BFE0FFED-0392-4AD7-AB93-69094E0803A9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:42.7298731Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Qatar",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Qatar",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

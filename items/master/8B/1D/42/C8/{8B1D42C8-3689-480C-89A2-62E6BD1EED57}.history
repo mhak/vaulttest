@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8B1D42C8-3689-480C-89A2-62E6BD1EED57}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:28.8505110Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "No Spaces",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Text/No Spaces",
+    "commandType": "Item",
+    "template": "Validation Rule",
+    "sourceControlRevisionId": null
+  }
+]

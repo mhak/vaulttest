@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{087DCAF1-4778-4849-99B4-599B901DBE09}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:04.8695712Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Field Search Type",
+    "itemPath": "/sitecore/templates/System/Item Buckets/Field Search Type",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

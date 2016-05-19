@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{25748DB3-7E26-4620-96AF-176697737D9F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:43.2333337Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Custom",
+    "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Custom",
+    "commandType": "Item",
+    "template": "Template Folder",
+    "sourceControlRevisionId": null
+  }
+]

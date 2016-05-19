@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F565AAD1-D33A-416F-847C-16071B7574A1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:43.7907974Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Social/Posting Configuration/Account Posting Configuration/__Standard Values",
+    "commandType": "Item",
+    "template": "Account Posting Configuration",
+    "sourceControlRevisionId": null
+  }
+]

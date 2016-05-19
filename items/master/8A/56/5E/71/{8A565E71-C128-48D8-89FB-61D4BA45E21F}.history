@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8A565E71-C128-48D8-89FB-61D4BA45E21F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:05.6187505Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-event-tradeshow",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-event-tradeshow",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null
+  }
+]

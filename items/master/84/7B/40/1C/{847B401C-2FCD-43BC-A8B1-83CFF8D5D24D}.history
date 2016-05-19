@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{847B401C-2FCD-43BC-A8B1-83CFF8D5D24D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:07.1196999Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Type",
+    "itemPath": "/sitecore/templates/System/Item Buckets/Tag Repository/Repository Details/Type",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

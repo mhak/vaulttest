@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8308C2C7-B57D-4A34-B821-B6D3CF70AAF2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:41.8066839Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Social/Connector/Login with Facebook Button Parameters/__Standard Values",
+    "commandType": "Item",
+    "template": "Login with Facebook Button Parameters",
+    "sourceControlRevisionId": null
+  }
+]

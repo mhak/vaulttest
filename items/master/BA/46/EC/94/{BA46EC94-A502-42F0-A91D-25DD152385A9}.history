@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BA46EC94-A502-42F0-A91D-25DD152385A9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:47.0731215Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Bad Pages Visits",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Bad Pages Visits",
+    "commandType": "Item",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null
+  }
+]

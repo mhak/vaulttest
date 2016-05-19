@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{611BA5DD-8D26-4C9B-A95D-900AC94CB32A}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:21.9335472Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Height",
+    "itemPath": "/sitecore/templates/System/Media/Versioned/Image/Image/Height",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

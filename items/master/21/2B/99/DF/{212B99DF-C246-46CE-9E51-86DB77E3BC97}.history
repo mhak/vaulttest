@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{212B99DF-C246-46CE-9E51-86DB77E3BC97}",
+    "version": 3,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:33.8352280Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Gallery Height",
+    "itemPath": "/sitecore/templates/System/Ribbon/Small Gallery Button/Data/Gallery Height",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

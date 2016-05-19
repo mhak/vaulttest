@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{26E2D07B-E96E-446F-AD5D-ACD03422B42D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:25.5468903Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "{3C70E8B1-D6D2-42CC-8E21-1AE8EC72A0FB}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "All visits By Page Views",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Dimensions/Visits/By Page Views/All visits By Page Views",
+    "commandType": "Item",
+    "template": "Segment",
+    "sourceControlRevisionId": null
+  }
+]

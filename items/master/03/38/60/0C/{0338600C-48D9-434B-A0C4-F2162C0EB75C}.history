@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0338600C-48D9-434B-A0C4-F2162C0EB75C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:48.2551891Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Unit",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Unit",
+    "commandType": "Item",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null
+  }
+]

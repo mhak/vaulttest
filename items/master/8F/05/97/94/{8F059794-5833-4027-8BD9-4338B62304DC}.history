@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8F059794-5833-4027-8BD9-4338B62304DC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:59.3618244Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Version Removed",
+    "itemPath": "/sitecore/system/Settings/Rules/Version Removed",
+    "commandType": "Item",
+    "template": "Rules Context Folder",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AF08C672-D960-4AAD-ACE9-5F6B8BFE1A91}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:33.5607805Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Validation Action",
+    "itemPath": "/sitecore/system/Workflows/Sample Workflow/Awaiting Approval/Approve without Test/Validation Action",
+    "commandType": "Item",
+    "template": "Validation Action",
+    "sourceControlRevisionId": null
+  }
+]

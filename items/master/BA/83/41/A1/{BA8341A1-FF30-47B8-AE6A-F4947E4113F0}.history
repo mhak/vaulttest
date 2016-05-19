@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BA8341A1-FF30-47B8-AE6A-F4947E4113F0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:18.1203291Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Description",
+    "itemPath": "/sitecore/templates/System/Media/Unversioned/File/Information/Description",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

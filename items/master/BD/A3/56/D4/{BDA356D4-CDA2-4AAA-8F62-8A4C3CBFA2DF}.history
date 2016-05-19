@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BDA356D4-CDA2-4AAA-8F62-8A4C3CBFA2DF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:07.0848343Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Form Submitted",
+    "itemPath": "/sitecore/media library/System/Page Event Images/Form Submitted",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B0A7DB4B-67FA-4513-97D7-9726993B4B27}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:46.1214989Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Hidden",
+    "itemPath": "/sitecore/templates/System/Analytics/Campaign/Options/Hidden",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

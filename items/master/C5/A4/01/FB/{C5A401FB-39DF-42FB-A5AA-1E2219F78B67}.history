@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C5A401FB-39DF-42FB-A5AA-1E2219F78B67}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:55.5740395Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Content Testing Prediction Accounts",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Test Value/Data/Content Testing Prediction Accounts",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

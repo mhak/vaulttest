@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9C6106EA-7A5A-48E2-8CAD-F0F693B1E2D4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:46.5429548Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Read Only",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Appearance/Appearance/__Read Only",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

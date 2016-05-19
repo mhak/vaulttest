@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{217B93A9-08BD-4C11-B6C4-C2570CE76D4B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:27.3589939Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Most Visited Entry Path",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Reports/Most Visited Entry Path",
+    "commandType": "Item",
+    "template": "Report",
+    "sourceControlRevisionId": null
+  }
+]

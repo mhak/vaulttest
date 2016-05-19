@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A4F985D9-98B3-4B52-AAAF-4344F6E747C6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:49.3491153Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Workflow",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Workflow/Workflow/__Workflow",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

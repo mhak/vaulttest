@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3A1A3B48-3434-4E5A-8F05-AD6E1687D888}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:30.2340220Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Toolbar",
+    "itemPath": "/sitecore/templates/System/Ribbon/Toolbar",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

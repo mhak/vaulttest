@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6DE6D81B-2D5F-42BD-951A-D037D3DB6F30}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:49.1912427Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Number of Sessions Below Average Value",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Content Testing/Number of Sessions Below Average Value",
+    "commandType": "Item",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null
+  }
+]

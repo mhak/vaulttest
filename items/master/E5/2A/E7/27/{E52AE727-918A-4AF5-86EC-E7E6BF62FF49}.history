@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E52AE727-918A-4AF5-86EC-E7E6BF62FF49}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:14.4222540Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Default",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Preset/Common/Default",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null
+  }
+]

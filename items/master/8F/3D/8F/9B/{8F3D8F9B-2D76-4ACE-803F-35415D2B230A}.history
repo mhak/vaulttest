@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8F3D8F9B-2D76-4ACE-803F-35415D2B230A}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:29.5219813Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Chunk",
+    "itemPath": "/sitecore/templates/System/Ribbon/Chunk",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{440A3125-A076-4359-A4EC-200459CDA166}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:21.6665319Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FrameCount",
+    "itemPath": "/sitecore/templates/System/Media/Versioned/Flash/Flash/FrameCount",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

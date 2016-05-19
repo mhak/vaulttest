@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{98EC37BF-BCA6-40C6-A772-5C52190EF205}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:05.0265802Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Saved Search",
+    "itemPath": "/sitecore/templates/System/Item Buckets/Saved Search",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

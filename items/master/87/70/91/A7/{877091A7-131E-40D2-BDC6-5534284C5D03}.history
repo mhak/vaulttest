@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{877091A7-131E-40D2-BDC6-5534284C5D03}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:33.0443191Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Buckets",
+    "itemPath": "/sitecore/system/Settings/Buckets",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

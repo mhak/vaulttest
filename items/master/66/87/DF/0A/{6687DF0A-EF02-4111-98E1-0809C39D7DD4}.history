@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6687DF0A-EF02-4111-98E1-0809C39D7DD4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:01.6523872Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tidy on drop",
+    "itemPath": "/sitecore/templates/System/Html editor/HTML Tidy/Data/Tidy on drop",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

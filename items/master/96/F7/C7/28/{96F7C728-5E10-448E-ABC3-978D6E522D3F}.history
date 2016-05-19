@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{96F7C728-5E10-448E-ABC3-978D6E522D3F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:51.4938062Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Responsibility",
+    "itemPath": "/sitecore/templates/System/Analytics/Profile Card - Persona/Data/Responsibility",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

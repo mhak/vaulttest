@@ -7,12 +7,13 @@
     "language": "en",
     "timestamp": "04/01/2016 19:21:57",
     "label": "Saved",
-    "sourceControlRevisionId": "55da3e4a18ef59630885baebdd2217d665ec37c7",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "treelistex",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/treelistex",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "55da3e4a18ef59630885baebdd2217d665ec37c7"
   },
   {
     "eventType": "PackageInstall",
@@ -22,12 +23,13 @@
     "language": "en",
     "timestamp": "2016-04-05T02:21:28.6145645Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "1b751c481d8e1c6a1b54f9413109f0091d2e1ee6",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "treelistex",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/treelistex",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "1b751c481d8e1c6a1b54f9413109f0091d2e1ee6"
   },
   {
     "eventType": "PackageInstall",
@@ -37,12 +39,13 @@
     "language": "en",
     "timestamp": "2016-04-05T02:25:45.0141921Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "8ecfb4a89ea479b4914c4101df12b36e4b574a2c",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "treelistex",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/treelistex",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "8ecfb4a89ea479b4914c4101df12b36e4b574a2c"
   },
   {
     "eventType": "PackageInstall",
@@ -52,12 +55,13 @@
     "language": "en",
     "timestamp": "2016-04-05T02:26:47.6318828Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "19c52f53320a17afb0c6656a6da941332cd67355",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "treelistex",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/treelistex",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "19c52f53320a17afb0c6656a6da941332cd67355"
   },
   {
     "eventType": "PackageInstall",
@@ -67,12 +71,13 @@
     "language": "en",
     "timestamp": "2016-04-05T02:28:00.6045508Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "e540965809f61d7ccc06d10ef0b4126bb6a55e16",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "treelistex",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/treelistex",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "e540965809f61d7ccc06d10ef0b4126bb6a55e16"
   },
   {
     "eventType": "PackageInstall",
@@ -82,12 +87,13 @@
     "language": "en",
     "timestamp": "2016-04-05T02:29:29.1912016Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "2411e7f9aba80d1b159d9e69bd6f06fb9dfa91aa",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "treelistex",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/treelistex",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "2411e7f9aba80d1b159d9e69bd6f06fb9dfa91aa"
   },
   {
     "eventType": "PackageInstall",
@@ -97,12 +103,13 @@
     "language": "en",
     "timestamp": "2016-04-05T02:33:20.2643264Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "dfc5ba9d12d9b878329e696e186597e43aa10489",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "treelistex",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/treelistex",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "dfc5ba9d12d9b878329e696e186597e43aa10489"
   },
   {
     "eventType": "PackageInstall",
@@ -112,12 +119,13 @@
     "language": "en",
     "timestamp": "2016-04-05T02:36:17.3119446Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "1c5d5a671998a465d53602a7003cff7d7f67e5d3",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "treelistex",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/treelistex",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "1c5d5a671998a465d53602a7003cff7d7f67e5d3"
   },
   {
     "eventType": "PackageInstall",
@@ -127,12 +135,13 @@
     "language": "en",
     "timestamp": "2016-04-05T02:37:28.8630371Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "dce7d48a2c22d68c54dc3a1598826e5dae2bffda",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "treelistex",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/treelistex",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "dce7d48a2c22d68c54dc3a1598826e5dae2bffda"
   },
   {
     "eventType": "PackageInstall",
@@ -142,12 +151,13 @@
     "language": "en",
     "timestamp": "2016-04-05T02:47:23.1000255Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "f50f490e2edb3dd5683933178d271ea2a56da51a",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "treelistex",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/treelistex",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "f50f490e2edb3dd5683933178d271ea2a56da51a"
   },
   {
     "eventType": "PackageInstall",
@@ -157,12 +167,13 @@
     "language": "en",
     "timestamp": "2016-04-05T02:49:23.2959004Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "dfe31030c1379a8b76f756f22f385f41d492963c",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "treelistex",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/treelistex",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "dfe31030c1379a8b76f756f22f385f41d492963c"
   },
   {
     "eventType": "PackageInstall",
@@ -172,12 +183,13 @@
     "language": "en",
     "timestamp": "2016-04-05T03:59:05.0440827Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "f3703183cbfc2b98f019ce35a691833dbc1ce8f2",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "treelistex",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/treelistex",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "f3703183cbfc2b98f019ce35a691833dbc1ce8f2"
   },
   {
     "eventType": "PackageInstall",
@@ -187,12 +199,13 @@
     "language": "en",
     "timestamp": "2016-04-05T04:00:26.2857294Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "fc7c695c67ac0516ad287cf38069060de8f38e00",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "treelistex",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/treelistex",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "fc7c695c67ac0516ad287cf38069060de8f38e00"
   },
   {
     "eventType": "PackageInstall",
@@ -202,12 +215,13 @@
     "language": "en",
     "timestamp": "2016-04-05T04:04:47.0856463Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "7d1df11c9cc65d4ecc630f6483c84170c5afe9de",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "treelistex",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/treelistex",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "7d1df11c9cc65d4ecc630f6483c84170c5afe9de"
   },
   {
     "eventType": "PackageInstall",
@@ -217,12 +231,13 @@
     "language": "en",
     "timestamp": "2016-04-05T16:23:07.9501214Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "0dcc655254d7cf5605a703efacb868f18fc6d035",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "treelistex",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/treelistex",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "0dcc655254d7cf5605a703efacb868f18fc6d035"
   },
   {
     "eventType": "PackageInstall",
@@ -232,12 +247,13 @@
     "language": "en",
     "timestamp": "2016-04-05T16:27:16.7803525Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "575e4f3e9a514bf0677e2063b700acd5164056c5",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "treelistex",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/treelistex",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "575e4f3e9a514bf0677e2063b700acd5164056c5"
   },
   {
     "eventType": "PackageInstall",
@@ -245,14 +261,15 @@
     "itemId": "{CA7903F6-5FE2-477F-9905-64CF2154AA6E}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-05T16:33:24.012357Z",
+    "timestamp": "2016-04-05T16:33:24.0123570Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "e4162f0ca299919d6e49b8c3aa6581356e16edd8",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "treelistex",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/treelistex",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "e4162f0ca299919d6e49b8c3aa6581356e16edd8"
   },
   {
     "eventType": "PackageInstall",
@@ -260,14 +277,15 @@
     "itemId": "{CA7903F6-5FE2-477F-9905-64CF2154AA6E}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-05T16:40:49.422833Z",
+    "timestamp": "2016-04-05T16:40:49.4228330Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "4876dc4a1b9faddeaa15b0c2707cad7e9075b8dc",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "treelistex",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/treelistex",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "4876dc4a1b9faddeaa15b0c2707cad7e9075b8dc"
   },
   {
     "eventType": "PackageInstall",
@@ -277,12 +295,13 @@
     "language": "en",
     "timestamp": "2016-04-05T16:45:16.3561007Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "02edbec7793622e493cb54c210c3888dc138c47a",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "treelistex",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/treelistex",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "02edbec7793622e493cb54c210c3888dc138c47a"
   },
   {
     "eventType": "PackageInstall",
@@ -292,12 +311,13 @@
     "language": "en",
     "timestamp": "2016-04-05T17:23:19.5116898Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "0e7337a782f104274b89b02304e0a7e9b5ce499a",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "treelistex",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/treelistex",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "0e7337a782f104274b89b02304e0a7e9b5ce499a"
   },
   {
     "eventType": "PackageInstall",
@@ -307,12 +327,13 @@
     "language": "en",
     "timestamp": "2016-04-05T17:25:28.2910555Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "2909530aa6b9f5f5920fcf118aecc4d7733c027e",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "treelistex",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/treelistex",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "2909530aa6b9f5f5920fcf118aecc4d7733c027e"
   },
   {
     "eventType": "PackageInstall",
@@ -322,12 +343,13 @@
     "language": "en",
     "timestamp": "2016-04-05T17:46:56.1637176Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "3b0fd290f3a3fb7aecc81fc05257d084ad8dff9d",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "treelistex",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/treelistex",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "3b0fd290f3a3fb7aecc81fc05257d084ad8dff9d"
   },
   {
     "eventType": "PackageInstall",
@@ -337,12 +359,13 @@
     "language": "en",
     "timestamp": "2016-04-05T17:48:22.8936783Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "5c35d6c27a2fd74cc9a02ecd76284da3bfd35c5b",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "treelistex",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/treelistex",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "5c35d6c27a2fd74cc9a02ecd76284da3bfd35c5b"
   },
   {
     "eventType": "PackageInstall",
@@ -352,12 +375,13 @@
     "language": "en",
     "timestamp": "2016-04-05T18:01:38.8902045Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "5ee556b7b2120b0b228d9292ded87d3d2113d79d",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "treelistex",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/treelistex",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "5ee556b7b2120b0b228d9292ded87d3d2113d79d"
   },
   {
     "eventType": "PackageInstall",
@@ -367,12 +391,13 @@
     "language": "en",
     "timestamp": "2016-04-05T18:03:10.8134622Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "adc741d53d9e397dbbecfeeedc01bef3dbfa16b9",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "treelistex",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/treelistex",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "adc741d53d9e397dbbecfeeedc01bef3dbfa16b9"
   },
   {
     "eventType": "PackageInstall",
@@ -382,11 +407,28 @@
     "language": "en",
     "timestamp": "2016-04-06T00:09:02.7597388Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": null,
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "treelistex",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/treelistex",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "be3df300bc7a57dfb0f925e18ec40c112552d1e9"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CA7903F6-5FE2-477F-9905-64CF2154AA6E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:55.8324861Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "treelistex",
+    "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/treelistex",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
   }
 ]

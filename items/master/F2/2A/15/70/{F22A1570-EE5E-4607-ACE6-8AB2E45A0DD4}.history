@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F22A1570-EE5E-4607-ACE6-8AB2E45A0DD4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:55.9880632Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Test Candidate Check Action",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Workflow/Test Candidate Check Action",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

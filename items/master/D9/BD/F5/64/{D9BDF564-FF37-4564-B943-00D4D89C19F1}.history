@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D9BDF564-FF37-4564-B943-00D4D89C19F1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:05.6356150Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "List Name",
+    "itemPath": "/sitecore/templates/System/Item Buckets/Dropdown List/Dropdown List/List Name",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

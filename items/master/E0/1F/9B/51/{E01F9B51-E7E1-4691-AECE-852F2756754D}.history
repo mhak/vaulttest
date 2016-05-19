@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E01F9B51-E7E1-4691-AECE-852F2756754D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:24.2526799Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Onsite Behaviour",
+    "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Preset/Onsite Behaviour",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null
+  }
+]

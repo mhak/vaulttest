@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0C15ADB1-31BF-4C92-9444-F6732E141EF8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:14.5106909Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ValidatorResult",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/ValidatorResult",
+    "commandType": "Item",
+    "template": "Macro",
+    "sourceControlRevisionId": null
+  }
+]

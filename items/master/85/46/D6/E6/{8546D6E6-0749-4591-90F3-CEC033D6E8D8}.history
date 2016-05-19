@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8546D6E6-0749-4591-90F3-CEC033D6E8D8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:47.9630360Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Page Level Test Set Definition",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Layout/Layout/__Page Level Test Set Definition",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8E191C24-3A24-4F67-84CE-AFD3E6F3CE7D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:48.0541776Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Top External Keywords",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Top External Keywords",
+    "commandType": "Item",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null
+  }
+]

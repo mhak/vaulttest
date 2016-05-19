@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7BB0411F-50CD-4C21-AD8F-1FCDE7C3AFFE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:17.1442733Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Docx",
+    "itemPath": "/sitecore/templates/System/Media/Unversioned/Docx",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

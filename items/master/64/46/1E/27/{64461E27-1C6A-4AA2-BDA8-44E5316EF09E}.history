@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{64461E27-1C6A-4AA2-BDA8-44E5316EF09E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:23.8846588Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Method",
+    "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Control/Control/Method",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

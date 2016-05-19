@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E441ABE7-2CA3-4640-AE26-3789967925D7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:16.6692461Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Compatible Renderings",
+    "itemPath": "/sitecore/templates/System/Layout/Sections/Rendering Options/Editor Options/Compatible Renderings",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

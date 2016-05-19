@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A0CB3965-8884-4C7A-8815-B6B2E5CED162}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:46.4299483Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Editors",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Appearance/Appearance/__Editors",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

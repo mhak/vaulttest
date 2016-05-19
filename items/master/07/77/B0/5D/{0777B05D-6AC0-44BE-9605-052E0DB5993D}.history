@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0777B05D-6AC0-44BE-9605-052E0DB5993D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:02.3965662Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Hidden Rendering",
+    "itemPath": "/sitecore/layout/Renderings/System/WebEdit/Hidden Rendering",
+    "commandType": "Item",
+    "template": "Xsl Rendering",
+    "sourceControlRevisionId": null
+  }
+]

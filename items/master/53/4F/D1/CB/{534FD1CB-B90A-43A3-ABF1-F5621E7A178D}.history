@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{534FD1CB-B90A-43A3-ABF1-F5621E7A178D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:10.7504758Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Condition in Rule is True",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/System/Condition in Rule is True",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null
+  }
+]

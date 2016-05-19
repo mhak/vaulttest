@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CD72E892-D8BB-487C-9EB1-6A57C48C72CC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:59.1242426Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Fallback Domain",
+    "itemPath": "/sitecore/templates/System/Dictionary/Dictionary Domain/Data/Fallback Domain",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

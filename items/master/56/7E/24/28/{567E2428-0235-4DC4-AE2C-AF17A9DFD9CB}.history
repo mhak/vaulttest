@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{567E2428-0235-4DC4-AE2C-AF17A9DFD9CB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:25.7769034Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "{3C70E8B1-D6D2-42CC-8E21-1AE8EC72A0FB}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Visits by Paid Search",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Dimensions/Visits/By Search Keyword/Visits by Paid Search",
+    "commandType": "Item",
+    "template": "Segment",
+    "sourceControlRevisionId": null
+  }
+]

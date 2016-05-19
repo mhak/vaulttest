@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DD4AB7E2-A6BB-4ABB-B03D-92AACCF526FE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:14.9527161Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Item Deleted",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Item Deleted",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

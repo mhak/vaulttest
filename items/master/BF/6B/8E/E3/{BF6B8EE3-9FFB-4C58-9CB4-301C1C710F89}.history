@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BF6B8EE3-9FFB-4C58-9CB4-301C1C710F89}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:26.6909557Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Opportunity",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Outcomes/Lead Management Funnel/Opportunity",
+    "commandType": "Item",
+    "template": "Outcome Definition",
+    "sourceControlRevisionId": null
+  }
+]

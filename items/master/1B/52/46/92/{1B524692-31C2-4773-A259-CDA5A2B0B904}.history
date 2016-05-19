@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1B524692-31C2-4773-A259-CDA5A2B0B904}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:48.0191756Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Slow Pages Visits",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Slow Pages Visits",
+    "commandType": "Item",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null
+  }
+]

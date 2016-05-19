@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0721E999-D527-4251-B1D4-C743C1522C2E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:11.4820858Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "PageConfiguration",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/General/Common/PageConfiguration",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null
+  }
+]

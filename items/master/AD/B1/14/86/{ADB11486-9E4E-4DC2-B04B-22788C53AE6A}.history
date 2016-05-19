@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{ADB11486-9E4E-4DC2-B04B-22788C53AE6A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:58.5417775Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Root item only",
+    "itemPath": "/sitecore/system/Settings/Proxies/Proxy type/Root item only",
+    "commandType": "Item",
+    "template": "Item",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C50B1F5B-26DA-476A-AAC6-9B734975971C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:14.8811438Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Assembly",
+    "itemPath": "/sitecore/templates/System/Layout/Renderings/Webcontrol/Data/Assembly",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

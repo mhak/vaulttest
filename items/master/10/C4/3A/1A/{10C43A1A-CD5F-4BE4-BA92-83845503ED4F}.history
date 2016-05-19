@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{10C43A1A-CD5F-4BE4-BA92-83845503ED4F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:09.7249853Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "PageEvents",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/PageEvents",
+    "commandType": "Item",
+    "template": "Dictionary folder",
+    "sourceControlRevisionId": null
+  }
+]

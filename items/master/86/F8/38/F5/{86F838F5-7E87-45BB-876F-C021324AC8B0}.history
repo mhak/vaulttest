@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{86F838F5-7E87-45BB-876F-C021324AC8B0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:02.4325682Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FeedRenderer",
+    "itemPath": "/sitecore/layout/Renderings/System/Feeds/FeedRenderer",
+    "commandType": "Item",
+    "template": "Webcontrol",
+    "sourceControlRevisionId": null
+  }
+]

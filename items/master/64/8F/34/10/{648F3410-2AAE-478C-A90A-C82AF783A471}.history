@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{648F3410-2AAE-478C-A90A-C82AF783A471}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:37.1775555Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Bhutan",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Bhutan",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1875D4AC-A81F-4558-B26A-D61D96F80C9C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:03.8636501Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Large Android Phone Landscape",
+    "itemPath": "/sitecore/layout/Simulators/Large Android Phone/Large Android Phone Landscape",
+    "commandType": "Item",
+    "template": "Simulator Rotated State",
+    "sourceControlRevisionId": null
+  }
+]

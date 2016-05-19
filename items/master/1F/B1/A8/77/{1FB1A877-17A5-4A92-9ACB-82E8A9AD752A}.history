@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1FB1A877-17A5-4A92-9ACB-82E8A9AD752A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:33.3057659Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Auto Submit Action",
+    "itemPath": "/sitecore/system/Workflows/Sample Workflow/Draft/__OnSave/Auto Submit Action",
+    "commandType": "Item",
+    "template": "Auto Submit Action",
+    "sourceControlRevisionId": null
+  }
+]

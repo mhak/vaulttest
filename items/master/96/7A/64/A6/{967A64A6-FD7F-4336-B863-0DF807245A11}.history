@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{967A64A6-FD7F-4336-B863-0DF807245A11}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:04.3186761Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Windows Phone Landscape",
+    "itemPath": "/sitecore/layout/Simulators/Windows Phone/Windows Phone Landscape",
+    "commandType": "Item",
+    "template": "Simulator Rotated State",
+    "sourceControlRevisionId": null
+  }
+]

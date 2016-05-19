@@ -7,12 +7,13 @@
     "language": "en",
     "timestamp": "04/01/2016 19:21:59",
     "label": "Saved",
-    "sourceControlRevisionId": "f44f24d9457252952c69a321a6d52d18e3b151db",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "droplist",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/droplist",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "f44f24d9457252952c69a321a6d52d18e3b151db"
   },
   {
     "eventType": "PackageInstall",
@@ -20,14 +21,15 @@
     "itemId": "{86F6640B-1AF8-4964-82E8-6ACF2E7F46EA}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-05T02:21:45.022503Z",
+    "timestamp": "2016-04-05T02:21:45.0225030Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "0bfdf35c4efeeb844c82f983b40b987153868f99",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "droplist",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/droplist",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "0bfdf35c4efeeb844c82f983b40b987153868f99"
   },
   {
     "eventType": "PackageInstall",
@@ -37,12 +39,13 @@
     "language": "en",
     "timestamp": "2016-04-05T02:26:03.2692414Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "939d01af7ec588ddd9b8600a660abcfe639af83d",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "droplist",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/droplist",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "939d01af7ec588ddd9b8600a660abcfe639af83d"
   },
   {
     "eventType": "PackageInstall",
@@ -52,12 +55,13 @@
     "language": "en",
     "timestamp": "2016-04-05T02:27:06.2371251Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "d3270427356f7bb208214257fe24e471785a9e65",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "droplist",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/droplist",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "d3270427356f7bb208214257fe24e471785a9e65"
   },
   {
     "eventType": "PackageInstall",
@@ -67,12 +71,13 @@
     "language": "en",
     "timestamp": "2016-04-05T02:28:18.4565718Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "da7625a55f179ccc6d95dc1347de284e12094f37",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "droplist",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/droplist",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "da7625a55f179ccc6d95dc1347de284e12094f37"
   },
   {
     "eventType": "PackageInstall",
@@ -82,12 +87,13 @@
     "language": "en",
     "timestamp": "2016-04-05T02:29:45.7354608Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "e95364f4ed5e3c898ce4fc00cb0bab51ee55287c",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "droplist",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/droplist",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "e95364f4ed5e3c898ce4fc00cb0bab51ee55287c"
   },
   {
     "eventType": "PackageInstall",
@@ -95,14 +101,15 @@
     "itemId": "{86F6640B-1AF8-4964-82E8-6ACF2E7F46EA}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-05T02:33:35.619587Z",
+    "timestamp": "2016-04-05T02:33:35.6195870Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "22554efd26dfe05f8da951134b365c34cd7cd6f5",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "droplist",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/droplist",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "22554efd26dfe05f8da951134b365c34cd7cd6f5"
   },
   {
     "eventType": "PackageInstall",
@@ -112,12 +119,13 @@
     "language": "en",
     "timestamp": "2016-04-05T02:36:34.3199174Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "c5b0bb941c7945a334f26ac128312e9c0b0e2dce",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "droplist",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/droplist",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "c5b0bb941c7945a334f26ac128312e9c0b0e2dce"
   },
   {
     "eventType": "PackageInstall",
@@ -127,12 +135,13 @@
     "language": "en",
     "timestamp": "2016-04-05T02:37:47.2230873Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "1f498d85fa75ca1c77dae9108ce54ec64900aeb0",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "droplist",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/droplist",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "1f498d85fa75ca1c77dae9108ce54ec64900aeb0"
   },
   {
     "eventType": "PackageInstall",
@@ -142,12 +151,13 @@
     "language": "en",
     "timestamp": "2016-04-05T02:47:40.4840199Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "6bfeff2087b2868b565f909c87a1ff3da11314b2",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "droplist",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/droplist",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "6bfeff2087b2868b565f909c87a1ff3da11314b2"
   },
   {
     "eventType": "PackageInstall",
@@ -157,12 +167,13 @@
     "language": "en",
     "timestamp": "2016-04-05T02:49:40.5918896Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "34a2fc6d34dbe1c585edcf24abe5da37c27c5777",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "droplist",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/droplist",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "34a2fc6d34dbe1c585edcf24abe5da37c27c5777"
   },
   {
     "eventType": "PackageInstall",
@@ -172,12 +183,13 @@
     "language": "en",
     "timestamp": "2016-04-05T03:59:22.3710737Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "579e7a93a27c147f31e7db2089b04db5a8edfd89",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "droplist",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/droplist",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "579e7a93a27c147f31e7db2089b04db5a8edfd89"
   },
   {
     "eventType": "PackageInstall",
@@ -187,12 +199,13 @@
     "language": "en",
     "timestamp": "2016-04-05T04:00:43.4067087Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "981208fc9146cbd6508c44fca6ce9fff018015c1",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "droplist",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/droplist",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "981208fc9146cbd6508c44fca6ce9fff018015c1"
   },
   {
     "eventType": "PackageInstall",
@@ -202,12 +215,13 @@
     "language": "en",
     "timestamp": "2016-04-05T04:06:14.0696215Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "833aaf914eef8a739c5d8fc1b6e153771d529145",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "droplist",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/droplist",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "833aaf914eef8a739c5d8fc1b6e153771d529145"
   },
   {
     "eventType": "PackageInstall",
@@ -217,12 +231,13 @@
     "language": "en",
     "timestamp": "2016-04-05T16:23:24.6780782Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "5998fd7e1a363de017122531abb00a924623ec2e",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "droplist",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/droplist",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "5998fd7e1a363de017122531abb00a924623ec2e"
   },
   {
     "eventType": "PackageInstall",
@@ -232,12 +247,13 @@
     "language": "en",
     "timestamp": "2016-04-05T16:27:32.0032232Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "b0a83f7b63e85855c5531b50868806b6430d1e64",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "droplist",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/droplist",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "b0a83f7b63e85855c5531b50868806b6430d1e64"
   },
   {
     "eventType": "PackageInstall",
@@ -247,12 +263,13 @@
     "language": "en",
     "timestamp": "2016-04-05T16:33:41.1253358Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "940c9803e195950343916377167bed2730bf0bd1",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "droplist",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/droplist",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "940c9803e195950343916377167bed2730bf0bd1"
   },
   {
     "eventType": "PackageInstall",
@@ -262,12 +279,13 @@
     "language": "en",
     "timestamp": "2016-04-05T16:41:06.2807973Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "ff7c822269587071220ae592bc7e8ffef425501d",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "droplist",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/droplist",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "ff7c822269587071220ae592bc7e8ffef425501d"
   },
   {
     "eventType": "PackageInstall",
@@ -277,12 +295,13 @@
     "language": "en",
     "timestamp": "2016-04-05T16:45:32.2450095Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "a7c64292c9846a7fb8ce4bd544ee89305303d2b6",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "droplist",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/droplist",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "a7c64292c9846a7fb8ce4bd544ee89305303d2b6"
   },
   {
     "eventType": "PackageInstall",
@@ -292,12 +311,13 @@
     "language": "en",
     "timestamp": "2016-04-05T17:23:35.6546131Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "6c4f73a66063cc64afd667bdee71105e6d4858c0",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "droplist",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/droplist",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "6c4f73a66063cc64afd667bdee71105e6d4858c0"
   },
   {
     "eventType": "PackageInstall",
@@ -307,12 +327,13 @@
     "language": "en",
     "timestamp": "2016-04-05T17:25:44.7739983Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "112d27ed19d81942c035fac2cd5d651df9bb36ff",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "droplist",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/droplist",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "112d27ed19d81942c035fac2cd5d651df9bb36ff"
   },
   {
     "eventType": "PackageInstall",
@@ -322,12 +343,13 @@
     "language": "en",
     "timestamp": "2016-04-05T17:47:13.6417173Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "590125e675c8b3ad33eda153f38b8e23baae9875",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "droplist",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/droplist",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "590125e675c8b3ad33eda153f38b8e23baae9875"
   },
   {
     "eventType": "PackageInstall",
@@ -337,12 +359,13 @@
     "language": "en",
     "timestamp": "2016-04-05T17:48:39.5866331Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "cb9a2b98eec622314a6ecabe5bf421271f83007f",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "droplist",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/droplist",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "cb9a2b98eec622314a6ecabe5bf421271f83007f"
   },
   {
     "eventType": "PackageInstall",
@@ -352,12 +375,13 @@
     "language": "en",
     "timestamp": "2016-04-05T18:01:55.5761589Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "f5c40c31f7c03927873f64f182af1ed1db04aea7",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "droplist",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/droplist",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "f5c40c31f7c03927873f64f182af1ed1db04aea7"
   },
   {
     "eventType": "PackageInstall",
@@ -367,12 +391,13 @@
     "language": "en",
     "timestamp": "2016-04-05T18:03:26.8843814Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": "64517c3ff33d86bc5657736996e0fd65bade2285",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "droplist",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/droplist",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "64517c3ff33d86bc5657736996e0fd65bade2285"
   },
   {
     "eventType": "PackageInstall",
@@ -382,11 +407,28 @@
     "language": "en",
     "timestamp": "2016-04-06T00:09:21.3087997Z",
     "label": "Installed from package - test",
-    "sourceControlRevisionId": null,
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "droplist",
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/droplist",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "be3df300bc7a57dfb0f925e18ec40c112552d1e9"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{86F6640B-1AF8-4964-82E8-6ACF2E7F46EA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:55.2984556Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "droplist",
+    "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/droplist",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
   }
 ]

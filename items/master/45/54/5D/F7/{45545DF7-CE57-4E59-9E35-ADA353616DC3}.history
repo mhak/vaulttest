@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{45545DF7-CE57-4E59-9E35-ADA353616DC3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:52.3904256Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Local Searches Leading to this Page",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Item Reports/Local Searches Leading to this Page",
+    "commandType": "Item",
+    "template": "Report",
+    "sourceControlRevisionId": null
+  }
+]

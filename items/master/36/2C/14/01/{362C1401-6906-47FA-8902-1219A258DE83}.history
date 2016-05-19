@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{362C1401-6906-47FA-8902-1219A258DE83}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:13.1900471Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rendering",
+    "itemPath": "/sitecore/templates/System/Layout/Renderings/Rendering/Data/Rendering",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

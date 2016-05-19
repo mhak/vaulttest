@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F8EA6802-85A0-4FCD-B90A-FC06F1672E9D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:38.6825052Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Email",
+    "itemPath": "/sitecore/templates/System/Security/User/Data/Email",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C7D9767F-A281-49D9-BF79-5CFAA90A52F0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:14.1072360Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "PageEventEditorQuestionMark",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/PageEvents/Editor/PageEventEditorQuestionMark",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null
+  }
+]

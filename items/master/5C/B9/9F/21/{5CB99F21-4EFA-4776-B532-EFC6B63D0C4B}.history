@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5CB99F21-4EFA-4776-B532-EFC6B63D0C4B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:23.6912159Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Item Rules",
+    "itemPath": "/sitecore/system/Settings/Rules/Indexing and Search/Item Rules",
+    "commandType": "Item",
+    "template": "Rules Folder",
+    "sourceControlRevisionId": null
+  }
+]

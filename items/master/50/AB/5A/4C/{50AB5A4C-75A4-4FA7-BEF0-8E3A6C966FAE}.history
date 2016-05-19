@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{50AB5A4C-75A4-4FA7-BEF0-8E3A6C966FAE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:15.1377267Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Session End",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Session End",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{91A8DBFE-54CF-40EF-A18F-401947B48237}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:36.9979771Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Renderings",
+    "itemPath": "/sitecore/templates/Branches/System/Layouts/Renderings",
+    "commandType": "Item",
+    "template": "Branch Folder",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{34C6F03E-505E-4EF6-BAEC-016EB5D946CC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:51.3393655Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Business Classification",
+    "itemPath": "/sitecore/system/Settings/Analytics/Vendor Specific Filters/MSSQL/Business Classification",
+    "commandType": "Item",
+    "template": "Vendor Specific Filter",
+    "sourceControlRevisionId": null
+  }
+]

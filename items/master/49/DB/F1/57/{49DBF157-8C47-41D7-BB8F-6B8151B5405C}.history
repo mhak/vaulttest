@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{49DBF157-8C47-41D7-BB8F-6B8151B5405C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:39.5821249Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Owner",
+    "itemPath": "/sitecore/templates/List Manager/Contact List/Data/Owner",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

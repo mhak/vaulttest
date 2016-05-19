@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E1DC505A-F86F-4C05-B409-AE2246AD3441}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:03.5076297Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Blackberry",
+    "itemPath": "/sitecore/layout/Simulators/Blackberry",
+    "commandType": "Item",
+    "template": "Simulator",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{32886F6F-7EEE-4269-90B9-0D9D39A74739}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:42.0348333Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Nigeria",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Nigeria",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

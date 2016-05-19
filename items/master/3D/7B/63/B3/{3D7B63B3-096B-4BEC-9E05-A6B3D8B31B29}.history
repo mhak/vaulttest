@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3D7B63B3-096B-4BEC-9E05-A6B3D8B31B29}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:31.5676665Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Content Testing",
+    "itemPath": "/sitecore/system/Tasks/Commands/Content Testing",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4B5E4A4F-E45C-442F-AC3D-1A95193DCECD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:43.3893426Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Campaign Group/Campaign Group Taxonomy/__Standard Values",
+    "commandType": "Item",
+    "template": "Campaign Group Taxonomy",
+    "sourceControlRevisionId": null
+  }
+]

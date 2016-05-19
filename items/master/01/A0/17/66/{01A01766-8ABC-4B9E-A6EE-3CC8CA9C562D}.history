@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{01A01766-8ABC-4B9E-A6EE-3CC8CA9C562D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:33.4807759Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Launch Create Test Dialog",
+    "itemPath": "/sitecore/system/Workflows/Sample Workflow/Awaiting Approval/Approve with Test/Launch Create Test Dialog",
+    "commandType": "Item",
+    "template": "Launch Create Test Dialog Action",
+    "sourceControlRevisionId": null
+  }
+]

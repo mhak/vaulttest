@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FC15F83F-F3D6-4A33-8FD1-A99B19ED081B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:02.4685703Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Connector",
+    "itemPath": "/sitecore/layout/Renderings/Social MVC/Connector",
+    "commandType": "Item",
+    "template": "Rendering Folder",
+    "sourceControlRevisionId": null
+  }
+]

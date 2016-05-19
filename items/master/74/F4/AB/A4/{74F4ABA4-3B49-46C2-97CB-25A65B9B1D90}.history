@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{74F4ABA4-3B49-46C2-97CB-25A65B9B1D90}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:13.8652221Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ModeViewerDescription",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Mode/Viewer/ModeViewerDescription",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null
+  }
+]

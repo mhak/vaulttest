@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7833428C-0E27-4720-90CC-178FFCEB07C1}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:19.9634345Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Album",
+    "itemPath": "/sitecore/templates/System/Media/Unversioned/Mp3/Properties/Album",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

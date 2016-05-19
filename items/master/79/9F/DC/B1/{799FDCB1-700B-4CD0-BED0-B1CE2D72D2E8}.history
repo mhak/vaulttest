@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{799FDCB1-700B-4CD0-BED0-B1CE2D72D2E8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:45.6954745Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Analytics/Campaign/__Standard Values",
+    "commandType": "Item",
+    "template": "Campaign",
+    "sourceControlRevisionId": null
+  }
+]

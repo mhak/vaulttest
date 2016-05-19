@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0EC72EEF-4363-4D73-9B88-01ADDBC932B4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:01.9625413Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Social MVC",
+    "itemPath": "/sitecore/layout/Renderings/Social MVC",
+    "commandType": "Item",
+    "template": "Rendering Folder",
+    "sourceControlRevisionId": null
+  }
+]

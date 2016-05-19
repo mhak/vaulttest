@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{45D6F0B3-4CF1-48F8-9701-A164CA07AF48}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:51.5113754Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "IP",
+    "itemPath": "/sitecore/system/Settings/Analytics/Visitor Identification Types/IP",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

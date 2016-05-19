@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{43EC421F-55E4-4838-AC06-568145BF215B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:44.5118386Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Social/Sharing/Facebook Share Button Parameters/__Standard Values",
+    "commandType": "Item",
+    "template": "Facebook Share Button Parameters",
+    "sourceControlRevisionId": null
+  }
+]

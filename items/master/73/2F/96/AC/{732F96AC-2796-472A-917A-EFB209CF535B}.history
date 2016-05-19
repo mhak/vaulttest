@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{732F96AC-2796-472A-917A-EFB209CF535B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:28.9109463Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Order",
+    "itemPath": "/sitecore/templates/System/Portal/Portlet/Data/Order",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

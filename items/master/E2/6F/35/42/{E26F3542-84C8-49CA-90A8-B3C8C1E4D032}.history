@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E26F3542-84C8-49CA-90A8-B3C8C1E4D032}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:05.0267166Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Template Thumbnails",
+    "itemPath": "/sitecore/media library/System/Template Thumbnails",
+    "commandType": "Item",
+    "template": "Media folder",
+    "sourceControlRevisionId": null
+  }
+]

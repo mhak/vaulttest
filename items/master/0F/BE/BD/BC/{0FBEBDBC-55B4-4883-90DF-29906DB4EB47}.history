@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0FBEBDBC-55B4-4883-90DF-29906DB4EB47}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:37.9050289Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Upload File",
+    "itemPath": "/sitecore/templates/Branches/System/Media/Upload File",
+    "commandType": "Item",
+    "template": "Command Template",
+    "sourceControlRevisionId": null
+  }
+]

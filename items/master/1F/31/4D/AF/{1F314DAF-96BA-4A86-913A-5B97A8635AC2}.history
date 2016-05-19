@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1F314DAF-96BA-4A86-913A-5B97A8635AC2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:12.2591303Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "City",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Geo/Common/City",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null
+  }
+]

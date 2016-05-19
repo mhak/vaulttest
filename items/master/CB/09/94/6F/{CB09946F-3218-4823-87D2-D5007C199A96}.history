@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CB09946F-3218-4823-87D2-D5007C199A96}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:19.2593943Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Dimensions",
+    "itemPath": "/sitecore/templates/System/Media/Unversioned/Image/Properties/Dimensions",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{07674D37-902B-4FE5-90AB-A586075A0FAD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:14.7507046Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Common",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Common",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

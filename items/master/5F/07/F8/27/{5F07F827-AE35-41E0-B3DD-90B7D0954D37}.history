@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5F07F827-AE35-41E0-B3DD-90B7D0954D37}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:53.4774878Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Units Business Visits",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Subreports/Units Business Visits",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

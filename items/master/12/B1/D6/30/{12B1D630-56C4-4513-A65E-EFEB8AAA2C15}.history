@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{12B1D630-56C4-4513-A65E-EFEB8AAA2C15}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:34.2298187Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Post Removed",
+    "itemPath": "/sitecore/system/Workflows/Social Marketer Message Workflow/Post Removed",
+    "commandType": "Item",
+    "template": "State",
+    "sourceControlRevisionId": null
+  }
+]

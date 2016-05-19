@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{08477468-D438-43D4-9D6A-6D84A611971C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:08.9799427Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Modules",
+    "itemPath": "/sitecore/system/Modules",
+    "commandType": "Item",
+    "template": "Node",
+    "sourceControlRevisionId": null
+  }
+]

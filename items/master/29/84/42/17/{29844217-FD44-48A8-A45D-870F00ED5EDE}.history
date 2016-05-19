@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{29844217-FD44-48A8-A45D-870F00ED5EDE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:35.6799017Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "AppParameters",
+    "itemPath": "/sitecore/templates/App Center Sync/Markup Rendering/Markup Rendering/App/AppParameters",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

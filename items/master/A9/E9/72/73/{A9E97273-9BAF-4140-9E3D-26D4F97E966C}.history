@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A9E97273-9BAF-4140-9E3D-26D4F97E966C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:33.2173290Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Simulators",
+    "itemPath": "/sitecore/system/Settings/Simulators",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

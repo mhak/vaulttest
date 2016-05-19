@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8AB38406-B79E-491C-84E0-9919C37168FB}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:22.1405591Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "DateTime",
+    "itemPath": "/sitecore/templates/System/Media/Versioned/Jpeg/Exif/DateTime",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DE1C3E2E-F0A0-4C60-A877-E9D4D21382FB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:06.4607986Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-telemarketing",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-telemarketing",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null
+  }
+]

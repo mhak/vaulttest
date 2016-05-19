@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0A6277FF-B5BA-490B-8441-986B4F519FBF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:27.4928652Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rule",
+    "itemPath": "/sitecore/templates/System/Path Analyzer/BaseMap/Scope/Rule",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

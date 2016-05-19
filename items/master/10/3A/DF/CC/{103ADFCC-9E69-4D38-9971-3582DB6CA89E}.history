@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{103ADFCC-9E69-4D38-9971-3582DB6CA89E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:40.8946317Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Social/Account/Network Account/__Standard Values",
+    "commandType": "Item",
+    "template": "Network Account",
+    "sourceControlRevisionId": null
+  }
+]

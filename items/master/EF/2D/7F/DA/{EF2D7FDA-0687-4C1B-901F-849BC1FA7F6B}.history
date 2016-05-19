@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EF2D7FDA-0687-4C1B-901F-849BC1FA7F6B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:52.5894370Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Site Health",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Reports/Site Health",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

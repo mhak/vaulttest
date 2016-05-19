@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C792EC69-ADE9-479C-8FA6-1425E604A9DA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:23.5787777Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Twitter Content Messages",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Campaigns/Social/Twitter/Twitter Content Messages",
+    "commandType": "Item",
+    "template": "Campaign",
+    "sourceControlRevisionId": null
+  }
+]

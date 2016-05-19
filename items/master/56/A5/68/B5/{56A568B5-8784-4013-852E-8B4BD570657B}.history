@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{56A568B5-8784-4013-852E-8B4BD570657B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:09.6874150Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "City",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Segment Builder/City",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null
+  }
+]

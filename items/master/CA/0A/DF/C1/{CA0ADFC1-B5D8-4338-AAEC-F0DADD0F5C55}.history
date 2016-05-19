@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CA0ADFC1-B5D8-4338-AAEC-F0DADD0F5C55}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:04.2195340Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Value",
+    "itemPath": "/sitecore/templates/System/Html Editor Profiles/Html Editor Html Item/Data/Value",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

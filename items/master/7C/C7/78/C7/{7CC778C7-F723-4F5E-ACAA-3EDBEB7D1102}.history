@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7CC778C7-F723-4F5E-ACAA-3EDBEB7D1102}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:56.1770740Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Page Level Test Workflow Command",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Workflow/Deploy Associated Tests Action/Associated Tests/Page Level Test Workflow Command",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

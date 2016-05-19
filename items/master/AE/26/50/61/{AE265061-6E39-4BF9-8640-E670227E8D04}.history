@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AE265061-6E39-4BF9-8640-E670227E8D04}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:23.5467759Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Twitter Message Campaigns",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Campaigns/Social/Twitter/Twitter Message Campaigns",
+    "commandType": "Item",
+    "template": "Campaign Category",
+    "sourceControlRevisionId": null
+  }
+]

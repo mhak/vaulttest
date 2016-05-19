@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{55B73DC1-10BD-41C2-9D2A-329170C8D633}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:44.5899795Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "United Arab Emirates",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/United Arab Emirates",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{08E9CECD-30D7-4237-A48E-305ECFC166FB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:36.4025112Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Andorra",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Andorra",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

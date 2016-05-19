@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F73D7D39-84C6-4BAC-8928-347AB8E4D91C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:36.9505425Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Bangladesh",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Bangladesh",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9D3D61EF-6F65-4F71-ABD4-9172549B15C2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:52.8333146Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Comment Dialog Height",
+    "itemPath": "/sitecore/templates/System/Workflow/Command/Data/Comment Dialog Height",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4F62F66F-250C-4E54-913E-D59F5A8927F8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:20.8164833Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Location",
+    "itemPath": "/sitecore/templates/System/Media/Versioned/File/Location",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null
+  }
+]

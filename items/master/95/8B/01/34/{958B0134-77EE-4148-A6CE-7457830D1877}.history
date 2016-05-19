@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{958B0134-77EE-4148-A6CE-7457830D1877}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:58.7382205Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Defer",
+    "itemPath": "/sitecore/templates/System/Browsers/Script/Data/Defer",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

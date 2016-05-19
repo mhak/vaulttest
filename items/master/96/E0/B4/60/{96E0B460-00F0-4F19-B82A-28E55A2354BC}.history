@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{96E0B460-00F0-4F19-B82A-28E55A2354BC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:50.6413256Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Duration Reached",
+    "itemPath": "/sitecore/system/Settings/Analytics/Testing/End Test Behavior/Is Mv Test/Duration Reached",
+    "commandType": "Item",
+    "template": "Rule Container",
+    "sourceControlRevisionId": null
+  }
+]

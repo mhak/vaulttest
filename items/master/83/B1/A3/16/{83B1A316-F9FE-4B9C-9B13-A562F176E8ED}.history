@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{83B1A316-F9FE-4B9C-9B13-A562F176E8ED}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:24.0466681Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Scripts",
+    "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Map Provider/Data/Scripts",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

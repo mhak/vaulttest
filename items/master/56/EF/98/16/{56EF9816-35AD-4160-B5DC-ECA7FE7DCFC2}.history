@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{56EF9816-35AD-4160-B5DC-ECA7FE7DCFC2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:54.6855569Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tags",
+    "itemPath": "/sitecore/system/Settings/Buckets/Facets/Tags",
+    "commandType": "Item",
+    "template": "Facet",
+    "sourceControlRevisionId": null
+  }
+]

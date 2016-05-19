@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E3A55899-60F8-44F7-97F6-AA849E28F8FD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:17.7583084Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Media/Unversioned/File/__Standard Values",
+    "commandType": "Item",
+    "template": "File",
+    "sourceControlRevisionId": null
+  }
+]

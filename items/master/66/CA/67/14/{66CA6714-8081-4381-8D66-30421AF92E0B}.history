@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{66CA6714-8081-4381-8D66-30421AF92E0B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:28.3700518Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Profile Cards",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Focus/Profile Cards",
+    "commandType": "Item",
+    "template": "Profile Cards",
+    "sourceControlRevisionId": null
+  }
+]

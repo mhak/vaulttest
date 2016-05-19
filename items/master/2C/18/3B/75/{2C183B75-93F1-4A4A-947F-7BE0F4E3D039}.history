@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2C183B75-93F1-4A4A-947F-7BE0F4E3D039}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:38.8816530Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Finland",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Finland",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

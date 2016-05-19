@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{51D4A8DC-5824-463D-B54A-11D7CAAFB8CE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:14.3346808Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "StringOperator",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/StringOperator",
+    "commandType": "Item",
+    "template": "Macro",
+    "sourceControlRevisionId": null
+  }
+]

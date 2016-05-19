@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5A81D794-7364-4CC5-8AA9-A921D5DDA4AF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:06.6846750Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Opening Search Results",
+    "itemPath": "/sitecore/templates/System/Item Buckets/Item Buckets Settings/Settings/Opening Search Results",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

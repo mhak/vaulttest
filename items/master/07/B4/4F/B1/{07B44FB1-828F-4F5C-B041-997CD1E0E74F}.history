@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{07B44FB1-828F-4F5C-B041-997CD1E0E74F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:11.5190879Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "PageConfigurationRules",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/General/Common/PageConfigurationRules",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6EDA263B-F755-4F77-8B3B-4B7774D09992}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:54.4589758Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Text",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Suggested Test/Data/Text",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

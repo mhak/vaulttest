@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{632525EF-985B-44C5-BD29-353634C99C64}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:46.0130609Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "No search hits found",
+    "itemPath": "/sitecore/system/Settings/Analytics/Page Events/No search hits found",
+    "commandType": "Item",
+    "template": "Page Event",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4CB05A97-3BF9-47FE-A835-6088E592FDE6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:07.8797434Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "WorldLingo Language Identifier",
+    "itemPath": "/sitecore/templates/System/Language/Data/WorldLingo Language Identifier",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

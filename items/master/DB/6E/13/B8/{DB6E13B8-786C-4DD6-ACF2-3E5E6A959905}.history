@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DB6E13B8-786C-4DD6-ACF2-3E5E6A959905}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:42.2952800Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Goal Category",
+    "itemPath": "/sitecore/templates/System/Analytics/Goal Category",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

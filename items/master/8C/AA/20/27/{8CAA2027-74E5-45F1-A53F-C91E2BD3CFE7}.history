@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8CAA2027-74E5-45F1-A53F-C91E2BD3CFE7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:36.6935278Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Aruba",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Aruba",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

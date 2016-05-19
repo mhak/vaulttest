@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9088ACFD-9F36-4E89-9663-12D4286FFBAF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:30.5726095Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Media Size Too Big",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Media/Media Size Too Big",
+    "commandType": "Item",
+    "template": "Validation Rule",
+    "sourceControlRevisionId": null
+  }
+]

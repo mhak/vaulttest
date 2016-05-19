@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{45C2550C-E38E-48FA-A1D7-484F390F126C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:08.8778005Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Default Simulator",
+    "itemPath": "/sitecore/templates/System/Layout/Device/Data/Default Simulator",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

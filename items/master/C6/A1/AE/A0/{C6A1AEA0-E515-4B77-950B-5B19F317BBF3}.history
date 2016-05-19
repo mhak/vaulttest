@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C6A1AEA0-E515-4B77-950B-5B19F317BBF3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:28.9580854Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Anonymous",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Experience Explorer/Presets/Anonymous",
+    "commandType": "Item",
+    "template": "Preset Persona",
+    "sourceControlRevisionId": null
+  }
+]

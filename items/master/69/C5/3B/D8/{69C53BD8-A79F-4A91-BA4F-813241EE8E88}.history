@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{69C53BD8-A79F-4A91-BA4F-813241EE8E88}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:33.6337846Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Inactive",
+    "itemPath": "/sitecore/system/Workflows/Segment/Inactive",
+    "commandType": "Item",
+    "template": "State",
+    "sourceControlRevisionId": null
+  }
+]

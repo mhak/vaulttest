@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{38546C2F-681D-4614-981A-F20C12C2D286}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:52.9638902Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Suggested Test",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Suggested Test",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

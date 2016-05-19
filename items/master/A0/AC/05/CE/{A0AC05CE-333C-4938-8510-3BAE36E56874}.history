@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A0AC05CE-333C-4938-8510-3BAE36E56874}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:07.3658504Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Page Visit",
+    "itemPath": "/sitecore/media library/System/Page Event Images/Page Visit",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null
+  }
+]

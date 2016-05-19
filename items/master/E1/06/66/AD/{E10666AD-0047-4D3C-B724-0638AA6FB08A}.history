@@ -7,12 +7,13 @@
     "language": "en",
     "timestamp": "2016-04-11T21:29:58.3805376Z",
     "label": "Installed from package - Strategy deployment",
-    "sourceControlRevisionId": "82d690d2b4bed8ab47a94585dd6feed8a655b9d8",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "Section",
     "itemPath": "/sitecore/templates/Demo/Vault/Section",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "82d690d2b4bed8ab47a94585dd6feed8a655b9d8"
   },
   {
     "eventType": "PackageInstall",
@@ -22,12 +23,13 @@
     "language": "en",
     "timestamp": "2016-04-11T21:47:24.9263966Z",
     "label": "Installed from package - Strategy deployment",
-    "sourceControlRevisionId": "99aadc6aca1bd654437cb02a08c51975fbb331b0",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "Section",
     "itemPath": "[orphan]/Demo/Vault/Section",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "99aadc6aca1bd654437cb02a08c51975fbb331b0"
   },
   {
     "eventType": "Created",
@@ -37,12 +39,13 @@
     "language": "en",
     "timestamp": "04/11/2016 21:47:24",
     "label": null,
-    "sourceControlRevisionId": "7510188802d80919d08b4e89c696906dce1dfa37",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "Section",
     "itemPath": "[orphan]/Demo/Vault/Section",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "7510188802d80919d08b4e89c696906dce1dfa37"
   },
   {
     "eventType": "Saved",
@@ -52,12 +55,13 @@
     "language": "en",
     "timestamp": "04/11/2016 21:47:24",
     "label": null,
-    "sourceControlRevisionId": "ee61c986373a3a949cced670cc66cd863001b0ca",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "Section",
     "itemPath": "[orphan]/Demo/Vault/Section",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "ee61c986373a3a949cced670cc66cd863001b0ca"
   },
   {
     "eventType": "VersionAdded",
@@ -67,12 +71,13 @@
     "language": "en",
     "timestamp": "04/11/2016 21:47:24",
     "label": null,
-    "sourceControlRevisionId": "efa0224bc5a48dc2cc2a6917970c4707555a7516",
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "Section",
     "itemPath": "[orphan]/Demo/Vault/Section",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "efa0224bc5a48dc2cc2a6917970c4707555a7516"
   },
   {
     "eventType": "Saved",
@@ -82,11 +87,28 @@
     "language": "en",
     "timestamp": "04/11/2016 21:47:24",
     "label": null,
-    "sourceControlRevisionId": null,
     "workflowState": "",
     "activeUser": "extranet\\Anonymous",
     "itemName": "Section",
     "itemPath": "[orphan]/Demo/Vault/Section",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "be3df300bc7a57dfb0f925e18ec40c112552d1e9"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E10666AD-0047-4D3C-B724-0638AA6FB08A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:38.9380880Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Section",
+    "itemPath": "/sitecore/templates/Demo/Vault/Section",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
   }
 ]

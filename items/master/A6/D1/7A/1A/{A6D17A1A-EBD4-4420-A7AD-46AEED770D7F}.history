@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A6D17A1A-EBD4-4420-A7AD-46AEED770D7F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:03.8986521Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "No Silverlight Support Trait",
+    "itemPath": "/sitecore/layout/Simulators/Large Android Phone/No Silverlight Support Trait",
+    "commandType": "Item",
+    "template": "No Silverlight Support Trait",
+    "sourceControlRevisionId": null
+  }
+]

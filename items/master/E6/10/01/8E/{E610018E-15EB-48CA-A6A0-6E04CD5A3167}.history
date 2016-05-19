@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E610018E-15EB-48CA-A6A0-6E04CD5A3167}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:27.3949960Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Most Valuable Full Path",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Reports/Most Valuable Full Path",
+    "commandType": "Item",
+    "template": "Report",
+    "sourceControlRevisionId": null
+  }
+]

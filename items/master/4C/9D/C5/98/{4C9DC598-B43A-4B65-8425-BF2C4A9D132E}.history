@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4C9DC598-B43A-4B65-8425-BF2C4A9D132E}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:34.4032604Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Contextual Header",
+    "itemPath": "/sitecore/templates/System/Ribbon/Strip/Data/Contextual Header",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

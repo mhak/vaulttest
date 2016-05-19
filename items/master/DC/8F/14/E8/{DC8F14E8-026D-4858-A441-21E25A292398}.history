@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DC8F14E8-026D-4858-A441-21E25A292398}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:13.9156568Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Boost",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/Boost",
+    "commandType": "Item",
+    "template": "Macro",
+    "sourceControlRevisionId": null
+  }
+]

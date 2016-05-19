@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{03C88BC4-8583-4AB9-A7CB-428E13E7C325}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:12.0075477Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Engagement Value Points",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visit/Engagement Value Points",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null
+  }
+]

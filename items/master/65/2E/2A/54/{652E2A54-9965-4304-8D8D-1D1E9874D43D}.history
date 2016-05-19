@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{652E2A54-9965-4304-8D8D-1D1E9874D43D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:39.3345425Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Services/Item Service/Query/Query Folder/__Standard Values",
+    "commandType": "Item",
+    "template": "Query Folder",
+    "sourceControlRevisionId": null
+  }
+]

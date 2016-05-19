@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6ED9C6C6-5628-40A8-B389-25FCB87B1F69}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:47.4621438Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Not Found Urls Previous Referrers",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Not Found Urls Previous Referrers",
+    "commandType": "Item",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null
+  }
+]

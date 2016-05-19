@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{58FC232E-C94E-4CDD-A41C-1633BBACB407}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:10.8304804Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Item Buckets Enabled",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/System/Item Buckets Enabled",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null
+  }
+]

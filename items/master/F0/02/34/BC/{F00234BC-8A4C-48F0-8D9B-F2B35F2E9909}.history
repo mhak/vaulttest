@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F00234BC-8A4C-48F0-8D9B-F2B35F2E9909}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:42.9027466Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Metadata",
+    "itemPath": "/sitecore/templates/System/Social/Message/Message/Metadata",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null
+  }
+]

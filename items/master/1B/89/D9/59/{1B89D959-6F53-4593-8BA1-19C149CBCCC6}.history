@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1B89D959-6F53-4593-8BA1-19C149CBCCC6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:12.3841374Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CountryTabTitle",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Geo/Common/CountryTabTitle",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D2BA4115-C681-4468-899E-BCF7490A267E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:24.2846817Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Visitor Information",
+    "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Preset/Visitor Information",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null
+  }
+]

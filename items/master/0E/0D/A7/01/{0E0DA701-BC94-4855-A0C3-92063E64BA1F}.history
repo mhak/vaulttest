@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0E0DA701-BC94-4855-A0C3-92063E64BA1F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:03.6675025Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Html Editor Toolbar",
+    "itemPath": "/sitecore/templates/System/Html Editor Profiles/Html Editor Toolbar",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

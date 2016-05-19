@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F5737F02-F120-4E33-B5A4-56D10F99D51F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:52.2274163Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Test Objective",
+    "itemPath": "/sitecore/system/Settings/Analytics/Test Winner Strategies/Test Objective",
+    "commandType": "Item",
+    "template": "Test Winner Strategy",
+    "sourceControlRevisionId": null
+  }
+]

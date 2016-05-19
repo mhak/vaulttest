@@ -1,0 +1,241 @@
+----item----
+version: 1
+id: {992E6270-E1E6-4455-8367-EEB6F01619AC}
+database: master
+path: /sitecore/templates/System/Path Analyzer/AssetMap/__Standard Values
+parent: {46DCDC71-1D91-48EA-9953-585AF256F40B}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {46DCDC71-1D91-48EA-9953-585AF256F40B}
+templatekey: AssetMap
+
+----field----
+field: {17932D91-3EB3-4C6E-9190-86D1E3DCCD8A}
+name: Start
+key: start
+content-length: 4
+
+$now
+----version----
+language: da
+version: 1
+revision: df90b565-ccee-4c3a-97f1-07ca330ac78f
+
+----field----
+field: {31FCBEB2-376A-481F-BB44-EF52301F33CA}
+name: Description
+key: description
+content-length: 84
+
+<p>Denne oversigt viser den besøgendes oplevelse, der fører til aktivet "$name".</p>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20150812T120239Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+df90b565-ccee-4c3a-97f1-07ca330ac78f
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20150812T120239Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: de-DE
+version: 1
+revision: e4c7f008-412a-452c-8aa3-1a69b6debf05
+
+----field----
+field: {31FCBEB2-376A-481F-BB44-EF52301F33CA}
+name: Description
+key: description
+content-length: 80
+
+<p>Diese Abbildung zeigt die Besuchererfahrung, die zum "$Name" Asset führt.</p>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20150812T115825Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+e4c7f008-412a-452c-8aa3-1a69b6debf05
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20150812T115825Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 1
+revision: 141cb313-089f-4880-a3f1-a64d048a7746
+
+----field----
+field: {A44D8693-F962-4F76-8FB8-62525CE67BA1}
+name: Name
+key: name
+content-length: 5
+
+$name
+----field----
+field: {31FCBEB2-376A-481F-BB44-EF52301F33CA}
+name: Description
+key: description
+content-length: 70
+
+<p>This map shows visitor experience leading to the "$name" asset.</p>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20140611T140025
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+141cb313-089f-4880-a3f1-a64d048a7746
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20140611T145420:635380952604866486
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: ja-JP
+version: 1
+revision: 641e03f5-621f-47c7-9046-81cb430c1898
+
+----field----
+field: {31FCBEB2-376A-481F-BB44-EF52301F33CA}
+name: Description
+key: description
+content-length: 49
+
+<p>このマップは "$name" アセットをもたらすビジター エクスペリエンスを表します</p>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20150812T115412Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+641e03f5-621f-47c7-9046-81cb430c1898
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20150812T115412Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

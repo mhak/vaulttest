@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9595E15A-37D0-4C28-AA2D-9106CAF638A3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:12.5421465Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Longtitude",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Geo/Common/Longtitude",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FED9FE33-1719-4C66-B836-CE9CAB192EDF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:46.9129760Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Help",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Help/Help",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null
+  }
+]

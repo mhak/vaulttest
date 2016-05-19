@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A023B285-3FF4-423C-B6D2-AEB6F7993F70}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:55.2620217Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "MinDuration",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Test Definition/Scheduling/MinDuration",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F5B26C7C-267A-4790-88C2-FB49213792F3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:11.4120818Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "OnsiteBehaviorProfiles",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/General/Common/OnsiteBehaviorProfiles",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null
+  }
+]

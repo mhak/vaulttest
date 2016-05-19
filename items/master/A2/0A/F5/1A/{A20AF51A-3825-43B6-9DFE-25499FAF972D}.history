@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A20AF51A-3825-43B6-9DFE-25499FAF972D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:55.2325882Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sort",
+    "itemPath": "/sitecore/system/Settings/Buckets/Search Types/Sort",
+    "commandType": "Item",
+    "template": "Field Search Type",
+    "sourceControlRevisionId": null
+  }
+]

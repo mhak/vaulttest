@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{97B180D4-DDA8-4C92-A237-882325BEB9D3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:28.9925192Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Upper Case",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Text/Must be Upper Case/Upper Case",
+    "commandType": "Item",
+    "template": "Menu item",
+    "sourceControlRevisionId": null
+  }
+]

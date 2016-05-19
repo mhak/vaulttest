@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{98C271B1-C706-4616-844E-A7E41CA0E436}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:13.4591989Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "GoalNoGoalsTriggered",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Goals/Viewer/GoalNoGoalsTriggered",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4191FB9B-674B-413D-8CAF-93A3F36147FC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:43.0487549Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Created Date",
+    "itemPath": "/sitecore/templates/System/Social/Message/Message/Metadata/Created Date",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

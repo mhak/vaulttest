@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{72296CFA-6354-47AD-901A-17F1651E9505}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:52.7678790Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Multivariate Test Variable",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Multivariate Test Variable",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

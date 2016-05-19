@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DACF0445-EDB1-4A90-851E-380DC6A36541}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:24.7988475Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "By Downloads",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Dimensions/Visits/By Downloads",
+    "commandType": "Item",
+    "template": "Dimension",
+    "sourceControlRevisionId": null
+  }
+]

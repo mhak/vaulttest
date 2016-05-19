@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{656218DF-C490-45FC-90C4-B58FB38838F7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:23.5306386Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Preset",
+    "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Preset",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

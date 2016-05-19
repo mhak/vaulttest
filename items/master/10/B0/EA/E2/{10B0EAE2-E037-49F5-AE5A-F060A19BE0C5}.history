@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{10B0EAE2-E037-49F5-AE5A-F060A19BE0C5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:56.2816482Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Play",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Quick Actions/Play",
+    "commandType": "Item",
+    "template": "Quick Action",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9EBF2D65-1E8C-43EC-9482-BACB84D30701}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:12.1075534Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Page Event ID",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visit/Page Event ID",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null
+  }
+]

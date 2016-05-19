@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D4135A3D-2674-43A2-9E48-277C12AD8FE6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:39.2946766Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Greece",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Greece",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

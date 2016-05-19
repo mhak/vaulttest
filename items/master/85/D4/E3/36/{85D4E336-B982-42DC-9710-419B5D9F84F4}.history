@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{85D4E336-B982-42DC-9710-419B5D9F84F4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:40.4806081Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Social/Account/Account/__Standard Values",
+    "commandType": "Item",
+    "template": "Account",
+    "sourceControlRevisionId": null
+  }
+]

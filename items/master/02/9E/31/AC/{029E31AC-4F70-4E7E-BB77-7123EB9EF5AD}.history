@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{029E31AC-4F70-4E7E-BB77-7123EB9EF5AD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:41.3396572Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Login Button Parameters for Klout",
+    "itemPath": "/sitecore/templates/System/Social/Connector/Login Button Parameters for Klout",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

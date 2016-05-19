@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8EC9CDFB-34B0-4A8D-943B-D28B05BD3D75}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:52.9268881Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Personalization Test Variable",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Personalization Test Variable",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

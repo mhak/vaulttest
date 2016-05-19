@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3CF6A4D2-3C30-4410-8EEE-F8D3FACE6FB6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:50.3993118Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Is Content Test",
+    "itemPath": "/sitecore/system/Settings/Analytics/Testing/End Test Behavior/Is Content Test",
+    "commandType": "Item",
+    "template": "Rule Container",
+    "sourceControlRevisionId": null
+  }
+]

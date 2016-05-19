@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8C5FC034-9A02-4F07-95C5-1A561E6F4891}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:11.6730967Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ResetButtonText",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/General/Common/ResetButtonText",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null
+  }
+]

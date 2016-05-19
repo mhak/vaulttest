@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DF6FCD1E-CBCA-4747-9109-ABF132189A01}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:25.0668628Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "By Search Keyword",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Dimensions/Visits/By Search Keyword",
+    "commandType": "Item",
+    "template": "Dimension",
+    "sourceControlRevisionId": null
+  }
+]

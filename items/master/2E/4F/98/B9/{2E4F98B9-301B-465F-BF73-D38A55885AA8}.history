@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2E4F98B9-301B-465F-BF73-D38A55885AA8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:58.8777967Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Federated Experience Manager - Page Matching",
+    "itemPath": "/sitecore/system/Settings/Rules/Federated Experience Manager - Page Matching",
+    "commandType": "Item",
+    "template": "Rules Context Folder",
+    "sourceControlRevisionId": null
+  }
+]

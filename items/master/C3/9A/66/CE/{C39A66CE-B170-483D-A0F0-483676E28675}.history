@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C39A66CE-B170-483D-A0F0-483676E28675}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:11.9411121Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "VisitorInformationGeoIP",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/General/Common/VisitorInformationGeoIP",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C7D739A6-D393-4C4D-A954-AF5C777F31A8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:52.3574238Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Subreports",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Subreports",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

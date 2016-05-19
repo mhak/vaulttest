@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{07554386-05B8-41F2-91F6-300770B42FCD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:40.6026150Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Roles",
+    "itemPath": "/sitecore/templates/System/Social/Account/Account/Review/Roles",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{055634EF-74F9-4B13-A282-F1D1BBB4C0CF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:27.4990019Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Predefined Conditions",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Personalization/Predefined Conditions",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

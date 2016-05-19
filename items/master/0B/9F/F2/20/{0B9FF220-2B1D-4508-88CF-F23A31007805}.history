@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0B9FF220-2B1D-4508-88CF-F23A31007805}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:47.3951399Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "New Page Visitors",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/New Page Visitors",
+    "commandType": "Item",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null
+  }
+]

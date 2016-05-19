@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BCA389CA-36E3-4974-8150-3442AE54DF36}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:42.6918709Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Puerto Rico",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Puerto Rico",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

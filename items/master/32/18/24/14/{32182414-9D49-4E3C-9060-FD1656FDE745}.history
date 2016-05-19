@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{32182414-9D49-4E3C-9060-FD1656FDE745}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:16.4043674Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "SettingsEditorTitle",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Settings/Editor/SettingsEditorTitle",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A1546AB6-D7CA-4AEF-8A51-B9A9EAD1EA17}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:41.9688296Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Nicaragua",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Nicaragua",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

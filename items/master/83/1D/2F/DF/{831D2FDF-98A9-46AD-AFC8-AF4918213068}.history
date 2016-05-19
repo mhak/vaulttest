@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{831D2FDF-98A9-46AD-AFC8-AF4918213068}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:06.6518095Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Begin Transaction",
+    "itemPath": "/sitecore/media library/System/Page Event Images/Begin Transaction",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null
+  }
+]

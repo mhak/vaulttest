@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{46EF45A7-B810-4AAF-B29E-8CE687CFFEDA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:04.5245515Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Clean",
+    "itemPath": "/sitecore/templates/System/Html Editor Profiles/Html Editor Tidy/Data/Clean",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

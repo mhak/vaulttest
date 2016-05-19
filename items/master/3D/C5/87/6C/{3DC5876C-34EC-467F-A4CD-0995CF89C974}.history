@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3DC5876C-34EC-467F-A4CD-0995CF89C974}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:33.9833728Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Testing",
+    "itemPath": "/sitecore/system/Settings/Analytics/Testing",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

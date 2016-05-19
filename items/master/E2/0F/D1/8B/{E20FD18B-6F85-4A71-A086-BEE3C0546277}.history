@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E20FD18B-6F85-4A71-A086-BEE3C0546277}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:38.9675215Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Wallpaper",
+    "itemPath": "/sitecore/templates/System/Security/User/Data/Wallpaper",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

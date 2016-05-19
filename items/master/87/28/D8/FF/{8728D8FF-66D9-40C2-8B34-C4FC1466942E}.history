@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8728D8FF-66D9-40C2-8B34-C4FC1466942E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:07.7727373Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Encoding",
+    "itemPath": "/sitecore/templates/System/Language/Data/Encoding",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

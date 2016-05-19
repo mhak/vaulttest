@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BC799B34-8423-48AC-A2FE-D128E6300659}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:16.9974013Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "All Lists",
+    "itemPath": "/sitecore/system/List Manager/All Lists",
+    "commandType": "Item",
+    "template": "List Folder",
+    "sourceControlRevisionId": null
+  }
+]

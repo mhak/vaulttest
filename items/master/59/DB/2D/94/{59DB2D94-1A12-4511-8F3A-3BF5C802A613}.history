@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{59DB2D94-1A12-4511-8F3A-3BF5C802A613}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:44.4718363Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Twitter Share Button Parameters",
+    "itemPath": "/sitecore/templates/System/Social/Sharing/Twitter Share Button Parameters",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

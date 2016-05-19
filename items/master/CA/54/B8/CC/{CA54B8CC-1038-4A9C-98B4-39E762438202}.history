@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CA54B8CC-1038-4A9C-98B4-39E762438202}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:13.4952010Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "GoalViewerDescription",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Goals/Viewer/GoalViewerDescription",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null
+  }
+]

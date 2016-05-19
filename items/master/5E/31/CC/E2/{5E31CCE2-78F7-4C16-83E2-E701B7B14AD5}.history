@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5E31CCE2-78F7-4C16-83E2-E701B7B14AD5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:46.2420740Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Put in basket",
+    "itemPath": "/sitecore/system/Settings/Analytics/Page Events/Put in basket",
+    "commandType": "Item",
+    "template": "Page Event",
+    "sourceControlRevisionId": null
+  }
+]

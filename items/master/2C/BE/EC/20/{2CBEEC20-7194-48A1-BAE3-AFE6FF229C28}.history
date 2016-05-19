@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2CBEEC20-7194-48A1-BAE3-AFE6FF229C28}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:26.9919729Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Assets",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Maps/Path Experience Maps/Assets",
+    "commandType": "Item",
+    "template": "MapGroup",
+    "sourceControlRevisionId": null
+  }
+]

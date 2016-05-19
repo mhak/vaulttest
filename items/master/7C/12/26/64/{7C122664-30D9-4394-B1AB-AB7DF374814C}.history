@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7C122664-30D9-4394-B1AB-AB7DF374814C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:39.4885513Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Database",
+    "itemPath": "/sitecore/templates/System/Services/Item Service/Search/Search Definition/Data/Database",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

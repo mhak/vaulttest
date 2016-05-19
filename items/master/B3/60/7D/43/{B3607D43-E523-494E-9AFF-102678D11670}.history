@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B3607D43-E523-494E-9AFF-102678D11670}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:51.7632534Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Use Thread",
+    "itemPath": "/sitecore/templates/System/Validation/Validation Rule/Data/Use Thread",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

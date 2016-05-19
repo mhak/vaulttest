@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AD8D5F6D-D0A3-4F86-A4E7-C29FF7427597}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:23.8456566Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Path",
+    "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Control/Control/Path",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

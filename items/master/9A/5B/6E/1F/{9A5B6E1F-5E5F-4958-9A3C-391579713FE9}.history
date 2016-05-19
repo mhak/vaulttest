@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9A5B6E1F-5E5F-4958-9A3C-391579713FE9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:48.9306596Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Analytics/Goal/__Standard Values",
+    "commandType": "Item",
+    "template": "Goal",
+    "sourceControlRevisionId": null
+  }
+]

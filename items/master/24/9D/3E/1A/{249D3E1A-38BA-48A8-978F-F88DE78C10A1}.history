@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{249D3E1A-38BA-48A8-978F-F88DE78C10A1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:39.8477082Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Hungary",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Hungary",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

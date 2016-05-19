@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{01471D8B-8681-4A6D-9881-BFABFA7CA7C7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:53:43.5137815Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Container Posting Configuration",
+    "itemPath": "/sitecore/templates/System/Social/Posting Configuration/Container Posting Configuration",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

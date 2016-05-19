@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{579A622B-2295-4EF5-9A94-C55E5EC44B39}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:17.1714112Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Experience Analytics",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

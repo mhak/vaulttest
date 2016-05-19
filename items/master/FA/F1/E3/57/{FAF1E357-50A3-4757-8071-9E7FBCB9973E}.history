@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FAF1E357-50A3-4757-8071-9E7FBCB9973E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:09.3649647Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "AreaTemplate",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/AreaTemplate",
+    "commandType": "Item",
+    "template": "Dictionary folder",
+    "sourceControlRevisionId": null
+  }
+]

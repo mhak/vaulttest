@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{96D86CA2-41A4-4E2C-ABD9-80C2B7C780B6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:07.6988694Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Search",
+    "itemPath": "/sitecore/media library/System/Page Event Images/Search",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null
+  }
+]

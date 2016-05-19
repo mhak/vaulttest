@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{ED198C73-0A18-4EA7-BED9-DA27F37DD16B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:59.9452896Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Extensibility",
+    "itemPath": "/sitecore/templates/System/Feeds/RSS Feed/Extensibility",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null
+  }
+]

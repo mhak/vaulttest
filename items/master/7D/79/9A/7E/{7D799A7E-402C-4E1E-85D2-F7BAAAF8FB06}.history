@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7D799A7E-402C-4E1E-85D2-F7BAAAF8FB06}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:52:24.5412646Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Simulator Insert Option",
+    "itemPath": "/sitecore/system/Settings/Rules/Insert Options/Rules/Simulator Insert Option",
+    "commandType": "Item",
+    "template": "Insert Options Rule",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DF9486E3-C239-406E-83DD-7A30BEF2599D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:51:46.6730986Z",
+    "label": "Snapshot - snapshot",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Multiple",
+    "itemPath": "/sitecore/system/Settings/Analytics/Preset Types/Multiple",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]
