@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Social/Connector/Login with LinkedIn Button Parameters/Social/Application",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{17A9F567-DC8A-4233-93E5-E3E6CE257535}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:57.7155507Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Application",
+    "itemPath": "/sitecore/templates/System/Social/Connector/Login with LinkedIn Button Parameters/Social/Application",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

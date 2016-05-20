@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Saint Vincent and the Grenadines",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D794BA62-CF74-49C7-8311-B6165002E57D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:30.1601110Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Saint Vincent and the Grenadines",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Saint Vincent and the Grenadines",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

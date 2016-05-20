@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Testing/Page Level Test Value/Data",
     "commandType": "Item",
     "template": "Template section",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CB3BA6C0-DBBC-4ED9-8582-99CED999F952}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:01.2723223Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Data",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Page Level Test Value/Data",
+    "commandType": "Item",
+    "template": "Template section",
     "sourceControlRevisionId": null
   }
 ]

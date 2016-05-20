@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/String Operators/is not case-insensitively equal to",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6A7294DF-ECAE-4D5F-A8D2-C69CB1161C09}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:18.7288890Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "is not case-insensitively equal to",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/String Operators/is not case-insensitively equal to",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

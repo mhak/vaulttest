@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Templates/Template field/Data/Reset blank",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BF110AA2-F46C-4B8C-8FA5-FA4CEACCF99D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:15:07.6161170Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Reset blank",
+    "itemPath": "/sitecore/templates/System/Templates/Template field/Data/Reset blank",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

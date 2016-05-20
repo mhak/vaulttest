@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/System/Parameters String",
     "commandType": "Item",
     "template": "Validation Rule",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F5FAB2BF-7E50-4385-AF13-6F89E0A15FBA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:29.7895216Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Parameters String",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/System/Parameters String",
+    "commandType": "Item",
+    "template": "Validation Rule",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Geo/Common/ISP",
     "commandType": "Item",
     "template": "Dictionary entry",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6C1F47A6-C079-452D-9244-FF1E3B2C28BF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:51.0868762Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ISP",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Geo/Common/ISP",
+    "commandType": "Item",
+    "template": "Dictionary entry",
     "sourceControlRevisionId": null
   }
 ]

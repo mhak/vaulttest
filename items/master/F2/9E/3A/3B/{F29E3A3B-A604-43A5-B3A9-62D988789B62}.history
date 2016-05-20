@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Federated Experience Manager/Filters and Actions/Client Actions/Fragment Action/__Standard Values",
     "commandType": "Item",
     "template": "Fragment Action",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F29E3A3B-A604-43A5-B3A9-62D988789B62}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:53.9469034Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Analytics/Federated Experience Manager/Filters and Actions/Client Actions/Fragment Action/__Standard Values",
+    "commandType": "Item",
+    "template": "Fragment Action",
     "sourceControlRevisionId": null
   }
 ]

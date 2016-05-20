@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Content Testing/Test Potential",
     "commandType": "Item",
     "template": "ReportQuery",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BF9B52AA-AFD5-49C3-A199-784604BCBB76}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:40.8877246Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Test Potential",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Content Testing/Test Potential",
+    "commandType": "Item",
+    "template": "ReportQuery",
     "sourceControlRevisionId": null
   }
 ]

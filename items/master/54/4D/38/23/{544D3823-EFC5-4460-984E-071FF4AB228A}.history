@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/media library/System/Channel Images/ch-google-display-network",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{544D3823-EFC5-4460-984E-071FF4AB228A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:42.9054082Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-google-display-network",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-google-display-network",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]

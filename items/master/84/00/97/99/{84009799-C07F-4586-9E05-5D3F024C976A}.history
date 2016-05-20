@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Engagement Automation/Predefined items/Conditions",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{84009799-C07F-4586-9E05-5D3F024C976A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:20.2985470Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Conditions",
+    "itemPath": "/sitecore/system/Settings/Analytics/Engagement Automation/Predefined items/Conditions",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

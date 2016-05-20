@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/Security Editor",
     "commandType": "Item",
     "template": "Tag",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6C2368CA-67BE-4233-B9D7-0A0F87F09A38}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:20.2019733Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Security Editor",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/Security Editor",
+    "commandType": "Item",
+    "template": "Tag",
     "sourceControlRevisionId": null
   }
 ]

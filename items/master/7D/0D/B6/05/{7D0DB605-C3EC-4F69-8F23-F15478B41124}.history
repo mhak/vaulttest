@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Browsers/Script/Data/Source",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7D0DB605-C3EC-4F69-8F23-F15478B41124}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:06.8436410Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Source",
+    "itemPath": "/sitecore/templates/System/Browsers/Script/Data/Source",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

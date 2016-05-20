@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Testing/Multivariate Test Definition",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AFF050BA-A88C-4DB7-8ED6-9CB2B7CA2688}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:59.4202164Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Multivariate Test Definition",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Multivariate Test Definition",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

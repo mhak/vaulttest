@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Aland Islands",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2C918E66-D270-4C70-B55C-207C3F6FC9BF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:21.1785973Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Aland Islands",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Aland Islands",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

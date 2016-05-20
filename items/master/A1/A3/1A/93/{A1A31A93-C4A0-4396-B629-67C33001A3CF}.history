@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Ribbon/Large Button/Data/Tooltip",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A1A31A93-C4A0-4396-B629-67C33001A3CF}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:44.3207846Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tooltip",
+    "itemPath": "/sitecore/templates/System/Ribbon/Large Button/Data/Tooltip",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

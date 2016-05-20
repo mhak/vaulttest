@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Control/__Standard Values",
     "commandType": "Item",
     "template": "Control",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7D2C010B-5456-4AC4-BF08-52AA86511BD7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:35.8763016Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Control/__Standard Values",
+    "commandType": "Item",
+    "template": "Control",
     "sourceControlRevisionId": null
   }
 ]

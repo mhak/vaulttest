@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Filters",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F1C4275C-8F38-4570-BABF-C95837CC87CF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:05.0906771Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Filters",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Filters",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

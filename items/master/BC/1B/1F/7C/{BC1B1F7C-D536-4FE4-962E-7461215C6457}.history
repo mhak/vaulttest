@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/App Center Sync",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BC1B1F7C-D536-4FE4-962E-7461215C6457}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:46.7996309Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "App Center Sync",
+    "itemPath": "/sitecore/system/App Center Sync",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

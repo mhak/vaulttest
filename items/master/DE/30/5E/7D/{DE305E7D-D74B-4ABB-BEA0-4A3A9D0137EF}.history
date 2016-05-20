@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/media library/System/Simulator Backgrounds/HD TV",
     "commandType": "Item",
     "template": "Jpeg",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DE305E7D-D74B-4ABB-BEA0-4A3A9D0137EF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:46.0065856Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "HD TV",
+    "itemPath": "/sitecore/media library/System/Simulator Backgrounds/HD TV",
+    "commandType": "Item",
+    "template": "Jpeg",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/System",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EC98B276-8777-4164-8F7B-6BBBFEF0B8FA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:28.2534338Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "System",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/System",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

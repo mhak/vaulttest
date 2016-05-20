@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/media library/System/Page Event Images/Update Profile",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E6FE9EC7-09DC-45DD-BE4E-1599583E46D1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:45.5195577Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Update Profile",
+    "itemPath": "/sitecore/media library/System/Page Event Images/Update Profile",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]

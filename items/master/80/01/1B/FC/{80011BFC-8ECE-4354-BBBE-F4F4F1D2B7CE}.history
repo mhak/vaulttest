@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Templates/Sections/Lifetime/Lifetime",
     "commandType": "Item",
     "template": "Template section",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{80011BFC-8ECE-4354-BBBE-F4F4F1D2B7CE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:15:05.1229744Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Lifetime",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Lifetime/Lifetime",
+    "commandType": "Item",
+    "template": "Template section",
     "sourceControlRevisionId": null
   }
 ]

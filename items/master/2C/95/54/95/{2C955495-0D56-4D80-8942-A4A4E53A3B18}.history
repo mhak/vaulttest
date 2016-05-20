@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Visitor Identifications/060 - Business Partner",
     "commandType": "Item",
     "template": "Visitor Identification",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2C955495-0D56-4D80-8942-A4A4E53A3B18}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:43.6758841Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "060 - Business Partner",
+    "itemPath": "/sitecore/system/Settings/Analytics/Visitor Identifications/060 - Business Partner",
+    "commandType": "Item",
+    "template": "Visitor Identification",
     "sourceControlRevisionId": null
   }
 ]

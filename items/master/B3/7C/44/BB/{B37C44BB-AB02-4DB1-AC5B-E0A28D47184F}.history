@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Ribbon",
     "commandType": "Item",
     "template": "Node",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B37C44BB-AB02-4DB1-AC5B-E0A28D47184F}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:45.4834193Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Ribbon",
+    "itemPath": "/sitecore/templates/System/Ribbon",
+    "commandType": "Item",
+    "template": "Node",
     "sourceControlRevisionId": null
   }
 ]

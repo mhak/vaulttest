@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Tasks/Schedules/__Task Schedule",
     "commandType": "Item",
     "template": "Schedule",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9C34554C-B669-4978-A85B-0B3328042B07}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:33.6087401Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Task Schedule",
+    "itemPath": "/sitecore/system/Tasks/Schedules/__Task Schedule",
+    "commandType": "Item",
+    "template": "Schedule",
     "sourceControlRevisionId": null
   }
 ]

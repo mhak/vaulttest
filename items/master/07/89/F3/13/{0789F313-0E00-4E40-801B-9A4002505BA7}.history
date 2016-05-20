@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Federated Experience Manager/Filters and Actions/Element Placeholder/Configuration/Position",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0789F313-0E00-4E40-801B-9A4002505BA7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:54.1489149Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Position",
+    "itemPath": "/sitecore/templates/System/Analytics/Federated Experience Manager/Filters and Actions/Element Placeholder/Configuration/Position",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Contact Interactions",
     "commandType": "Item",
     "template": "ReportQuery",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E879378F-DAEC-4FB0-B53E-16A624F41007}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:39.6086514Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Contact Interactions",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Contact Interactions",
+    "commandType": "Item",
+    "template": "ReportQuery",
     "sourceControlRevisionId": null
   }
 ]

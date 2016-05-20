@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Analytics Filters/Report Filters/State/Idaho",
     "commandType": "Item",
     "template": "Predefined Filter Value",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{83EABC65-65CB-4126-921C-4920F034BE5A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:13.7691735Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Idaho",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Analytics Filters/Report Filters/State/Idaho",
+    "commandType": "Item",
+    "template": "Predefined Filter Value",
     "sourceControlRevisionId": null
   }
 ]

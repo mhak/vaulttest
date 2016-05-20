@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/layout/Devices/App Center Placeholder",
     "commandType": "Item",
     "template": "Device",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{207131FA-F6B2-4488-BCB3-3BF70100B9B8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:36.9250662Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "App Center Placeholder",
+    "itemPath": "/sitecore/layout/Devices/App Center Placeholder",
+    "commandType": "Item",
+    "template": "Device",
     "sourceControlRevisionId": null
   }
 ]

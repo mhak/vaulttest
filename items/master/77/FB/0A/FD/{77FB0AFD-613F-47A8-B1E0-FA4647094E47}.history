@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/PageEvents/Viewer/NoPageEventsTriggered",
     "commandType": "Item",
     "template": "Dictionary entry",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{77FB0AFD-613F-47A8-B1E0-FA4647094E47}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:53.3250042Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "NoPageEventsTriggered",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/PageEvents/Viewer/NoPageEventsTriggered",
+    "commandType": "Item",
+    "template": "Dictionary entry",
     "sourceControlRevisionId": null
   }
 ]

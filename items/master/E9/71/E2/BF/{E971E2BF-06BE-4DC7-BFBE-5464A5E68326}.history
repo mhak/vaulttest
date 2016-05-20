@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Goals/LinkedIn Share",
     "commandType": "Item",
     "template": "Goal",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E971E2BF-06BE-4DC7-BFBE-5464A5E68326}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:03.9256105Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "LinkedIn Share",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Goals/LinkedIn Share",
+    "commandType": "Item",
+    "template": "Goal",
     "sourceControlRevisionId": null
   }
 ]

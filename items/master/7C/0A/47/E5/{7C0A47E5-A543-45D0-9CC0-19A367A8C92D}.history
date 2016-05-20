@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Media/Versioned/Mp3/ID3/Comment",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7C0A47E5-A543-45D0-9CC0-19A367A8C92D}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:34.3312132Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Comment",
+    "itemPath": "/sitecore/templates/System/Media/Versioned/Mp3/ID3/Comment",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

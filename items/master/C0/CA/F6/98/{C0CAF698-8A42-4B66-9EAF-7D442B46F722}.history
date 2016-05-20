@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/List Manager/Segmented List",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C0CAF698-8A42-4B66-9EAF-7D442B46F722}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:43.1322848Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Segmented List",
+    "itemPath": "/sitecore/templates/List Manager/Segmented List",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

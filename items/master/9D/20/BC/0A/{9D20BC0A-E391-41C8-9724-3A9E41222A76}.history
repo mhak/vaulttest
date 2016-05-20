@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Campaigns/Social/LinkedIn/LinkedIn Share Buttons",
     "commandType": "Item",
     "template": "Campaign",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9D20BC0A-E391-41C8-9724-3A9E41222A76}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:04.6906543Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "LinkedIn Share Buttons",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Campaigns/Social/LinkedIn/LinkedIn Share Buttons",
+    "commandType": "Item",
+    "template": "Campaign",
     "sourceControlRevisionId": null
   }
 ]

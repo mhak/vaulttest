@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Layout/Renderings/Xsl Rendering/Data/Placeholder",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8AA9BB12-1A7B-4BC0-851A-25B7A1FF3A88}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:26.1607459Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Placeholder",
+    "itemPath": "/sitecore/templates/System/Layout/Renderings/Xsl Rendering/Data/Placeholder",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

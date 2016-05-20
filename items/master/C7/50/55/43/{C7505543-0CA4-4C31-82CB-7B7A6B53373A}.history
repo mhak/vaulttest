@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/layout/Renderings/App Center Sync/HiddenComponents/HiddenComponentsHead",
     "commandType": "Item",
     "template": "Webcontrol",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C7505543-0CA4-4C31-82CB-7B7A6B53373A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:38.1551365Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "HiddenComponentsHead",
+    "itemPath": "/sitecore/layout/Renderings/App Center Sync/HiddenComponents/HiddenComponentsHead",
+    "commandType": "Item",
+    "template": "Webcontrol",
     "sourceControlRevisionId": null
   }
 ]

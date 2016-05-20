@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Page Events/Begin transaction",
     "commandType": "Item",
     "template": "Page Event",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2C1F469A-EB2B-4CCE-991E-DCF33A2B2965}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:33.2422873Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Begin transaction",
+    "itemPath": "/sitecore/system/Settings/Analytics/Page Events/Begin transaction",
+    "commandType": "Item",
+    "template": "Page Event",
     "sourceControlRevisionId": null
   }
 ]

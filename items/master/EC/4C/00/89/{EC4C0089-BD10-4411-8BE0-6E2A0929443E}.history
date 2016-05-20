@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/OrderByOperator",
     "commandType": "Item",
     "template": "Macro",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EC4C0089-BD10-4411-8BE0-6E2A0929443E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:12.0795087Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "OrderByOperator",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/OrderByOperator",
+    "commandType": "Item",
+    "template": "Macro",
     "sourceControlRevisionId": null
   }
 ]

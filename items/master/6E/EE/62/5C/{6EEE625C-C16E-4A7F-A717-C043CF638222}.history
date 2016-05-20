@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Item Buckets/Tag Repository/Repository Details",
     "commandType": "Item",
     "template": "Template section",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6EEE625C-C16E-4A7F-A717-C043CF638222}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:15.5931414Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Repository Details",
+    "itemPath": "/sitecore/templates/System/Item Buckets/Tag Repository/Repository Details",
+    "commandType": "Item",
+    "template": "Template section",
     "sourceControlRevisionId": null
   }
 ]

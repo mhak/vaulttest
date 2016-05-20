@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Score/Pattern Cards",
     "commandType": "Item",
     "template": "Pattern Cards",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{53BDCEA0-CBB2-40E2-B3BC-2D69E0263681}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:11.9270682Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Pattern Cards",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Score/Pattern Cards",
+    "commandType": "Item",
+    "template": "Pattern Cards",
     "sourceControlRevisionId": null
   }
 ]

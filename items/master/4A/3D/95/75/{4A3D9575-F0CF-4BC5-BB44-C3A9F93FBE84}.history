@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Testing/Stop Test",
     "commandType": "Item",
     "template": "Action",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4A3D9575-F0CF-4BC5-BB44-C3A9F93FBE84}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:08.8403234Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Stop Test",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Testing/Stop Test",
+    "commandType": "Item",
+    "template": "Action",
     "sourceControlRevisionId": null
   }
 ]

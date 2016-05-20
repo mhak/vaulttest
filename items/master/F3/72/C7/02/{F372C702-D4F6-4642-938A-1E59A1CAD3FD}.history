@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Latest Failures",
     "commandType": "Item",
     "template": "ReportQuery",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F372C702-D4F6-4642-938A-1E59A1CAD3FD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:37.7885473Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Latest Failures",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Latest Failures",
+    "commandType": "Item",
+    "template": "ReportQuery",
     "sourceControlRevisionId": null
   }
 ]

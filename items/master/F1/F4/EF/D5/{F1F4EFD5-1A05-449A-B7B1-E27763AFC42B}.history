@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/Branches/System/Layouts/__Xml layout/__Xml layout",
     "commandType": "Item",
     "template": "Xml layout",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F1F4EFD5-1A05-449A-B7B1-E27763AFC42B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:41.2071747Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Xml layout",
+    "itemPath": "/sitecore/templates/Branches/System/Layouts/__Xml layout/__Xml layout",
+    "commandType": "Item",
+    "template": "Xml layout",
     "sourceControlRevisionId": null
   }
 ]

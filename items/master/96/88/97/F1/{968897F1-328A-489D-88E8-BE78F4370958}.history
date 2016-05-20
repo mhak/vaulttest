@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Goals/Brochures Request",
     "commandType": "Item",
     "template": "Page Event",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{968897F1-328A-489D-88E8-BE78F4370958}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:03.7255991Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Brochures Request",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Goals/Brochures Request",
+    "commandType": "Item",
+    "template": "Page Event",
     "sourceControlRevisionId": null
   }
 ]

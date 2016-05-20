@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/External",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D46F5771-1662-4CFF-9684-804C35DDEA3C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:28.0574226Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "External",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/External",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

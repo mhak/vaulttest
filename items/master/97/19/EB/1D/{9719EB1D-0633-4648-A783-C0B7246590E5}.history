@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Geo",
     "commandType": "Item",
     "template": "Dictionary folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9719EB1D-0633-4648-A783-C0B7246590E5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:47.6736809Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Geo",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Geo",
+    "commandType": "Item",
+    "template": "Dictionary folder",
     "sourceControlRevisionId": null
   }
 ]

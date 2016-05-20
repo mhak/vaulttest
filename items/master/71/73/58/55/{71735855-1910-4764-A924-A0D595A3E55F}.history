@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Common/JourneyMode",
     "commandType": "Item",
     "template": "Dictionary entry",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{71735855-1910-4764-A924-A0D595A3E55F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:48.6767383Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "JourneyMode",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Common/JourneyMode",
+    "commandType": "Item",
+    "template": "Dictionary entry",
     "sourceControlRevisionId": null
   }
 ]

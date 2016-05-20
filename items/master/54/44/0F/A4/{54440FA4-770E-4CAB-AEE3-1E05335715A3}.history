@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Base/Classification",
     "commandType": "Item",
     "template": "Template Folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{54440FA4-770E-4CAB-AEE3-1E05335715A3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:48.9676186Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Classification",
+    "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Base/Classification",
+    "commandType": "Item",
+    "template": "Template Folder",
     "sourceControlRevisionId": null
   }
 ]

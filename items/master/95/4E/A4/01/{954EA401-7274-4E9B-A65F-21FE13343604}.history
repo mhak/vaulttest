@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Social/Gender",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{954EA401-7274-4E9B-A65F-21FE13343604}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:07.3122360Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Gender",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Social/Gender",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

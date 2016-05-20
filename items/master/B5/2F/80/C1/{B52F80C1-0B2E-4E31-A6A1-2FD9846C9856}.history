@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Mongolia",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B52F80C1-0B2E-4E31-A6A1-2FD9846C9856}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:28.0239888Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Mongolia",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Mongolia",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

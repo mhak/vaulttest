@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Norfolk Island",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8CDA7A33-08DE-4F47-B4FA-8C14B5257EB1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:28.7800321Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Norfolk Island",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Norfolk Island",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

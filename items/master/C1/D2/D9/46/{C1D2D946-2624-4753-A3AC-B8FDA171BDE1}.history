@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Geo/Editor/GeoEditorTest_OUT_OF_QUERIES",
     "commandType": "Item",
     "template": "Dictionary entry",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C1D2D946-2624-4753-A3AC-B8FDA171BDE1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:51.7089117Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "GeoEditorTest_OUT_OF_QUERIES",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Geo/Editor/GeoEditorTest_OUT_OF_QUERIES",
+    "commandType": "Item",
+    "template": "Dictionary entry",
     "sourceControlRevisionId": null
   }
 ]

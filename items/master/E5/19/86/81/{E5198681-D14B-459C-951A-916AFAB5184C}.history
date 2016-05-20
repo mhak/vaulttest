@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Profile Key Controls",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E5198681-D14B-459C-951A-916AFAB5184C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:18.1154221Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Profile Key Controls",
+    "itemPath": "/sitecore/system/Settings/Analytics/Profile Key Controls",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

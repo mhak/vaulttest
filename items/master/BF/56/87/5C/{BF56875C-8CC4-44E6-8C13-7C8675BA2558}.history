@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/media library/System/Page Event Images/Session Begin",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BF56875C-8CC4-44E6-8C13-7C8675BA2558}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:45.3805498Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Session Begin",
+    "itemPath": "/sitecore/media library/System/Page Event Images/Session Begin",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]

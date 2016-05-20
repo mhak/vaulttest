@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Templates/Sections/Item Buckets/Item Buckets/__Is Bucket",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D312103C-B36C-4CA5-864A-C85F9ABDA503}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:15:04.3259288Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Is Bucket",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Item Buckets/Item Buckets/__Is Bucket",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

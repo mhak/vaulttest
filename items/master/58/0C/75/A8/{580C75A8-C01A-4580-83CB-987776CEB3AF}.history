@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Dictionary/Dictionary entry/Data/Key",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{580C75A8-C01A-4580-83CB-987776CEB3AF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:07.4216741Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Key",
+    "itemPath": "/sitecore/templates/System/Dictionary/Dictionary entry/Data/Key",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

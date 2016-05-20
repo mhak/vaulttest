@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Path Analyzer/GoalMap",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{42540780-99A0-4144-BC9A-5D673FC63B6A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:39.5195100Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Goal Map",
+    "itemPath": "/sitecore/templates/System/Path Analyzer/GoalMap",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

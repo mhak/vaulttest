@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Engagement Automation/Engagement Plan/__Standard Values",
     "commandType": "Item",
     "template": "Engagement Plan",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{86AE6B49-CEFA-4BCB-B7BF-CD45D2ECB05B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:52.5398229Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Analytics/Engagement Automation/Engagement Plan/__Standard Values",
+    "commandType": "Item",
+    "template": "Engagement Plan",
     "sourceControlRevisionId": null
   }
 ]

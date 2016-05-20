@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Social/Empty Message",
     "commandType": "Item",
     "template": "Validation Rule",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{573F696B-BA0C-454B-8F6F-924C88EC2805}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:29.1414846Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Empty Message",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Social/Empty Message",
+    "commandType": "Item",
+    "template": "Validation Rule",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Rules/Viewer/RulesViewerDescription",
     "commandType": "Item",
     "template": "Dictionary entry",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{384FD942-E49F-4BA8-AFAC-E248971A266F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:55.8411481Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "RulesViewerDescription",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Rules/Viewer/RulesViewerDescription",
+    "commandType": "Item",
+    "template": "Dictionary entry",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/layout/Sublayouts",
     "commandType": "Item",
     "template": "Node",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EB443C0B-F923-409E-85F3-E7893C8C30C2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:36.7520563Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sublayouts",
+    "itemPath": "/sitecore/layout/Sublayouts",
+    "commandType": "Item",
+    "template": "Node",
     "sourceControlRevisionId": null
   }
 ]

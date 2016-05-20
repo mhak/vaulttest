@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/media library/Images/Social/Connector/Twitter",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{78D8D914-51C8-41F3-8424-021262F148B8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:41.6403359Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Twitter",
+    "itemPath": "/sitecore/media library/Images/Social/Connector/Twitter",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]

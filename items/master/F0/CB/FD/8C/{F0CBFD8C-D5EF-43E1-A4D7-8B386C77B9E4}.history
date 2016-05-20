@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Child Sorting",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F0CBFD8C-D5EF-43E1-A4D7-8B386C77B9E4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:44.3923569Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Child Sorting",
+    "itemPath": "/sitecore/templates/System/Child Sorting",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

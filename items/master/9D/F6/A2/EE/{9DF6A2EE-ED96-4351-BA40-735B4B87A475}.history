@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Path Analyzer Map Groups/Tags/Default",
     "commandType": "Item",
     "template": "Tags Definition",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9DF6A2EE-ED96-4351-BA40-735B4B87A475}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:25.9583025Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Default",
+    "itemPath": "/sitecore/system/Settings/Rules/Path Analyzer Map Groups/Tags/Default",
+    "commandType": "Item",
+    "template": "Tags Definition",
     "sourceControlRevisionId": null
   }
 ]

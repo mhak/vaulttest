@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Tab Options/Bookmark All",
     "commandType": "Item",
     "template": "Tab Option",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{16DBEEB1-443D-4187-8FFA-81DAF5A2A336}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:51.3293218Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Bookmark All",
+    "itemPath": "/sitecore/system/Settings/Buckets/Tab Options/Bookmark All",
+    "commandType": "Item",
+    "template": "Tab Option",
     "sourceControlRevisionId": null
   }
 ]

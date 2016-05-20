@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Path Analyzer/VisitMap/__Standard Values",
     "commandType": "Item",
     "template": "VisitMap",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{584B9512-6664-469B-B51D-6BA70087747D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:41.5396255Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Path Analyzer/VisitMap/__Standard Values",
+    "commandType": "Item",
+    "template": "VisitMap",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Operations/Information Architecture/Serialize Items",
     "commandType": "Item",
     "template": "Dropdown List",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{19A763F5-5540-4096-9CF6-43E79B678907}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:50.8712956Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Serialize Items",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Operations/Information Architecture/Serialize Items",
+    "commandType": "Item",
+    "template": "Dropdown List",
     "sourceControlRevisionId": null
   }
 ]

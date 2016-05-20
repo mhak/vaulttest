@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/TagRepository",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{154D56CC-0DE2-43C7-BBC0-A25BD7FFD901}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:46.5880506Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "TagRepository",
+    "itemPath": "/sitecore/system/Settings/Buckets/TagRepository",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

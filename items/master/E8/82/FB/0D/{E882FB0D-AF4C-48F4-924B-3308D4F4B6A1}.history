@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Preset Persona/Data/Environment",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E882FB0D-AF4C-48F4-924B-3308D4F4B6A1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:38.2654382Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Environment",
+    "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Preset Persona/Data/Environment",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

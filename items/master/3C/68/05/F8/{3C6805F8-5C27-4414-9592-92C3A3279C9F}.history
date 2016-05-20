@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Path Analyzer/AssetMap/Scope/TargetAsset",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3C6805F8-5C27-4414-9592-92C3A3279C9F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:39.9315335Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "TargetAsset",
+    "itemPath": "/sitecore/templates/System/Path Analyzer/AssetMap/Scope/TargetAsset",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Testing/End Test Behavior/Is Content Test/Winner found/Original Winner",
     "commandType": "Item",
     "template": "Rule Container",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9D22AD6A-3205-452C-973F-3445BE123A2C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:41.9397848Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Original Winner",
+    "itemPath": "/sitecore/system/Settings/Analytics/Testing/End Test Behavior/Is Content Test/Winner found/Original Winner",
+    "commandType": "Item",
+    "template": "Rule Container",
     "sourceControlRevisionId": null
   }
 ]

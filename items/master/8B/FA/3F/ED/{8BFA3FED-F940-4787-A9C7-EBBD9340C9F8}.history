@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Engagement Automation/Predefined items/Actions/Add or Remove Visitor from Roles",
     "commandType": "Item",
     "template": "Engagement Automation Action",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8BFA3FED-F940-4787-A9C7-EBBD9340C9F8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:20.4235541Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Add or Remove Visitor from Roles",
+    "itemPath": "/sitecore/system/Settings/Analytics/Engagement Automation/Predefined items/Actions/Add or Remove Visitor from Roles",
+    "commandType": "Item",
+    "template": "Engagement Automation Action",
     "sourceControlRevisionId": null
   }
 ]

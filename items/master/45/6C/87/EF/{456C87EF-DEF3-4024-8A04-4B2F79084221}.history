@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Social/Message/Social Marketer Message/Data/Comments",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{456C87EF-DEF3-4024-8A04-4B2F79084221}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:58.6116020Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Comments",
+    "itemPath": "/sitecore/templates/System/Social/Message/Social Marketer Message/Data/Comments",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Jamaica",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9E2619F3-E8B2-4DAD-97B2-B88337EBCFDD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:26.3138910Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Jamaica",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Jamaica",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

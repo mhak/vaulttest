@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/media library/Images",
     "commandType": "Item",
     "template": "Media folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{15451229-7534-44EF-815D-D93D6170BFCB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:41.1393072Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Images",
+    "itemPath": "/sitecore/media library/Images",
+    "commandType": "Item",
+    "template": "Media folder",
     "sourceControlRevisionId": null
   }
 ]

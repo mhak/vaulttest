@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Engagement Automation/Flow Type/DMS",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3071A91E-77BA-40BC-929B-58E1E8205281}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:20.2155422Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "DMS",
+    "itemPath": "/sitecore/system/Settings/Analytics/Engagement Automation/Flow Type/DMS",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

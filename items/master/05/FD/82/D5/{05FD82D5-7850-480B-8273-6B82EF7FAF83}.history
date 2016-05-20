@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Testing/Multivariate Test Strategy/Test Variable Strategy Script/References",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{05FD82D5-7850-480B-8273-6B82EF7FAF83}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:00.3552699Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "References",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Multivariate Test Strategy/Test Variable Strategy Script/References",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

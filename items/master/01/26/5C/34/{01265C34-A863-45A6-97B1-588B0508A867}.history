@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Operations/Presentation",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{01265C34-A863-45A6-97B1-588B0508A867}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:50.4422711Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Presentation",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Operations/Presentation",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

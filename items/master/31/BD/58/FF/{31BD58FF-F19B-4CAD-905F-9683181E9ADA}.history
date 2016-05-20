@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Reports/Subreports/Not Found Urls Visits",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{31BD58FF-F19B-4CAD-905F-9683181E9ADA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:45.6169951Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Not Found Urls Visits",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Subreports/Not Found Urls Visits",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

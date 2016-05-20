@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/layout/Sublayouts/Sample Datasource Sublayout",
     "commandType": "Item",
     "template": "Sublayout",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9EB73C4C-1AF7-47C7-85B8-93E08176D4D2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:39.1071910Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sample Datasource Sublayout",
+    "itemPath": "/sitecore/layout/Sublayouts/Sample Datasource Sublayout",
+    "commandType": "Item",
+    "template": "Sublayout",
     "sourceControlRevisionId": null
   }
 ]

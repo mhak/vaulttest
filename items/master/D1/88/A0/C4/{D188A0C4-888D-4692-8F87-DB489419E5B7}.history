@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visit/Number of assets downloaded",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D188A0C4-888D-4692-8F87-DB489419E5B7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:10.1333974Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Number of assets downloaded",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visit/Number of assets downloaded",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

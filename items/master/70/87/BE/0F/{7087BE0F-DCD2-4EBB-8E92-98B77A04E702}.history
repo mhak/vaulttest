@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Segment Builder/Tags/Default",
     "commandType": "Item",
     "template": "Tags Definition",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7087BE0F-DCD2-4EBB-8E92-98B77A04E702}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:26.4643314Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Default",
+    "itemPath": "/sitecore/system/Settings/Rules/Segment Builder/Tags/Default",
+    "commandType": "Item",
+    "template": "Tags Definition",
     "sourceControlRevisionId": null
   }
 ]

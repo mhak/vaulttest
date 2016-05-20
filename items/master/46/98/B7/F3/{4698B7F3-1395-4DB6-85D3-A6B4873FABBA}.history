@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Bermuda",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4698B7F3-1395-4DB6-85D3-A6B4873FABBA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:22.3106621Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Bermuda",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Bermuda",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

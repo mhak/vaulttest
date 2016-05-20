@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Guinea",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{734DDBC7-F58E-4C2A-B9BF-89D4254F8611}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:25.4678426Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Guinea",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Guinea",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Puerto Rico",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BCA389CA-36E3-4974-8150-3442AE54DF36}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:29.5690772Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Puerto Rico",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Puerto Rico",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

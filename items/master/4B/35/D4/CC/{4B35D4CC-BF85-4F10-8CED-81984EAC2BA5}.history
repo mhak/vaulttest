@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Insert Options/Remove Insert Option",
     "commandType": "Item",
     "template": "Action",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4B35D4CC-BF85-4F10-8CED-81984EAC2BA5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:01.6599127Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Remove Insert Option",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Insert Options/Remove Insert Option",
+    "commandType": "Item",
+    "template": "Action",
     "sourceControlRevisionId": null
   }
 ]

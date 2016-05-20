@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Tanzania United Republic of",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{57B8F93B-1C97-4468-8C46-69CF97417E77}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:31.5021878Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tanzania United Republic of",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Tanzania United Republic of",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

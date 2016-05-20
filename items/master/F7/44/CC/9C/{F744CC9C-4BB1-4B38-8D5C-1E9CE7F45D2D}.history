@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Workflows/Sample Workflow/Awaiting Approval/Approve without Test",
     "commandType": "Item",
     "template": "Command",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F744CC9C-4BB1-4B38-8D5C-1E9CE7F45D2D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:35.6838588Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Approve without Test",
+    "itemPath": "/sitecore/system/Workflows/Sample Workflow/Awaiting Approval/Approve without Test",
+    "commandType": "Item",
+    "template": "Command",
     "sourceControlRevisionId": null
   }
 ]

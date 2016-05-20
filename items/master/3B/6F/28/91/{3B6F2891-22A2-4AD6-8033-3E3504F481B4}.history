@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Goals/Tweet",
     "commandType": "Item",
     "template": "Goal",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3B6F2891-22A2-4AD6-8033-3E3504F481B4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:04.1216217Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tweet",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Goals/Tweet",
+    "commandType": "Item",
+    "template": "Goal",
     "sourceControlRevisionId": null
   }
 ]

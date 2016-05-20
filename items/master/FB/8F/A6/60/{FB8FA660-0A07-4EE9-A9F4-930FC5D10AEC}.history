@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Organic Search/Organic branded search",
     "commandType": "Item",
     "template": "Channel",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FB8FA660-0A07-4EE9-A9F4-930FC5D10AEC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:59.9373824Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Organic branded search",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Organic Search/Organic branded search",
+    "commandType": "Item",
+    "template": "Channel",
     "sourceControlRevisionId": null
   }
 ]

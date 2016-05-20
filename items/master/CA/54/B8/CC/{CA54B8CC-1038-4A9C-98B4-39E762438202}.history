@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Goals/Viewer/GoalViewerDescription",
     "commandType": "Item",
     "template": "Dictionary entry",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CA54B8CC-1038-4A9C-98B4-39E762438202}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:52.4639549Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "GoalViewerDescription",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Goals/Viewer/GoalViewerDescription",
+    "commandType": "Item",
+    "template": "Dictionary entry",
     "sourceControlRevisionId": null
   }
 ]

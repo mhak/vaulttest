@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/layout/Renderings/Social MVC/Connector/Login with Facebook",
     "commandType": "Item",
     "template": "Controller rendering",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A58672D4-0B34-41B2-9CCF-5A48C275FD40}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:38.7051680Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Login with Facebook",
+    "itemPath": "/sitecore/layout/Renderings/Social MVC/Connector/Login with Facebook",
+    "commandType": "Item",
+    "template": "Controller rendering",
     "sourceControlRevisionId": null
   }
 ]

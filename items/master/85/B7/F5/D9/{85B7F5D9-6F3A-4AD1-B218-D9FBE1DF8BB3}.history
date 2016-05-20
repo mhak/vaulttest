@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Layout/Layout group",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{85B7F5D9-6F3A-4AD1-B218-D9FBE1DF8BB3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:16.7872097Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Layout group",
+    "itemPath": "/sitecore/templates/System/Layout/Layout group",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

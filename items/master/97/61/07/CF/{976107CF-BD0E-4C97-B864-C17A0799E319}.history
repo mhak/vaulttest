@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Tonga",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{976107CF-BD0E-4C97-B864-C17A0799E319}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:31.7392013Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tonga",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Tonga",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

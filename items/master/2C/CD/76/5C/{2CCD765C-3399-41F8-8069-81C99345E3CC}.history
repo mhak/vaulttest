@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Test Suggestions/Has never been tested",
     "commandType": "Item",
     "template": "Suggested Test",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2CCD765C-3399-41F8-8069-81C99345E3CC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:41.4357560Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Has never been tested",
+    "itemPath": "/sitecore/system/Settings/Analytics/Test Suggestions/Has never been tested",
+    "commandType": "Item",
+    "template": "Suggested Test",
     "sourceControlRevisionId": null
   }
 ]

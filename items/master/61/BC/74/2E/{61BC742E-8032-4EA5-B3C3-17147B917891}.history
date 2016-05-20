@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Testing/Test Definition/Data",
     "commandType": "Item",
     "template": "Template section",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{61BC742E-8032-4EA5-B3C3-17147B917891}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:01.9043585Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Data",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Test Definition/Data",
+    "commandType": "Item",
+    "template": "Template section",
     "sourceControlRevisionId": null
   }
 ]

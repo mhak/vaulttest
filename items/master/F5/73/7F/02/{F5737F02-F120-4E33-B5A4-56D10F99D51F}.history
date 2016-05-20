@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Test Winner Strategies/Test Objective",
     "commandType": "Item",
     "template": "Test Winner Strategy",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F5737F02-F120-4E33-B5A4-56D10F99D51F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:44.1099089Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Test Objective",
+    "itemPath": "/sitecore/system/Settings/Analytics/Test Winner Strategies/Test Objective",
+    "commandType": "Item",
+    "template": "Test Winner Strategy",
     "sourceControlRevisionId": null
   }
 ]

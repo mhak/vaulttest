@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/layout/Simulators/Large Android Phone/Large Android Phone Landscape",
     "commandType": "Item",
     "template": "Simulator Rotated State",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1875D4AC-A81F-4558-B26A-D61D96F80C9C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:40.3632628Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Large Android Phone Landscape",
+    "itemPath": "/sitecore/layout/Simulators/Large Android Phone/Large Android Phone Landscape",
+    "commandType": "Item",
+    "template": "Simulator Rotated State",
     "sourceControlRevisionId": null
   }
 ]

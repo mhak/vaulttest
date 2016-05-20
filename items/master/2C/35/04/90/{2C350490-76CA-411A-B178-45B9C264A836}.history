@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Toolbox/Renderings/Renderings",
     "commandType": "Item",
     "template": "Reference",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2C350490-76CA-411A-B178-45B9C264A836}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:34.0417648Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Renderings",
+    "itemPath": "/sitecore/system/Toolbox/Renderings/Renderings",
+    "commandType": "Item",
+    "template": "Reference",
     "sourceControlRevisionId": null
   }
 ]

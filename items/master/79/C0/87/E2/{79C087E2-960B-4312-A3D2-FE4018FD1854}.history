@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Validation/Field Type Validation Rules",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{79C087E2-960B-4312-A3D2-FE4018FD1854}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:15:08.5381697Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Field Type Validation Rules",
+    "itemPath": "/sitecore/templates/System/Validation/Field Type Validation Rules",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

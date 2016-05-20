@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Filter Control Types/Check Box",
     "commandType": "Item",
     "template": "Search Control Type",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C462EE15-C19E-4EC5-A802-603A1A9C61E6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:50.0472485Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Check Box",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Filter Control Types/Check Box",
+    "commandType": "Item",
+    "template": "Search Control Type",
     "sourceControlRevisionId": null
   }
 ]

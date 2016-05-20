@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/layout/Simulators/Android Tablet/No Silverlight Support Trait",
     "commandType": "Item",
     "template": "No Silverlight Support Trait",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D3BA27C5-42B0-4BEF-8C0E-D3ADEBDF32A0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:40.3112598Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "No Silverlight Support Trait",
+    "itemPath": "/sitecore/layout/Simulators/Android Tablet/No Silverlight Support Trait",
+    "commandType": "Item",
+    "template": "No Silverlight Support Trait",
     "sourceControlRevisionId": null
   }
 ]

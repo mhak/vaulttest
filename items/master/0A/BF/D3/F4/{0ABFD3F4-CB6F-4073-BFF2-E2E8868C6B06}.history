@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Tags/Common",
     "commandType": "Item",
     "template": "Dictionary folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0ABFD3F4-CB6F-4073-BFF2-E2E8868C6B06}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:56.2311704Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Common",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Tags/Common",
+    "commandType": "Item",
+    "template": "Dictionary folder",
     "sourceControlRevisionId": null
   }
 ]

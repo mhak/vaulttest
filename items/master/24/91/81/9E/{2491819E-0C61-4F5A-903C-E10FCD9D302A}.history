@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Templates/Sections/Validators",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2491819E-0C61-4F5A-903C-E10FCD9D302A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:15:02.6608336Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Validators",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Validators",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Workflows/Social Marketer Message Workflow/Awaiting Post Review/Edit/Edit Message",
     "commandType": "Item",
     "template": "Action",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1E2DC838-12E4-4301-A1D6-9F41A22B2F3A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:37.2289471Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Edit Message",
+    "itemPath": "/sitecore/system/Workflows/Social Marketer Message Workflow/Awaiting Post Review/Edit/Edit Message",
+    "commandType": "Item",
+    "template": "Action",
     "sourceControlRevisionId": null
   }
 ]

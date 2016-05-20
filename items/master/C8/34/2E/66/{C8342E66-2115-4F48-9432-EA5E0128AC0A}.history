@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Dashboard Reports/Traffic Type/Traffic Site Search",
     "commandType": "Item",
     "template": "Dashboard Report",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C8342E66-2115-4F48-9432-EA5E0128AC0A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:20.0275315Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Traffic Site Search",
+    "itemPath": "/sitecore/system/Settings/Analytics/Dashboard Reports/Traffic Type/Traffic Site Search",
+    "commandType": "Item",
+    "template": "Dashboard Report",
     "sourceControlRevisionId": null
   }
 ]

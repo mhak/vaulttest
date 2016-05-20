@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Media/Unversioned/File/Location/LocationDescription",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E8FA62D2-13FC-4C5C-91E5-71D615591420}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:29.2379219Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "LocationDescription",
+    "itemPath": "/sitecore/templates/System/Media/Unversioned/File/Location/LocationDescription",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Media/Versioned/Jpeg/Exif/Make",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{10B97380-7DD1-44B6-BD3F-9FC8B2C7F21E}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:33.8771872Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Make",
+    "itemPath": "/sitecore/templates/System/Media/Versioned/Jpeg/Exif/Make",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

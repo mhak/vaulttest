@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Control/Control/Path",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AD8D5F6D-D0A3-4F86-A4E7-C29FF7427597}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:35.9743072Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Path",
+    "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Control/Control/Path",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

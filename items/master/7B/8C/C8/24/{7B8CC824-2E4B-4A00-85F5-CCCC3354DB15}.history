@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Item Buckets/Boosting Rule",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7B8CC824-2E4B-4A00-85F5-CCCC3354DB15}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:12.5709686Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Boosting Rule",
+    "itemPath": "/sitecore/templates/System/Item Buckets/Boosting Rule",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

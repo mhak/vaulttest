@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Field Types/TreeListEx",
     "commandType": "Item",
     "template": "Field Type Validation Rules",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7FC39C10-06D0-4DA0-86C9-677938795915}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:31.1205978Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "TreeListEx",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Types/TreeListEx",
+    "commandType": "Item",
+    "template": "Field Type Validation Rules",
     "sourceControlRevisionId": null
   }
 ]

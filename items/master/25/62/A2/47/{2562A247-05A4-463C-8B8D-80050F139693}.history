@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Segment Builder",
     "commandType": "Item",
     "template": "Element Folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2562A247-05A4-463C-8B8D-80050F139693}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:55.2605467Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Segment Builder",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Segment Builder",
+    "commandType": "Item",
+    "template": "Element Folder",
     "sourceControlRevisionId": null
   }
 ]

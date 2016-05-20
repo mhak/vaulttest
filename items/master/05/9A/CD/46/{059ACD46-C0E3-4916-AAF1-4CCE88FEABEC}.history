@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Social/Klout/Klout Application/Key Rate Limits/Calls per second",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{059ACD46-C0E3-4916-AAF1-4CCE88FEABEC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:58.2295801Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Calls per second",
+    "itemPath": "/sitecore/templates/System/Social/Klout/Klout Application/Key Rate Limits/Calls per second",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

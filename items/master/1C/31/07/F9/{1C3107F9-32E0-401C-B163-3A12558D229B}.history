@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Validation Rules/Tags/Default",
     "commandType": "Item",
     "template": "Tags Definition",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1C3107F9-32E0-401C-B163-3A12558D229B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:26.7983505Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Default",
+    "itemPath": "/sitecore/system/Settings/Rules/Validation Rules/Tags/Default",
+    "commandType": "Item",
+    "template": "Tags Definition",
     "sourceControlRevisionId": null
   }
 ]

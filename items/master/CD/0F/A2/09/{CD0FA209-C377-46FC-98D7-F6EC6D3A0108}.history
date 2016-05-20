@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Preset/Viewer/PresetViewerEducation",
     "commandType": "Item",
     "template": "Dictionary entry",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CD0FA209-C377-46FC-98D7-F6EC6D3A0108}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:53.9060374Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "PresetViewerEducation",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Preset/Viewer/PresetViewerEducation",
+    "commandType": "Item",
+    "template": "Dictionary entry",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Reports/Subreports/Sample Visits/Sample Visits",
     "commandType": "Item",
     "template": "Report",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{ADC0E9F6-36AB-4F23-90F7-28B9E063EC97}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:46.1150236Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sample Visits",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Subreports/Sample Visits/Sample Visits",
+    "commandType": "Item",
+    "template": "Report",
     "sourceControlRevisionId": null
   }
 ]

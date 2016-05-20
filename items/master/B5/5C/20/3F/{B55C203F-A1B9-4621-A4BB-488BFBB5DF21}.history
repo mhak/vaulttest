@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Operations/Information Architecture/Clone Item List to Location",
     "commandType": "Item",
     "template": "Dropdown List",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B55C203F-A1B9-4621-A4BB-488BFBB5DF21}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:50.6572834Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Clone Item List to Location",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Operations/Information Architecture/Clone Item List to Location",
+    "commandType": "Item",
+    "template": "Dropdown List",
     "sourceControlRevisionId": null
   }
 ]

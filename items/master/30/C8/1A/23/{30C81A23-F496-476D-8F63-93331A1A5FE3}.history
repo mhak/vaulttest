@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Satellite Provider",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{30C81A23-F496-476D-8F63-93331A1A5FE3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:30.3941244Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Satellite Provider",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Satellite Provider",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

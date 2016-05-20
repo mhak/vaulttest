@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Media/Versioned/Image/Properties/Dimensions",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6405CC9E-9CA1-44A1-ADF8-0DECF05071CE}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:33.5511686Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Dimensions",
+    "itemPath": "/sitecore/templates/System/Media/Versioned/Image/Properties/Dimensions",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

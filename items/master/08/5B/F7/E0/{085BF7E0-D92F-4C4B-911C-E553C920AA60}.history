@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Reports/Subreports/Business Overview",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{085BF7E0-D92F-4C4B-911C-E553C920AA60}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:45.4789872Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Business Overview",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Subreports/Business Overview",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

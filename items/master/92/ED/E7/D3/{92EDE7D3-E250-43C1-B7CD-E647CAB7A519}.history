@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Asset/Asset/__Standard Values",
     "commandType": "Item",
     "template": "Asset",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{92EDE7D3-E250-43C1-B7CD-E647CAB7A519}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:48.6295992Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Asset/Asset/__Standard Values",
+    "commandType": "Item",
+    "template": "Asset",
     "sourceControlRevisionId": null
   }
 ]

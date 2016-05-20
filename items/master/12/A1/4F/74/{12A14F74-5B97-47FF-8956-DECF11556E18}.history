@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Security/Security Preset/Data/Overwrite",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{12A14F74-5B97-47FF-8956-DECF11556E18}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:53.3262997Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Overwrite",
+    "itemPath": "/sitecore/templates/System/Security/Security Preset/Data/Overwrite",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

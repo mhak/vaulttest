@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Ribbon/Strip/Data/ID",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{12C1CEB4-F549-472A-97ED-99BFF70EB84E}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:48.6070297Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ID",
+    "itemPath": "/sitecore/templates/System/Ribbon/Strip/Data/ID",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

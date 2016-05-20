@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Box Dropdown/Recently Created",
     "commandType": "Item",
     "template": "Dropdown List",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FBB5CAEA-9ACB-4613-8A52-AECDDA690AC3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:49.7802332Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Recently Created",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Box Dropdown/Recently Created",
+    "commandType": "Item",
+    "template": "Dropdown List",
     "sourceControlRevisionId": null
   }
 ]

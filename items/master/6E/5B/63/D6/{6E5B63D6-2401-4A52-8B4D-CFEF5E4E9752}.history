@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Engagement Automation/Engagement Plan",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6E5B63D6-2401-4A52-8B4D-CFEF5E4E9752}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:51.9817910Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Engagement Plan",
+    "itemPath": "/sitecore/templates/System/Analytics/Engagement Automation/Engagement Plan",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

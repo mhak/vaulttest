@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Engagement Automation/Predefined items",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{27FFA045-C7BC-4E88-815E-EC776755A4A4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:20.1225369Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Predefined items",
+    "itemPath": "/sitecore/system/Settings/Analytics/Engagement Automation/Predefined items",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

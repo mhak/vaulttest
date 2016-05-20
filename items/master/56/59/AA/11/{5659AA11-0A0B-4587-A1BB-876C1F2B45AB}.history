@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Layout/Renderings/Webcontrol/Editor Options",
     "commandType": "Item",
     "template": "Template section",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5659AA11-0A0B-4587-A1BB-876C1F2B45AB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:24.9686777Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Editor Options",
+    "itemPath": "/sitecore/templates/System/Layout/Renderings/Webcontrol/Editor Options",
+    "commandType": "Item",
+    "template": "Template section",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Operations/Fields/Search and Replace",
     "commandType": "Item",
     "template": "Dropdown List",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0A735B41-7107-4700-A214-E4580575A69C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:50.5722785Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Search and Replace",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Operations/Fields/Search and Replace",
+    "commandType": "Item",
+    "template": "Dropdown List",
     "sourceControlRevisionId": null
   }
 ]

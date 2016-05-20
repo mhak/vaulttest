@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Page Event/__Standard Values",
     "commandType": "Item",
     "template": "Page Event",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{69173E9E-26CB-4393-B376-2EADD7349410}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:55.5779966Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Analytics/Page Event/__Standard Values",
+    "commandType": "Item",
+    "template": "Page Event",
     "sourceControlRevisionId": null
   }
 ]

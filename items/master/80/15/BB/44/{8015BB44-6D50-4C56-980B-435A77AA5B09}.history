@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Social/Application",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8015BB44-6D50-4C56-980B-435A77AA5B09}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:55.1834059Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Application",
+    "itemPath": "/sitecore/templates/System/Social/Application",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

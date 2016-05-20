@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Channel/Current Interaction is on channel condition",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2F421912-F1B3-49D8-82B8-50A64C80E4E3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:56.3576094Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Current Interaction is on channel condition",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Channel/Current Interaction is on channel condition",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

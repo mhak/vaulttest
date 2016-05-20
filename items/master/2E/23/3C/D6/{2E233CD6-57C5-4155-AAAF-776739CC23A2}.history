@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Myanmar",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2E233CD6-57C5-4155-AAAF-776739CC23A2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:28.2670027Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Myanmar",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Myanmar",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

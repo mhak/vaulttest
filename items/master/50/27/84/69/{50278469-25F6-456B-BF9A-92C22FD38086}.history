@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Persona/Chris",
     "commandType": "Item",
     "template": "Profile Key",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{50278469-25F6-456B-BF9A-92C22FD38086}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:11.5690477Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Chris",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Persona/Chris",
+    "commandType": "Item",
+    "template": "Profile Key",
     "sourceControlRevisionId": null
   }
 ]

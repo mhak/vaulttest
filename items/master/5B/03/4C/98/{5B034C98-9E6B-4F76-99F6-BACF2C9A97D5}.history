@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Social/Klout/Applications",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5B034C98-9E6B-4F76-99F6-BACF2C9A97D5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:33.0087058Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Applications",
+    "itemPath": "/sitecore/system/Social/Klout/Applications",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

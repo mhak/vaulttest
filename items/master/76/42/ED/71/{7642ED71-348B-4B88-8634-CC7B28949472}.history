@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Engagement Automation/Designer/Designer Item Parameters/Designer/Origin ID",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7642ED71-348B-4B88-8634-CC7B28949472}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:52.3558123Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Origin ID",
+    "itemPath": "/sitecore/templates/System/Analytics/Engagement Automation/Designer/Designer Item Parameters/Designer/Origin ID",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

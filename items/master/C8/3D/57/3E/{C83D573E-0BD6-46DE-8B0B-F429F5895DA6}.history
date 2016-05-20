@@ -429,6 +429,22 @@
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/checkbox",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C83D573E-0BD6-46DE-8B0B-F429F5895DA6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:15:13.8554739Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "checkbox",
+    "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/checkbox",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

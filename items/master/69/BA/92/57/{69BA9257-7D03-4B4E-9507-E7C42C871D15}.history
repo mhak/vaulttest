@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Field Types/server file",
     "commandType": "Item",
     "template": "Field Type Validation Rules",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{69BA9257-7D03-4B4E-9507-E7C42C871D15}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:31.1706006Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "server file",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Types/server file",
+    "commandType": "Item",
+    "template": "Field Type Validation Rules",
     "sourceControlRevisionId": null
   }
 ]

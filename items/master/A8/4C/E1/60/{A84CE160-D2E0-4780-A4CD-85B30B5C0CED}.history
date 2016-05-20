@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Sudan",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A84CE160-D2E0-4780-A4CD-85B30B5C0CED}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:31.0981647Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sudan",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Sudan",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

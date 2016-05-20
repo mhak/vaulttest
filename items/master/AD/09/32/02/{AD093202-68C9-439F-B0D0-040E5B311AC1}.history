@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Html Editor Profiles/Html Editor Drop Down/Data",
     "commandType": "Item",
     "template": "Template section",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AD093202-68C9-439F-B0D0-040E5B311AC1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:11.5039076Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Data",
+    "itemPath": "/sitecore/templates/System/Html Editor Profiles/Html Editor Drop Down/Data",
+    "commandType": "Item",
+    "template": "Template section",
     "sourceControlRevisionId": null
   }
 ]

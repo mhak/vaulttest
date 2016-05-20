@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Campaigns/Social/Twitter",
     "commandType": "Item",
     "template": "Campaign Category",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C3F38368-8A94-49A1-BA58-476A66ABCA92}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:04.3976375Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Twitter",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Campaigns/Social/Twitter",
+    "commandType": "Item",
+    "template": "Campaign Category",
     "sourceControlRevisionId": null
   }
 ]

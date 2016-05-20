@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Indexing/Boosting",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BF552C14-60E9-4724-993D-73580C86C0E8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:14.8436668Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Boosting",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Indexing/Boosting",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

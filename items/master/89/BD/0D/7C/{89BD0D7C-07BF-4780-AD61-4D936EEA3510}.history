@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/Branches/System/Layouts/Renderings/__Method Rendering/$name",
     "commandType": "Item",
     "template": "Method Rendering",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{89BD0D7C-07BF-4780-AD61-4D936EEA3510}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:40.7801503Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "$name",
+    "itemPath": "/sitecore/templates/Branches/System/Layouts/Renderings/__Method Rendering/$name",
+    "commandType": "Item",
+    "template": "Method Rendering",
     "sourceControlRevisionId": null
   }
 ]

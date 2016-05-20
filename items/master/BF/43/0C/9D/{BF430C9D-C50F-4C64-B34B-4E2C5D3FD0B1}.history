@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Html editor/HTML Tidy/Data/Filter on button",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BF430C9D-C50F-4C64-B34B-4E2C5D3FD0B1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:10.1348292Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Filter on button",
+    "itemPath": "/sitecore/templates/System/Html editor/HTML Tidy/Data/Filter on button",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

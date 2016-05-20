@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Child Sorting/Data",
     "commandType": "Item",
     "template": "Template section",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BD06D3A6-C40D-482F-8D34-8EF4FC205D84}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:07.0216512Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Data",
+    "itemPath": "/sitecore/templates/System/Child Sorting/Data",
+    "commandType": "Item",
+    "template": "Template section",
     "sourceControlRevisionId": null
   }
 ]

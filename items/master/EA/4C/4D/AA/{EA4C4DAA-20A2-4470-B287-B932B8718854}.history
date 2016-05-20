@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/layout/Sublayouts/Social/Sharing/Google Plus One Button",
     "commandType": "Item",
     "template": "Sublayout",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EA4C4DAA-20A2-4470-B287-B932B8718854}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:39.5222147Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Google +1 Button",
+    "itemPath": "/sitecore/layout/Sublayouts/Social/Sharing/Google Plus One Button",
+    "commandType": "Item",
+    "template": "Sublayout",
     "sourceControlRevisionId": null
   }
 ]

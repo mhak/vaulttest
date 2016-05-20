@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Layout/Rendering Parameters/Standard Rendering Parameters/Test Lab/Tests",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0FA4635B-8BF4-46DF-994D-621B76F0A7AD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:20.5564253Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tests",
+    "itemPath": "/sitecore/templates/System/Layout/Rendering Parameters/Standard Rendering Parameters/Test Lab/Tests",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

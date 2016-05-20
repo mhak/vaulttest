@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Content Testing/Testing Clusters By Test Id",
     "commandType": "Item",
     "template": "ReportQuery",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D9D12CE1-6CC8-4292-9674-EFF5EF3908F4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:40.9897304Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Testing Clusters By Test Id",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Content Testing/Testing Clusters By Test Id",
+    "commandType": "Item",
+    "template": "ReportQuery",
     "sourceControlRevisionId": null
   }
 ]

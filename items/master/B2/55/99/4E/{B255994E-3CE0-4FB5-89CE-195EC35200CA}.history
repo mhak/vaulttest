@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Mode/Editor/ModeEditorQuestionMark",
     "commandType": "Item",
     "template": "Dictionary entry",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B255994E-3CE0-4FB5-89CE-195EC35200CA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:52.8229755Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ModeEditorQuestionMark",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Mode/Editor/ModeEditorQuestionMark",
+    "commandType": "Item",
+    "template": "Dictionary entry",
     "sourceControlRevisionId": null
   }
 ]

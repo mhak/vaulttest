@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/Campaigns",
     "commandType": "Item",
     "template": "Tag",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AC2A4D43-DC79-458D-8A2B-E79028D47A1E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:18.9979044Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Campaigns",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/Campaigns",
+    "commandType": "Item",
+    "template": "Tag",
     "sourceControlRevisionId": null
   }
 ]

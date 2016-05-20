@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Referral/Viewer/ReferralViewerReferrer",
     "commandType": "Item",
     "template": "Dictionary entry",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4723E820-A471-411B-84BC-AEBA22E709F1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:55.6291360Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ReferralViewerReferrer",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Referral/Viewer/ReferralViewerReferrer",
+    "commandType": "Item",
+    "template": "Dictionary entry",
     "sourceControlRevisionId": null
   }
 ]

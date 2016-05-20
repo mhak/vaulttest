@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Validation/Validation Rule/Data/Use Thread",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B3607D43-E523-494E-9AFF-102678D11670}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:15:09.7792407Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Use Thread",
+    "itemPath": "/sitecore/templates/System/Validation/Validation Rule/Data/Use Thread",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

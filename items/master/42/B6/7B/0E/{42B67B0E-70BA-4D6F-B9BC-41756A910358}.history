@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Direct",
     "commandType": "Item",
     "template": "Channel Group",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{42B67B0E-70BA-4D6F-B9BC-41756A910358}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:58.3502916Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Direct",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Direct",
+    "commandType": "Item",
+    "template": "Channel Group",
     "sourceControlRevisionId": null
   }
 ]

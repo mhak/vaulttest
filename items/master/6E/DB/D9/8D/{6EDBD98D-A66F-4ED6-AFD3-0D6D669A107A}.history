@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Testing/Test Definition/Scheduling",
     "commandType": "Item",
     "template": "Template section",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6EDBD98D-A66F-4ED6-AFD3-0D6D669A107A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:02.0043642Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Scheduling",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Test Definition/Scheduling",
+    "commandType": "Item",
+    "template": "Template section",
     "sourceControlRevisionId": null
   }
 ]

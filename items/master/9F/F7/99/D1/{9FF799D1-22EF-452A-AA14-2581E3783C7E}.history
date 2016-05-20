@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Social/Posting Configuration/Goal Posting Configuration/Data",
     "commandType": "Item",
     "template": "Template section",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9FF799D1-22EF-452A-AA14-2581E3783C7E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:15:00.3337005Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Data",
+    "itemPath": "/sitecore/templates/System/Social/Posting Configuration/Goal Posting Configuration/Data",
+    "commandType": "Item",
+    "template": "Template section",
     "sourceControlRevisionId": null
   }
 ]

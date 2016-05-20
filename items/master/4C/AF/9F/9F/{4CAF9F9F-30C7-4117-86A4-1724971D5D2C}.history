@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Modules/Experience Explorer/Components/ExpViewer/Onsite Behavior/Profiles",
     "commandType": "Item",
     "template": "Control",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4CAF9F9F-30C7-4117-86A4-1724971D5D2C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:16.5653334Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Profiles",
+    "itemPath": "/sitecore/system/Modules/Experience Explorer/Components/ExpViewer/Onsite Behavior/Profiles",
+    "commandType": "Item",
+    "template": "Control",
     "sourceControlRevisionId": null
   }
 ]

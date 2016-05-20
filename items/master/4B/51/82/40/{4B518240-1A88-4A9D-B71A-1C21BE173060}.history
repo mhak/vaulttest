@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Page Events/Download brochure",
     "commandType": "Item",
     "template": "Page Event",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4B518240-1A88-4A9D-B71A-1C21BE173060}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:33.4853012Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Download brochure",
+    "itemPath": "/sitecore/system/Settings/Analytics/Page Events/Download brochure",
+    "commandType": "Item",
+    "template": "Page Event",
     "sourceControlRevisionId": null
   }
 ]

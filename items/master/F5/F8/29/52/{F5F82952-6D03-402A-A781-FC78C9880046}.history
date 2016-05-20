@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Engagement Automation/Visibility/GeoIP visibility",
     "commandType": "Item",
     "template": "Rule Elements Visibility Rule",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F5F82952-6D03-402A-A781-FC78C9880046}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:59.4167844Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "GeoIP visibility",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Engagement Automation/Visibility/GeoIP visibility",
+    "commandType": "Item",
+    "template": "Rule Elements Visibility Rule",
     "sourceControlRevisionId": null
   }
 ]

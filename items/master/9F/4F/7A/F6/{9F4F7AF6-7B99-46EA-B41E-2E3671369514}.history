@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Ghana",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9F4F7AF6-7B99-46EA-B41E-2E3671369514}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:25.0658196Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Ghana",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Ghana",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

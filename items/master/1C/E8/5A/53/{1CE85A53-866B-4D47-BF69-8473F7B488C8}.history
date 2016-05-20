@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Cayman Islands",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1CE85A53-866B-4D47-BF69-8473F7B488C8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:23.1497101Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Cayman Islands",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Cayman Islands",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

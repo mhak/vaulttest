@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/Branches/System/Layouts/__Layout Preset/$name",
     "commandType": "Item",
     "template": "Layout Preset",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4A28CAE0-6AAA-4549-AE88-CF4C84725D93}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:41.1671724Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "$name",
+    "itemPath": "/sitecore/templates/Branches/System/Layouts/__Layout Preset/$name",
+    "commandType": "Item",
+    "template": "Layout Preset",
     "sourceControlRevisionId": null
   }
 ]

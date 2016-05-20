@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Bahamas",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{58F7F912-4762-482D-AE5E-031D246343B4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:21.9196397Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Bahamas",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Bahamas",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

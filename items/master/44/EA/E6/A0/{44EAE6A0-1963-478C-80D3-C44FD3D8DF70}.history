@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Personalization/Rules/Persona/Visitor Is Human",
     "commandType": "Item",
     "template": "Conditional Rendering Rule",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{44EAE6A0-1963-478C-80D3-C44FD3D8DF70}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:10.7410003Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Visitor Is Human",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Personalization/Rules/Persona/Visitor Is Human",
+    "commandType": "Item",
+    "template": "Conditional Rendering Rule",
     "sourceControlRevisionId": null
   }
 ]

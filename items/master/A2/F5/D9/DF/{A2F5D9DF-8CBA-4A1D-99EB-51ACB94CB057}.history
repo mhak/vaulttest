@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Layout/Sections/Rendering Options/Editor Options/Page Editor Buttons",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A2F5D9DF-8CBA-4A1D-99EB-51ACB94CB057}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:27.3778155Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Page Editor Buttons",
+    "itemPath": "/sitecore/templates/System/Layout/Sections/Rendering Options/Editor Options/Page Editor Buttons",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

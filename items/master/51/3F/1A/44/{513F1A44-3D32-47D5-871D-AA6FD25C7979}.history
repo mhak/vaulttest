@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Uganda",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{513F1A44-3D32-47D5-871D-AA6FD25C7979}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:32.0742205Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Uganda",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Uganda",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

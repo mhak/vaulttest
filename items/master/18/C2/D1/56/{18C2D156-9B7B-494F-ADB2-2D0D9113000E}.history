@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/Visit",
     "commandType": "Item",
     "template": "Tag",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{18C2D156-9B7B-494F-ADB2-2D0D9113000E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:20.4949900Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Visit",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/Visit",
+    "commandType": "Item",
+    "template": "Tag",
     "sourceControlRevisionId": null
   }
 ]

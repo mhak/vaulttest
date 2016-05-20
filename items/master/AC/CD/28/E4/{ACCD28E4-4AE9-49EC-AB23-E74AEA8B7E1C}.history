@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Item Deleted/Tags/Default",
     "commandType": "Item",
     "template": "Tags Definition",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{ACCD28E4-4AE9-49EC-AB23-E74AEA8B7E1C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:25.2322610Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Default",
+    "itemPath": "/sitecore/system/Settings/Rules/Item Deleted/Tags/Default",
+    "commandType": "Item",
+    "template": "Tags Definition",
     "sourceControlRevisionId": null
   }
 ]

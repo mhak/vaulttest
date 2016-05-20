@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Filters/Paid search/Paid search - YouTube",
     "commandType": "Item",
     "template": "Filter",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{08A58CC0-3683-40A2-B6E3-E705E9F6923E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:08.4948718Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Paid search - YouTube",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Filters/Paid search/Paid search - YouTube",
+    "commandType": "Item",
+    "template": "Filter",
     "sourceControlRevisionId": null
   }
 ]

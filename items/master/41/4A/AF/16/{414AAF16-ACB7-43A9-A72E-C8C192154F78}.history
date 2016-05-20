@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Workflow/Standard Comment Template",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{414AAF16-ACB7-43A9-A72E-C8C192154F78}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:15:10.3492733Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Standard Comment Template",
+    "itemPath": "/sitecore/templates/System/Workflow/Standard Comment Template",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

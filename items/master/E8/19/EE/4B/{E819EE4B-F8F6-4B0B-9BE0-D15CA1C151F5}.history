@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Analytics Filters/Report Filters/State/South Carolina",
     "commandType": "Item",
     "template": "Predefined Filter Value",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E819EE4B-F8F6-4B0B-9BE0-D15CA1C151F5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:15.0252454Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "South Carolina",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Analytics Filters/Report Filters/State/South Carolina",
+    "commandType": "Item",
+    "template": "Predefined Filter Value",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Campaigns/Social/Social Marketer/Social Marketer Campaigns",
     "commandType": "Item",
     "template": "Campaign Category",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{031FA6AD-D948-4F1A-B97B-FC2D00AE630C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:04.7396571Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Social Marketer Campaigns",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Campaigns/Social/Social Marketer/Social Marketer Campaigns",
+    "commandType": "Item",
+    "template": "Campaign Category",
     "sourceControlRevisionId": null
   }
 ]

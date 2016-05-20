@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Tasks/Schedule/Data",
     "commandType": "Item",
     "template": "Template section",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{81F4896F-38C2-4A26-AC7A-7009BFE0259B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:15:01.3677596Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Data",
+    "itemPath": "/sitecore/templates/System/Tasks/Schedule/Data",
+    "commandType": "Item",
+    "template": "Template section",
     "sourceControlRevisionId": null
   }
 ]

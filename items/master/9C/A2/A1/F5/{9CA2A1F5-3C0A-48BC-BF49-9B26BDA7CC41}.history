@@ -429,6 +429,22 @@
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/droptree",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9CA2A1F5-3C0A-48BC-BF49-9B26BDA7CC41}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:15:14.2254950Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "droptree",
+    "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/droptree",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

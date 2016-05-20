@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Templates/Sections/Statistics/Statistics",
     "commandType": "Item",
     "template": "Template section",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B2DB1246-85F8-477D-938C-B41A8F00480E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:15:05.6660055Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Statistics",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Statistics/Statistics",
+    "commandType": "Item",
+    "template": "Template section",
     "sourceControlRevisionId": null
   }
 ]

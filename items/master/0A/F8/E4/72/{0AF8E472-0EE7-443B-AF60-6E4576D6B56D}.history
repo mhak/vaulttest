@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Facets/File Type",
     "commandType": "Item",
     "template": "Facet",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0AF8E472-0EE7-443B-AF60-6E4576D6B56D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:46.9970740Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "File Type",
+    "itemPath": "/sitecore/system/Settings/Buckets/Facets/File Type",
+    "commandType": "Item",
+    "template": "Facet",
     "sourceControlRevisionId": null
   }
 ]

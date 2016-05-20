@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Email Campaigns/Other email",
     "commandType": "Item",
     "template": "Channel",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BA1D62CB-4224-47D0-AF59-78A8972FD538}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:59.8943799Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Other email",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Email Campaigns/Other email",
+    "commandType": "Item",
+    "template": "Channel",
     "sourceControlRevisionId": null
   }
 ]

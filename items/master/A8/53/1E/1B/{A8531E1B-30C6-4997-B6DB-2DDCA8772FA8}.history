@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Text/No Tags",
     "commandType": "Item",
     "template": "Validation Rule",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A8531E1B-30C6-4997-B6DB-2DDCA8772FA8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:30.2165461Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "No Tags",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Text/No Tags",
+    "commandType": "Item",
+    "template": "Validation Rule",
     "sourceControlRevisionId": null
   }
 ]

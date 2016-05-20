@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Templates/Sections/Layout/Layout/__Presets",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A4879E42-0270-458D-9C19-A20AF3C2B765}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:15:05.0249688Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Presets",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Layout/Layout/__Presets",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

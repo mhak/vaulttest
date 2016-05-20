@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Map Settings/__Standard Values",
     "commandType": "Item",
     "template": "Map Settings",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A06BB324-AE26-4C2A-A86A-4D64D3EEE1E4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:36.3213270Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Map Settings/__Standard Values",
+    "commandType": "Item",
+    "template": "Map Settings",
     "sourceControlRevisionId": null
   }
 ]

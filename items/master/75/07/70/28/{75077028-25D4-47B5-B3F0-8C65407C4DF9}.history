@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Experience Analytics",
     "commandType": "Item",
     "template": "Template Folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{75077028-25D4-47B5-B3F0-8C65407C4DF9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:46.0434513Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Experience Analytics",
+    "itemPath": "/sitecore/templates/System/Experience Analytics",
+    "commandType": "Item",
+    "template": "Template Folder",
     "sourceControlRevisionId": null
   }
 ]

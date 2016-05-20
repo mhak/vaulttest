@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Equatorial Guinea",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BD622147-5038-47AC-AD1A-BE86AD4332B3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:24.2667739Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Equatorial Guinea",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Equatorial Guinea",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

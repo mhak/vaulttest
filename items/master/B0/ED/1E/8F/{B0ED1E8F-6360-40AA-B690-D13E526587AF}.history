@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Korea Democratic Peoples Republic of",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B0ED1E8F-6360-40AA-B690-D13E526587AF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:26.6369095Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Korea Democratic Peoples Republic of",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Korea Democratic Peoples Republic of",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

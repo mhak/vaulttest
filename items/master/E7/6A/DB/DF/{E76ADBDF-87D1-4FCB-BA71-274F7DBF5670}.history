@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Media/Unversioned/Movie",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E76ADBDF-87D1-4FCB-BA71-274F7DBF5670}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:28.2058629Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Movie",
+    "itemPath": "/sitecore/templates/System/Media/Unversioned/Movie",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

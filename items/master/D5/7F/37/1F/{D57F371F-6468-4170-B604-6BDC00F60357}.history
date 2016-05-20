@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Reports/Reports/Sales/Top Leads by Value",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D57F371F-6468-4170-B604-6BDC00F60357}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:44.8289500Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Top Leads by Value",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Reports/Sales/Top Leads by Value",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

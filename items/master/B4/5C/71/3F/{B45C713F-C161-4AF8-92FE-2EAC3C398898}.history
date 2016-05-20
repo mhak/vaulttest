@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/InclusionOperator",
     "commandType": "Item",
     "template": "Macro",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B45C713F-C161-4AF8-92FE-2EAC3C398898}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:11.9264999Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "InclusionOperator",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/InclusionOperator",
+    "commandType": "Item",
+    "template": "Macro",
     "sourceControlRevisionId": null
   }
 ]

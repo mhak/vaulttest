@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Base/Classification/Campaign Classification/Classification/Campaign Facet 2",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{13F24114-C29B-4ACB-A39B-445CCE2ED60C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:49.5316508Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Campaign Facet 2",
+    "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Base/Classification/Campaign Classification/Classification/Campaign Facet 2",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

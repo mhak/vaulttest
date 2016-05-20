@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Visitor Identifications/020 - ISP",
     "commandType": "Item",
     "template": "Visitor Identification",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A82D18F9-1E68-461D-B567-4E69E9F887D0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:43.4658721Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "020 - ISP",
+    "itemPath": "/sitecore/system/Settings/Analytics/Visitor Identifications/020 - ISP",
+    "commandType": "Item",
+    "template": "Visitor Identification",
     "sourceControlRevisionId": null
   }
 ]

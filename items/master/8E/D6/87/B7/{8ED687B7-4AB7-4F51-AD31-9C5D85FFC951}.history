@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Rules/Session End Rule/Data/Rule",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8ED687B7-4AB7-4F51-AD31-9C5D85FFC951}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:59.2712079Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rule",
+    "itemPath": "/sitecore/templates/System/Analytics/Rules/Session End Rule/Data/Rule",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

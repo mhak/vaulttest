@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Social/Connector/Login with Google Button Parameters/Social/Application",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{48409D56-0D69-446D-9CA8-D95104636A37}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:57.5775428Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Application",
+    "itemPath": "/sitecore/templates/System/Social/Connector/Login with Google Button Parameters/Social/Application",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

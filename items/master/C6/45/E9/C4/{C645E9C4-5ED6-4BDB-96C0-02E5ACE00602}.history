@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Html editor/HTML Tidy",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C645E9C4-5ED6-4BDB-96C0-02E5ACE00602}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:08.9867636Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "HTML Tidy",
+    "itemPath": "/sitecore/templates/System/Html editor/HTML Tidy",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

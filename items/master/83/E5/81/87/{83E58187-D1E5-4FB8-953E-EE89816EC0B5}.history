@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/Fields",
     "commandType": "Item",
     "template": "Tag",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{83E58187-D1E5-4FB8-953E-EE89816EC0B5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:19.4819321Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Fields",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/Fields",
+    "commandType": "Item",
+    "template": "Tag",
     "sourceControlRevisionId": null
   }
 ]

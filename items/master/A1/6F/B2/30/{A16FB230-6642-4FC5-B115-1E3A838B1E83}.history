@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Branches/Insert Rule/Data",
     "commandType": "Item",
     "template": "Template section",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A16FB230-6642-4FC5-B115-1E3A838B1E83}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:06.5696253Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Data",
+    "itemPath": "/sitecore/templates/System/Branches/Insert Rule/Data",
+    "commandType": "Item",
+    "template": "Template section",
     "sourceControlRevisionId": null
   }
 ]

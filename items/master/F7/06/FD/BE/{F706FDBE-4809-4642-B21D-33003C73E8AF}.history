@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Insert Options/Rules/Page Level Test Definition",
     "commandType": "Item",
     "template": "Insert Options Rule",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F706FDBE-4809-4642-B21D-33003C73E8AF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:24.6452274Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Page Level Test Definition",
+    "itemPath": "/sitecore/system/Settings/Rules/Insert Options/Rules/Page Level Test Definition",
+    "commandType": "Item",
+    "template": "Insert Options Rule",
     "sourceControlRevisionId": null
   }
 ]

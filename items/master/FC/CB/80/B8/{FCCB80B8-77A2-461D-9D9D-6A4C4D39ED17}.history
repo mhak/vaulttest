@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Sample/Max Length 40",
     "commandType": "Item",
     "template": "Validation Rule",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FCCB80B8-77A2-461D-9D9D-6A4C4D39ED17}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:28.7854642Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Max Length 40",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Sample/Max Length 40",
+    "commandType": "Item",
+    "template": "Validation Rule",
     "sourceControlRevisionId": null
   }
 ]

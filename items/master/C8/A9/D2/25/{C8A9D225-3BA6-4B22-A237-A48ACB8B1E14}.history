@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/General/Common/ApplyButtonText",
     "commandType": "Item",
     "template": "Dictionary entry",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C8A9D225-3BA6-4B22-A237-A48ACB8B1E14}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:49.3907792Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ApplyButtonText",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/General/Common/ApplyButtonText",
+    "commandType": "Item",
+    "template": "Dictionary entry",
     "sourceControlRevisionId": null
   }
 ]

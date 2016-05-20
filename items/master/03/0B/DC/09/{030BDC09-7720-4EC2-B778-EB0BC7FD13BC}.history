@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Display/Facebook display",
     "commandType": "Item",
     "template": "Channel",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{030BDC09-7720-4EC2-B778-EB0BC7FD13BC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:59.4373538Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Facebook display",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Display/Facebook display",
+    "commandType": "Item",
+    "template": "Channel",
     "sourceControlRevisionId": null
   }
 ]

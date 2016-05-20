@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Costa Rica",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FF309513-A452-47FE-A5E3-5A2B0094BEE3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:23.6827405Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Costa Rica",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Costa Rica",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Persona/Cecile",
     "commandType": "Item",
     "template": "Profile Key",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B8810A60-3837-4AD1-B0DE-CF14AC5F4792}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:11.5230450Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Cecile",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Persona/Cecile",
+    "commandType": "Item",
+    "template": "Profile Key",
     "sourceControlRevisionId": null
   }
 ]

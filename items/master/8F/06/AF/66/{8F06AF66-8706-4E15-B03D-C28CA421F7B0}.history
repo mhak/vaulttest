@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Comoros",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8F06AF66-8706-4E15-B03D-C28CA421F7B0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:23.5157310Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Comoros",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Comoros",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

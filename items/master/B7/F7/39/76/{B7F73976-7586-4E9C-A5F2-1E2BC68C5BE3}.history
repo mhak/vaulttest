@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Content Editor/Set Content Editor Warning",
     "commandType": "Item",
     "template": "Action",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B7F73976-7586-4E9C-A5F2-1E2BC68C5BE3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:56.9686444Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Set Content Editor Warning",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Content Editor/Set Content Editor Warning",
+    "commandType": "Item",
+    "template": "Action",
     "sourceControlRevisionId": null
   }
 ]

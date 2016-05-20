@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Templates/Sections/Publishing/Publishing/__Unpublish",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7EAD6FD6-6CF1-4ACA-AC6B-B200E7BAFE88}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:15:05.3959900Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Unpublish",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Publishing/Publishing/__Unpublish",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

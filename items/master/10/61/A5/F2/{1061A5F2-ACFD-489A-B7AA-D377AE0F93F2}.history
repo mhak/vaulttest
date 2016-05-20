@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/Branches/System/Globalization",
     "commandType": "Item",
     "template": "Branch Folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1061A5F2-ACFD-489A-B7AA-D377AE0F93F2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:39.3590690Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Globalization",
+    "itemPath": "/sitecore/templates/Branches/System/Globalization",
+    "commandType": "Item",
+    "template": "Branch Folder",
     "sourceControlRevisionId": null
   }
 ]

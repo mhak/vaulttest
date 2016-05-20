@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Preset Types/Single",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C4960DD5-8B07-4025-8E48-57C3BC578CE1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:37.0005023Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Single",
+    "itemPath": "/sitecore/system/Settings/Analytics/Preset Types/Single",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

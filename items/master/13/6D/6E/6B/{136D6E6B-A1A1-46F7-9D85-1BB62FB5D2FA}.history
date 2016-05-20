@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Belarus",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{136D6E6B-A1A1-46F7-9D85-1BB62FB5D2FA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:22.1246514Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Belarus",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Belarus",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

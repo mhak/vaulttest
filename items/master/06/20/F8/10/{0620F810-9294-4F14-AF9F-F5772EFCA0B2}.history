@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Language/Data/Regional Iso Code",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0620F810-9294-4F14-AF9F-F5772EFCA0B2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:16.5201945Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Regional Iso Code",
+    "itemPath": "/sitecore/templates/System/Language/Data/Regional Iso Code",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

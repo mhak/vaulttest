@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/layout/Simulators/iPhone/No Silverlight Support",
     "commandType": "Item",
     "template": "No Silverlight Support Trait",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4A88A0C7-9899-4A90-9845-DAAEE73FBE44}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:40.8602912Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "No Silverlight Support",
+    "itemPath": "/sitecore/layout/Simulators/iPhone/No Silverlight Support",
+    "commandType": "Item",
+    "template": "No Silverlight Support Trait",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Feeds/RSS Feed",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B960CBE4-381F-4A2B-9F44-A43C7A991A0B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:07.6226856Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "RSS Feed",
+    "itemPath": "/sitecore/templates/System/Feeds/RSS Feed",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

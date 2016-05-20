@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Media/Versioned/Mp3/ID3/Track Number",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FA58C2D1-DD4B-41B0-A503-7D9FCB96D04D}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:34.2352077Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Track Number",
+    "itemPath": "/sitecore/templates/System/Media/Versioned/Mp3/ID3/Track Number",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

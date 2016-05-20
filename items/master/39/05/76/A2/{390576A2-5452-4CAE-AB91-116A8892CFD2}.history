@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Item Buckets/View/View Details/Footer Template",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{390576A2-5452-4CAE-AB91-116A8892CFD2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:15.9731632Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Footer Template",
+    "itemPath": "/sitecore/templates/System/Item Buckets/View/View Details/Footer Template",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

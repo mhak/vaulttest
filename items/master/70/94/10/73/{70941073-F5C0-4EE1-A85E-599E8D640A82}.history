@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Analytics Filters/Report Filters/State/Indiana",
     "commandType": "Item",
     "template": "Predefined Filter Value",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{70941073-F5C0-4EE1-A85E-599E8D640A82}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:13.8621788Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Indiana",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Analytics Filters/Report Filters/State/Indiana",
+    "commandType": "Item",
+    "template": "Predefined Filter Value",
     "sourceControlRevisionId": null
   }
 ]

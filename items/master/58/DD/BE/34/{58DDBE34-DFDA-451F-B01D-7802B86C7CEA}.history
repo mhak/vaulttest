@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Federated Experience Manager/Filters and Actions/Client Actions/Submit Action",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{58DDBE34-DFDA-451F-B01D-7802B86C7CEA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:53.8538980Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Submit Action",
+    "itemPath": "/sitecore/templates/System/Analytics/Federated Experience Manager/Filters and Actions/Client Actions/Submit Action",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

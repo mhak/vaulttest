@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/layout/Simulators/iPhone",
     "commandType": "Item",
     "template": "Simulator",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{88CA41B4-1661-4C75-8C98-1D952F56D815}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:40.0672459Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "iPhone",
+    "itemPath": "/sitecore/layout/Simulators/iPhone",
+    "commandType": "Item",
+    "template": "Simulator",
     "sourceControlRevisionId": null
   }
 ]

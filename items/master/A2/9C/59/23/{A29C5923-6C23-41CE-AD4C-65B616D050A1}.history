@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Campaign/Cost/Cost per Day",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A29C5923-6C23-41CE-AD4C-65B616D050A1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:51.2557494Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Cost per Day",
+    "itemPath": "/sitecore/templates/System/Analytics/Campaign/Cost/Cost per Day",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

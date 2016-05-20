@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Ribbon/Small Drop Down Box/Data",
     "commandType": "Item",
     "template": "Template section",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8C52920B-358D-4C2E-9C0F-385BB77C47FE}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:46.9839369Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Data",
+    "itemPath": "/sitecore/templates/System/Ribbon/Small Drop Down Box/Data",
+    "commandType": "Item",
+    "template": "Template section",
     "sourceControlRevisionId": null
   }
 ]

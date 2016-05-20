@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Function/Create Desire",
     "commandType": "Item",
     "template": "Profile Key",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{30AAF69F-C10A-4057-B918-6F8A8D0CEFDD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:11.3300340Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Create Desire",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Function/Create Desire",
+    "commandType": "Item",
+    "template": "Profile Key",
     "sourceControlRevisionId": null
   }
 ]

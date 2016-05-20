@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Digital Events",
     "commandType": "Item",
     "template": "Channel Group",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E5C434D2-3F1F-4977-96C0-3423CBBDE79F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:58.3042890Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Digital Events",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Digital Events",
+    "commandType": "Item",
+    "template": "Channel Group",
     "sourceControlRevisionId": null
   }
 ]

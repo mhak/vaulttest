@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Common/Is Percentage",
     "commandType": "Item",
     "template": "Validation Rule",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A57C7376-37A1-4F30-9C38-F6D84BF82C18}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:28.4744464Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Is Percentage",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Common/Is Percentage",
+    "commandType": "Item",
+    "template": "Validation Rule",
     "sourceControlRevisionId": null
   }
 ]

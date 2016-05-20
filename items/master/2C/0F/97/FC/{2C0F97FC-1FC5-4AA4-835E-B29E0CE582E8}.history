@@ -429,6 +429,22 @@
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/single line text",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2C0F97FC-1FC5-4AA4-835E-B29E0CE582E8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:15:13.8044709Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "single line text",
+    "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/single line text",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

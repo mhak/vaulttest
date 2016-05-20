@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Validation/Global Validation Rules",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AA94E5DE-83D4-4166-872E-740ECF9CBA5D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:15:08.5821722Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Global Validation Rules",
+    "itemPath": "/sitecore/templates/System/Validation/Global Validation Rules",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

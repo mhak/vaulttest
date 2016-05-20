@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Profiles",
     "commandType": "Item",
     "template": "ReportQuery",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E5AD9B8D-FA8A-4D7B-B3F4-E4488060F396}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:38.6565970Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Profiles",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Profiles",
+    "commandType": "Item",
+    "template": "ReportQuery",
     "sourceControlRevisionId": null
   }
 ]

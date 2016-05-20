@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/Operator",
     "commandType": "Item",
     "template": "Macro",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{07BE739D-DB4B-476C-8C58-04D178FF8F7D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:12.0295058Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Operator",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/Operator",
+    "commandType": "Item",
+    "template": "Macro",
     "sourceControlRevisionId": null
   }
 ]

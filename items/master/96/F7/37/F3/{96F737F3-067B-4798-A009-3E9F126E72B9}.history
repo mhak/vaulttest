@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Experience Analytics/Branches/Dimension/$name/All",
     "commandType": "Item",
     "template": "Segment",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{96F737F3-067B-4798-A009-3E9F126E72B9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:15:13.0514279Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "All",
+    "itemPath": "/sitecore/templates/System/Experience Analytics/Branches/Dimension/$name/All",
+    "commandType": "Item",
+    "template": "Segment",
     "sourceControlRevisionId": null
   }
 ]

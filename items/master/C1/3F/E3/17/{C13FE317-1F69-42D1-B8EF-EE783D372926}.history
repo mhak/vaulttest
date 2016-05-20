@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Ribbon/Large Gallery Button/Data/Gallery Height",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C13FE317-1F69-42D1-B8EF-EE783D372926}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:45.5218533Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Gallery Height",
+    "itemPath": "/sitecore/templates/System/Ribbon/Large Gallery Button/Data/Gallery Height",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

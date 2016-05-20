@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/Context",
     "commandType": "Item",
     "template": "Tag",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7ADA27C2-E37C-4467-AC79-B91E22655C1B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:19.1459129Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Context",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/Context",
+    "commandType": "Item",
+    "template": "Tag",
     "sourceControlRevisionId": null
   }
 ]

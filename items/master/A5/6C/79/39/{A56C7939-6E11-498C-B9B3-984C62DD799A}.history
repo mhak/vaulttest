@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/App Center Sync/Markup Rendering/Markup Rendering Parameters/Render On/RenderOnProfiling",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A56C7939-6E11-498C-B9B3-984C62DD799A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:39.0610519Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "RenderOnProfiling",
+    "itemPath": "/sitecore/templates/App Center Sync/Markup Rendering/Markup Rendering Parameters/Render On/RenderOnProfiling",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

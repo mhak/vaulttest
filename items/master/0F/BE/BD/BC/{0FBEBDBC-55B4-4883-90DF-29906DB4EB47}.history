@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/Branches/System/Media/Upload File",
     "commandType": "Item",
     "template": "Command Template",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0FBEBDBC-55B4-4883-90DF-29906DB4EB47}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:41.2511772Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Upload File",
+    "itemPath": "/sitecore/templates/Branches/System/Media/Upload File",
+    "commandType": "Item",
+    "template": "Command Template",
     "sourceControlRevisionId": null
   }
 ]

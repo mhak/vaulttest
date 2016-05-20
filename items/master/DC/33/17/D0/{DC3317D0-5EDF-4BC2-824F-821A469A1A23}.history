@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Item Buckets/Tag/__Standard Values",
     "commandType": "Item",
     "template": "Tag",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DC3317D0-5EDF-4BC2-824F-821A469A1A23}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:15.5441386Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Item Buckets/Tag/__Standard Values",
+    "commandType": "Item",
+    "template": "Tag",
     "sourceControlRevisionId": null
   }
 ]

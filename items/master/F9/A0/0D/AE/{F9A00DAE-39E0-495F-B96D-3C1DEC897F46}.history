@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Analytics Filters/Report Filters/State/Washington",
     "commandType": "Item",
     "template": "Predefined Filter Value",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F9A00DAE-39E0-495F-B96D-3C1DEC897F46}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:15.3472638Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Washington",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Analytics Filters/Report Filters/State/Washington",
+    "commandType": "Item",
+    "template": "Predefined Filter Value",
     "sourceControlRevisionId": null
   }
 ]

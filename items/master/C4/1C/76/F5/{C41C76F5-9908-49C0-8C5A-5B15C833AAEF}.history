@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Workflow/Workflow/Data",
     "commandType": "Item",
     "template": "Template section",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C41C76F5-9908-49C0-8C5A-5B15C833AAEF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:15:12.3663887Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Data",
+    "itemPath": "/sitecore/templates/System/Workflow/Workflow/Data",
+    "commandType": "Item",
+    "template": "Template section",
     "sourceControlRevisionId": null
   }
 ]

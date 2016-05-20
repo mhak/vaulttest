@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Text/Start with a Capital Letter and End with a Dot/Lower Case",
     "commandType": "Item",
     "template": "Menu item",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{ADABB557-CCD7-4023-B8AB-02AF2391BB79}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:30.5115629Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Lower Case",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Text/Start with a Capital Letter and End with a Dot/Lower Case",
+    "commandType": "Item",
+    "template": "Menu item",
     "sourceControlRevisionId": null
   }
 ]

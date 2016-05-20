@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Testing/End Test Behavior/Is Content Test/Duration Reached",
     "commandType": "Item",
     "template": "Rule Container",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{825A32D9-990E-4826-8359-101D15C92ABD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:41.7917763Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Duration Reached",
+    "itemPath": "/sitecore/system/Settings/Analytics/Testing/End Test Behavior/Is Content Test/Duration Reached",
+    "commandType": "Item",
+    "template": "Rule Container",
     "sourceControlRevisionId": null
   }
 ]

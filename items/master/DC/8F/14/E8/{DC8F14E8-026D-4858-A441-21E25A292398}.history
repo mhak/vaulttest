@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/Boost",
     "commandType": "Item",
     "template": "Macro",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DC8F14E8-026D-4858-A441-21E25A292398}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:11.8274943Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Boost",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/Boost",
+    "commandType": "Item",
+    "template": "Macro",
     "sourceControlRevisionId": null
   }
 ]

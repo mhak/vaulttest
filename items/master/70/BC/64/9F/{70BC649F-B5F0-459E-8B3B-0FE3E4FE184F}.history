@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Federated Experience Manager/Filters and Actions/Client Actions",
     "commandType": "Item",
     "template": "Template Folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{70BC649F-B5F0-459E-8B3B-0FE3E4FE184F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:53.3128671Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Client Actions",
+    "itemPath": "/sitecore/templates/System/Analytics/Federated Experience Manager/Filters and Actions/Client Actions",
+    "commandType": "Item",
+    "template": "Template Folder",
     "sourceControlRevisionId": null
   }
 ]

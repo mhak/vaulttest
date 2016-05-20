@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/GeoIP",
     "commandType": "Item",
     "template": "Tag",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{75A9275C-7975-4677-B197-14617DF58635}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:19.5289348Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "GeoIP",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/GeoIP",
+    "commandType": "Item",
+    "template": "Tag",
     "sourceControlRevisionId": null
   }
 ]

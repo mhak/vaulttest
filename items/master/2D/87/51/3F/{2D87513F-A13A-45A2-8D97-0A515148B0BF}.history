@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Federated Experience Manager - Domain Tracking",
     "commandType": "Item",
     "template": "Rules Context Folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2D87513F-A13A-45A2-8D97-0A515148B0BF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:52.5653925Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Federated Experience Manager - Domain Tracking",
+    "itemPath": "/sitecore/system/Settings/Rules/Federated Experience Manager - Domain Tracking",
+    "commandType": "Item",
+    "template": "Rules Context Folder",
     "sourceControlRevisionId": null
   }
 ]

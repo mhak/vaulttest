@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Tab Options/Close All",
     "commandType": "Item",
     "template": "Tab Option",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A26CAF92-CE90-4756-887D-BAF8736975F3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:51.1863137Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Close All",
+    "itemPath": "/sitecore/system/Settings/Buckets/Tab Options/Close All",
+    "commandType": "Item",
+    "template": "Tab Option",
     "sourceControlRevisionId": null
   }
 ]

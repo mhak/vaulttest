@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Preset/Viewer/PresetViewerDayOfMyLife",
     "commandType": "Item",
     "template": "Dictionary entry",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6EB6E343-112D-4BD9-A13D-084457E73131}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:53.7790301Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "PresetViewerDayOfMyLife",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Preset/Viewer/PresetViewerDayOfMyLife",
+    "commandType": "Item",
+    "template": "Dictionary entry",
     "sourceControlRevisionId": null
   }
 ]

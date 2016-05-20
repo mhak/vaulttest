@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Facets/Image Dimensions",
     "commandType": "Item",
     "template": "Facet",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{05EF282C-54DE-49B5-9EF3-0EB3008080C6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:47.0410766Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Image Dimensions",
+    "itemPath": "/sitecore/system/Settings/Buckets/Facets/Image Dimensions",
+    "commandType": "Item",
+    "template": "Facet",
     "sourceControlRevisionId": null
   }
 ]

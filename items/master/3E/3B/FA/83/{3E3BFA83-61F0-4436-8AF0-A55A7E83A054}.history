@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Lithuania",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3E3BFA83-61F0-4436-8AF0-A55A7E83A054}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:27.1629396Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Lithuania",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Lithuania",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

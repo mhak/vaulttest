@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Federated Experience Manager/Filters and Actions/Client Action/Configuration/Selector",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7CA4CCA5-DF09-404F-99E1-5E00EAA5584E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:53.6778880Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Selector",
+    "itemPath": "/sitecore/templates/System/Analytics/Federated Experience Manager/Filters and Actions/Client Action/Configuration/Selector",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

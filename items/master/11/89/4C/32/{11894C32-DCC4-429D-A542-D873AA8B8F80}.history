@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Profile/Viewer/ProfileViewerNoResults",
     "commandType": "Item",
     "template": "Dictionary entry",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{11894C32-DCC4-429D-A542-D873AA8B8F80}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:54.8800931Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ProfileViewerNoResults",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Profile/Viewer/ProfileViewerNoResults",
+    "commandType": "Item",
+    "template": "Dictionary entry",
     "sourceControlRevisionId": null
   }
 ]

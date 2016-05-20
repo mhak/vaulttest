@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Federated Experience Manager - Domain Matching/Tags",
     "commandType": "Item",
     "template": "Tags Definitions Folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A2654535-B863-4DAB-A209-DFEE669F0A9F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:23.4341581Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tags",
+    "itemPath": "/sitecore/system/Settings/Rules/Federated Experience Manager - Domain Matching/Tags",
+    "commandType": "Item",
+    "template": "Tags Definitions Folder",
     "sourceControlRevisionId": null
   }
 ]

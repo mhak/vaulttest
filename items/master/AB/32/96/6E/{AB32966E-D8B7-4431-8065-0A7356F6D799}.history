@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/App Center Sync/Markup Rendering/Markup Rendering Parameters",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AB32966E-D8B7-4431-8065-0A7356F6D799}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:38.4230154Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Markup Rendering Parameters",
+    "itemPath": "/sitecore/templates/App Center Sync/Markup Rendering/Markup Rendering Parameters",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

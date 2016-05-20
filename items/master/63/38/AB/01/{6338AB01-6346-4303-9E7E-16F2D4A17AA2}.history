@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Virgin Islands US",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6338AB01-6346-4303-9E7E-16F2D4A17AA2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:32.6312524Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Virgin Islands US",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Virgin Islands US",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

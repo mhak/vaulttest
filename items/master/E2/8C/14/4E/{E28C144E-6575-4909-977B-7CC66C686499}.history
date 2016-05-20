@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Item Security/Item Can have Subitems",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E28C144E-6575-4909-977B-7CC66C686499}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:03.1920003Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Item Can have Subitems",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Item Security/Item Can have Subitems",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

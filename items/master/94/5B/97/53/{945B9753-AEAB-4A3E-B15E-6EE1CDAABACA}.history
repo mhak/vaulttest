@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/French Southern Territories",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{945B9753-AEAB-4A3E-B15E-6EE1CDAABACA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:24.8558076Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "French Southern Territories",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/French Southern Territories",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

@@ -429,6 +429,22 @@
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/checklist",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DB003235-9584-438C-99A0-CCB1D0480983}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:15:14.1154887Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "checklist",
+    "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/checklist",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

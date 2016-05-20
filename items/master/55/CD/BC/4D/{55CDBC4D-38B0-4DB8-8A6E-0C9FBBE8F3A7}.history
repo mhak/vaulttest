@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/media library/Experience Explorer",
     "commandType": "Item",
     "template": "Node",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{55CDBC4D-38B0-4DB8-8A6E-0C9FBBE8F3A7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:41.0593026Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Experience Explorer",
+    "itemPath": "/sitecore/media library/Experience Explorer",
+    "commandType": "Item",
+    "template": "Node",
     "sourceControlRevisionId": null
   }
 ]

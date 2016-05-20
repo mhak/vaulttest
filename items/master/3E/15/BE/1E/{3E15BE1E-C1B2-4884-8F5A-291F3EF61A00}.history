@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Personalization/Predefined Conditions/visitor is existing customer",
     "commandType": "Item",
     "template": "Conditional Rendering Rule",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3E15BE1E-C1B2-4884-8F5A-291F3EF61A00}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:10.2679733Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "visitor is existing customer",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Personalization/Predefined Conditions/visitor is existing customer",
+    "commandType": "Item",
+    "template": "Conditional Rendering Rule",
     "sourceControlRevisionId": null
   }
 ]

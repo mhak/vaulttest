@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Japan",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1B2E2D28-C6C5-489C-A4B2-2175011A88E6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:26.3568935Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Japan",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Japan",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Rules/Taxonomy/Visibility",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AA91A868-02F2-41D3-8B78-1CAD91B4DCAE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:52.0492266Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Visibility",
+    "itemPath": "/sitecore/templates/System/Rules/Taxonomy/Visibility",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Testing/End Test Behavior/Is Mv Test",
     "commandType": "Item",
     "template": "Rule Container",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B6CD7D67-7FB0-49D2-9212-3E91FDEC1C2D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:41.7417735Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Is Mv Test",
+    "itemPath": "/sitecore/system/Settings/Analytics/Testing/End Test Behavior/Is Mv Test",
+    "commandType": "Item",
+    "template": "Rule Container",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Experience Analytics/DimensionFolder/__Standard Values",
     "commandType": "Item",
     "template": "DimensionFolder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5006DC43-02DE-40BD-82B8-5C38178D2D6B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:15:13.5134543Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Experience Analytics/DimensionFolder/__Standard Values",
+    "commandType": "Item",
+    "template": "DimensionFolder",
     "sourceControlRevisionId": null
   }
 ]

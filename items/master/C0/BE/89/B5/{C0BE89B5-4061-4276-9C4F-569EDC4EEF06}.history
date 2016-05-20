@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Visitor Identifications",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C0BE89B5-4061-4276-9C4F-569EDC4EEF06}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:18.6234512Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Visitor Identifications",
+    "itemPath": "/sitecore/system/Settings/Analytics/Visitor Identifications",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

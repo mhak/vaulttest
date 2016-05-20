@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/media library/System/Channel Images/ch-marketing-intelligence",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{903E4C67-D2D2-4BF4-B231-CB63D792EA34}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:43.1644230Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-marketing-intelligence",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-marketing-intelligence",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]

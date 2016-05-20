@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Filter Control Types/Auto Suggest List",
     "commandType": "Item",
     "template": "Search Control Type",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8428729B-93B4-4A6B-8E78-603D5986FBD3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:49.9582434Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Auto Suggest List",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Filter Control Types/Auto Suggest List",
+    "commandType": "Item",
+    "template": "Search Control Type",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Templates/Template field/Data/Unversioned",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{39847666-389D-409B-95BD-F2016F11EED5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:15:07.4371068Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Unversioned",
+    "itemPath": "/sitecore/templates/System/Templates/Template field/Data/Unversioned",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

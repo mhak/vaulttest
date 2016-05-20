@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Session End",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{50AB5A4C-75A4-4FA7-BEF0-8E3A6C966FAE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:13.4185853Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Session End",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Session End",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

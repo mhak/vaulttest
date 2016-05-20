@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Page Events/Follow hit",
     "commandType": "Item",
     "template": "Page Event",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1C9DAB80-C680-4859-B6ED-F6455FA9ED0C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:33.6793123Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Follow hit",
+    "itemPath": "/sitecore/system/Settings/Analytics/Page Events/Follow hit",
+    "commandType": "Item",
+    "template": "Page Event",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Grenada",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1DDE828C-46F5-4D8D-AC76-97D1D4E5C192}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:25.2358294Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Grenada",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Grenada",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

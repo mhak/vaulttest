@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Organic Search",
     "commandType": "Item",
     "template": "Channel Group",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3CFE6680-2C0F-4838-9563-C15AC3F0EA98}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:58.4792990Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Organic Search",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Organic Search",
+    "commandType": "Item",
+    "template": "Channel Group",
     "sourceControlRevisionId": null
   }
 ]

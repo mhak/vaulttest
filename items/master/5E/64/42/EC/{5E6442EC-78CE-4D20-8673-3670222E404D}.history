@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Packages/Package registration/Data/Package author",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5E6442EC-78CE-4D20-8673-3670222E404D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:39.2074921Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Package author",
+    "itemPath": "/sitecore/templates/System/Packages/Package registration/Data/Package author",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

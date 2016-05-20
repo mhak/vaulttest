@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Page Events/Page error",
     "commandType": "Item",
     "template": "Page Event",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B6076B52-7EA9-4297-B799-864ACDCB0257}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:36.3014623Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Page error",
+    "itemPath": "/sitecore/system/Settings/Analytics/Page Events/Page error",
+    "commandType": "Item",
+    "template": "Page Event",
     "sourceControlRevisionId": null
   }
 ]

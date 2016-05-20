@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Filters/Paid search/Paid search - Google",
     "commandType": "Item",
     "template": "Filter",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6E8D8727-309C-46B4-AA47-BCDAE70B5BFA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:08.3678646Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Paid search - Google",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Filters/Paid search/Paid search - Google",
+    "commandType": "Item",
+    "template": "Filter",
     "sourceControlRevisionId": null
   }
 ]

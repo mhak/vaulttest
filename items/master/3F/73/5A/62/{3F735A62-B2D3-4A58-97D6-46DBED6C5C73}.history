@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/layout/Placeholder Settings/App Center Sync/__invisible",
     "commandType": "Item",
     "template": "Placeholder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3F735A62-B2D3-4A58-97D6-46DBED6C5C73}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:37.7501133Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__invisible",
+    "itemPath": "/sitecore/layout/Placeholder Settings/App Center Sync/__invisible",
+    "commandType": "Item",
+    "template": "Placeholder",
     "sourceControlRevisionId": null
   }
 ]

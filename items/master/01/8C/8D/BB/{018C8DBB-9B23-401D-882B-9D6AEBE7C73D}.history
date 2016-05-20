@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Kiribati",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{018C8DBB-9B23-401D-882B-9D6AEBE7C73D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:26.5899068Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Kiribati",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Kiribati",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

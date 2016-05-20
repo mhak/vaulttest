@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Geo/Editor/GeoEditorTest_LEGEND",
     "commandType": "Item",
     "template": "Dictionary entry",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3C198B0C-4F63-450E-8FDF-11F0AA592AE6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:51.5699038Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "GeoEditorTest_LEGEND",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Geo/Editor/GeoEditorTest_LEGEND",
+    "commandType": "Item",
+    "template": "Dictionary entry",
     "sourceControlRevisionId": null
   }
 ]

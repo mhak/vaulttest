@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Preset/History/Visit 4",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3E221114-187F-41F3-8345-045BF8897949}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:37.7114065Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Visit 4",
+    "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Preset/History/Visit 4",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

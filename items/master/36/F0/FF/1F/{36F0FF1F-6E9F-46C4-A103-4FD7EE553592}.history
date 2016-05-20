@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Dimensions/Pages/By Exit Pages/All visits by Exit Pages",
     "commandType": "Item",
     "template": "Segment",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{36F0FF1F-6E9F-46C4-A103-4FD7EE553592}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:05.9567267Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "{3C70E8B1-D6D2-42CC-8E21-1AE8EC72A0FB}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "All visits by Exit Pages",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Dimensions/Pages/By Exit Pages/All visits by Exit Pages",
+    "commandType": "Item",
+    "template": "Segment",
     "sourceControlRevisionId": null
   }
 ]

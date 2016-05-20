@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Vendor Specific Filter/Configuration/FilteringKey",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B97232F2-1758-43EC-97E3-67B0A3BF657E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:05.2715511Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FilteringKey",
+    "itemPath": "/sitecore/templates/System/Analytics/Vendor Specific Filter/Configuration/FilteringKey",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

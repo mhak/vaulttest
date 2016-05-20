@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Preset/Referral Information/Referrer",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CB41CA8E-18B3-4FB0-BFA1-9B99C91EBCCF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:37.5113951Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Referrer",
+    "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Preset/Referral Information/Referrer",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

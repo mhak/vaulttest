@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Traffic Type/Referred - Conversations",
     "commandType": "Item",
     "template": "Traffic Type",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BF42AD29-F327-475B-B59F-4482D90BBCCA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:42.3818101Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Referred - Conversations",
+    "itemPath": "/sitecore/system/Settings/Analytics/Traffic Type/Referred - Conversations",
+    "commandType": "Item",
+    "template": "Traffic Type",
     "sourceControlRevisionId": null
   }
 ]

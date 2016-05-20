@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/Branches/System/Rules/Taxonomy/Element Folder/$name",
     "commandType": "Item",
     "template": "Element Folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8D1DB71C-9ACF-4192-8384-5F9B6D533F95}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:41.5771958Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "$name",
+    "itemPath": "/sitecore/templates/Branches/System/Rules/Taxonomy/Element Folder/$name",
+    "commandType": "Item",
+    "template": "Element Folder",
     "sourceControlRevisionId": null
   }
 ]

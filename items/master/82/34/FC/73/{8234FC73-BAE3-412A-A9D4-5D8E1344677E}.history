@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Templates/Sections/Insert Options/Insert Options",
     "commandType": "Item",
     "template": "Template section",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8234FC73-BAE3-412A-A9D4-5D8E1344677E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:15:04.0959156Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Insert Options",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Insert Options/Insert Options",
+    "commandType": "Item",
+    "template": "Template section",
     "sourceControlRevisionId": null
   }
 ]

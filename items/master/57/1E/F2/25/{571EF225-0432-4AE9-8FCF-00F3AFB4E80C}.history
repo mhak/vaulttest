@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Social/Account/Account/Information",
     "commandType": "Item",
     "template": "Template section",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{571EF225-0432-4AE9-8FCF-00F3AFB4E80C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:55.7864404Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Information",
+    "itemPath": "/sitecore/templates/System/Social/Account/Account/Information",
+    "commandType": "Item",
+    "template": "Template section",
     "sourceControlRevisionId": null
   }
 ]

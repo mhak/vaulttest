@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Context/Database Name",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B5429D19-5CF6-4BD9-BC0B-F0B323C4306D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:57.1526549Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Database Name",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Context/Database Name",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

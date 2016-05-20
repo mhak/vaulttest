@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Function/Define Concept",
     "commandType": "Item",
     "template": "Profile Key",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3C82B054-218F-40B7-9201-C2A126AD2C07}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:11.3770367Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Define Concept",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Function/Define Concept",
+    "commandType": "Item",
+    "template": "Profile Key",
     "sourceControlRevisionId": null
   }
 ]

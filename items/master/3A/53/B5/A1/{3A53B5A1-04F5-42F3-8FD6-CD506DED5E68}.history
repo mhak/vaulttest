@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Latest Visits",
     "commandType": "Item",
     "template": "ReportQuery",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3A53B5A1-04F5-42F3-8FD6-CD506DED5E68}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:37.8325499Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Latest Visits",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Latest Visits",
+    "commandType": "Item",
+    "template": "ReportQuery",
     "sourceControlRevisionId": null
   }
 ]

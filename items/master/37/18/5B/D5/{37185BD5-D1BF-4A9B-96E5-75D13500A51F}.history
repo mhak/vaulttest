@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Patterns",
     "commandType": "Item",
     "template": "Template Folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{37185BD5-D1BF-4A9B-96E5-75D13500A51F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:46.8985002Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Patterns",
+    "itemPath": "/sitecore/templates/System/Analytics/Patterns",
+    "commandType": "Item",
+    "template": "Template Folder",
     "sourceControlRevisionId": null
   }
 ]

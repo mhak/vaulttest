@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Visitor Identification Types/Dns",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9B941282-1712-4822-8504-FD2EB2FFBEEE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:43.2108575Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Dns",
+    "itemPath": "/sitecore/system/Settings/Analytics/Visitor Identification Types/Dns",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

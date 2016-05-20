@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Testing/Test Variable",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{85DF313D-DBC6-4F27-AD77-3E0A8784A1DD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:00.0442521Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Test Variable",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Test Variable",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

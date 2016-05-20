@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/layout/Placeholder Settings/webedit",
     "commandType": "Item",
     "template": "Placeholder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{809528B1-588A-42A7-93C1-41E73800100A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:37.5010991Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "webedit",
+    "itemPath": "/sitecore/layout/Placeholder Settings/webedit",
+    "commandType": "Item",
+    "template": "Placeholder",
     "sourceControlRevisionId": null
   }
 ]

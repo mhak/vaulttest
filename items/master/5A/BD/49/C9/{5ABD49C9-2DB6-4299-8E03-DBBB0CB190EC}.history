@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Preset/Data/Details",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5ABD49C9-2DB6-4299-8E03-DBBB0CB190EC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:36.8433569Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Details",
+    "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Preset/Data/Details",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Email Campaigns/Email notifications",
     "commandType": "Item",
     "template": "Channel",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A03FFC6F-6851-42BA-A5EC-F1A73CFF0B3A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:59.7633724Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Email notifications",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Email Campaigns/Email notifications",
+    "commandType": "Item",
+    "template": "Channel",
     "sourceControlRevisionId": null
   }
 ]

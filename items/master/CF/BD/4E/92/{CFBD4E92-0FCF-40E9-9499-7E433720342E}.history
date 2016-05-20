@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Dashboard",
     "commandType": "Item",
     "template": "Template Folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CFBD4E92-0FCF-40E9-9499-7E433720342E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:46.4214729Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Dashboard",
+    "itemPath": "/sitecore/templates/System/Analytics/Dashboard",
+    "commandType": "Item",
+    "template": "Template Folder",
     "sourceControlRevisionId": null
   }
 ]

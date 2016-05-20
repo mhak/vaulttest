@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Html editor",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2FFB6E47-F751-474D-B6BF-90AA17393D55}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:44.5233644Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Html editor",
+    "itemPath": "/sitecore/templates/System/Html editor",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Modules/Experience Explorer/Components/ExpViewer",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7941D7D1-24AE-4478-BEAB-0227E14A1CF9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:15.6932836Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ExpViewer",
+    "itemPath": "/sitecore/system/Modules/Experience Explorer/Components/ExpViewer",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

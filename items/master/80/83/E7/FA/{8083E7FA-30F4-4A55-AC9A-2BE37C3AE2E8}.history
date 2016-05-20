@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Campaign/Data",
     "commandType": "Item",
     "template": "Template section",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8083E7FA-30F4-4A55-AC9A-2BE37C3AE2E8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:50.5487090Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Data",
+    "itemPath": "/sitecore/templates/System/Analytics/Campaign/Data",
+    "commandType": "Item",
+    "template": "Template section",
     "sourceControlRevisionId": null
   }
 ]

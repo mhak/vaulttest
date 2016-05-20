@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Layout/Preview Simulators/Trait/Data/Client Script",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C4B1296B-5716-42A4-8163-32510482ED9B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:19.2513507Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Client Script",
+    "itemPath": "/sitecore/templates/System/Layout/Preview Simulators/Trait/Data/Client Script",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

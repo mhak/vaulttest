@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Templates/Sections/Lifetime/Lifetime/__Hide version",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B8F42732-9CB8-478D-AE95-07E25345FB0F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:15:05.2159797Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Hide version",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Lifetime/Lifetime/__Hide version",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

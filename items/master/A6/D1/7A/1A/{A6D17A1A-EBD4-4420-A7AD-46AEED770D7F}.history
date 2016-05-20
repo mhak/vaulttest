@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/layout/Simulators/Large Android Phone/No Silverlight Support Trait",
     "commandType": "Item",
     "template": "No Silverlight Support Trait",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A6D17A1A-EBD4-4420-A7AD-46AEED770D7F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:40.4112656Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "No Silverlight Support Trait",
+    "itemPath": "/sitecore/layout/Simulators/Large Android Phone/No Silverlight Support Trait",
+    "commandType": "Item",
+    "template": "No Silverlight Support Trait",
     "sourceControlRevisionId": null
   }
 ]

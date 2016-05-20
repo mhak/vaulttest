@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Campaigns/Editor/CampaignsEditorSearchWaterMark",
     "commandType": "Item",
     "template": "Dictionary entry",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B51B59D4-3571-4211-9CA9-AD5F7A0EA504}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:48.3957222Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CampaignsEditorSearchWaterMark",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Campaigns/Editor/CampaignsEditorSearchWaterMark",
+    "commandType": "Item",
+    "template": "Dictionary entry",
     "sourceControlRevisionId": null
   }
 ]

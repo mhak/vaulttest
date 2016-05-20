@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Social/Posting Configuration/Container Posting Configuration/__Standard Values",
     "commandType": "Item",
     "template": "Container Posting Configuration",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{062F23E0-EA6A-4FF6-A403-D2B0A0D1D680}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:59.9426781Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Social/Posting Configuration/Container Posting Configuration/__Standard Values",
+    "commandType": "Item",
+    "template": "Container Posting Configuration",
     "sourceControlRevisionId": null
   }
 ]

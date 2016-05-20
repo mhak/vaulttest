@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Outcomes/Lead Management Funnel/Close - Won",
     "commandType": "Item",
     "template": "Outcome Definition",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5646D20E-B10A-42BA-876B-2A3BB3CBC641}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:08.7928889Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Close - Won",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Outcomes/Lead Management Funnel/Close - Won",
+    "commandType": "Item",
+    "template": "Outcome Definition",
     "sourceControlRevisionId": null
   }
 ]

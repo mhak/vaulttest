@@ -429,6 +429,22 @@
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/grouped droplink",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7872B916-A18C-4182-B2EB-771BFB6979AA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:15:14.4345070Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "grouped droplink",
+    "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/grouped droplink",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

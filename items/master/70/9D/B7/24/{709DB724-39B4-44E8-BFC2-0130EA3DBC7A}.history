@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Modules/Experience Explorer/Components/ExpEditor/Experience",
     "commandType": "Item",
     "template": "Accordion",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{709DB724-39B4-44E8-BFC2-0130EA3DBC7A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:15.7342859Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Experience",
+    "itemPath": "/sitecore/system/Modules/Experience Explorer/Components/ExpEditor/Experience",
+    "commandType": "Item",
+    "template": "Accordion",
     "sourceControlRevisionId": null
   }
 ]

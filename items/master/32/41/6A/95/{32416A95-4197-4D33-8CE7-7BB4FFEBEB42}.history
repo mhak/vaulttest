@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Subitems Sorting/Updated",
     "commandType": "Item",
     "template": "Child Sorting",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{32416A95-4197-4D33-8CE7-7BB4FFEBEB42}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:27.7294038Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Updated",
+    "itemPath": "/sitecore/system/Settings/Subitems Sorting/Updated",
+    "commandType": "Item",
+    "template": "Child Sorting",
     "sourceControlRevisionId": null
   }
 ]

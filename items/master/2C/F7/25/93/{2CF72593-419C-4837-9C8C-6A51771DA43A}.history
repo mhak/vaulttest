@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Media/Versioned/Mp3/Properties/Artist",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2CF72593-419C-4837-9C8C-6A51771DA43A}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:34.3772158Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Artist",
+    "itemPath": "/sitecore/templates/System/Media/Versioned/Mp3/Properties/Artist",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

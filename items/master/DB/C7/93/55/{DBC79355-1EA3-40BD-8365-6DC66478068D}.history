@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Visitor Identifications/000 - Unidentified",
     "commandType": "Item",
     "template": "Visitor Identification",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DBC79355-1EA3-40BD-8365-6DC66478068D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:43.3788671Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "000 - Unidentified",
+    "itemPath": "/sitecore/system/Settings/Analytics/Visitor Identifications/000 - Unidentified",
+    "commandType": "Item",
+    "template": "Visitor Identification",
     "sourceControlRevisionId": null
   }
 ]

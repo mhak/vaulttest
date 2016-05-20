@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/SMS Campaigns/Other SMS",
     "commandType": "Item",
     "template": "Channel",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{26CE4AD6-4ACC-49AB-9B27-CB7EB2CF6E35}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:00.7044263Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Other SMS",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/SMS Campaigns/Other SMS",
+    "commandType": "Item",
+    "template": "Channel",
     "sourceControlRevisionId": null
   }
 ]

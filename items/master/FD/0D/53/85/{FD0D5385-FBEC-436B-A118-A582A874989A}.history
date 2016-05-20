@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Referral/Viewer/ReferralViewerQuestionMark",
     "commandType": "Item",
     "template": "Dictionary entry",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FD0D5385-FBEC-436B-A118-A582A874989A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:55.4971284Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ReferralViewerQuestionMark",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Referral/Viewer/ReferralViewerQuestionMark",
+    "commandType": "Item",
+    "template": "Dictionary entry",
     "sourceControlRevisionId": null
   }
 ]

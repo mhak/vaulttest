@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Test Types/Personalization",
     "commandType": "Item",
     "template": "Test Type",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8B91C434-5AC1-422D-A2E7-44D2DA817753}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:41.6097659Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Personalization",
+    "itemPath": "/sitecore/system/Settings/Analytics/Test Types/Personalization",
+    "commandType": "Item",
+    "template": "Test Type",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/Branches/System/Layouts/Renderings/__Xsl file",
     "commandType": "Item",
     "template": "Branch",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{94ABC778-4FD1-4836-B94A-A141FEA4944D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:40.6341419Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Xsl file",
+    "itemPath": "/sitecore/templates/Branches/System/Layouts/Renderings/__Xsl file",
+    "commandType": "Item",
+    "template": "Branch",
     "sourceControlRevisionId": null
   }
 ]

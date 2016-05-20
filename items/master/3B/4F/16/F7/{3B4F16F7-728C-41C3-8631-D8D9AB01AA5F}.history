@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/media library/System/Channel Images/ch-analyst",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3B4F16F7-728C-41C3-8631-D8D9AB01AA5F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:42.0003564Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-analyst",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-analyst",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]

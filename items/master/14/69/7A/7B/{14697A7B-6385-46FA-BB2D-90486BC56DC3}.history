@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Services/Item Service/Search/Search Definition/Data",
     "commandType": "Item",
     "template": "Template section",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{14697A7B-6385-46FA-BB2D-90486BC56DC3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:54.5733710Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Data",
+    "itemPath": "/sitecore/templates/System/Services/Item Service/Search/Search Definition/Data",
+    "commandType": "Item",
+    "template": "Template section",
     "sourceControlRevisionId": null
   }
 ]

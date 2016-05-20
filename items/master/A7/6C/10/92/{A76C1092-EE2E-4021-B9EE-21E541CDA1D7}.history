@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Text/Must be Lower Case",
     "commandType": "Item",
     "template": "Validation Rule",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A76C1092-EE2E-4021-B9EE-21E541CDA1D7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:30.0655374Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Must be Lower Case",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Text/Must be Lower Case",
+    "commandType": "Item",
+    "template": "Validation Rule",
     "sourceControlRevisionId": null
   }
 ]

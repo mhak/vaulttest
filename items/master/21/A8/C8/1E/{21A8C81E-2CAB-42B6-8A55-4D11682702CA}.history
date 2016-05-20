@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/Custom",
     "commandType": "Item",
     "template": "Tag",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{21A8C81E-2CAB-42B6-8A55-4D11682702CA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:19.1929155Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Custom",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/Custom",
+    "commandType": "Item",
+    "template": "Tag",
     "sourceControlRevisionId": null
   }
 ]

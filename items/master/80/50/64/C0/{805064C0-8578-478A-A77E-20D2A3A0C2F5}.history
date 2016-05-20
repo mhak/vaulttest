@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Visitor Identifications/910 - Bot - Seach Engine",
     "commandType": "Item",
     "template": "Visitor Identification",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{805064C0-8578-478A-A77E-20D2A3A0C2F5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:43.8738954Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "910 - Bot - Seach Engine",
+    "itemPath": "/sitecore/system/Settings/Analytics/Visitor Identifications/910 - Bot - Seach Engine",
+    "commandType": "Item",
+    "template": "Visitor Identification",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Bucketing/Resolve ID based path",
     "commandType": "Item",
     "template": "Action",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{607FBC3F-6DD1-49C9-9930-0FBD06B99C31}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:55.9355853Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Resolve ID based path",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Bucketing/Resolve ID based path",
+    "commandType": "Item",
+    "template": "Action",
     "sourceControlRevisionId": null
   }
 ]

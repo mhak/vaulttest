@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Templates/Sections/Workflow/Workflow/__Lock",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{001DD393-96C5-490B-924A-B0F25CD9EFD8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:15:06.8000703Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Lock",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Workflow/Workflow/__Lock",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

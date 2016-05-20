@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Aliases",
     "commandType": "Item",
     "template": "Node",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5F094FE4-CC4B-40FD-9377-9AB00E7F7CA5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:46.7556284Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Aliases",
+    "itemPath": "/sitecore/system/Aliases",
+    "commandType": "Item",
+    "template": "Node",
     "sourceControlRevisionId": null
   }
 ]

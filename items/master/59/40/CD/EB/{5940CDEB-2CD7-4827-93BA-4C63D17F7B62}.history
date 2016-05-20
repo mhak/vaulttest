@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Dimensions/Email",
     "commandType": "Item",
     "template": "DimensionFolder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5940CDEB-2CD7-4827-93BA-4C63D17F7B62}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:05.1346797Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Email",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Dimensions/Email",
+    "commandType": "Item",
+    "template": "DimensionFolder",
     "sourceControlRevisionId": null
   }
 ]

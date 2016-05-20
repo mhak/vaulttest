@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Testing/Workflow/Not Enough Versions Execute Command Action/Versions",
     "commandType": "Item",
     "template": "Template section",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{70E336A9-C902-4809-A110-8AF77F5D70E1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:04.3404978Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Versions",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Workflow/Not Enough Versions Execute Command Action/Versions",
+    "commandType": "Item",
+    "template": "Template section",
     "sourceControlRevisionId": null
   }
 ]

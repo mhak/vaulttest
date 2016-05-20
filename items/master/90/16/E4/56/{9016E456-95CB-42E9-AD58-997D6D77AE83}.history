@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Outcomes/Purchase/Product Purchase",
     "commandType": "Item",
     "template": "Outcome Definition",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9016E456-95CB-42E9-AD58-997D6D77AE83}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:08.9698990Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Product Purchase",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Outcomes/Purchase/Product Purchase",
+    "commandType": "Item",
+    "template": "Outcome Definition",
     "sourceControlRevisionId": null
   }
 ]

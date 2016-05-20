@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Workflows/Final Workflow State",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{10C40F12-C2D6-4540-92B9-D4957A1EDBE0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:11.0374491Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Final Workflow State",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Workflows/Final Workflow State",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

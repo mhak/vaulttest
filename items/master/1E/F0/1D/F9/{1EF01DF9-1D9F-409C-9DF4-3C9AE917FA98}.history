@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Field Types/General Link",
     "commandType": "Item",
     "template": "Field Type Validation Rules",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1EF01DF9-1D9F-409C-9DF4-3C9AE917FA98}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:30.7595771Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "General Link",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Types/General Link",
+    "commandType": "Item",
+    "template": "Field Type Validation Rules",
     "sourceControlRevisionId": null
   }
 ]

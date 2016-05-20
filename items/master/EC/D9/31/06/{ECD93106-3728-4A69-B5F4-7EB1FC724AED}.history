@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Social/Klout/Klout Application/Key Rate Limits",
     "commandType": "Item",
     "template": "Template section",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{ECD93106-3728-4A69-B5F4-7EB1FC724AED}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:58.0425694Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Key Rate Limits",
+    "itemPath": "/sitecore/templates/System/Social/Klout/Klout Application/Key Rate Limits",
+    "commandType": "Item",
+    "template": "Template section",
     "sourceControlRevisionId": null
   }
 ]

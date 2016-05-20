@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Tasks/Commands/Content Testing/Try Finish Test",
     "commandType": "Item",
     "template": "Command",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FD32AD12-69E6-41B6-82B8-712D9DA96DDC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:33.5647376Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Try Finish Test",
+    "itemPath": "/sitecore/system/Tasks/Commands/Content Testing/Try Finish Test",
+    "commandType": "Item",
+    "template": "Command",
     "sourceControlRevisionId": null
   }
 ]

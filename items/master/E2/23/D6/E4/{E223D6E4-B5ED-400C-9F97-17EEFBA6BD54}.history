@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Rules/Macro/Script/References",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E223D6E4-B5ED-400C-9F97-17EEFBA6BD54}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:51.1751766Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "References",
+    "itemPath": "/sitecore/templates/System/Rules/Macro/Script/References",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

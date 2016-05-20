@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Search Query Builder/Skip",
     "commandType": "Item",
     "template": "Action",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B46D4D4A-9DEC-4DE2-92F4-AEB5A57C33FF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:05.4881317Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Skip",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Search Query Builder/Skip",
+    "commandType": "Item",
+    "template": "Action",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Quick Actions/Play",
     "commandType": "Item",
     "template": "Quick Action",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{10B0EAE2-E037-49F5-AE5A-F060A19BE0C5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:49.4322133Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Play",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Quick Actions/Play",
+    "commandType": "Item",
+    "template": "Quick Action",
     "sourceControlRevisionId": null
   }
 ]

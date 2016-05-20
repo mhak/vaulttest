@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/media library/System/Channel Images/ch-ppc-advertising",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0B24E1EB-CE5B-4888-BAD4-837D5A816E1F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:43.3994365Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-ppc-advertising",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-ppc-advertising",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]

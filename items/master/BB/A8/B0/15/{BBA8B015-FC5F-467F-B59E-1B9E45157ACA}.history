@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Analytics Filters/Report Filters/State",
     "commandType": "Item",
     "template": "Filter",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BBA8B015-FC5F-467F-B59E-1B9E45157ACA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:12.1860830Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "State",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Analytics Filters/Report Filters/State",
+    "commandType": "Item",
+    "template": "Filter",
     "sourceControlRevisionId": null
   }
 ]

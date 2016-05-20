@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/layout/Placeholder Settings/App Center Sync/__head/AppEditor",
     "commandType": "Item",
     "template": "Layout to append",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{99BB3F1F-B005-4B96-8E5C-D5738D29A051}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:37.7911157Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "AppEditor",
+    "itemPath": "/sitecore/layout/Placeholder Settings/App Center Sync/__head/AppEditor",
+    "commandType": "Item",
+    "template": "Layout to append",
     "sourceControlRevisionId": null
   }
 ]

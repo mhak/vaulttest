@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Insert Options",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1D15AD70-D288-41A1-9D01-CF1D778B9381}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:31.3046083Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Insert Options",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Insert Options",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Ribbon/Chunk/Data/Access Key",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{89730EC0-79CE-4B64-AA50-8C45D38D2D0D}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:43.7677529Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Access Key",
+    "itemPath": "/sitecore/templates/System/Ribbon/Chunk/Data/Access Key",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

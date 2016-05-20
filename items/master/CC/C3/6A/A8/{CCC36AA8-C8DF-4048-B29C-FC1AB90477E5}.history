@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Hong Kong",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CCC36AA8-C8DF-4048-B29C-FC1AB90477E5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:25.8278632Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Hong Kong",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Hong Kong",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

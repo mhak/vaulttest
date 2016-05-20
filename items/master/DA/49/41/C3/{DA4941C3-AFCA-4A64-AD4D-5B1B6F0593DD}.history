@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Ribbon/Large Button/Data",
     "commandType": "Item",
     "template": "Template section",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DA4941C3-AFCA-4A64-AD4D-5B1B6F0593DD}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:44.1187730Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Data",
+    "itemPath": "/sitecore/templates/System/Ribbon/Large Button/Data",
+    "commandType": "Item",
+    "template": "Template section",
     "sourceControlRevisionId": null
   }
 ]

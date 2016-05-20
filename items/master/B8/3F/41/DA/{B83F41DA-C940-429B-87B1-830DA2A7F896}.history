@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Validation/Validation Rule/Script/Code",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B83F41DA-C940-429B-87B1-830DA2A7F896}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:15:09.8242433Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Code",
+    "itemPath": "/sitecore/templates/System/Validation/Validation Rule/Script/Code",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

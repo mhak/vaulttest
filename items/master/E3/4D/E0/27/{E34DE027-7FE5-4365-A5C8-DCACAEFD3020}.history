@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Antarctica",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E34DE027-7FE5-4365-A5C8-DCACAEFD3020}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:21.5416181Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Antarctica",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Antarctica",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

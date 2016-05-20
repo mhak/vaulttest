@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Workflows/Segment/Initializing/Deploy",
     "commandType": "Item",
     "template": "Command",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7EA08F55-2B1D-4992-921F-703011439239}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:36.2238897Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Deploy",
+    "itemPath": "/sitecore/system/Workflows/Segment/Initializing/Deploy",
+    "commandType": "Item",
+    "template": "Command",
     "sourceControlRevisionId": null
   }
 ]

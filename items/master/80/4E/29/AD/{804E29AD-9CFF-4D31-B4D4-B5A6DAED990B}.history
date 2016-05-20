@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Control/Control/Tab Name",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{804E29AD-9CFF-4D31-B4D4-B5A6DAED990B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:35.9213042Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tab Name",
+    "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Control/Control/Tab Name",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

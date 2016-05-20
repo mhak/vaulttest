@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Layout/Renderings/Method Rendering/Data/Assembly",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{67CF836A-D8DA-41C4-89AA-60226864C1CE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:22.4445333Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Assembly",
+    "itemPath": "/sitecore/templates/System/Layout/Renderings/Method Rendering/Data/Assembly",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

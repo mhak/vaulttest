@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Testing/Test Winner Strategy",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{61618000-F943-4B7A-8286-28F8593A630F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:00.0882546Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Test Winner Strategy",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Test Winner Strategy",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/media library/System/Channel Images/ch-counter",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F0AAF137-C776-46C3-A8C1-E9160ABAE010}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:42.3583769Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-counter",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-counter",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]

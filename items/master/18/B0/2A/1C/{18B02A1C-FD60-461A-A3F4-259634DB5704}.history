@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Federated Experience Manager/Filters and Actions/Domain Matcher/__Standard Values",
     "commandType": "Item",
     "template": "Domain Matcher",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{18B02A1C-FD60-461A-A3F4-259634DB5704}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:54.5629386Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Analytics/Federated Experience Manager/Filters and Actions/Domain Matcher/__Standard Values",
+    "commandType": "Item",
+    "template": "Domain Matcher",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Workflow/State/Data/Preview publishing targets",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A438DFD1-154E-4584-B7E3-D1E28315E415}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:15:11.8563595Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Preview publishing targets",
+    "itemPath": "/sitecore/templates/System/Workflow/State/Data/Preview publishing targets",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

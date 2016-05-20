@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Security/Locked By Non Existing User",
     "commandType": "Item",
     "template": "Validation Rule",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1BB4A879-9D9C-48D6-AAF3-0AE93C74A4AD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:32.5256781Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Locked By Non Existing User",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Security/Locked By Non Existing User",
+    "commandType": "Item",
+    "template": "Validation Rule",
     "sourceControlRevisionId": null
   }
 ]

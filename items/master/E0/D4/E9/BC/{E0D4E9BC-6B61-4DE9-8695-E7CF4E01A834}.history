@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/App Center Sync/Head Placeholder/Head Placeholder Setting",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E0D4E9BC-6B61-4DE9-8695-E7CF4E01A834}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:38.2920079Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Head Placeholder Setting",
+    "itemPath": "/sitecore/templates/App Center Sync/Head Placeholder/Head Placeholder Setting",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

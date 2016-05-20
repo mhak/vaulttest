@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Services/Item Service/Search/Search Definition/Data/IncludeStandardTemplateFields",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EF9E3D82-C2C0-4ABB-AB22-93529CBA6462}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:54.8193851Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "IncludeStandardTemplateFields",
+    "itemPath": "/sitecore/templates/System/Services/Item Service/Search/Search Definition/Data/IncludeStandardTemplateFields",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

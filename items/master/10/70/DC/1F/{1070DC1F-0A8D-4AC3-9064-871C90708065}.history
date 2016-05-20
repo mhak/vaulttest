@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Traffic Type/Data/Value",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1070DC1F-0A8D-4AC3-9064-871C90708065}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:04.9825346Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Value",
+    "itemPath": "/sitecore/templates/System/Analytics/Traffic Type/Data/Value",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

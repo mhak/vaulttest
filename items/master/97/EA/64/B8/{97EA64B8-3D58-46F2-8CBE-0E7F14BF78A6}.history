@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Tags/Viewer/TagsViewerQuestionMark",
     "commandType": "Item",
     "template": "Dictionary entry",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{97EA64B8-3D58-46F2-8CBE-0E7F14BF78A6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:56.6361936Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "TagsViewerQuestionMark",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Tags/Viewer/TagsViewerQuestionMark",
+    "commandType": "Item",
+    "template": "Dictionary entry",
     "sourceControlRevisionId": null
   }
 ]

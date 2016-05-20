@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Item Buckets/Search Control Type/Search Filter Control Details",
     "commandType": "Item",
     "template": "Template section",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4216A0AB-3A03-45DE-B7B8-14FBE63BE2F8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:15.4441329Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Search Filter Control Details",
+    "itemPath": "/sitecore/templates/System/Item Buckets/Search Control Type/Search Filter Control Details",
+    "commandType": "Item",
+    "template": "Template section",
     "sourceControlRevisionId": null
   }
 ]

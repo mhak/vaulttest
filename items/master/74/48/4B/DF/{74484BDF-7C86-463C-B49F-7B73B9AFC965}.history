@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Templates/Sections/Publishing/Publishing/__Publishing groups",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{74484BDF-7C86-463C-B49F-7B73B9AFC965}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:15:05.4409926Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Publishing groups",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Publishing/Publishing/__Publishing groups",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

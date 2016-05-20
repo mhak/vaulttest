@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Engagement Automation",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0B7249F4-A85E-4768-8537-7C9798985764}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:17.7334003Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Engagement Automation",
+    "itemPath": "/sitecore/system/Settings/Analytics/Engagement Automation",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

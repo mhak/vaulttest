@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Templates/Sections/Tasks/Tasks/__Reminder text",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BB6C8540-118E-4C49-9157-830576D7345A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:15:06.3130425Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Reminder text",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Tasks/Tasks/__Reminder text",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Testing/Multivariate Test Value/Data/Replacement Component",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{46BBA959-1B68-443B-86B0-4230FD8AEF34}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:01.1433150Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Replacement Component",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Multivariate Test Value/Data/Replacement Component",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

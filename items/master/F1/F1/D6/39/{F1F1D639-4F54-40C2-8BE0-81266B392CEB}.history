@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Layout/Renderings/Xsl Rendering",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F1F1D639-4F54-40C2-8BE0-81266B392CEB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:21.0964562Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Xsl Rendering",
+    "itemPath": "/sitecore/templates/System/Layout/Renderings/Xsl Rendering",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

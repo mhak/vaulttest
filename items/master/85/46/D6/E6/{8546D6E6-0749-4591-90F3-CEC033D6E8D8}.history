@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Templates/Sections/Layout/Layout/__Page Level Test Set Definition",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8546D6E6-0749-4591-90F3-CEC033D6E8D8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:15:05.0729715Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Page Level Test Set Definition",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Layout/Layout/__Page Level Test Set Definition",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

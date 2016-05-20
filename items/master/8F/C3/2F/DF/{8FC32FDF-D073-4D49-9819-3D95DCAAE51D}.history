@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/media library/System/Page Event Images/Login Failed",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8FC32FDF-D073-4D49-9819-3D95DCAAE51D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:44.5725036Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Login Failed",
+    "itemPath": "/sitecore/media library/System/Page Event Images/Login Failed",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]

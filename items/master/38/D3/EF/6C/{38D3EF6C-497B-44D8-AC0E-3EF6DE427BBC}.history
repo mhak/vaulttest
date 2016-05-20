@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/layout/Simulators/iPhone/iPhone Landscape",
     "commandType": "Item",
     "template": "Simulator Rotated State",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{38D3EF6C-497B-44D8-AC0E-3EF6DE427BBC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:40.7712861Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "iPhone Landscape",
+    "itemPath": "/sitecore/layout/Simulators/iPhone/iPhone Landscape",
+    "commandType": "Item",
+    "template": "Simulator Rotated State",
     "sourceControlRevisionId": null
   }
 ]

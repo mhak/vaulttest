@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/3rd Party/Email inclusion",
     "commandType": "Item",
     "template": "Channel",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{ADA3552B-264F-4B5F-BDEF-73463AF33290}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:58.7703156Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Email inclusion",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/3rd Party/Email inclusion",
+    "commandType": "Item",
+    "template": "Channel",
     "sourceControlRevisionId": null
   }
 ]

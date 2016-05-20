@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Papua New Guinea",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{28C3CE9D-E280-43A9-8DD0-A1DC8F3C67B5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:29.1990561Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Papua New Guinea",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Papua New Guinea",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Profile Types/Percentage",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3994596D-AB1B-42EF-8360-92A84926404A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:37.4165261Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Percentage",
+    "itemPath": "/sitecore/system/Settings/Analytics/Profile Types/Percentage",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Qatar",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BFE0FFED-0392-4AD7-AB93-69094E0803A9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:29.6240804Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Qatar",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Qatar",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

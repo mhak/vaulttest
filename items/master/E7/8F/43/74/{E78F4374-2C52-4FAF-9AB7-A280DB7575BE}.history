@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Feeds/Feed Rendering Parameters/Data/EnclosureField",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E78F4374-2C52-4FAF-9AB7-A280DB7575BE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:08.0017072Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "EnclosureField",
+    "itemPath": "/sitecore/templates/System/Feeds/Feed Rendering Parameters/Data/EnclosureField",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

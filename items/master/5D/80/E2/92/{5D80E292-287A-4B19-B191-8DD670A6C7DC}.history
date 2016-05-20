@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Device/Editor/DeviceEditorQuestionMark",
     "commandType": "Item",
     "template": "Dictionary entry",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5D80E292-287A-4B19-B191-8DD670A6C7DC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:49.0457594Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "DeviceEditorQuestionMark",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Device/Editor/DeviceEditorQuestionMark",
+    "commandType": "Item",
+    "template": "Dictionary entry",
     "sourceControlRevisionId": null
   }
 ]

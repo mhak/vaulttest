@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/media library/System/Template Thumbnails/leopard-folder-big",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7992E405-A9BA-49E0-8C87-C88060756731}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:46.6186206Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "leopard-folder-big",
+    "itemPath": "/sitecore/media library/System/Template Thumbnails/leopard-folder-big",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]

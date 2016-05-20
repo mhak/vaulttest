@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Media/Versioned/Jpeg",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EB3FB96C-D56B-4AC9-97F8-F07B24BB9BF7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:31.5420537Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Jpeg",
+    "itemPath": "/sitecore/templates/System/Media/Versioned/Jpeg",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

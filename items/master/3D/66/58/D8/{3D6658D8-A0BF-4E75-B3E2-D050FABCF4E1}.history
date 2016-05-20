@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/media library",
     "commandType": "Item",
     "template": "Main section",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3D6658D8-A0BF-4E75-B3E2-D050FABCF4E1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:36.3000304Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Media Library",
+    "itemPath": "/sitecore/media library",
+    "commandType": "Item",
+    "template": "Main section",
     "sourceControlRevisionId": null
   }
 ]

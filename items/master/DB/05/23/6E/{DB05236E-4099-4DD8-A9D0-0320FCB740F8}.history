@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/media library/System/Channel Images/ch-email-marketing",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DB05236E-4099-4DD8-A9D0-0320FCB740F8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:42.6603942Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-email-marketing",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-email-marketing",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]

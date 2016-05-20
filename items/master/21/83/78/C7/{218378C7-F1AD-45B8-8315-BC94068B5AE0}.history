@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Search Query Builder/Date Field Between",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{218378C7-F1AD-45B8-8315-BC94068B5AE0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:05.2881202Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Date Field Between",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Search Query Builder/Date Field Between",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

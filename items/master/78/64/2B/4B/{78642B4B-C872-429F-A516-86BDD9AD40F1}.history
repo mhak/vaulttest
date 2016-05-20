@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Validation Results/Suggestion",
     "commandType": "Item",
     "template": "Validation Result",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{78642B4B-C872-429F-A516-86BDD9AD40F1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:22.5301064Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Suggestion",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Validation Results/Suggestion",
+    "commandType": "Item",
+    "template": "Validation Result",
     "sourceControlRevisionId": null
   }
 ]

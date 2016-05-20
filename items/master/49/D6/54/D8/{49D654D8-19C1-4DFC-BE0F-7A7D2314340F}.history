@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Workflow/Check in",
     "commandType": "Item",
     "template": "Dictionary entry",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{49D654D8-19C1-4DFC-BE0F-7A7D2314340F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:32.7166891Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Check in",
+    "itemPath": "/sitecore/system/Settings/Workflow/Check in",
+    "commandType": "Item",
+    "template": "Dictionary entry",
     "sourceControlRevisionId": null
   }
 ]

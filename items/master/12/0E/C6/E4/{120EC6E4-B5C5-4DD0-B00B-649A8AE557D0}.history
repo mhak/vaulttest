@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Ribbon/Small Gallery Button/Data/Gallery Parameters",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{120EC6E4-B5C5-4DD0-B00B-649A8AE557D0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:47.8999893Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Gallery Parameters",
+    "itemPath": "/sitecore/templates/System/Ribbon/Small Gallery Button/Data/Gallery Parameters",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

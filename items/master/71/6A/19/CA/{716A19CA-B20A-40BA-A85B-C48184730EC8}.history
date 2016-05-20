@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Federated Experience Manager/Filters and Actions/Client Action/__Standard Values",
     "commandType": "Item",
     "template": "Client Action",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{716A19CA-B20A-40BA-A85B-C48184730EC8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:53.5888829Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Analytics/Federated Experience Manager/Filters and Actions/Client Action/__Standard Values",
+    "commandType": "Item",
+    "template": "Client Action",
     "sourceControlRevisionId": null
   }
 ]

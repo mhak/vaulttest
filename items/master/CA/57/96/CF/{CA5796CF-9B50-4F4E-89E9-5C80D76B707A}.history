@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/ReportQuery/Filters",
     "commandType": "Item",
     "template": "Template section",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CA5796CF-9B50-4F4E-89E9-5C80D76B707A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:05.6425723Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Filters",
+    "itemPath": "/sitecore/templates/System/Analytics/ReportQuery/Filters",
+    "commandType": "Item",
+    "template": "Template section",
     "sourceControlRevisionId": null
   }
 ]

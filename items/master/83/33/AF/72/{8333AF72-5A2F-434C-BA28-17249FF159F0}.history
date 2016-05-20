@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Philippines",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8333AF72-5A2F-434C-BA28-17249FF159F0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:29.3460645Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Philippines",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Philippines",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

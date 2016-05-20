@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Workflows/Analytics Testing Workflow/Deployed",
     "commandType": "Item",
     "template": "State",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1789B344-EA1D-4DF7-BA53-1BB2814F7A5A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:34.5607945Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Deployed",
+    "itemPath": "/sitecore/system/Workflows/Analytics Testing Workflow/Deployed",
+    "commandType": "Item",
+    "template": "State",
     "sourceControlRevisionId": null
   }
 ]

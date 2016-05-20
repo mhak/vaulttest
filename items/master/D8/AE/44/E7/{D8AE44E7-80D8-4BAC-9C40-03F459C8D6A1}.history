@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/layout/Simulators/Android Tablet/Android Tablet Portrait",
     "commandType": "Item",
     "template": "Simulator Rotated State",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D8AE44E7-80D8-4BAC-9C40-03F459C8D6A1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:40.2592569Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Android Tablet Portrait",
+    "itemPath": "/sitecore/layout/Simulators/Android Tablet/Android Tablet Portrait",
+    "commandType": "Item",
+    "template": "Simulator Rotated State",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Workflows/Analytics Testing Workflow/Draft/Deploy/Start Test",
     "commandType": "Item",
     "template": "Action",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FA1AD9A4-00A0-4F51-8BBA-EAF3CEDF0852}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:34.6918020Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Start Test",
+    "itemPath": "/sitecore/system/Workflows/Analytics Testing Workflow/Draft/Deploy/Start Test",
+    "commandType": "Item",
+    "template": "Action",
     "sourceControlRevisionId": null
   }
 ]

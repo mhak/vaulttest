@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Marketing Automation Evaluation",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0F224342-9BCE-4012-A46C-148E7D9419A9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:17.8664079Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Marketing Automation Evaluation",
+    "itemPath": "/sitecore/system/Settings/Analytics/Marketing Automation Evaluation",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

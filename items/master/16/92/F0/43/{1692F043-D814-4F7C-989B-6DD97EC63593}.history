@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Base/Taxon Definition",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1692F043-D814-4F7C-989B-6DD97EC63593}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:49.0676243Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Taxon Definition",
+    "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Base/Taxon Definition",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

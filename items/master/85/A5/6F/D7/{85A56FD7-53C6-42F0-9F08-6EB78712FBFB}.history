@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Vendor Specific Filter/Mapping",
     "commandType": "Item",
     "template": "Template section",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{85A56FD7-53C6-42F0-9F08-6EB78712FBFB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:05.0305373Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Mapping",
+    "itemPath": "/sitecore/templates/System/Analytics/Vendor Specific Filter/Mapping",
+    "commandType": "Item",
+    "template": "Template section",
     "sourceControlRevisionId": null
   }
 ]

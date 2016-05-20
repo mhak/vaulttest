@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Saint Martin",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A4B1E409-A9A8-4821-A2D9-1D632546B823}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:30.0671057Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Saint Martin",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Saint Martin",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

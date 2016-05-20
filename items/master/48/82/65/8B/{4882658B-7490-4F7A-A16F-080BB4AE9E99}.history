@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Accordion/accordion/Accordion Name",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4882658B-7490-4F7A-A16F-080BB4AE9E99}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:35.7842963Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Accordion Name",
+    "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Accordion/accordion/Accordion Name",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

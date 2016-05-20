@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Social/Empty Campaign",
     "commandType": "Item",
     "template": "Validation Rule",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{548275DC-06AC-4426-8267-49C56BC97110}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:29.0934818Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Empty Campaign",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Social/Empty Campaign",
+    "commandType": "Item",
+    "template": "Validation Rule",
     "sourceControlRevisionId": null
   }
 ]

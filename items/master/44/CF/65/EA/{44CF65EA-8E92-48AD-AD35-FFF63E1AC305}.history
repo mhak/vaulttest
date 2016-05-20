@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Validation Results/Error",
     "commandType": "Item",
     "template": "Validation Result",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{44CF65EA-8E92-48AD-AD35-FFF63E1AC305}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:22.4411013Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Error",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Validation Results/Error",
+    "commandType": "Item",
+    "template": "Validation Result",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/Branches/System/Media/Upload Files - Advanced",
     "commandType": "Item",
     "template": "Command Template",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{381BEC54-BC94-4FBB-98B3-C56B37237EE3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:41.2941797Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Upload Files - Advanced",
+    "itemPath": "/sitecore/templates/Branches/System/Media/Upload Files - Advanced",
+    "commandType": "Item",
+    "template": "Command Template",
     "sourceControlRevisionId": null
   }
 ]

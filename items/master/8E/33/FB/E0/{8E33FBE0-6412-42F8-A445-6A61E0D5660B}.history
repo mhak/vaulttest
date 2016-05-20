@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Validation/Field Type Validation Rules/Validation Rules/Validate Button",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8E33FBE0-6412-42F8-A445-6A61E0D5660B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:15:08.8151856Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Validate Button",
+    "itemPath": "/sitecore/templates/System/Validation/Field Type Validation Rules/Validation Rules/Validate Button",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

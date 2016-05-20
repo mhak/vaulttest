@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Page Event/Experience Profile Options/Show in Page Events",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2F2AE296-8B58-4D94-8EEE-0E82589D61A4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:56.2340342Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Show in Page Events",
+    "itemPath": "/sitecore/templates/System/Analytics/Page Event/Experience Profile Options/Show in Page Events",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

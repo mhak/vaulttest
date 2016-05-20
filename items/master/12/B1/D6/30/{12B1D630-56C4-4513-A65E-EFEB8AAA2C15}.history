@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Workflows/Social Marketer Message Workflow/Post Removed",
     "commandType": "Item",
     "template": "State",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{12B1D630-56C4-4513-A65E-EFEB8AAA2C15}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:36.8269241Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Post Removed",
+    "itemPath": "/sitecore/system/Workflows/Social Marketer Message Workflow/Post Removed",
+    "commandType": "Item",
+    "template": "State",
     "sourceControlRevisionId": null
   }
 ]

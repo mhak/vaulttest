@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/App Center Sync/Markup Rendering/Markup Rendering/App",
     "commandType": "Item",
     "template": "Template section",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3838F457-5DDB-4459-B52D-3BE3488B768E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:38.4670180Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "App",
+    "itemPath": "/sitecore/templates/App Center Sync/Markup Rendering/Markup Rendering/App",
+    "commandType": "Item",
+    "template": "Template section",
     "sourceControlRevisionId": null
   }
 ]

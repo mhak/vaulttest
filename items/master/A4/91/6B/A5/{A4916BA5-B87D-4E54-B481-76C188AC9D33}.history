@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Workflows/Social Message Workflow/Draft",
     "commandType": "Item",
     "template": "State",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A4916BA5-B87D-4E54-B481-76C188AC9D33}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:37.2739497Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Draft",
+    "itemPath": "/sitecore/system/Workflows/Social Message Workflow/Draft",
+    "commandType": "Item",
+    "template": "State",
     "sourceControlRevisionId": null
   }
 ]

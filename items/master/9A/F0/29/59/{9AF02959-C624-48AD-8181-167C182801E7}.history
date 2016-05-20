@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/TestChannelType/TestChannelGroup/TestChannel",
     "commandType": "Item",
     "template": "Channel",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9AF02959-C624-48AD-8181-167C182801E7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:03.6785964Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "TestChannel",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/TestChannelType/TestChannelGroup/TestChannel",
+    "commandType": "Item",
+    "template": "Channel",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Simulators/Scale Values",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CCC9FA4C-C03E-4F68-B576-B423BEF01CB8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:27.3333811Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Scale Values",
+    "itemPath": "/sitecore/system/Settings/Simulators/Scale Values",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

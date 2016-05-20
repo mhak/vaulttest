@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Macedonia",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0773D337-6B1C-45E9-8819-E11C72D4084A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:27.3229487Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Macedonia",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Macedonia",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

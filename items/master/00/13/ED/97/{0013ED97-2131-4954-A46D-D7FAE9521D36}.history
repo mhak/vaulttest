@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Html editor/HTML Size/Data/Reference size",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0013ED97-2131-4954-A46D-D7FAE9521D36}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:09.7298061Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Reference size",
+    "itemPath": "/sitecore/templates/System/Html editor/HTML Size/Data/Reference size",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

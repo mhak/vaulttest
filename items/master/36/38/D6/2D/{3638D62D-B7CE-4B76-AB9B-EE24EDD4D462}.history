@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/App Center Sync/Markup Rendering/Markup Rendering/__Standard Values",
     "commandType": "Item",
     "template": "Markup Rendering",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3638D62D-B7CE-4B76-AB9B-EE24EDD4D462}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:38.5090204Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/App Center Sync/Markup Rendering/Markup Rendering/__Standard Values",
+    "commandType": "Item",
+    "template": "Markup Rendering",
     "sourceControlRevisionId": null
   }
 ]

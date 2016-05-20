@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Social/Connector/Login with Twitter Button Parameters",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{40620822-190C-47B9-B8B6-052B9A8DE072}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:57.0085103Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Login with Twitter Button Parameters",
+    "itemPath": "/sitecore/templates/System/Social/Connector/Login with Twitter Button Parameters",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/layout/Sublayouts/Social/Connector/Login with Twitter",
     "commandType": "Item",
     "template": "Sublayout",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AD486F6B-AA44-49FE-8B66-8D4B63C0E477}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:39.4802123Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Login with Twitter",
+    "itemPath": "/sitecore/layout/Sublayouts/Social/Connector/Login with Twitter",
+    "commandType": "Item",
+    "template": "Sublayout",
     "sourceControlRevisionId": null
   }
 ]

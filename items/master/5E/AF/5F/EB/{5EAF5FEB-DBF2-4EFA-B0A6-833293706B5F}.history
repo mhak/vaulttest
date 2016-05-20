@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Zambia",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5EAF5FEB-DBF2-4EFA-B0A6-833293706B5F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:32.8222633Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Zambia",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Zambia",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

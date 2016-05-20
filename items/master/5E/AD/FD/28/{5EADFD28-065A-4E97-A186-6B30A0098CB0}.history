@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Preset Persona/Data/Responsibility",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5EADFD28-065A-4E97-A186-6B30A0098CB0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:38.3114409Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Responsibility",
+    "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Preset Persona/Data/Responsibility",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Templates/Sections/Appearance/Appearance/__Editor",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D85DB4EC-FF89-4F9C-9E7C-A9E0654797FC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:15:03.0748572Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Editor",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Appearance/Appearance/__Editor",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

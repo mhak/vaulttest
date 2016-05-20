@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Visitor Identifications/930 - Bot - Malicious",
     "commandType": "Item",
     "template": "Visitor Identification",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0D925563-3CE0-491F-B982-B99D9CCB5EB1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:44.0179036Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "930 - Bot - Malicious",
+    "itemPath": "/sitecore/system/Settings/Analytics/Visitor Identifications/930 - Bot - Malicious",
+    "commandType": "Item",
+    "template": "Visitor Identification",
     "sourceControlRevisionId": null
   }
 ]

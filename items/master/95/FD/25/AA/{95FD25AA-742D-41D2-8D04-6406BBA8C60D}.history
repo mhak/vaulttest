@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Workflow/Validation Action/Data/Max Result",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{95FD25AA-742D-41D2-8D04-6406BBA8C60D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:15:12.0683716Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Max Result",
+    "itemPath": "/sitecore/templates/System/Workflow/Validation Action/Data/Max Result",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/templates/Demo/Vault/Section/Navigation",
     "commandType": "Item",
     "template": "Template section",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{94EE4BEF-ED69-445D-B00B-9D314BC1C1E4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:42.6162553Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Navigation",
+    "itemPath": "/sitecore/templates/Demo/Vault/Section/Navigation",
+    "commandType": "Item",
+    "template": "Template section",
     "sourceControlRevisionId": null
   }
 ]

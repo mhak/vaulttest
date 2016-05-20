@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Vendor Specific Filters/MongoDb/Country",
     "commandType": "Item",
     "template": "Vendor Specific Filter",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FA2B261C-2B1D-41A6-B731-2B7257D391F4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:42.9418421Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Country",
+    "itemPath": "/sitecore/system/Settings/Analytics/Vendor Specific Filters/MongoDb/Country",
+    "commandType": "Item",
+    "template": "Vendor Specific Filter",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Date/Month of Year",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F27973B0-4439-48F6-AC06-ED2C2F31AC61}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:57.7706903Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Month of Year",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Date/Month of Year",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Reports/Reports/Site Health",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EF2D7FDA-0687-4C1B-901F-849BC1FA7F6B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:44.6989426Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Site Health",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Reports/Site Health",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

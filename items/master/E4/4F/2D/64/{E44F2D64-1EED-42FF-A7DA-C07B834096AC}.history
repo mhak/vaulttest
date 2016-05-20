@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Workflows/Sample Workflow/Awaiting Approval/Reject",
     "commandType": "Item",
     "template": "Command",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E44F2D64-1EED-42FF-A7DA-C07B834096AC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:35.7348617Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Reject",
+    "itemPath": "/sitecore/system/Workflows/Sample Workflow/Awaiting Approval/Reject",
+    "commandType": "Item",
+    "template": "Command",
     "sourceControlRevisionId": null
   }
 ]

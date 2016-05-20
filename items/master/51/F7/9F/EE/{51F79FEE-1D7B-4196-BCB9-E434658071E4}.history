@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Insert Options/Rules/Page Events",
     "commandType": "Item",
     "template": "Insert Options Rule",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{51F79FEE-1D7B-4196-BCB9-E434658071E4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:24.6012249Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Page Events",
+    "itemPath": "/sitecore/system/Settings/Rules/Insert Options/Rules/Page Events",
+    "commandType": "Item",
+    "template": "Insert Options Rule",
     "sourceControlRevisionId": null
   }
 ]

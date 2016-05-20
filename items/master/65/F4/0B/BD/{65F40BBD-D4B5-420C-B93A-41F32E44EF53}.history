@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Layout/Preview Simulators",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{65F40BBD-D4B5-420C-B93A-41F32E44EF53}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:17.0692259Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Preview Simulators",
+    "itemPath": "/sitecore/templates/System/Layout/Preview Simulators",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

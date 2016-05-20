@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Tasks/Schedules/Content Testing",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{28D3AE32-CA9C-4755-9D9D-F02CE5873AEE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:33.6517425Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Content Testing",
+    "itemPath": "/sitecore/system/Tasks/Schedules/Content Testing",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Dashboard/Dashboard Report/Queries/SqlServer",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{46FB3CB4-4740-4680-BB76-63A15EF25907}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:51.7817795Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "SqlServer",
+    "itemPath": "/sitecore/templates/System/Analytics/Dashboard/Dashboard Report/Queries/SqlServer",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

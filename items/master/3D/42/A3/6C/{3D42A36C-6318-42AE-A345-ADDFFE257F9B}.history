@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/layout/Simulators/HD TV/No Flash Support Trait",
     "commandType": "Item",
     "template": "No Flash Support Trait",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3D42A36C-6318-42AE-A345-ADDFFE257F9B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:40.5532737Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "No Flash Support Trait",
+    "itemPath": "/sitecore/layout/Simulators/HD TV/No Flash Support Trait",
+    "commandType": "Item",
+    "template": "No Flash Support Trait",
     "sourceControlRevisionId": null
   }
 ]

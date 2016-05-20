@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Ribbon/Large Button/Data/Access Key",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FE8A178D-8ED7-4A24-9BCA-7722D2A06834}",
+    "version": 3,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:44.3697874Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Access Key",
+    "itemPath": "/sitecore/templates/System/Ribbon/Large Button/Data/Access Key",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

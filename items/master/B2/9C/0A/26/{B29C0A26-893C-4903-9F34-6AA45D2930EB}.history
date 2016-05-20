@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Workflows/Social Marketer Message Workflow/Awaiting Post Review/Remove",
     "commandType": "Item",
     "template": "Command",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B29C0A26-893C-4903-9F34-6AA45D2930EB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:37.1789443Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Remove",
+    "itemPath": "/sitecore/system/Workflows/Social Marketer Message Workflow/Awaiting Post Review/Remove",
+    "commandType": "Item",
+    "template": "Command",
     "sourceControlRevisionId": null
   }
 ]

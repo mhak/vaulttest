@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Page Events/Session begin",
     "commandType": "Item",
     "template": "Page Event",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1D5B2803-8945-4AAB-BA47-8E380DFA1334}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:36.7864900Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Session begin",
+    "itemPath": "/sitecore/system/Settings/Analytics/Page Events/Session begin",
+    "commandType": "Item",
+    "template": "Page Event",
     "sourceControlRevisionId": null
   }
 ]

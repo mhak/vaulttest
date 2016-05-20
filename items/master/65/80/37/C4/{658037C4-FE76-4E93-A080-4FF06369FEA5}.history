@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/ExperienceViewer",
     "commandType": "Item",
     "template": "Dictionary folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{658037C4-FE76-4E93-A080-4FF06369FEA5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:47.5906762Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ExperienceViewer",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/ExperienceViewer",
+    "commandType": "Item",
+    "template": "Dictionary folder",
     "sourceControlRevisionId": null
   }
 ]

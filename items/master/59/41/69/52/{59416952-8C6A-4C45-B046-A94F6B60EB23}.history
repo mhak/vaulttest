@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Geo/Common/Latitude",
     "commandType": "Item",
     "template": "Dictionary entry",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{59416952-8C6A-4C45-B046-A94F6B60EB23}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:51.1358790Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Latitude",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Geo/Common/Latitude",
+    "commandType": "Item",
+    "template": "Dictionary entry",
     "sourceControlRevisionId": null
   }
 ]

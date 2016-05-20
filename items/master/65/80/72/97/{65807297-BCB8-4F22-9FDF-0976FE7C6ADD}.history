@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/System/Linked Item Has Allowed Template",
     "commandType": "Item",
     "template": "Validation Rule",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{65807297-BCB8-4F22-9FDF-0976FE7C6ADD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:29.7465192Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Linked Item Has Allowed Template",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/System/Linked Item Has Allowed Template",
+    "commandType": "Item",
+    "template": "Validation Rule",
     "sourceControlRevisionId": null
   }
 ]

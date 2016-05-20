@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/List Manager/List Folder",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C4D09683-5EB3-4D8E-BF9E-13CB41C197B5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:43.0842820Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "List Folder",
+    "itemPath": "/sitecore/templates/List Manager/List Folder",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Kazakhstan",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E8B42AB7-C9D4-47DE-AB2B-7BC83E35552D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:26.4969015Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Kazakhstan",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Kazakhstan",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

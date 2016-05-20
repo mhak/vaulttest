@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Geo/Editor/GeoEditorTest_RUNNING_QuestionMark",
     "commandType": "Item",
     "template": "Dictionary entry",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{87091BB2-2E7B-44B6-8E69-24571E94E587}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:51.8029171Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "GeoEditorTest_RUNNING_QuestionMark",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Geo/Editor/GeoEditorTest_RUNNING_QuestionMark",
+    "commandType": "Item",
+    "template": "Dictionary entry",
     "sourceControlRevisionId": null
   }
 ]

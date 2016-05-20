@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Templates/Sections/Indexing/Indexing/__Boost",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{93D1B217-B8F4-462E-BABF-68298C9CE667}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:15:03.9579078Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Boost",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Indexing/Indexing/__Boost",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

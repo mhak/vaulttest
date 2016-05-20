@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Layout/Renderings/Item rendering/Editor Options/Parameters Template",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{04F2D6D8-7748-425C-A435-B63C4FFBF43E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:22.0745122Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Parameters Template",
+    "itemPath": "/sitecore/templates/System/Layout/Renderings/Item rendering/Editor Options/Parameters Template",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

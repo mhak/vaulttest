@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Sierra Leone",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8983378A-2E7F-43F3-8D55-2344909BFC66}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:30.6541393Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sierra Leone",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Sierra Leone",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

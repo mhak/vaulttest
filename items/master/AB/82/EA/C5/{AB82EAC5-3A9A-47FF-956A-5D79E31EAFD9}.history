@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/Social/NetworkProperty",
     "commandType": "Item",
     "template": "Macro",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AB82EAC5-3A9A-47FF-956A-5D79E31EAFD9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:12.7545473Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "NetworkProperty",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/Social/NetworkProperty",
+    "commandType": "Item",
+    "template": "Macro",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Maps/OtherMaps",
     "commandType": "Item",
     "template": "MapGroupFolder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6477CB98-1547-4A08-BFC6-C9F68ED2B3A5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:09.2049125Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Other Experience Maps",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Maps/OtherMaps",
+    "commandType": "Item",
+    "template": "MapGroupFolder",
     "sourceControlRevisionId": null
   }
 ]

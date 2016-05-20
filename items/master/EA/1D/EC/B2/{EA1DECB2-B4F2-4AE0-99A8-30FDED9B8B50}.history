@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Subitems Sorting/Logical",
     "commandType": "Item",
     "template": "Child Sorting",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EA1DECB2-B4F2-4AE0-99A8-30FDED9B8B50}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:27.6403987Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Logical",
+    "itemPath": "/sitecore/system/Settings/Subitems Sorting/Logical",
+    "commandType": "Item",
+    "template": "Child Sorting",
     "sourceControlRevisionId": null
   }
 ]

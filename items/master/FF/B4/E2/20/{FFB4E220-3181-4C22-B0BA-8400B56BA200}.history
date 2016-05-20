@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Maps/Path Experience Maps",
     "commandType": "Item",
     "template": "MapGroupFolder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FFB4E220-3181-4C22-B0BA-8400B56BA200}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:09.1579098Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Path Experience Maps",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Maps/Path Experience Maps",
+    "commandType": "Item",
+    "template": "MapGroupFolder",
     "sourceControlRevisionId": null
   }
 ]

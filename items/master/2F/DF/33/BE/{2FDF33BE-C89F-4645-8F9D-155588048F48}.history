@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Maldives",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2FDF33BE-C89F-4645-8F9D-155588048F48}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:27.4919584Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Maldives",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Maldives",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

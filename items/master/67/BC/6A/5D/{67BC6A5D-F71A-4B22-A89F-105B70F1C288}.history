@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/layout/Simulators/iPad/No Flash Support",
     "commandType": "Item",
     "template": "No Flash Support Trait",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{67BC6A5D-F71A-4B22-A89F-105B70F1C288}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:40.6862813Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "No Flash Support",
+    "itemPath": "/sitecore/layout/Simulators/iPad/No Flash Support",
+    "commandType": "Item",
+    "template": "No Flash Support Trait",
     "sourceControlRevisionId": null
   }
 ]

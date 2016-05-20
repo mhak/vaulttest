@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Security/Role/Data/Roles",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CCB11355-CD36-4785-BFFA-4F12484348EA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:53.1852916Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Roles",
+    "itemPath": "/sitecore/templates/System/Security/Role/Data/Roles",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

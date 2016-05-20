@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/layout/Sublayouts/Social/Sharing/Tweet Button",
     "commandType": "Item",
     "template": "Sublayout",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7BDBBF0C-FDEB-46EC-8E47-82B75EBB3A7B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:39.6482219Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tweet Button",
+    "itemPath": "/sitecore/layout/Sublayouts/Social/Sharing/Tweet Button",
+    "commandType": "Item",
+    "template": "Sublayout",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/Branches/System/Layouts/Renderings/__Webcontrol",
     "commandType": "Item",
     "template": "Branch",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{00E66E02-DF20-4F3A-B8AA-5239108DC2BB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:40.5851391Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Webcontrol",
+    "itemPath": "/sitecore/templates/Branches/System/Layouts/Renderings/__Webcontrol",
+    "commandType": "Item",
+    "template": "Branch",
     "sourceControlRevisionId": null
   }
 ]

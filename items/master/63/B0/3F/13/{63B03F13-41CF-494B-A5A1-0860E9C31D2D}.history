@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/General/Common/VisitorInformationTags",
     "commandType": "Item",
     "template": "Dictionary entry",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{63B03F13-41CF-494B-A5A1-0860E9C31D2D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:50.4118376Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "VisitorInformationTags",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/General/Common/VisitorInformationTags",
+    "commandType": "Item",
+    "template": "Dictionary entry",
     "sourceControlRevisionId": null
   }
 ]

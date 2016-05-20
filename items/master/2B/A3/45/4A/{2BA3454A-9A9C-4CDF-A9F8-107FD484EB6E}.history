@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Dictionary/Dictionary entry/Data/Phrase",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2BA3454A-9A9C-4CDF-A9F8-107FD484EB6E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:07.4706769Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Phrase",
+    "itemPath": "/sitecore/templates/System/Dictionary/Dictionary entry/Data/Phrase",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

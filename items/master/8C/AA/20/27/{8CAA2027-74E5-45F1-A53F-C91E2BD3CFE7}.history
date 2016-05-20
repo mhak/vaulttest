@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Aruba",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8CAA2027-74E5-45F1-A53F-C91E2BD3CFE7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:21.7076276Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Aruba",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Aruba",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

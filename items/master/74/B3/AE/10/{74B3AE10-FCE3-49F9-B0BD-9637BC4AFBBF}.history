@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visitor/User Profile Numeric Field",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{74B3AE10-FCE3-49F9-B0BD-9637BC4AFBBF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:10.7514327Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "User Profile Numeric Field",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visitor/User Profile Numeric Field",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

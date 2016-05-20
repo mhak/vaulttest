@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Marketing Automation Evaluation/Always Evaluate",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B81C1F4C-8B83-44D9-902F-448463DBCCBC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:32.9152686Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Always Evaluate",
+    "itemPath": "/sitecore/system/Settings/Analytics/Marketing Automation Evaluation/Always Evaluate",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

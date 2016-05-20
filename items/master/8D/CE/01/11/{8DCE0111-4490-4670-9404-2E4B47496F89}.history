@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Rules/Rule/Data",
     "commandType": "Item",
     "template": "Template section",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8DCE0111-4490-4670-9404-2E4B47496F89}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:51.2651818Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Data",
+    "itemPath": "/sitecore/templates/System/Rules/Rule/Data",
+    "commandType": "Item",
+    "template": "Template section",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Item Saved",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F9AFAF63-33A5-4017-9401-69F36D87295A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:13.1915723Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Item Saved",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Item Saved",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

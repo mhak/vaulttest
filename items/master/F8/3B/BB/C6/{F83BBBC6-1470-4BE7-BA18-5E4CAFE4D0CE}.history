@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Filters/Non-branded organic search",
     "commandType": "Item",
     "template": "Filter",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F83BBBC6-1470-4BE7-BA18-5E4CAFE4D0CE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:08.1398515Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Non-branded organic search",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Filters/Non-branded organic search",
+    "commandType": "Item",
+    "template": "Filter",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Dimensions/Pages/By Entry Pages",
     "commandType": "Item",
     "template": "Dimension",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{81379156-7721-4EE5-8951-AE92E1CDF090}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:05.5907057Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "By Entry Pages",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Dimensions/Pages/By Entry Pages",
+    "commandType": "Item",
+    "template": "Dimension",
     "sourceControlRevisionId": null
   }
 ]

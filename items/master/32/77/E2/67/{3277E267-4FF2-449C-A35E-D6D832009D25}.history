@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Taiwan",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3277E267-4FF2-449C-A35E-D6D832009D25}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:31.4071824Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Taiwan",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Taiwan",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

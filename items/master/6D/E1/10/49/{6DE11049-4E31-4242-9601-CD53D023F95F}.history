@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Dimensions/Visits/By City/All visits by City",
     "commandType": "Item",
     "template": "Segment",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6DE11049-4E31-4242-9601-CD53D023F95F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:07.1557953Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "{3C70E8B1-D6D2-42CC-8E21-1AE8EC72A0FB}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "All visits by City",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Dimensions/Visits/By City/All visits by City",
+    "commandType": "Item",
+    "template": "Segment",
     "sourceControlRevisionId": null
   }
 ]

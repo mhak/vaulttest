@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Campaigns",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EC095310-746F-4C1B-A73F-941863564DC2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:56.8392052Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Campaigns",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Campaigns",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

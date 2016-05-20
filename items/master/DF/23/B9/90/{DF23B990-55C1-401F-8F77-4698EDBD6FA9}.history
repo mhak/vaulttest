@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Rules/Condition/Script",
     "commandType": "Item",
     "template": "Template section",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DF23B990-55C1-401F-8F77-4698EDBD6FA9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:50.2741251Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Script",
+    "itemPath": "/sitecore/templates/System/Rules/Condition/Script",
+    "commandType": "Item",
+    "template": "Template section",
     "sourceControlRevisionId": null
   }
 ]

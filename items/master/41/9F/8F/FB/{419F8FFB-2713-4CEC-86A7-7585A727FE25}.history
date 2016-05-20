@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Workflow/Validation Action",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{419F8FFB-2713-4CEC-86A7-7585A727FE25}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:15:10.4502791Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Validation Action",
+    "itemPath": "/sitecore/templates/System/Workflow/Validation Action",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

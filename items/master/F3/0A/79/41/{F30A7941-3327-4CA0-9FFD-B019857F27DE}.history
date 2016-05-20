@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Social/Networks/Twitter",
     "commandType": "Item",
     "template": "Network",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F30A7941-3327-4CA0-9FFD-B019857F27DE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:33.2527197Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Twitter",
+    "itemPath": "/sitecore/system/Social/Networks/Twitter",
+    "commandType": "Item",
+    "template": "Network",
     "sourceControlRevisionId": null
   }
 ]

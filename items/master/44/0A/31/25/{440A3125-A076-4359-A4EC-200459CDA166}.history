@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Media/Versioned/Flash/Flash/FrameCount",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{440A3125-A076-4359-A4EC-200459CDA166}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:33.1731470Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FrameCount",
+    "itemPath": "/sitecore/templates/System/Media/Versioned/Flash/Flash/FrameCount",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

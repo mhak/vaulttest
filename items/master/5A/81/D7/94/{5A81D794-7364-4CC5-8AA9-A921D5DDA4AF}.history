@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Item Buckets/Item Buckets Settings/Settings/Opening Search Results",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5A81D794-7364-4CC5-8AA9-A921D5DDA4AF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:15.1701173Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Opening Search Results",
+    "itemPath": "/sitecore/templates/System/Item Buckets/Item Buckets Settings/Settings/Opening Search Results",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Workflows/Analytics Testing Workflow/Deployed/Auto Publish",
     "commandType": "Item",
     "template": "Action",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F4C23B39-27A6-4D14-AF0F-0BC17040B1BA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:34.7368046Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Auto Publish",
+    "itemPath": "/sitecore/system/Workflows/Analytics Testing Workflow/Deployed/Auto Publish",
+    "commandType": "Item",
+    "template": "Action",
     "sourceControlRevisionId": null
   }
 ]

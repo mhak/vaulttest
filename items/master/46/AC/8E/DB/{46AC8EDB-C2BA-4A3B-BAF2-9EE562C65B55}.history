@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Geo/Viewer/GeoViewerDescription",
     "commandType": "Item",
     "template": "Dictionary entry",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{46AC8EDB-C2BA-4A3B-BAF2-9EE562C65B55}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:52.0779328Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "GeoViewerDescription",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Geo/Viewer/GeoViewerDescription",
+    "commandType": "Item",
+    "template": "Dictionary entry",
     "sourceControlRevisionId": null
   }
 ]

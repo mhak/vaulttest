@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Media/Unversioned/Jpeg/Exif",
     "commandType": "Item",
     "template": "Template section",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3F6316E8-74C6-42B9-B390-FB79DF8AE578}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:30.1699752Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Exif",
+    "itemPath": "/sitecore/templates/System/Media/Unversioned/Jpeg/Exif",
+    "commandType": "Item",
+    "template": "Template section",
     "sourceControlRevisionId": null
   }
 ]

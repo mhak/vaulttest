@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Social/Account/Network Account/Data/LastRenewalDate",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8BFA1D0D-46B5-4C99-B40F-EAC683C1C9D3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:56.3864747Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Last Renewal Date",
+    "itemPath": "/sitecore/templates/System/Social/Account/Network Account/Data/LastRenewalDate",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

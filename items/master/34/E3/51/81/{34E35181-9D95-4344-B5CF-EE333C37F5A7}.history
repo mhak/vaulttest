@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Ribbon/Large Gallery Button/Data/ID",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{34E35181-9D95-4344-B5CF-EE333C37F5A7}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:45.5898572Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ID",
+    "itemPath": "/sitecore/templates/System/Ribbon/Large Gallery Button/Data/ID",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

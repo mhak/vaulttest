@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/layout/Simulators/iPad/iPad landscape",
     "commandType": "Item",
     "template": "Simulator Rotated State",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0CFBCE35-CCB8-48C5-A1DB-124DEFBF2E47}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:40.6452789Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "iPad landscape",
+    "itemPath": "/sitecore/layout/Simulators/iPad/iPad landscape",
+    "commandType": "Item",
+    "template": "Simulator Rotated State",
     "sourceControlRevisionId": null
   }
 ]

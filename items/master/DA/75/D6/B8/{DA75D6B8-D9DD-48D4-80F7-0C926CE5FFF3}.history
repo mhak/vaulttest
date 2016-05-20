@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Layout/Preview Simulators/Sections/Unsupported Content/Content/Replacement Html",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DA75D6B8-D9DD-48D4-80F7-0C926CE5FFF3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:19.8853869Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Replacement Html",
+    "itemPath": "/sitecore/templates/System/Layout/Preview Simulators/Sections/Unsupported Content/Content/Replacement Html",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Settings/Editor/SettingsEditorDescription",
     "commandType": "Item",
     "template": "Dictionary entry",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9CBD8E04-CC62-4172-B8BD-13A6CE76DDB7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:56.0551603Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "SettingsEditorDescription",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Settings/Editor/SettingsEditorDescription",
+    "commandType": "Item",
+    "template": "Dictionary entry",
     "sourceControlRevisionId": null
   }
 ]

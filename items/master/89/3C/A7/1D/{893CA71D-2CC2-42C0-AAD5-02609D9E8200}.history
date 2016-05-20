@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Social/Account/Network Account/Data/AccessToken",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{893CA71D-2CC2-42C0-AAD5-02609D9E8200}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:56.2944694Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "AccessToken",
+    "itemPath": "/sitecore/templates/System/Social/Account/Network Account/Data/AccessToken",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

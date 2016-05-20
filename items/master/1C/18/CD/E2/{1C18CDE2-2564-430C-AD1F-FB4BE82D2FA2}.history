@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Pages that Report Errors",
     "commandType": "Item",
     "template": "ReportQuery",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1C18CDE2-2564-430C-AD1F-FB4BE82D2FA2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:38.5645917Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Pages that Report Errors",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Pages that Report Errors",
+    "commandType": "Item",
+    "template": "ReportQuery",
     "sourceControlRevisionId": null
   }
 ]

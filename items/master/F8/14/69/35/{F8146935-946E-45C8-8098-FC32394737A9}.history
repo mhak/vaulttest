@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Geo/Editor/GeoEditorTest_UNKNOWN_LICENSE_KEY",
     "commandType": "Item",
     "template": "Dictionary entry",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F8146935-946E-45C8-8098-FC32394737A9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:51.8489197Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "GeoEditorTest_UNKNOWN_LICENSE_KEY",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Geo/Editor/GeoEditorTest_UNKNOWN_LICENSE_KEY",
+    "commandType": "Item",
+    "template": "Dictionary entry",
     "sourceControlRevisionId": null
   }
 ]

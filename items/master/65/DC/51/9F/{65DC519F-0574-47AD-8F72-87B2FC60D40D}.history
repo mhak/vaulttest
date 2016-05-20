@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/media library/System/Page Event Images/Submit Success",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{65DC519F-0574-47AD-8F72-87B2FC60D40D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:45.4735551Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Submit Success",
+    "itemPath": "/sitecore/media library/System/Page Event Images/Submit Success",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]

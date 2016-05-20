@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Guinea-Bissau",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F21349F8-ED34-41D0-B167-B309364B0520}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:25.5138453Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Guinea-Bissau",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Guinea-Bissau",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

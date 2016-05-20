@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Inclusion Operators/include upper value",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1BFD3DF4-0156-426F-82A5-29CD1C09457A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:11.7774914Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "include upper value",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Inclusion Operators/include upper value",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

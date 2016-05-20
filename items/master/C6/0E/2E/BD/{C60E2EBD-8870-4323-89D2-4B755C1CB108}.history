@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Social/Sharing/SharingControlParameters/Sharing/Campaign",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C60E2EBD-8870-4323-89D2-4B755C1CB108}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:15:01.0427410Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Campaign",
+    "itemPath": "/sitecore/templates/System/Social/Sharing/SharingControlParameters/Sharing/Campaign",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

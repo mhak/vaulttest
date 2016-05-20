@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Workflow/Auto Submit Action/Data/Role Name",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{67918816-9524-4666-87B3-C07AFF9CEBD3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:15:10.8132999Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Role Name",
+    "itemPath": "/sitecore/templates/System/Workflow/Auto Submit Action/Data/Role Name",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

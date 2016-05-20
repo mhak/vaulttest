@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Patterns/Pattern Card/Data/Image",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{98535F26-6C9D-4FD7-A7E2-392C7CB82D65}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:56.6720592Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Image",
+    "itemPath": "/sitecore/templates/System/Analytics/Patterns/Pattern Card/Data/Image",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

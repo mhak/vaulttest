@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Modules/Experience Explorer/Components/ExpViewer/Referral Information/Referral",
     "commandType": "Item",
     "template": "Control",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B5FA229A-67D3-43BB-AFC6-1A1118C9CEC0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:16.8753512Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Referral",
+    "itemPath": "/sitecore/system/Modules/Experience Explorer/Components/ExpViewer/Referral Information/Referral",
+    "commandType": "Item",
+    "template": "Control",
     "sourceControlRevisionId": null
   }
 ]

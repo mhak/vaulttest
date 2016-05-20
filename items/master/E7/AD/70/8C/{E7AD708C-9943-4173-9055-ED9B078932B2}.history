@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Interaction segmentation/Add Interaction to Segment",
     "commandType": "Item",
     "template": "Action",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E7AD708C-9943-4173-9055-ED9B078932B2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:01.8379229Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Add Interaction to Segment",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Interaction segmentation/Add Interaction to Segment",
+    "commandType": "Item",
+    "template": "Action",
     "sourceControlRevisionId": null
   }
 ]

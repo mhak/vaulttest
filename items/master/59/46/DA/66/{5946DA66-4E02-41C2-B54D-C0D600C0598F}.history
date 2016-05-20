@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Report Schedule/Data/Schedule",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5946DA66-4E02-41C2-B54D-C0D600C0598F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:58.9841915Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Schedule",
+    "itemPath": "/sitecore/templates/System/Analytics/Report Schedule/Data/Schedule",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Federated Experience Manager/Filters and Actions/Page Filter/__Standard Values",
     "commandType": "Item",
     "template": "Page Filter",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{60288899-D623-48E6-A3D3-4CD83D887BB7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:54.2559210Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Analytics/Federated Experience Manager/Filters and Actions/Page Filter/__Standard Values",
+    "commandType": "Item",
+    "template": "Page Filter",
     "sourceControlRevisionId": null
   }
 ]

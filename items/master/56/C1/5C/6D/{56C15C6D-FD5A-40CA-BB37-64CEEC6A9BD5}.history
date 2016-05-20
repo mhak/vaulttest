@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Templates/Sections/Tasks/Tasks/__Archive date",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{56C15C6D-FD5A-40CA-BB37-64CEEC6A9BD5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:15:06.1300320Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Archive date",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Tasks/Tasks/__Archive date",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Function/Profile Cards",
     "commandType": "Item",
     "template": "Profile Cards",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FEF190B8-1343-4070-ADF1-6D650FA50414}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:11.4270396Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Profile Cards",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Function/Profile Cards",
+    "commandType": "Item",
+    "template": "Profile Cards",
     "sourceControlRevisionId": null
   }
 ]

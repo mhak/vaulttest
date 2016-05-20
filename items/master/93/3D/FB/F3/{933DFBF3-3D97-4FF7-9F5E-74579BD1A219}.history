@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Workflows/Segment",
     "commandType": "Item",
     "template": "Workflow",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{933DFBF3-3D97-4FF7-9F5E-74579BD1A219}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:34.3367817Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Experience Analytics Segment",
+    "itemPath": "/sitecore/system/Workflows/Segment",
+    "commandType": "Item",
+    "template": "Workflow",
     "sourceControlRevisionId": null
   }
 ]

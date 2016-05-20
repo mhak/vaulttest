@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Pattern Matching Types/N-Dimensional Euclidian Distance",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{77187DEB-5766-4FD2-A125-E6CDCB229BF1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:36.9584999Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "N-Dimensional Euclidian Distance",
+    "itemPath": "/sitecore/system/Settings/Analytics/Pattern Matching Types/N-Dimensional Euclidian Distance",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

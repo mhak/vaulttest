@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/layout/Sublayouts/Social/Sharing",
     "commandType": "Item",
     "template": "Sublayout Folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EB40A2CF-04D1-42E0-B740-A18559BAC0C0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:39.3142028Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sharing",
+    "itemPath": "/sitecore/layout/Sublayouts/Social/Sharing",
+    "commandType": "Item",
+    "template": "Sublayout Folder",
     "sourceControlRevisionId": null
   }
 ]

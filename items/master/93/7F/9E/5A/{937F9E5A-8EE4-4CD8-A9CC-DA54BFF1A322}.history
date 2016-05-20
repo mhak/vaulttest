@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Congo The Democratic Republic of the",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{937F9E5A-8EE4-4CD8-A9CC-DA54BFF1A322}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:23.5977357Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Congo The Democratic Republic of the",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Congo The Democratic Republic of the",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

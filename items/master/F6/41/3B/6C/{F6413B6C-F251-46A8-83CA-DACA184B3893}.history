@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/media library/System/Simulator Backgrounds/iPad_landscape",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F6413B6C-F251-46A8-83CA-DACA184B3893}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:46.1175919Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "iPad_landscape",
+    "itemPath": "/sitecore/media library/System/Simulator Backgrounds/iPad_landscape",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]

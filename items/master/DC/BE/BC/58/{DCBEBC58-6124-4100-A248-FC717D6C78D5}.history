@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Workflow/Command/Data/Next state",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DCBEBC58-6124-4100-A248-FC717D6C78D5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:15:10.9953103Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Next state",
+    "itemPath": "/sitecore/templates/System/Workflow/Command/Data/Next state",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

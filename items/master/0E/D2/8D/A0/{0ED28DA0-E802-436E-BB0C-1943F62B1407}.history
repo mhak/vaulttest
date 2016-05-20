@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Item Buckets/Quick Action/Command",
     "commandType": "Item",
     "template": "Template section",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0ED28DA0-E802-436E-BB0C-1943F62B1407}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:15.3031249Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Command",
+    "itemPath": "/sitecore/templates/System/Item Buckets/Quick Action/Command",
+    "commandType": "Item",
+    "template": "Template section",
     "sourceControlRevisionId": null
   }
 ]

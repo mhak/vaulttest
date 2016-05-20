@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/General/Common/OnsiteBehaviorGoals",
     "commandType": "Item",
     "template": "Dictionary entry",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{438EA587-AA0F-4769-9F77-BC046F636CE2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:49.6927964Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "OnsiteBehaviorGoals",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/General/Common/OnsiteBehaviorGoals",
+    "commandType": "Item",
+    "template": "Dictionary entry",
     "sourceControlRevisionId": null
   }
 ]

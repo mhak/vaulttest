@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Fields/Field is Empty",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DA0D1AEA-0144-4A40-9AF0-3123526C9163}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:00.4508436Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Field is Empty",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Fields/Field is Empty",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

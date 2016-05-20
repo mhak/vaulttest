@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Not Found Urls",
     "commandType": "Item",
     "template": "ReportQuery",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{570E1A7B-1343-4121-B878-9B8D3E1B2902}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:38.0465621Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Not Found Urls",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Not Found Urls",
+    "commandType": "Item",
+    "template": "ReportQuery",
     "sourceControlRevisionId": null
   }
 ]

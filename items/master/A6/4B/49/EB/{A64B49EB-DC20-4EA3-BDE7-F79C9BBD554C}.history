@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Lao Peoples Democratic Republic",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A64B49EB-DC20-4EA3-BDE7-F79C9BBD554C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:26.8349208Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Lao Peoples Democratic Republic",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Lao Peoples Democratic Republic",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

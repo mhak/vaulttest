@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Channel/Channel Type/__Standard Values",
     "commandType": "Item",
     "template": "Channel Type",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{376B1B1E-95E1-46E8-A7CF-7B9BBD7A7B47}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:48.2815793Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Channel/Channel Type/__Standard Values",
+    "commandType": "Item",
+    "template": "Channel Type",
     "sourceControlRevisionId": null
   }
 ]

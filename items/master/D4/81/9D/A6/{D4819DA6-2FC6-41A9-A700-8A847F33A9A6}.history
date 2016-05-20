@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Testing/Set Winner Force Experience",
     "commandType": "Item",
     "template": "Action",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D4819DA6-2FC6-41A9-A700-8A847F33A9A6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:08.7933207Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Set Winner Force Experience",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Testing/Set Winner Force Experience",
+    "commandType": "Item",
+    "template": "Action",
     "sourceControlRevisionId": null
   }
 ]

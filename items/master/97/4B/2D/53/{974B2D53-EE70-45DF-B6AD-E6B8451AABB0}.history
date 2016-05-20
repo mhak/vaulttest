@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Patterns/Pattern Card/__Standard Values",
     "commandType": "Item",
     "template": "Pattern Card",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{974B2D53-EE70-45DF-B6AD-E6B8451AABB0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:56.5200505Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Analytics/Patterns/Pattern Card/__Standard Values",
+    "commandType": "Item",
+    "template": "Pattern Card",
     "sourceControlRevisionId": null
   }
 ]

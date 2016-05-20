@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Item Buckets/Tab Option",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5986D8C8-3A31-4160-A816-ACAA26DFB54F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:13.1250003Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tab Option",
+    "itemPath": "/sitecore/templates/System/Item Buckets/Tab Option",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

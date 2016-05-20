@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Insert Options/Rules/Simulator Insert Option",
     "commandType": "Item",
     "template": "Insert Options Rule",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7D799A7E-402C-4E1E-85D2-F7BAAAF8FB06}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:24.9122427Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Simulator Insert Option",
+    "itemPath": "/sitecore/system/Settings/Rules/Insert Options/Rules/Simulator Insert Option",
+    "commandType": "Item",
+    "template": "Insert Options Rule",
     "sourceControlRevisionId": null
   }
 ]

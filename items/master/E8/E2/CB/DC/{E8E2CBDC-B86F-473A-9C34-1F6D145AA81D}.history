@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/layout/Sublayouts/Social/Connector",
     "commandType": "Item",
     "template": "Sublayout Folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E8E2CBDC-B86F-473A-9C34-1F6D145AA81D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:39.2722004Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Connector",
+    "itemPath": "/sitecore/layout/Sublayouts/Social/Connector",
+    "commandType": "Item",
+    "template": "Sublayout Folder",
     "sourceControlRevisionId": null
   }
 ]

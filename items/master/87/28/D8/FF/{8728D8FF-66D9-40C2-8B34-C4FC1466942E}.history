@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Language/Data/Encoding",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8728D8FF-66D9-40C2-8B34-C4FC1466942E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:16.4301893Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Encoding",
+    "itemPath": "/sitecore/templates/System/Language/Data/Encoding",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

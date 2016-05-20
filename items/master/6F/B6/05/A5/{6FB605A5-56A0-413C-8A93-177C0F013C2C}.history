@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/templates/Demo/Vault/Section/__Standard Values",
     "commandType": "Item",
     "template": "Section",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6FB605A5-56A0-413C-8A93-177C0F013C2C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:42.6622579Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/Demo/Vault/Section/__Standard Values",
+    "commandType": "Item",
+    "template": "Section",
     "sourceControlRevisionId": null
   }
 ]

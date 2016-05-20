@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Preset Persona/__Standard Values",
     "commandType": "Item",
     "template": "Preset Persona",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B85ED1B3-037C-47A0-8BAC-F5908B9291AF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:37.8744159Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Preset Persona/__Standard Values",
+    "commandType": "Item",
+    "template": "Preset Persona",
     "sourceControlRevisionId": null
   }
 ]

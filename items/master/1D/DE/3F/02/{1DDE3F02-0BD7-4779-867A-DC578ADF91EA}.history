@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Layout/Renderings/Webcontrol",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1DDE3F02-0BD7-4779-867A-DC578ADF91EA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:21.0054510Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Webcontrol",
+    "itemPath": "/sitecore/templates/System/Layout/Renderings/Webcontrol",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Engagement Automation/Predefined items/Conditions/Is Password Validated",
     "commandType": "Item",
     "template": "Engagement Plan Condition",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{711A3CB5-DE23-4CAB-AE78-037594A78C00}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:20.9865863Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Is Password Validated",
+    "itemPath": "/sitecore/system/Settings/Analytics/Engagement Automation/Predefined items/Conditions/Is Password Validated",
+    "commandType": "Item",
+    "template": "Engagement Plan Condition",
     "sourceControlRevisionId": null
   }
 ]

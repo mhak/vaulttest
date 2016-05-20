@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Sample/Rating 1 to 9",
     "commandType": "Item",
     "template": "Validation Rule",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{197DAE0B-F8C9-4C19-9C39-9CD3BAD94CE6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:28.8954705Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rating 1 to 9",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Sample/Rating 1 to 9",
+    "commandType": "Item",
+    "template": "Validation Rule",
     "sourceControlRevisionId": null
   }
 ]

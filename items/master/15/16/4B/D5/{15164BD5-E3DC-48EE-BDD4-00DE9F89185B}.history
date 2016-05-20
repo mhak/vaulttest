@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Profile/Viewer/ProfileViewerMatchesThePatternCardWithoutPersonalization",
     "commandType": "Item",
     "template": "Dictionary entry",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{15164BD5-E3DC-48EE-BDD4-00DE9F89185B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:54.7470855Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ProfileViewerMatchesThePatternCardWithoutPersonalization",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Profile/Viewer/ProfileViewerMatchesThePatternCardWithoutPersonalization",
+    "commandType": "Item",
+    "template": "Dictionary entry",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Mode/Editor/ModeEditorTitle",
     "commandType": "Item",
     "template": "Dictionary entry",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E1534047-38FB-4872-9C44-F8BDA5E10CC4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:52.8709782Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ModeEditorTitle",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Mode/Editor/ModeEditorTitle",
+    "commandType": "Item",
+    "template": "Dictionary entry",
     "sourceControlRevisionId": null
   }
 ]

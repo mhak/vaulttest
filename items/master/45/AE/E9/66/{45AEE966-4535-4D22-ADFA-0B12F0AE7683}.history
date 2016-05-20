@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Congo",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{45AEE966-4535-4D22-ADFA-0B12F0AE7683}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:23.5567333Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Congo",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Congo",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

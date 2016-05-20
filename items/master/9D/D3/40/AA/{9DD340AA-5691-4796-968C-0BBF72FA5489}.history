@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Social/Message/Message/Data",
     "commandType": "Item",
     "template": "Template section",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9DD340AA-5691-4796-968C-0BBF72FA5489}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:58.6566045Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Data",
+    "itemPath": "/sitecore/templates/System/Social/Message/Message/Data",
+    "commandType": "Item",
+    "template": "Template section",
     "sourceControlRevisionId": null
   }
 ]

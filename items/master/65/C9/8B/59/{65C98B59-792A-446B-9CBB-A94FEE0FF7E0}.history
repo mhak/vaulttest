@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Search Types/File Type",
     "commandType": "Item",
     "template": "Field Search Type",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{65C98B59-792A-446B-9CBB-A94FEE0FF7E0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:47.6881136Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "File Type",
+    "itemPath": "/sitecore/system/Settings/Buckets/Search Types/File Type",
+    "commandType": "Item",
+    "template": "Field Search Type",
     "sourceControlRevisionId": null
   }
 ]

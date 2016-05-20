@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Social/Message/Message/Data/Message",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{85DAC42D-B659-4186-9494-0B8A45B7AEA6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:58.7926123Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Message",
+    "itemPath": "/sitecore/templates/System/Social/Message/Message/Data/Message",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

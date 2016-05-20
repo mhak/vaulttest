@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Maps/Path Experience Maps/Campaigns",
     "commandType": "Item",
     "template": "MapGroup",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{27ACEC5B-FFA4-4E9B-B694-D438E37B7A92}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:09.3949233Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Campaigns",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Maps/Path Experience Maps/Campaigns",
+    "commandType": "Item",
+    "template": "MapGroup",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Digital Events/Webinar recorded",
     "commandType": "Item",
     "template": "Channel",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{35E92942-82FF-4057-AB2B-4FE41FF4366C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:59.3433484Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Webinar recorded",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Digital Events/Webinar recorded",
+    "commandType": "Item",
+    "template": "Channel",
     "sourceControlRevisionId": null
   }
 ]

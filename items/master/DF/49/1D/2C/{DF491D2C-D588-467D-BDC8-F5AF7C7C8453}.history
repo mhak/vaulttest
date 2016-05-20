@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Preset Persona/Data/Organization",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DF491D2C-D588-467D-BDC8-F5AF7C7C8453}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:38.1704328Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Organization",
+    "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Preset Persona/Data/Organization",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

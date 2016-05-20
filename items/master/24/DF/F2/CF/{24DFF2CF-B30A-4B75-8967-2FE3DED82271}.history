@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Focus",
     "commandType": "Item",
     "template": "Profile",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{24DFF2CF-B30A-4B75-8967-2FE3DED82271}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:10.7890031Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Focus",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Focus",
+    "commandType": "Item",
+    "template": "Profile",
     "sourceControlRevisionId": null
   }
 ]

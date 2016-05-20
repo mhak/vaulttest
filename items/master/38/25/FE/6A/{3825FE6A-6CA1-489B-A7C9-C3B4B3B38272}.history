@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Html Editor Profiles/Html Editor Snippet",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3825FE6A-6CA1-489B-A7C9-C3B4B3B38272}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:11.0478815Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Html Editor Snippet",
+    "itemPath": "/sitecore/templates/System/Html Editor Profiles/Html Editor Snippet",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

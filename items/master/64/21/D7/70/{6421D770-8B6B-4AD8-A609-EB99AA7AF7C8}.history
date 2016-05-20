@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/MapTypes/Page",
     "commandType": "Item",
     "template": "MapType",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6421D770-8B6B-4AD8-A609-EB99AA7AF7C8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:09.7779452Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Page Visit Experience Map",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/MapTypes/Page",
+    "commandType": "Item",
+    "template": "MapType",
     "sourceControlRevisionId": null
   }
 ]

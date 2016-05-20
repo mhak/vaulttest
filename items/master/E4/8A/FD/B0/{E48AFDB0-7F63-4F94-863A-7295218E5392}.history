@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Portal/Portal",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E48AFDB0-7F63-4F94-863A-7295218E5392}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:41.5886283Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Portal",
+    "itemPath": "/sitecore/templates/System/Portal/Portal",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

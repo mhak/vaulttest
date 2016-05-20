@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Latest Visits with Failure",
     "commandType": "Item",
     "template": "ReportQuery",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{89849AEE-8C65-4FE0-A837-6CB60F32F4BB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:37.8745523Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Latest Visits with Failure",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Latest Visits with Failure",
+    "commandType": "Item",
+    "template": "ReportQuery",
     "sourceControlRevisionId": null
   }
 ]

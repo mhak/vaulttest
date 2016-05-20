@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Report Schedule",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{38EE693F-C33F-45D8-B06E-5E8355655336}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:47.3005232Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Report Schedule",
+    "itemPath": "/sitecore/templates/System/Analytics/Report Schedule",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

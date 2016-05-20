@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Fiji",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A397C163-988D-4392-833F-A2CB5B87A0CF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:24.6027932Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Fiji",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Fiji",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

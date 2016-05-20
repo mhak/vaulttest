@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Patterns/Pattern Cards/Data/Matching",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EBBD173C-4C25-4B83-A67C-87FF59FBFA2D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:56.8790711Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Matching",
+    "itemPath": "/sitecore/templates/System/Analytics/Patterns/Pattern Cards/Data/Matching",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

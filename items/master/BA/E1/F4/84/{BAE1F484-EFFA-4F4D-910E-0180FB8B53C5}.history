@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Validation/Field Type Validation Rules/Validation Rules/Workflow",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BAE1F484-EFFA-4F4D-910E-0180FB8B53C5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:15:08.9061908Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Workflow",
+    "itemPath": "/sitecore/templates/System/Validation/Field Type Validation Rules/Validation Rules/Workflow",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

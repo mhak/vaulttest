@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Reports/Item Reports/Top External Keywords Leading to this Page",
     "commandType": "Item",
     "template": "Report",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7A9EBB2C-33DF-48D8-8583-8C643BF6E19A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:44.5639349Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Top External Keywords Leading to this Page",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Item Reports/Top External Keywords Leading to this Page",
+    "commandType": "Item",
+    "template": "Report",
     "sourceControlRevisionId": null
   }
 ]

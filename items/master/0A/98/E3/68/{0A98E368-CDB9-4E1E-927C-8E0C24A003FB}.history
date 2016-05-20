@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Layout/Renderings/Sublayout",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0A98E368-CDB9-4E1E-927C-8E0C24A003FB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:20.8264408Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sublayout",
+    "itemPath": "/sitecore/templates/System/Layout/Renderings/Sublayout",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

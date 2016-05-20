@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Security/Security Preset/Data/Security Preset",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D0D809CE-4DAA-4A55-9837-B8EE61478669}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:53.2802970Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Security Preset",
+    "itemPath": "/sitecore/templates/System/Security/Security Preset/Data/Security Preset",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

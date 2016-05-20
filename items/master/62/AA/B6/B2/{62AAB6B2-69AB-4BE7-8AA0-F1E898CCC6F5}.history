@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Feeds/Feed Rendering Parameters/Parameters",
     "commandType": "Item",
     "template": "Template section",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{62AAB6B2-69AB-4BE7-8AA0-F1E898CCC6F5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:07.7736942Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Parameters",
+    "itemPath": "/sitecore/templates/System/Feeds/Feed Rendering Parameters/Parameters",
+    "commandType": "Item",
+    "template": "Template section",
     "sourceControlRevisionId": null
   }
 ]

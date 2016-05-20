@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Personalization",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{74D51A51-4249-418B-9031-7CC41F498BB2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:57.1172211Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Personalization",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Personalization",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

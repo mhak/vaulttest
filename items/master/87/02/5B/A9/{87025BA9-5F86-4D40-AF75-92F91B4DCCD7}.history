@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Common/ViewerPanelHeader",
     "commandType": "Item",
     "template": "Dictionary entry",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{87025BA9-5F86-4D40-AF75-92F91B4DCCD7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:48.7717437Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ViewerPanelHeader",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Common/ViewerPanelHeader",
+    "commandType": "Item",
+    "template": "Dictionary entry",
     "sourceControlRevisionId": null
   }
 ]

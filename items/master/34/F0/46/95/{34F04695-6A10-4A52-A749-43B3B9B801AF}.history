@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Inclusion Operators/exclude both values",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{34F04695-6A10-4A52-A749-43B3B9B801AF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:11.6214825Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "exclude both values",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Inclusion Operators/exclude both values",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Paid Search/Bing ads",
     "commandType": "Item",
     "template": "Channel",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B55EC2C2-CD7A-4E03-B155-EEFDAE872B7D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:00.1083922Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Bing ads",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Paid Search/Bing ads",
+    "commandType": "Item",
+    "template": "Channel",
     "sourceControlRevisionId": null
   }
 ]

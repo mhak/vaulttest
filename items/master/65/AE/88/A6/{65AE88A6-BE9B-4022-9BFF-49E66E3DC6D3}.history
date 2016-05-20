@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/media library/System/Simulator Backgrounds/Blackberry",
     "commandType": "Item",
     "template": "Jpeg",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{65AE88A6-BE9B-4022-9BFF-49E66E3DC6D3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:45.8065741Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Blackberry",
+    "itemPath": "/sitecore/media library/System/Simulator Backgrounds/Blackberry",
+    "commandType": "Item",
+    "template": "Jpeg",
     "sourceControlRevisionId": null
   }
 ]

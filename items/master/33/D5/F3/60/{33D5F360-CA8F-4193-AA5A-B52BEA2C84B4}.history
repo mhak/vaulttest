@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Security Editor/Administrator",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{33D5F360-CA8F-4193-AA5A-B52BEA2C84B4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:06.3211793Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Administrator",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Security Editor/Administrator",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

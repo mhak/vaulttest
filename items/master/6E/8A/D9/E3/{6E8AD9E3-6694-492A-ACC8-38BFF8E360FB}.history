@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Apps",
     "commandType": "Item",
     "template": "Channel Group",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6E8AD9E3-6694-492A-ACC8-38BFF8E360FB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:58.2112837Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Apps",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Apps",
+    "commandType": "Item",
+    "template": "Channel Group",
     "sourceControlRevisionId": null
   }
 ]

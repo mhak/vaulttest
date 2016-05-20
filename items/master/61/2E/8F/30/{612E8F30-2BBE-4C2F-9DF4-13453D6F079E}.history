@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Workflows/Path Analyzer Maps/Initializing/Deploy",
     "commandType": "Item",
     "template": "Command",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{612E8F30-2BBE-4C2F-9DF4-13453D6F079E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:35.1438279Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Deploy",
+    "itemPath": "/sitecore/system/Workflows/Path Analyzer Maps/Initializing/Deploy",
+    "commandType": "Item",
+    "template": "Command",
     "sourceControlRevisionId": null
   }
 ]

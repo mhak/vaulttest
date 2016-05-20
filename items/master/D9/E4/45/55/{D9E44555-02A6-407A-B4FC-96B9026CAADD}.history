@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Publishing targets",
     "commandType": "Item",
     "template": "Node",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D9E44555-02A6-407A-B4FC-96B9026CAADD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:47.1116488Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Publishing targets",
+    "itemPath": "/sitecore/system/Publishing targets",
+    "commandType": "Item",
+    "template": "Node",
     "sourceControlRevisionId": null
   }
 ]

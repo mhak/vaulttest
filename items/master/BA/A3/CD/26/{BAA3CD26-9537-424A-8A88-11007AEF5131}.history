@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Testing/Test Variable/__Standard Values",
     "commandType": "Item",
     "template": "Test Variable",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BAA3CD26-9537-424A-8A88-11007AEF5131}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:03.2004326Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Test Variable/__Standard Values",
+    "commandType": "Item",
+    "template": "Test Variable",
     "sourceControlRevisionId": null
   }
 ]

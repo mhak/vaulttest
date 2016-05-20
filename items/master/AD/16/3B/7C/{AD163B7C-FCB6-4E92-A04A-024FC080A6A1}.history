@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Date/Day of Week/Days of week/Friday",
     "commandType": "Item",
     "template": "Standard template",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AD163B7C-FCB6-4E92-A04A-024FC080A6A1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:58.1657129Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Friday",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Date/Day of Week/Days of week/Friday",
+    "commandType": "Item",
+    "template": "Standard template",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Federated Experience Manager/Filters and Actions/Placeholder Positions/After",
     "commandType": "Item",
     "template": "Property",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{18F0F47F-2214-4F23-B6FA-F2D86A0C9E5A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:54.3859285Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "After",
+    "itemPath": "/sitecore/templates/System/Analytics/Federated Experience Manager/Filters and Actions/Placeholder Positions/After",
+    "commandType": "Item",
+    "template": "Property",
     "sourceControlRevisionId": null
   }
 ]

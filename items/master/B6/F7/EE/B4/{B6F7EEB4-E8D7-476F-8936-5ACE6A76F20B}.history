@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Layout/Device",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B6F7EEB4-E8D7-476F-8936-5ACE6A76F20B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:16.6542021Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Device",
+    "itemPath": "/sitecore/templates/System/Layout/Device",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

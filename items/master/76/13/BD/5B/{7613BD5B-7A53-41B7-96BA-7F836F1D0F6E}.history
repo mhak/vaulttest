@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Iraq",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7613BD5B-7A53-41B7-96BA-7F836F1D0F6E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:26.0988787Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Iraq",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Iraq",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

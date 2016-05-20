@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/layout/Renderings/System/WebEdit/Hidden Rendering",
     "commandType": "Item",
     "template": "Xsl Rendering",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0777B05D-6AC0-44BE-9605-052E0DB5993D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:38.5221575Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Hidden Rendering",
+    "itemPath": "/sitecore/layout/Renderings/System/WebEdit/Hidden Rendering",
+    "commandType": "Item",
+    "template": "Xsl Rendering",
     "sourceControlRevisionId": null
   }
 ]

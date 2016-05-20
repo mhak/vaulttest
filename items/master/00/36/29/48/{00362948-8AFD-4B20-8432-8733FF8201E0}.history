@@ -445,6 +445,22 @@
     "itemPath": "/sitecore/templates/XCentium",
     "commandType": "Item",
     "template": "Template Folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{00362948-8AFD-4B20-8432-8733FF8201E0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:38.0949967Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "XCentium",
+    "itemPath": "/sitecore/templates/XCentium",
+    "commandType": "Item",
+    "template": "Template Folder",
     "sourceControlRevisionId": null
   }
 ]

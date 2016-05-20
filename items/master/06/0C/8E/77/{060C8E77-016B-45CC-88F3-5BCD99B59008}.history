@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/media library/Images/Social/Connector/LinkedIn",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{060C8E77-016B-45CC-88F3-5BCD99B59008}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:41.5923331Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "LinkedIn",
+    "itemPath": "/sitecore/media library/Images/Social/Connector/LinkedIn",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]

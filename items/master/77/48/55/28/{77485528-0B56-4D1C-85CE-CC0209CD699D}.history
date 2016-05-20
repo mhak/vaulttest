@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/General/Common/VisitorInformationDevice",
     "commandType": "Item",
     "template": "Dictionary entry",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{77485528-0B56-4D1C-85CE-CC0209CD699D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:50.3288328Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "VisitorInformationDevice",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/General/Common/VisitorInformationDevice",
+    "commandType": "Item",
+    "template": "Dictionary entry",
     "sourceControlRevisionId": null
   }
 ]

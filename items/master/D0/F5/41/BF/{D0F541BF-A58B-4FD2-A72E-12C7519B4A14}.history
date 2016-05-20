@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Sample/Max Length 40/Trim",
     "commandType": "Item",
     "template": "Menu item",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D0F541BF-A58B-4FD2-A72E-12C7519B4A14}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:28.9964763Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Trim",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Sample/Max Length 40/Trim",
+    "commandType": "Item",
+    "template": "Menu item",
     "sourceControlRevisionId": null
   }
 ]

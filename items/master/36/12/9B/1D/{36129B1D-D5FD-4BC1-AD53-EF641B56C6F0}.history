@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Libyan Arab Jamahiriya",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{36129B1D-D5FD-4BC1-AD53-EF641B56C6F0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:27.0699343Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Libyan Arab Jamahiriya",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Libyan Arab Jamahiriya",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

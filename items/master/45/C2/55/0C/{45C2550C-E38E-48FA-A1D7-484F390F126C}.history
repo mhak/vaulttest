@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Layout/Device/Data/Default Simulator",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{45C2550C-E38E-48FA-A1D7-484F390F126C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:17.7472647Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Default Simulator",
+    "itemPath": "/sitecore/templates/System/Layout/Device/Data/Default Simulator",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

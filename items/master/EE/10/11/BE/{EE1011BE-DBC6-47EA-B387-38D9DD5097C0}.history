@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Social/Posting Configuration/Account Posting Configuration",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EE1011BE-DBC6-47EA-B387-38D9DD5097C0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:59.4266486Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Account Posting Configuration",
+    "itemPath": "/sitecore/templates/System/Social/Posting Configuration/Account Posting Configuration",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

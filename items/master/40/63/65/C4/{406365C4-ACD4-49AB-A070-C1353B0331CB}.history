@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Namibia",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{406365C4-ACD4-49AB-A070-C1353B0331CB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:28.3100052Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Namibia",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Namibia",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

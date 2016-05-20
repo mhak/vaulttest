@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visit/Entry Page",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9BD1F746-B5DF-4FE3-A1F8-AF6DFB660333}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:10.2474039Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Entry Page",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visit/Entry Page",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

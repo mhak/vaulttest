@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Ribbon/Chunk/Data/ID",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8BB9A5E3-CAE8-49C6-B830-258A51D970C9}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:43.8667586Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ID",
+    "itemPath": "/sitecore/templates/System/Ribbon/Chunk/Data/ID",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

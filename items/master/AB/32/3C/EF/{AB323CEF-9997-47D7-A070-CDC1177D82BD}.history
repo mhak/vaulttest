@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Item Buckets",
     "commandType": "Item",
     "template": "Template Folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AB323CEF-9997-47D7-A070-CDC1177D82BD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:44.6543719Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Item Buckets",
+    "itemPath": "/sitecore/templates/System/Item Buckets",
+    "commandType": "Item",
+    "template": "Template Folder",
     "sourceControlRevisionId": null
   }
 ]

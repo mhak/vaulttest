@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/WebDAV",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0862E7FD-C629-44CB-A8B0-96281F868AD5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:45.9524461Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "WebDAV",
+    "itemPath": "/sitecore/templates/System/WebDAV",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

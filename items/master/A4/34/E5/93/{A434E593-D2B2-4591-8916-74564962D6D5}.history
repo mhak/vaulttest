@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Item Buckets/Field Search Type/Search Type/Icon",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A434E593-D2B2-4591-8916-74564962D6D5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:14.6360867Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Icon",
+    "itemPath": "/sitecore/templates/System/Item Buckets/Field Search Type/Search Type/Icon",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

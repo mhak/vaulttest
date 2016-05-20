@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Operations/Fields/Copy to Data Source Query",
     "commandType": "Item",
     "template": "Dropdown List",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7FEC5126-1AA2-4C8D-BAB2-135112AF1448}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:50.5302761Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Copy to Data Source Query",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Operations/Fields/Copy to Data Source Query",
+    "commandType": "Item",
+    "template": "Dropdown List",
     "sourceControlRevisionId": null
   }
 ]

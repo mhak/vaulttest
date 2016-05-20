@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Social/Sharing/Twitter Share Button Parameters",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{59DB2D94-1A12-4511-8F3A-3BF5C802A613}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:15:00.6627193Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Twitter Share Button Parameters",
+    "itemPath": "/sitecore/templates/System/Social/Sharing/Twitter Share Button Parameters",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Ribbon/Panel/Data",
     "commandType": "Item",
     "template": "Template section",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B4E5B775-9FBE-47FA-B6FC-15DBE0A51598}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:45.6338597Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Data",
+    "itemPath": "/sitecore/templates/System/Ribbon/Panel/Data",
+    "commandType": "Item",
+    "template": "Template section",
     "sourceControlRevisionId": null
   }
 ]

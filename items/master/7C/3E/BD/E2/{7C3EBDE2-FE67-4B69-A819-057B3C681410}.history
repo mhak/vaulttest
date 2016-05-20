@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/layout/Sublayouts/Social",
     "commandType": "Item",
     "template": "Sublayout Folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7C3EBDE2-FE67-4B69-A819-057B3C681410}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:39.2311981Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Social",
+    "itemPath": "/sitecore/layout/Sublayouts/Social",
+    "commandType": "Item",
+    "template": "Sublayout Folder",
     "sourceControlRevisionId": null
   }
 ]

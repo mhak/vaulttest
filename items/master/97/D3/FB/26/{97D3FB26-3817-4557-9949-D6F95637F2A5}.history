@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Html Editor Profiles/Html Editor Drop Down/Data/Shortcut",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{97D3FB26-3817-4557-9949-D6F95637F2A5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:11.6019132Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Shortcut",
+    "itemPath": "/sitecore/templates/System/Html Editor Profiles/Html Editor Drop Down/Data/Shortcut",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Rules/Conditional Rendering Rule",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{550B5CEF-242C-463F-8ED5-983922A39863}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:49.4250765Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Conditional Rendering Rule",
+    "itemPath": "/sitecore/templates/System/Rules/Conditional Rendering Rule",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

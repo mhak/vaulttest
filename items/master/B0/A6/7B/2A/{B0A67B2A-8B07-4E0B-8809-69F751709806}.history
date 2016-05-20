@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Templates/Sections/Advanced/Advanced/__Tracking",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B0A67B2A-8B07-4E0B-8809-69F751709806}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:15:02.8898467Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Tracking",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Advanced/Advanced/__Tracking",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Language/Data/Iso",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C437E416-8948-427D-A982-8ED37AE3F553}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:16.4751919Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Iso",
+    "itemPath": "/sitecore/templates/System/Language/Data/Iso",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

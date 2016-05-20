@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Script/Clear Rules Cache",
     "commandType": "Item",
     "template": "Script",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5862787E-DD1B-4555-9C1C-4EFAD12AFD51}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:04.9571013Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Clear Rules Cache",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Script/Clear Rules Cache",
+    "commandType": "Item",
+    "template": "Script",
     "sourceControlRevisionId": null
   }
 ]

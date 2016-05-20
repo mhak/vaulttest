@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/Insert Options",
     "commandType": "Item",
     "template": "Tag",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0B9535DF-B66F-46C6-B920-CFBE5C070563}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:19.6249402Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Insert Options",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/Insert Options",
+    "commandType": "Item",
+    "template": "Tag",
     "sourceControlRevisionId": null
   }
 ]

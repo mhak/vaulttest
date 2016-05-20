@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/layout/Placeholder Settings/App Center Sync/__bodyend",
     "commandType": "Item",
     "template": "Head Placeholder Setting",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EE71FECE-82C0-45A4-A0B7-2D603344F7EE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:37.5851039Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__bodyend",
+    "itemPath": "/sitecore/layout/Placeholder Settings/App Center Sync/__bodyend",
+    "commandType": "Item",
+    "template": "Head Placeholder Setting",
     "sourceControlRevisionId": null
   }
 ]

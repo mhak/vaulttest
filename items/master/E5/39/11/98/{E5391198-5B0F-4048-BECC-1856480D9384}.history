@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/media library/System/Simulator Backgrounds/Android Phone_landscape",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E5391198-5B0F-4048-BECC-1856480D9384}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:45.6635660Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Android Phone_landscape",
+    "itemPath": "/sitecore/media library/System/Simulator Backgrounds/Android Phone_landscape",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]

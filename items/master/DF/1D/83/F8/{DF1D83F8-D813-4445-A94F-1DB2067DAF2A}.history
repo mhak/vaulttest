@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/media library/System/Simulator Backgrounds/Large Android phone_landscape",
     "commandType": "Item",
     "template": "Jpeg",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DF1D83F8-D813-4445-A94F-1DB2067DAF2A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:46.3446049Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Large Android phone_landscape",
+    "itemPath": "/sitecore/media library/System/Simulator Backgrounds/Large Android phone_landscape",
+    "commandType": "Item",
+    "template": "Jpeg",
     "sourceControlRevisionId": null
   }
 ]

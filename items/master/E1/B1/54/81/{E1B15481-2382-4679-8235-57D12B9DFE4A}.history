@@ -429,6 +429,22 @@
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/name value lookup list",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E1B15481-2382-4679-8235-57D12B9DFE4A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:15:14.6385186Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "name value lookup list",
+    "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/name value lookup list",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

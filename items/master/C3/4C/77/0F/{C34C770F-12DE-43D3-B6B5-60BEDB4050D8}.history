@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Social/Message/Facebook Message/Data/Link Description",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C34C770F-12DE-43D3-B6B5-60BEDB4050D8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:59.1966354Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Link Description",
+    "itemPath": "/sitecore/templates/System/Social/Message/Facebook Message/Data/Link Description",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

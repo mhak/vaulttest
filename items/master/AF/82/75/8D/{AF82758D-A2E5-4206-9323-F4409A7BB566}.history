@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Workflows/Social Message Workflow/Awaiting Approval/Approve",
     "commandType": "Item",
     "template": "Command",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AF82758D-A2E5-4206-9323-F4409A7BB566}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:37.5399649Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Approve",
+    "itemPath": "/sitecore/system/Workflows/Social Message Workflow/Awaiting Approval/Approve",
+    "commandType": "Item",
+    "template": "Command",
     "sourceControlRevisionId": null
   }
 ]

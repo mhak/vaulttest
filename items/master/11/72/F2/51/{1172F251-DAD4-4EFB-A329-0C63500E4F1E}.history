@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Templates/Sections/Insert Options/Insert Options/__Masters",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1172F251-DAD4-4EFB-A329-0C63500E4F1E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:15:04.1889210Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Masters",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Insert Options/Insert Options/__Masters",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Item Buckets/Field Search Type/__Standard Values",
     "commandType": "Item",
     "template": "Field Search Type",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{ACC44ED4-8DAE-4BCA-8798-16E30F4DCB80}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:14.5880840Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Item Buckets/Field Search Type/__Standard Values",
+    "commandType": "Item",
+    "template": "Field Search Type",
     "sourceControlRevisionId": null
   }
 ]

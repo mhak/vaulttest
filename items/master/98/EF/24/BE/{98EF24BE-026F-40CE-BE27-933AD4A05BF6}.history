@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/media library/System/Simulator Backgrounds/Android Phone",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{98EF24BE-026F-40CE-BE27-933AD4A05BF6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:45.6095629Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Android Phone",
+    "itemPath": "/sitecore/media library/System/Simulator Backgrounds/Android Phone",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]

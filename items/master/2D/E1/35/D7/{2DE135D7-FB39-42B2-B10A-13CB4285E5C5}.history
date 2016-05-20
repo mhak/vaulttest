@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Preset Types/Multiple with Percentages",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2DE135D7-FB39-42B2-B10A-13CB4285E5C5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:37.0845071Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Multiple with Percentages",
+    "itemPath": "/sitecore/system/Settings/Analytics/Preset Types/Multiple with Percentages",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

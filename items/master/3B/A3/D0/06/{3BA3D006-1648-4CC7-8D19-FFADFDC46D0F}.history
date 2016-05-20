@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Channel/Channel Group",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3BA3D006-1648-4CC7-8D19-FFADFDC46D0F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:48.1425714Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Channel Group",
+    "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Channel/Channel Group",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Kuwait",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D3E0D033-E7E0-47DA-BC6B-C9B4A30154D9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:26.7409155Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Kuwait",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Kuwait",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

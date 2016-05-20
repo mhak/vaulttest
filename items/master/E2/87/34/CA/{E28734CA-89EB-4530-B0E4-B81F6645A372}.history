@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Social/Message/Twitter Message",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E28734CA-89EB-4530-B0E4-B81F6645A372}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:58.4745941Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Twitter Message",
+    "itemPath": "/sitecore/templates/System/Social/Message/Twitter Message",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

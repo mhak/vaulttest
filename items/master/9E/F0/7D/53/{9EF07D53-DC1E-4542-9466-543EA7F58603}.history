@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Result Options/New Tab",
     "commandType": "Item",
     "template": "Open Result Type",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9EF07D53-DC1E-4542-9466-543EA7F58603}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:51.0933083Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "New Tab",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Result Options/New Tab",
+    "commandType": "Item",
+    "template": "Open Result Type",
     "sourceControlRevisionId": null
   }
 ]

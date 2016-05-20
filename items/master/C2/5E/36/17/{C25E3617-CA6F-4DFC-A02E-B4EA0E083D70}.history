@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Testing/Test Definition/System/__Is Running",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C25E3617-CA6F-4DFC-A02E-B4EA0E083D70}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:02.7654077Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Is Running",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Test Definition/System/__Is Running",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

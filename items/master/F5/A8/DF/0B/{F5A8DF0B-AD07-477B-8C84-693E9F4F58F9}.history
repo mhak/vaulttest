@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Feeds/RSS Feed/Additional Metadata",
     "commandType": "Item",
     "template": "Template section",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F5A8DF0B-AD07-477B-8C84-693E9F4F58F9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:08.1417153Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Additional Metadata",
+    "itemPath": "/sitecore/templates/System/Feeds/RSS Feed/Additional Metadata",
+    "commandType": "Item",
+    "template": "Template section",
     "sourceControlRevisionId": null
   }
 ]

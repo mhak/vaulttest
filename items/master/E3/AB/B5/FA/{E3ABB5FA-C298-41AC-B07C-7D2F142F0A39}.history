@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Common/FixedMode",
     "commandType": "Item",
     "template": "Dictionary entry",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E3ABB5FA-C298-41AC-B07C-7D2F142F0A39}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:48.6307357Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FixedMode",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Common/FixedMode",
+    "commandType": "Item",
+    "template": "Dictionary entry",
     "sourceControlRevisionId": null
   }
 ]

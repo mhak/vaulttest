@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Standard Values",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{555ACF70-94B6-40F3-B85F-8A11E25D4C78}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:31.6286268Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Standard Values",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Standard Values",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

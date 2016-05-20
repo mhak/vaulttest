@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/media library/System/Simulator Backgrounds/Android Tablet_landscape",
     "commandType": "Item",
     "template": "Jpeg",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A0C1DCFD-3D90-478F-864F-D448D9467ABB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:45.7595715Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Android Tablet_landscape",
+    "itemPath": "/sitecore/media library/System/Simulator Backgrounds/Android Tablet_landscape",
+    "commandType": "Item",
+    "template": "Jpeg",
     "sourceControlRevisionId": null
   }
 ]

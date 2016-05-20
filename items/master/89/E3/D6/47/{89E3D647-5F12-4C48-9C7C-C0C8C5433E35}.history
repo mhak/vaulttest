@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Indexing and Search",
     "commandType": "Item",
     "template": "Element Folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{89E3D647-5F12-4C48-9C7C-C0C8C5433E35}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:54.5245046Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Indexing & Search",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Indexing and Search",
+    "commandType": "Item",
+    "template": "Element Folder",
     "sourceControlRevisionId": null
   }
 ]

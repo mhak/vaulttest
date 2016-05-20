@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Testing/Workflow/Launch Create Test Dialog Action",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DC773C4F-DF6C-4FF0-927D-BC4069003687}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:03.5144506Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Launch Create Test Dialog Action",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Workflow/Launch Create Test Dialog Action",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

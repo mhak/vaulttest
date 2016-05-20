@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Quick Actions/Rename",
     "commandType": "Item",
     "template": "Quick Action",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4ECDC734-42BF-4CC3-849F-8BAC2B8F310D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:49.5622208Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rename",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Quick Actions/Rename",
+    "commandType": "Item",
+    "template": "Quick Action",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Dictionary/Dictionary Domain/Data/Fallback Domain",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CD72E892-D8BB-487C-9EB1-6A57C48C72CC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:07.3286687Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Fallback Domain",
+    "itemPath": "/sitecore/templates/System/Dictionary/Dictionary Domain/Data/Fallback Domain",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

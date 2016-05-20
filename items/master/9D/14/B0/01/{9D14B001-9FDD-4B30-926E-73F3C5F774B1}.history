@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Dashboard/Dashboard Report/Data",
     "commandType": "Item",
     "template": "Template section",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9D14B001-9FDD-4B30-926E-73F3C5F774B1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:51.5857683Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Data",
+    "itemPath": "/sitecore/templates/System/Analytics/Dashboard/Dashboard Report/Data",
+    "commandType": "Item",
+    "template": "Template section",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Referral/Organic referrals",
     "commandType": "Item",
     "template": "Channel",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A1831F25-40FB-43EE-A740-518D4F9D92DB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:00.4254103Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Organic referrals",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Referral/Organic referrals",
+    "commandType": "Item",
+    "template": "Channel",
     "sourceControlRevisionId": null
   }
 ]

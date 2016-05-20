@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/UserRoles",
     "commandType": "Item",
     "template": "Macro",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C42CBFF2-F171-49CB-A20B-D82DDB74D63D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:12.6225397Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "UserRoles",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/UserRoles",
+    "commandType": "Item",
+    "template": "Macro",
     "sourceControlRevisionId": null
   }
 ]

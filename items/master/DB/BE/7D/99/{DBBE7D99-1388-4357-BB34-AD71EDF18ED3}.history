@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Media/Versioned/File/Media/Blob",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DBBE7D99-1388-4357-BB34-AD71EDF18ED3}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:32.1600890Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Blob",
+    "itemPath": "/sitecore/templates/System/Media/Versioned/File/Media/Blob",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

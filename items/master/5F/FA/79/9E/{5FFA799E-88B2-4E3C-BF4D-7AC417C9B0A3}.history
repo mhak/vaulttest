@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Testing/Multivariate Test Value/Data/Hide Component",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5FFA799E-88B2-4E3C-BF4D-7AC417C9B0A3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:01.0993124Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Hide Component",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Multivariate Test Value/Data/Hide Component",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

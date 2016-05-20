@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Geo/Common/MapTabTitle",
     "commandType": "Item",
     "template": "Dictionary entry",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F2028D70-ADB5-4D4F-BC40-AFE2605F0144}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:51.2258841Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "MapTabTitle",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Geo/Common/MapTabTitle",
+    "commandType": "Item",
+    "template": "Dictionary entry",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Reports/Subreports/Bad Pages/Visits",
     "commandType": "Item",
     "template": "Report",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4220EC5A-FAC6-4E9B-817E-378FB0C8A35C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:45.8890107Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Visits",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Subreports/Bad Pages/Visits",
+    "commandType": "Item",
+    "template": "Report",
     "sourceControlRevisionId": null
   }
 ]

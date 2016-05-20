@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Social/Account/Account Folder/Data/Default Application Folder",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{233D3295-BF88-45C8-88DA-BA51107FD155}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:56.1584617Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Default Application Folder",
+    "itemPath": "/sitecore/templates/System/Social/Account/Account Folder/Data/Default Application Folder",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

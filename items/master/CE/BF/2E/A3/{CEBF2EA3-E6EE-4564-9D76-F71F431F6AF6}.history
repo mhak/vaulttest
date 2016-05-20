@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Services/Item Service/Query/Query Folder",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CEBF2EA3-E6EE-4564-9D76-F71F431F6AF6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:54.2333515Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Query Folder",
+    "itemPath": "/sitecore/templates/System/Services/Item Service/Query/Query Folder",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

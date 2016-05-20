@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Operations/Presentation/Apply Presentation to All Items",
     "commandType": "Item",
     "template": "Dropdown List",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A0466518-CC4A-460D-9954-9FEF216EC603}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:51.0033032Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Apply Presentation to All Items",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Operations/Presentation/Apply Presentation to All Items",
+    "commandType": "Item",
+    "template": "Dropdown List",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Testing/Personalization Test Variable",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8EC9CDFB-34B0-4A8D-943B-D28B05BD3D75}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:59.7532355Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Personalization Test Variable",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Personalization Test Variable",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

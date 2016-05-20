@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/South Africa",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1725CC37-A635-4567-8130-AA489D66647E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:30.9261548Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "South Africa",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/South Africa",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Asset/Asset Taxonomy",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{71A0BEC5-220D-435E-8D79-7D55A470CD64}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:48.4095866Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Asset Taxonomy",
+    "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Asset/Asset Taxonomy",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

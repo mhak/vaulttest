@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Testing/Send Email",
     "commandType": "Item",
     "template": "Action",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F24DF43F-E4D4-4189-A5B0-86C79FBA951F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:08.7073158Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Send Email",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Testing/Send Email",
+    "commandType": "Item",
+    "template": "Action",
     "sourceControlRevisionId": null
   }
 ]

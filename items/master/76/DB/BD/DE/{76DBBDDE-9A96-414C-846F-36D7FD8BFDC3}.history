@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/media library/System/Simulator Backgrounds",
     "commandType": "Item",
     "template": "Media folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{76DBBDDE-9A96-414C-846F-36D7FD8BFDC3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:41.8213462Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Simulator Backgrounds",
+    "itemPath": "/sitecore/media library/System/Simulator Backgrounds",
+    "commandType": "Item",
+    "template": "Media folder",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Workflows/Analytics Testing Workflow/Deployed/End Test",
     "commandType": "Item",
     "template": "Command",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{268CD2A6-0C1B-4795-B842-32401435689C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:34.7818072Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "End Test",
+    "itemPath": "/sitecore/system/Workflows/Analytics Testing Workflow/Deployed/End Test",
+    "commandType": "Item",
+    "template": "Command",
     "sourceControlRevisionId": null
   }
 ]

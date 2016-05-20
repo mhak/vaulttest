@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/media library/System/Page Event Images/Page Visited",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9DD598F7-0A94-4564-889F-899CF39A60D7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:44.9075227Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Page Visited",
+    "itemPath": "/sitecore/media library/System/Page Event Images/Page Visited",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]

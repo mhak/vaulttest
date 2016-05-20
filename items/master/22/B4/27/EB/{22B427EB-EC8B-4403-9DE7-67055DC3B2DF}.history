@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Micronesia Federated States of",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{22B427EB-EC8B-4403-9DE7-67055DC3B2DF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:27.8809807Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Micronesia Federated States of",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Micronesia Federated States of",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

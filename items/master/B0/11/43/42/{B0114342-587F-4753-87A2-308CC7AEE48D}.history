@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Campaign/Data/Campaign Link",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B0114342-587F-4753-87A2-308CC7AEE48D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:50.8597268Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Campaign Link",
+    "itemPath": "/sitecore/templates/System/Analytics/Campaign/Data/Campaign Link",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

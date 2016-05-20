@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Security/Current User Domain Name",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F9EFD6A0-E8A7-45D7-A153-6FCC851794E8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:05.8401518Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Current User Domain Name",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Security/Current User Domain Name",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

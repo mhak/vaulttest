@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Social/Sharing/Facebook Share Button Parameters/__Standard Values",
     "commandType": "Item",
     "template": "Facebook Share Button Parameters",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{43EC421F-55E4-4838-AC06-568145BF215B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:15:00.7117221Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Social/Sharing/Facebook Share Button Parameters/__Standard Values",
+    "commandType": "Item",
+    "template": "Facebook Share Button Parameters",
     "sourceControlRevisionId": null
   }
 ]

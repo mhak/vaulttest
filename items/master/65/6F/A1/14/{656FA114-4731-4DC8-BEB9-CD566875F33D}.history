@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Syrian Arab Republic",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{656FA114-4731-4DC8-BEB9-CD566875F33D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:31.3601797Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Syrian Arab Republic",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Syrian Arab Republic",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

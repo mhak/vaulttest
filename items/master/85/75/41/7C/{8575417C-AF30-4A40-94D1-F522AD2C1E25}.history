@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/media library/System/Channel Images/ch-youtube-post",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8575417C-AF30-4A40-94D1-F522AD2C1E25}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:43.9824698Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-youtube-post",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-youtube-post",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]

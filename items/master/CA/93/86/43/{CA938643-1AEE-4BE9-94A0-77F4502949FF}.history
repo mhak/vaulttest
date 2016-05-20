@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Geo/Common/Business Name",
     "commandType": "Item",
     "template": "Dictionary entry",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CA938643-1AEE-4BE9-94A0-77F4502949FF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:50.7238554Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Business Name",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Geo/Common/Business Name",
+    "commandType": "Item",
+    "template": "Dictionary entry",
     "sourceControlRevisionId": null
   }
 ]

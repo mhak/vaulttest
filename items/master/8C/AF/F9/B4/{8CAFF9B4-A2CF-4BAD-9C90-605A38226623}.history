@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Quick Actions/Unlock from Editing",
     "commandType": "Item",
     "template": "Quick Action",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8CAFF9B4-A2CF-4BAD-9C90-605A38226623}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:49.6492257Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Unlock from Editing",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Quick Actions/Unlock from Editing",
+    "commandType": "Item",
+    "template": "Quick Action",
     "sourceControlRevisionId": null
   }
 ]

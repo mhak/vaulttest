@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Report Schedule/Data/Last Run",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BCF18FB9-E44A-4A0D-BD17-9338A3665200}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:59.0321942Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Last Run",
+    "itemPath": "/sitecore/templates/System/Analytics/Report Schedule/Data/Last Run",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

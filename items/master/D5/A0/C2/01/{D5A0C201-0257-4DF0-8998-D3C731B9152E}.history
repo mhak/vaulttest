@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Layout/Placeholder Settings Folder/__Standard Values",
     "commandType": "Item",
     "template": "Placeholder Settings Folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D5A0C201-0257-4DF0-8998-D3C731B9152E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:18.5483105Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Layout/Placeholder Settings Folder/__Standard Values",
+    "commandType": "Item",
+    "template": "Placeholder Settings Folder",
     "sourceControlRevisionId": null
   }
 ]

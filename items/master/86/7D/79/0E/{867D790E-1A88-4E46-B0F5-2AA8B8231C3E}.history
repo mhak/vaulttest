@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Preset/Location/Geo Ip",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{867D790E-1A88-4E46-B0F5-2AA8B8231C3E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:37.3143838Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Geo Ip",
+    "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Preset/Location/Geo Ip",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

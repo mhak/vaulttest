@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/British Indian Ocean Territory",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B9CAC860-72FE-4202-AC16-7EF8976FFE0B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:22.7076848Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "British Indian Ocean Territory",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/British Indian Ocean Territory",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

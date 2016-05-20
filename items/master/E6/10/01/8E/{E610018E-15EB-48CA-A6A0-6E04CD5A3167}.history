@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Reports/Most Valuable Full Path",
     "commandType": "Item",
     "template": "Report",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E610018E-15EB-48CA-A6A0-6E04CD5A3167}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:09.8659503Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Most Valuable Full Path",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Reports/Most Valuable Full Path",
+    "commandType": "Item",
+    "template": "Report",
     "sourceControlRevisionId": null
   }
 ]

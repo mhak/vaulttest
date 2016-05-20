@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Feeds/Feed Rendering Parameters/Data/AuthorField",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{03007EB1-69BC-4F77-B2D8-E0E7BD9FF5F3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:07.9437039Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "AuthorField",
+    "itemPath": "/sitecore/templates/System/Feeds/Feed Rendering Parameters/Data/AuthorField",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

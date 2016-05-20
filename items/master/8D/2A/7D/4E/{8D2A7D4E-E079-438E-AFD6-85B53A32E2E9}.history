@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Layout/Renderings/Item rendering/Data/Login rendering",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8D2A7D4E-E079-438E-AFD6-85B53A32E2E9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:21.9875072Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Login rendering",
+    "itemPath": "/sitecore/templates/System/Layout/Renderings/Item rendering/Data/Login rendering",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

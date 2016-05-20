@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Tasks/Schedule/Data/Async",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A2C0C7A2-697D-40E2-9516-54E0C2D6028E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:15:01.5947726Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Async",
+    "itemPath": "/sitecore/templates/System/Tasks/Schedule/Data/Async",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

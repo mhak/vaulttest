@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Operations/Information Architecture/Delete All Items in List",
     "commandType": "Item",
     "template": "Dropdown List",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{851AAA74-58A1-49B0-9FD1-5D45970035DA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:50.7402881Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Delete All Items in List",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Operations/Information Architecture/Delete All Items in List",
+    "commandType": "Item",
+    "template": "Dropdown List",
     "sourceControlRevisionId": null
   }
 ]

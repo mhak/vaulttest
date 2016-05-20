@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Organic Branded Keywords",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BFA6E0C1-4C3C-4E2E-BFF5-314DDCF920B4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:46.7064892Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Organic Branded Keywords",
+    "itemPath": "/sitecore/templates/System/Analytics/Organic Branded Keywords",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

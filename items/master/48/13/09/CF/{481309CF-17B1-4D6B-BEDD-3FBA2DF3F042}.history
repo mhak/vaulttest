@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Greenland",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{481309CF-17B1-4D6B-BEDD-3FBA2DF3F042}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:25.1938270Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Greenland",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Greenland",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Item/Url Characters",
     "commandType": "Item",
     "template": "Validation Rule",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D1EF5919-26CB-4FC7-AF88-82109328CF4D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:32.1666576Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Url Characters",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Item/Url Characters",
+    "commandType": "Item",
+    "template": "Validation Rule",
     "sourceControlRevisionId": null
   }
 ]

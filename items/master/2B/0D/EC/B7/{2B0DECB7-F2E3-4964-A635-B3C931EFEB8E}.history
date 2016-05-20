@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Preset Persona/Data/Interests",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2B0DECB7-F2E3-4964-A635-B3C931EFEB8E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:38.0704271Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Interests",
+    "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Preset Persona/Data/Interests",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

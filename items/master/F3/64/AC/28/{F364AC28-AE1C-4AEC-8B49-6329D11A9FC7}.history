@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Social/Posting Configuration/Container Posting Configuration/Container/Item Published",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F364AC28-AE1C-4AEC-8B49-6329D11A9FC7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:15:00.0416838Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Item Published",
+    "itemPath": "/sitecore/templates/System/Social/Posting Configuration/Container Posting Configuration/Container/Item Published",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

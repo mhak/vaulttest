@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Content Testing/MV Test Visits By Test Id",
     "commandType": "Item",
     "template": "ReportQuery",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{ABBE9C44-C3FD-48C1-B94D-210922AD68FB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:40.2306870Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "MV Test Visits By Test Id",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Content Testing/MV Test Visits By Test Id",
+    "commandType": "Item",
+    "template": "ReportQuery",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Dashboard/Dashboard Report/Data/Default Expiration Period",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8E812C23-F893-4842-9833-97A32461D7A5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:51.6817738Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Default Expiration Period",
+    "itemPath": "/sitecore/templates/System/Analytics/Dashboard/Dashboard Report/Data/Default Expiration Period",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

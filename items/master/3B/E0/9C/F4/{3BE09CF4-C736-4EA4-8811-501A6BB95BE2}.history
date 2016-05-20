@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Tags/Viewer/TagsViewerDescription",
     "commandType": "Item",
     "template": "Dictionary entry",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3BE09CF4-C736-4EA4-8811-501A6BB95BE2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:56.5541889Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "TagsViewerDescription",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Tags/Viewer/TagsViewerDescription",
+    "commandType": "Item",
+    "template": "Dictionary entry",
     "sourceControlRevisionId": null
   }
 ]

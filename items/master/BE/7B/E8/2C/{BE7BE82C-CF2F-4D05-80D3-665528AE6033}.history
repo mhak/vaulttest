@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Visitors Classification",
     "commandType": "Item",
     "template": "ReportQuery",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BE7BE82C-CF2F-4D05-80D3-665528AE6033}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:39.3626374Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Visitors Classification",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Visitors Classification",
+    "commandType": "Item",
+    "template": "ReportQuery",
     "sourceControlRevisionId": null
   }
 ]

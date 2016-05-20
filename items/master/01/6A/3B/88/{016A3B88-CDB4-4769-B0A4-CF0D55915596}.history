@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visitor/Visitor Tag",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{016A3B88-CDB4-4769-B0A4-CF0D55915596}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:10.8974411Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Visitor Tag",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visitor/Visitor Tag",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

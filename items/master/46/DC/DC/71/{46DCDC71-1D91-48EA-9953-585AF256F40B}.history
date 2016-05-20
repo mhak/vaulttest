@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Path Analyzer/AssetMap",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{46DCDC71-1D91-48EA-9953-585AF256F40B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:39.3865023Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Asset Map",
+    "itemPath": "/sitecore/templates/System/Path Analyzer/AssetMap",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

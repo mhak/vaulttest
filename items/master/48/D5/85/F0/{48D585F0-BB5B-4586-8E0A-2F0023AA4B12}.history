@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Validation Results/CriticalError",
     "commandType": "Item",
     "template": "Validation Result",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{48D585F0-BB5B-4586-8E0A-2F0023AA4B12}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:22.3950987Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CriticalError",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Validation Results/CriticalError",
+    "commandType": "Item",
+    "template": "Validation Result",
     "sourceControlRevisionId": null
   }
 ]

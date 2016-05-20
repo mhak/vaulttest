@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Visitor Identification/Data/Allow for User Agent",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C6612519-F19A-4C6D-BE36-6785396B7BE6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:05.5545673Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Allow for User Agent",
+    "itemPath": "/sitecore/templates/System/Analytics/Visitor Identification/Data/Allow for User Agent",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

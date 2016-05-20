@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Text/Must be Lower Case/Lower Case",
     "commandType": "Item",
     "template": "Menu item",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9BE3D452-BEFD-4DA2-8C16-0BA054382FDB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:30.3145517Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Lower Case",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Text/Must be Lower Case/Lower Case",
+    "commandType": "Item",
+    "template": "Menu item",
     "sourceControlRevisionId": null
   }
 ]

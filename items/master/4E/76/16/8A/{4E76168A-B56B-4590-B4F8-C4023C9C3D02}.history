@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Custom/Custom Taxon/__Standard Values",
     "commandType": "Item",
     "template": "Custom Taxon",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4E76168A-B56B-4590-B4F8-C4023C9C3D02}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:48.8686129Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Custom/Custom Taxon/__Standard Values",
+    "commandType": "Item",
+    "template": "Custom Taxon",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Filter Control Types/Calendar",
     "commandType": "Item",
     "template": "Search Control Type",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{60766FDF-D4FD-4C02-85C1-E937576E394B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:50.0022459Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Calendar",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Filter Control Types/Calendar",
+    "commandType": "Item",
+    "template": "Search Control Type",
     "sourceControlRevisionId": null
   }
 ]

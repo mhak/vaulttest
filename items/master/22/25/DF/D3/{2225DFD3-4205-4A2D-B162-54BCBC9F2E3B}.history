@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Testing/Test Definition/Data/WinnerCombination",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2225DFD3-4205-4A2D-B162-54BCBC9F2E3B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:02.6193994Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "WinnerCombination",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Test Definition/Data/WinnerCombination",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

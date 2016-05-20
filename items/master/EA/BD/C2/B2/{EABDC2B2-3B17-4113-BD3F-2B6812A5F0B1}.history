@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Social/Klout/Klout Application/Data/Shared Secret",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EABDC2B2-3B17-4113-BD3F-2B6812A5F0B1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:58.1775771Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Shared Secret",
+    "itemPath": "/sitecore/templates/System/Social/Klout/Klout Application/Data/Shared Secret",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

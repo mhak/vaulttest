@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Templates/Template field/Search Results/Is Displayed in Search Results",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DCA13350-3EC5-408A-A190-D8FC9F63DCD1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:15:08.0261404Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Is Displayed in Search Results",
+    "itemPath": "/sitecore/templates/System/Templates/Template field/Search Results/Is Displayed in Search Results",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

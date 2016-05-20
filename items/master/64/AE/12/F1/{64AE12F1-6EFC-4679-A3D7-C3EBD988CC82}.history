@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Iran Islamic Republic of",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{64AE12F1-6EFC-4679-A3D7-C3EBD988CC82}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:26.0558763Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Iran Islamic Republic of",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Iran Islamic Republic of",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

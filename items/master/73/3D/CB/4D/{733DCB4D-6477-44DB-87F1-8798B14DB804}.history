@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Marketing Automation Evaluation/Only Evaluate for Subscribed Events",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{733DCB4D-6477-44DB-87F1-8798B14DB804}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:33.0082739Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Only Evaluate for Subscribed Events",
+    "itemPath": "/sitecore/system/Settings/Analytics/Marketing Automation Evaluation/Only Evaluate for Subscribed Events",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

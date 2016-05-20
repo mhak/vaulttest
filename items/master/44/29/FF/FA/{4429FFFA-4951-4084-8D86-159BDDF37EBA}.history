@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Operations/Marketing/Apply Campaigns to All Items",
     "commandType": "Item",
     "template": "Dropdown List",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4429FFFA-4951-4084-8D86-159BDDF37EBA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:50.9142981Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Apply Campaigns to All Items",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Operations/Marketing/Apply Campaigns to All Items",
+    "commandType": "Item",
+    "template": "Dropdown List",
     "sourceControlRevisionId": null
   }
 ]

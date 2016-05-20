@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/PageEvents/Editor/PageEventEditorQuestionMark",
     "commandType": "Item",
     "template": "Dictionary entry",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C7D9767F-A281-49D9-BF79-5CFAA90A52F0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:53.2419994Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "PageEventEditorQuestionMark",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/PageEvents/Editor/PageEventEditorQuestionMark",
+    "commandType": "Item",
+    "template": "Dictionary entry",
     "sourceControlRevisionId": null
   }
 ]

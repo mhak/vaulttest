@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/Search Query Builder",
     "commandType": "Item",
     "template": "Tag",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F2AED1B5-5491-4973-AB8A-60D34A73EFE7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:20.1109680Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Search Query Builder",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/Search Query Builder",
+    "commandType": "Item",
+    "template": "Tag",
     "sourceControlRevisionId": null
   }
 ]

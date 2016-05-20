@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Layout/Rendering Parameters/Standard Rendering Parameters/Caching/Caching",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3094D236-5985-4C4F-AE6A-E30740885532}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:20.4664202Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Caching",
+    "itemPath": "/sitecore/templates/System/Layout/Rendering Parameters/Standard Rendering Parameters/Caching/Caching",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

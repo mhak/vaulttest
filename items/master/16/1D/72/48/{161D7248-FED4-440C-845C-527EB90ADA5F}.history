@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/Branches/System/Social/Twitter Account",
     "commandType": "Item",
     "template": "Command Template",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{161D7248-FED4-440C-845C-527EB90ADA5F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:42.3412395Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Twitter Account",
+    "itemPath": "/sitecore/templates/Branches/System/Social/Twitter Account",
+    "commandType": "Item",
+    "template": "Command Template",
     "sourceControlRevisionId": null
   }
 ]

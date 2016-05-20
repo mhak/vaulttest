@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Layout/Placeholder/Data/Allowed Controls",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E391B526-D0C5-439D-803E-17512EAE6222}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:18.4163029Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Allowed Controls",
+    "itemPath": "/sitecore/templates/System/Layout/Placeholder/Data/Allowed Controls",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

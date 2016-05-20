@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Geo/Common/Address",
     "commandType": "Item",
     "template": "Dictionary entry",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{004324C1-26C3-4C8B-8A7B-BEFB7A2F5A3B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:50.6308501Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Address",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Geo/Common/Address",
+    "commandType": "Item",
+    "template": "Dictionary entry",
     "sourceControlRevisionId": null
   }
 ]

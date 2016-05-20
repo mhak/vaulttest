@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/System/Image Has Alt Text",
     "commandType": "Item",
     "template": "Validation Rule",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A1368733-0142-43FB-BA74-E7C3F2E4D883}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:29.5675089Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Image Has Alt Text",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/System/Image Has Alt Text",
+    "commandType": "Item",
+    "template": "Validation Rule",
     "sourceControlRevisionId": null
   }
 ]

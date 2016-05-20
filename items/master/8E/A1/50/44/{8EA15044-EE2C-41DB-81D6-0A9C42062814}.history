@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/media library/System/Template Thumbnails/audio",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8EA15044-EE2C-41DB-81D6-0A9C42062814}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:46.4856130Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "audio",
+    "itemPath": "/sitecore/media library/System/Template Thumbnails/audio",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{920A5A2F-DCBA-4F3A-BA5D-2CF46447E27F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:57.0702184Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Path Analyzer",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/External/W3C XHtml Validation/View",
     "commandType": "Item",
     "template": "Menu item",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8C8F6FEB-4713-4C05-B892-A6D3C9C5A82D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:28.6644573Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "View",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/External/W3C XHtml Validation/View",
+    "commandType": "Item",
+    "template": "Menu item",
     "sourceControlRevisionId": null
   }
 ]

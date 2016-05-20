@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Experience Analytics/Tags",
     "commandType": "Item",
     "template": "Tags Definitions Folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CA44D2E0-C7D8-447A-B8C6-376E78D6FA2C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:23.2911499Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tags",
+    "itemPath": "/sitecore/system/Settings/Rules/Experience Analytics/Tags",
+    "commandType": "Item",
+    "template": "Tags Definitions Folder",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Box Dropdown/Search Filters",
     "commandType": "Item",
     "template": "Dropdown List",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{25657872-FFF5-40BC-AA28-CF092C3489DA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:49.8692383Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Search Filters",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Box Dropdown/Search Filters",
+    "commandType": "Item",
+    "template": "Dropdown List",
     "sourceControlRevisionId": null
   }
 ]

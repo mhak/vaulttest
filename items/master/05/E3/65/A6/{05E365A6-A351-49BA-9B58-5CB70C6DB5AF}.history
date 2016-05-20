@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/List Manager/Segmented List/Search",
     "commandType": "Item",
     "template": "Template section",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{05E365A6-A351-49BA-9B58-5CB70C6DB5AF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:43.7563205Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Search",
+    "itemPath": "/sitecore/templates/List Manager/Segmented List/Search",
+    "commandType": "Item",
+    "template": "Template section",
     "sourceControlRevisionId": null
   }
 ]

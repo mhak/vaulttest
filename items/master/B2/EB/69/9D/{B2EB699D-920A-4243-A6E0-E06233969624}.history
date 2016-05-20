@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Rules/Insert Options Rule/Data",
     "commandType": "Item",
     "template": "Template section",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B2EB699D-920A-4243-A6E0-E06233969624}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:50.8991608Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Data",
+    "itemPath": "/sitecore/templates/System/Rules/Insert Options Rule/Data",
+    "commandType": "Item",
+    "template": "Template section",
     "sourceControlRevisionId": null
   }
 ]

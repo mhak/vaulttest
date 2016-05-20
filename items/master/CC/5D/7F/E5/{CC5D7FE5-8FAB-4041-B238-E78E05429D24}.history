@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Layout/Renderings/Sublayout Folder/__Standard Values",
     "commandType": "Item",
     "template": "Sublayout Folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CC5D7FE5-8FAB-4041-B238-E78E05429D24}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:23.6045997Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Layout/Renderings/Sublayout Folder/__Standard Values",
+    "commandType": "Item",
+    "template": "Sublayout Folder",
     "sourceControlRevisionId": null
   }
 ]

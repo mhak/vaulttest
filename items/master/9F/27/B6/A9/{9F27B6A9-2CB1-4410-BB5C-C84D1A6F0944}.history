@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Path Analyzer/MapType/Data",
     "commandType": "Item",
     "template": "Template section",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9F27B6A9-2CB1-4410-BB5C-C84D1A6F0944}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:41.0065950Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Data",
+    "itemPath": "/sitecore/templates/System/Path Analyzer/MapType/Data",
+    "commandType": "Item",
+    "template": "Template section",
     "sourceControlRevisionId": null
   }
 ]

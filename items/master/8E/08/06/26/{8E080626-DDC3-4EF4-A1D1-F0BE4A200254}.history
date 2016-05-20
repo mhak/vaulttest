@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Publishing targets/Internet",
     "commandType": "Item",
     "template": "Publishing target",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8E080626-DDC3-4EF4-A1D1-F0BE4A200254}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:17.1323659Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Internet",
+    "itemPath": "/sitecore/system/Publishing targets/Internet",
+    "commandType": "Item",
+    "template": "Publishing target",
     "sourceControlRevisionId": null
   }
 ]

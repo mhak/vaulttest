@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/layout/Sublayouts/Social/Sharing/LinkedIn Share Button",
     "commandType": "Item",
     "template": "Sublayout",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B41660C9-D68D-49D8-806B-644F0216A724}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:39.6052194Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "LinkedIn Share Button",
+    "itemPath": "/sitecore/layout/Sublayouts/Social/Sharing/LinkedIn Share Button",
+    "commandType": "Item",
+    "template": "Sublayout",
     "sourceControlRevisionId": null
   }
 ]

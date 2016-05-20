@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/media library/System/Simulator Backgrounds/Feature Phone",
     "commandType": "Item",
     "template": "Jpeg",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E6BA438D-B112-4BEF-AE3C-4F0C046868D6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:45.9565827Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Feature Phone",
+    "itemPath": "/sitecore/media library/System/Simulator Backgrounds/Feature Phone",
+    "commandType": "Item",
+    "template": "Jpeg",
     "sourceControlRevisionId": null
   }
 ]

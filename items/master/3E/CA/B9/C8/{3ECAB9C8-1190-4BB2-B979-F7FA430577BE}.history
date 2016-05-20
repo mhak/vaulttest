@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Belize",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3ECAB9C8-1190-4BB2-B979-F7FA430577BE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:22.2196569Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Belize",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Belize",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Rules/Taxonomy/Group",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5B5D706C-9EF9-4470-9B60-1A77EE8179FA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:51.7012067Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Group",
+    "itemPath": "/sitecore/templates/System/Rules/Taxonomy/Group",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

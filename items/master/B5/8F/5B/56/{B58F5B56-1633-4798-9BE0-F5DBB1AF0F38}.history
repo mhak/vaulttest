@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Social/Network",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B58F5B56-1633-4798-9BE0-F5DBB1AF0F38}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:55.3654163Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Network",
+    "itemPath": "/sitecore/templates/System/Social/Network",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

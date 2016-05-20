@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Testing/Workflow/Test Candidate Check Action/__Standard Values",
     "commandType": "Item",
     "template": "Test Candidate Check Action",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D0CB779E-5187-4E8B-B089-61C5581DE454}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:04.7465211Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Workflow/Test Candidate Check Action/__Standard Values",
+    "commandType": "Item",
+    "template": "Test Candidate Check Action",
     "sourceControlRevisionId": null
   }
 ]

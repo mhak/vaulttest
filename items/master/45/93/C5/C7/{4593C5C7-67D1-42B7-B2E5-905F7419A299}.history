@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Geo/Common/Metro Code",
     "commandType": "Item",
     "template": "Dictionary entry",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4593C5C7-67D1-42B7-B2E5-905F7419A299}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:51.2688866Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Metro Code",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Geo/Common/Metro Code",
+    "commandType": "Item",
+    "template": "Dictionary entry",
     "sourceControlRevisionId": null
   }
 ]

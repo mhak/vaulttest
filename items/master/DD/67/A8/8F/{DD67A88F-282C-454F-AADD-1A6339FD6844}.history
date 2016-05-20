@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/Branches/System/Rules/Taxonomy/Tags",
     "commandType": "Item",
     "template": "Branch",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DD67A88F-282C-454F-AADD-1A6339FD6844}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:41.5311932Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tags",
+    "itemPath": "/sitecore/templates/Branches/System/Rules/Taxonomy/Tags",
+    "commandType": "Item",
+    "template": "Branch",
     "sourceControlRevisionId": null
   }
 ]

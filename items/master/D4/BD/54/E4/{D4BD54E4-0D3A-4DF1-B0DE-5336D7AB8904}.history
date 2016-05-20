@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Path Analyzer/Start Date is before End Date",
     "commandType": "Item",
     "template": "Validation Rule",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D4BD54E4-0D3A-4DF1-B0DE-5336D7AB8904}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:32.4356730Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Start Date is before End Date",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Path Analyzer/Start Date is before End Date",
+    "commandType": "Item",
+    "template": "Validation Rule",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Testing/Personalization Test Variable/__Standard Values",
     "commandType": "Item",
     "template": "Personalization Test Variable",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{09F79B79-3181-48D7-8C3C-FC0EB4BA6CE7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:01.5373375Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Personalization Test Variable/__Standard Values",
+    "commandType": "Item",
+    "template": "Personalization Test Variable",
     "sourceControlRevisionId": null
   }
 ]

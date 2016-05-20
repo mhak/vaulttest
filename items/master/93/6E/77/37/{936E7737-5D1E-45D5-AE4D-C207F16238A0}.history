@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Testing/Test Definition/Data/ConfidenceLevel",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{936E7737-5D1E-45D5-AE4D-C207F16238A0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:02.5223938Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ConfidenceLevel",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Test Definition/Data/ConfidenceLevel",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

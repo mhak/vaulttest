@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Services",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0BCFEBA0-30E5-47E5-8D0F-70ED4D847EEF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:45.6764303Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Services",
+    "itemPath": "/sitecore/templates/System/Services",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

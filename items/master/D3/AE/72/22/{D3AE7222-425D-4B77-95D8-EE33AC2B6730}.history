@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Templates/Sections/Appearance/Appearance/__Context Menu",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D3AE7222-425D-4B77-95D8-EE33AC2B6730}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:15:02.9838520Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Context Menu",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Appearance/Appearance/__Context Menu",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

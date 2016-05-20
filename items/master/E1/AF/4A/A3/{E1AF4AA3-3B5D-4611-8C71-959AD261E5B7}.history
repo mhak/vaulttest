@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/layout/Renderings/System/FieldRenderer",
     "commandType": "Item",
     "template": "Webcontrol",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E1AF4AA3-3B5D-4611-8C71-959AD261E5B7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:38.2441416Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FieldRenderer",
+    "itemPath": "/sitecore/layout/Renderings/System/FieldRenderer",
+    "commandType": "Item",
+    "template": "Webcontrol",
     "sourceControlRevisionId": null
   }
 ]

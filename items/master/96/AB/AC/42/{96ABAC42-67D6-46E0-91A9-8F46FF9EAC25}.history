@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Facets/Location",
     "commandType": "Item",
     "template": "Facet",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{96ABAC42-67D6-46E0-91A9-8F46FF9EAC25}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:47.2200868Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Location",
+    "itemPath": "/sitecore/system/Settings/Buckets/Facets/Location",
+    "commandType": "Item",
+    "template": "Facet",
     "sourceControlRevisionId": null
   }
 ]

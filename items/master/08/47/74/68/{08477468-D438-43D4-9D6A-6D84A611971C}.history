@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Modules",
     "commandType": "Item",
     "template": "Node",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{08477468-D438-43D4-9D6A-6D84A611971C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:47.0216436Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Modules",
+    "itemPath": "/sitecore/system/Modules",
+    "commandType": "Item",
+    "template": "Node",
     "sourceControlRevisionId": null
   }
 ]

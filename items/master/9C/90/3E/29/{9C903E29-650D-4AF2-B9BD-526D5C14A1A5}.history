@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Templates/Template field/Validation Rules/Validator Bar",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9C903E29-650D-4AF2-B9BD-526D5C14A1A5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:15:07.9251347Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Validator Bar",
+    "itemPath": "/sitecore/templates/System/Templates/Template field/Validation Rules/Validator Bar",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

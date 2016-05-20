@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Netherlands Antilles",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{57938688-C7A8-43CD-90C8-A742E4A84C1F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:28.4780148Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Netherlands Antilles",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Netherlands Antilles",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

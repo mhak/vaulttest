@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Path Analyzer/CampaignMap/Scope/TargetCampaign",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7B591548-23AA-46FD-8B01-83523A97B830}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:40.5845709Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "TargetCampaign",
+    "itemPath": "/sitecore/templates/System/Path Analyzer/CampaignMap/Scope/TargetCampaign",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

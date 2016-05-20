@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Social/Klout/Klout Application/__Standard Values",
     "commandType": "Item",
     "template": "Klout Application",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9FDDF7B8-F667-410E-A2B9-891FA829FE5E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:57.9965668Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Social/Klout/Klout Application/__Standard Values",
+    "commandType": "Item",
+    "template": "Klout Application",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Workflow/Command/__Standard Values",
     "commandType": "Item",
     "template": "Command",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9455B378-B97B-4400-AE0E-C90CE5D40B38}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:15:10.9523078Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Workflow/Command/__Standard Values",
+    "commandType": "Item",
+    "template": "Command",
     "sourceControlRevisionId": null
   }
 ]

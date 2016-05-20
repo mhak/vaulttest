@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Campaign/Cost/Cost",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FA9EDD40-4101-478B-8238-5DD9A84DFC69}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:51.1237419Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Cost",
+    "itemPath": "/sitecore/templates/System/Analytics/Campaign/Cost/Cost",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

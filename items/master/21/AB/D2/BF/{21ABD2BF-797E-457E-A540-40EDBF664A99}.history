@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Dimensions/Pages/By Entry Pages/All visits by Entry Pages",
     "commandType": "Item",
     "template": "Segment",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{21ABD2BF-797E-457E-A540-40EDBF664A99}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:05.8567209Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "{3C70E8B1-D6D2-42CC-8E21-1AE8EC72A0FB}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "All visits by Entry Pages",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Dimensions/Pages/By Entry Pages/All visits by Entry Pages",
+    "commandType": "Item",
+    "template": "Segment",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/media library/System/Page Event Images/Register for Event",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{14D5C090-717B-449A-B470-AE21944B1C46}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:45.2335414Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Register for Event",
+    "itemPath": "/sitecore/media library/System/Page Event Images/Register for Event",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]

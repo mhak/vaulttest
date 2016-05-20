@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Campaigns/Editor/CampaignsEditorDescription",
     "commandType": "Item",
     "template": "Dictionary entry",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E70271A4-0532-4243-B034-E96DDB4202A5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:48.3117174Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CampaignsEditorDescription",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Campaigns/Editor/CampaignsEditorDescription",
+    "commandType": "Item",
+    "template": "Dictionary entry",
     "sourceControlRevisionId": null
   }
 ]

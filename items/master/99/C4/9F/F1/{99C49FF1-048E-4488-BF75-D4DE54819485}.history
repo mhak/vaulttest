@@ -429,6 +429,22 @@
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/general link with search",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{99C49FF1-048E-4488-BF75-D4DE54819485}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:15:14.3285009Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "general link with search",
+    "itemPath": "/sitecore/templates/XCentium/Supertemplate/data/general link with search",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

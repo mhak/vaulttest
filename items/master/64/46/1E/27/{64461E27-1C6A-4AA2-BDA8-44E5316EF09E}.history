@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Control/Control/Method",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{64461E27-1C6A-4AA2-BDA8-44E5316EF09E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:36.0213099Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Method",
+    "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Control/Control/Method",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

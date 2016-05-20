@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/General/Common/PageConfigurationRules",
     "commandType": "Item",
     "template": "Dictionary entry",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{07B44FB1-828F-4F5C-B041-997CD1E0E74F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:49.8688065Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "PageConfigurationRules",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/General/Common/PageConfigurationRules",
+    "commandType": "Item",
+    "template": "Dictionary entry",
     "sourceControlRevisionId": null
   }
 ]

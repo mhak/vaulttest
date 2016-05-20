@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Html editor/HTML Font",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A87C6D3F-D797-4147-9292-899A9DB561B3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:08.8907581Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "HTML Font",
+    "itemPath": "/sitecore/templates/System/Html editor/HTML Font",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

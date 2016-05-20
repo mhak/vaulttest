@@ -445,6 +445,22 @@
     "itemPath": "/sitecore/templates/XCentium/Supertemplate/data",
     "commandType": "Item",
     "template": "Template section",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2ED2D71C-8100-42CB-8E74-E8D2D8470DA9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:15:13.7524680Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "data",
+    "itemPath": "/sitecore/templates/XCentium/Supertemplate/data",
+    "commandType": "Item",
+    "template": "Template section",
     "sourceControlRevisionId": null
   }
 ]

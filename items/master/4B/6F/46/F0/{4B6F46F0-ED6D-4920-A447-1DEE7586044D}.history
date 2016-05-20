@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Country/Data/Country Code",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4B6F46F0-ED6D-4920-A447-1DEE7586044D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:51.4877627Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Country Code",
+    "itemPath": "/sitecore/templates/System/Analytics/Country/Data/Country Code",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

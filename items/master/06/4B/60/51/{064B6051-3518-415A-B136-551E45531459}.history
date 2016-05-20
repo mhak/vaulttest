@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Security/User/Data/Start Url",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{064B6051-3518-415A-B136-551E45531459}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:53.9393347Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Start Url",
+    "itemPath": "/sitecore/templates/System/Security/User/Data/Start Url",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

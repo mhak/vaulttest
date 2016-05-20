@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/media library/System/Channel Images/ch-social-media-mentions",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{05AC147B-3645-479A-AA35-3A32F49CA840}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:43.7194548Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-social-media-mentions",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-social-media-mentions",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Simulators/Scale Values/50",
     "commandType": "Item",
     "template": "Node",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DE4DC65E-801E-406B-A3FC-11168929E442}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:27.3773837Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "50",
+    "itemPath": "/sitecore/system/Settings/Simulators/Scale Values/50",
+    "commandType": "Item",
+    "template": "Node",
     "sourceControlRevisionId": null
   }
 ]

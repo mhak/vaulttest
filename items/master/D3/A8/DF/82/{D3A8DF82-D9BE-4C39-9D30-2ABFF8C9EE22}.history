@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Search Query Builder/Rules",
     "commandType": "Item",
     "template": "Rules Folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D3A8DF82-D9BE-4C39-9D30-2ABFF8C9EE22}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:26.2833211Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rules",
+    "itemPath": "/sitecore/system/Settings/Rules/Search Query Builder/Rules",
+    "commandType": "Item",
+    "template": "Rules Folder",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Multivariate Test Strategies",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{938C20B4-78BE-4D2A-8999-7E4714C32E78}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:17.9064102Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Multivariate Test Strategies",
+    "itemPath": "/sitecore/system/Settings/Analytics/Multivariate Test Strategies",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

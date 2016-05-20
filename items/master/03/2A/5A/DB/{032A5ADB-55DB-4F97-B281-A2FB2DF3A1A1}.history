@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Social/Posting Configuration/Content Posting Configuration/Data/Post automatically",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{032A5ADB-55DB-4F97-B281-A2FB2DF3A1A1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:15:00.2386950Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Post automatically",
+    "itemPath": "/sitecore/templates/System/Social/Posting Configuration/Content Posting Configuration/Data/Post automatically",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

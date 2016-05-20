@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Azerbaijan",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C5D8EBAF-0B22-469F-987C-95A79CBE4BAB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:21.8776373Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Azerbaijan",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Azerbaijan",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Media/Unversioned/Image/Image/Alt",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{65885C44-8FCD-4A7F-94F1-EE63703FE193}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:29.9589631Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Alt",
+    "itemPath": "/sitecore/templates/System/Media/Unversioned/Image/Image/Alt",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

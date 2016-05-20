@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/media library/System/Page Event Images/Download Brochure",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{93D49B7D-0308-4678-AABF-0DE750C55194}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:44.2824870Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Download Brochure",
+    "itemPath": "/sitecore/media library/System/Page Event Images/Download Brochure",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]

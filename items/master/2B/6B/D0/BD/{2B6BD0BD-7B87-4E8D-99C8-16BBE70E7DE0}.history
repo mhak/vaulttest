@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Html Editor Profiles/Html Editor Class Translation/Data/Key",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2B6BD0BD-7B87-4E8D-99C8-16BBE70E7DE0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:11.4029018Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Key",
+    "itemPath": "/sitecore/templates/System/Html Editor Profiles/Html Editor Class Translation/Data/Key",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

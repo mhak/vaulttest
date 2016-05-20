@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{877091A7-131E-40D2-BDC6-5534284C5D03}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:17.2713738Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Buckets",
+    "itemPath": "/sitecore/system/Settings/Buckets",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

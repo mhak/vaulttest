@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Romania",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{76F038A4-7EFC-4532-9D36-1AF6CBA7EDA7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:29.7280863Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Romania",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Romania",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Layout/Sections/Caching/Caching/VaryByUser",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0E54A8DC-72AD-4372-A7C7-BB4773FAD44D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:27.0317957Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "VaryByUser",
+    "itemPath": "/sitecore/templates/System/Layout/Sections/Caching/Caching/VaryByUser",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

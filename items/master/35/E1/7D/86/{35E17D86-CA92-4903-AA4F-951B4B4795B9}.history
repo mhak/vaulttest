@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Ribbon/Large Combo Button/Data/Gallery Height",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{35E17D86-CA92-4903-AA4F-951B4B4795B9}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:44.9398200Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Gallery Height",
+    "itemPath": "/sitecore/templates/System/Ribbon/Large Combo Button/Data/Gallery Height",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

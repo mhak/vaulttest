@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Ribbon/Small Combo Button",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{33D5BE89-B49B-411E-9175-8E4F872B5CDF}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:43.1787193Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Small Combo Button",
+    "itemPath": "/sitecore/templates/System/Ribbon/Small Combo Button",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

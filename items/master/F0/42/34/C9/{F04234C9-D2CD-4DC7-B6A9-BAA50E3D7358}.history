@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Bosnia and Herzegovina",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F04234C9-D2CD-4DC7-B6A9-BAA50E3D7358}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:22.4456698Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Bosnia and Herzegovina",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Bosnia and Herzegovina",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

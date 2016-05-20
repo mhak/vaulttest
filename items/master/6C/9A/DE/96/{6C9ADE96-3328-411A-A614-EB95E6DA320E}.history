@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/media library/System/Simulator Backgrounds/Large Android phone",
     "commandType": "Item",
     "template": "Jpeg",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6C9ADE96-3328-411A-A614-EB95E6DA320E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:46.2956021Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Large Android phone",
+    "itemPath": "/sitecore/media library/System/Simulator Backgrounds/Large Android phone",
+    "commandType": "Item",
+    "template": "Jpeg",
     "sourceControlRevisionId": null
   }
 ]

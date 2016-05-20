@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Menus/Menu item",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{998B965E-6AB8-4568-810F-8101D60D0CC3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:34.6522316Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Menu item",
+    "itemPath": "/sitecore/templates/System/Menus/Menu item",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

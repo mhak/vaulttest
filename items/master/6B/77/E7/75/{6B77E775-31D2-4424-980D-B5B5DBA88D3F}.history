@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Average Time on Page",
     "commandType": "Item",
     "template": "ReportQuery",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6B77E775-31D2-4424-980D-B5B5DBA88D3F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:37.5775353Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Average Time on Page",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Average Time on Page",
+    "commandType": "Item",
+    "template": "ReportQuery",
     "sourceControlRevisionId": null
   }
 ]

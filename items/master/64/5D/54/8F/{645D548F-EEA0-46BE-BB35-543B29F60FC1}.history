@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Tasks/Commands/Content Testing/Rebuild Suggested Tests Index",
     "commandType": "Item",
     "template": "Rebuild Index Command",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{645D548F-EEA0-46BE-BB35-543B29F60FC1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:33.5237352Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rebuild Suggested Tests Index",
+    "itemPath": "/sitecore/system/Tasks/Commands/Content Testing/Rebuild Suggested Tests Index",
+    "commandType": "Item",
+    "template": "Rebuild Index Command",
     "sourceControlRevisionId": null
   }
 ]

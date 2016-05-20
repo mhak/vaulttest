@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Reunion",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{00D7261B-FFB4-4377-B917-373FADCA3295}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:29.6750833Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Reunion",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Reunion",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

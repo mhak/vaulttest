@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/PageEvents/Editor/PageEventEditorSearchWaterMark",
     "commandType": "Item",
     "template": "Dictionary entry",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B318F15F-B998-4F08-AE28-E880CC66BD94}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:53.2830018Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "PageEventEditorSearchWaterMark",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/PageEvents/Editor/PageEventEditorSearchWaterMark",
+    "commandType": "Item",
+    "template": "Dictionary entry",
     "sourceControlRevisionId": null
   }
 ]

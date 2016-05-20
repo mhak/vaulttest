@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Dashboard/Dashboard Report/Queries/Oracle",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A9C8D7C7-A170-4305-A40F-DF6CF543C007}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:51.8287822Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Oracle",
+    "itemPath": "/sitecore/templates/System/Analytics/Dashboard/Dashboard Report/Queries/Oracle",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/Branches/System/Templates/New Template",
     "commandType": "Item",
     "template": "Command Template",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{78CF88BA-6957-4366-8368-12F3CED0184F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:42.3892423Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "New Template",
+    "itemPath": "/sitecore/templates/Branches/System/Templates/New Template",
+    "commandType": "Item",
+    "template": "Command Template",
     "sourceControlRevisionId": null
   }
 ]

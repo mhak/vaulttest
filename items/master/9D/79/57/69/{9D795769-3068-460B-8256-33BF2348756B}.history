@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Burkina Faso",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9D795769-3068-460B-8256-33BF2348756B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:22.8576933Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Burkina Faso",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Burkina Faso",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

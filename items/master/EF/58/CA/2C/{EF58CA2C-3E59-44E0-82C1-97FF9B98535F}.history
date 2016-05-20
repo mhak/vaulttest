@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Tasks",
     "commandType": "Item",
     "template": "Node",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EF58CA2C-3E59-44E0-82C1-97FF9B98535F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:47.2466565Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tasks",
+    "itemPath": "/sitecore/system/Tasks",
+    "commandType": "Item",
+    "template": "Node",
     "sourceControlRevisionId": null
   }
 ]

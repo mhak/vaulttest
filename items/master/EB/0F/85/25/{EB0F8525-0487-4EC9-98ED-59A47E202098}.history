@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Vendor Specific Filter/Configuration",
     "commandType": "Item",
     "template": "Template section",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EB0F8525-0487-4EC9-98ED-59A47E202098}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:05.0785400Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Configuration",
+    "itemPath": "/sitecore/templates/System/Analytics/Vendor Specific Filter/Configuration",
+    "commandType": "Item",
+    "template": "Template section",
     "sourceControlRevisionId": null
   }
 ]

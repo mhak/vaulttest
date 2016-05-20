@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/Branches/System/Layouts",
     "commandType": "Item",
     "template": "Branch Folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BCD8EB24-4D10-4A47-ACF8-64F93A0F3740}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:39.4090718Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Layouts",
+    "itemPath": "/sitecore/templates/Branches/System/Layouts",
+    "commandType": "Item",
+    "template": "Branch Folder",
     "sourceControlRevisionId": null
   }
 ]

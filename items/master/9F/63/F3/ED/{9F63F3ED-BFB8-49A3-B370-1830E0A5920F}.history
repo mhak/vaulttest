@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Item Buckets/Dropdown List",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9F63F3ED-BFB8-49A3-B370-1830E0A5920F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:12.7239773Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Dropdown List",
+    "itemPath": "/sitecore/templates/System/Item Buckets/Dropdown List",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Content Editor Warnings",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{039D399F-9197-4A78-9589-281D6B680DBA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:13.0065617Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Content Editor Warnings",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Content Editor Warnings",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

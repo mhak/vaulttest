@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Workflows/Path Analyzer Maps/Initializing/Deploy/Validate Map",
     "commandType": "Item",
     "template": "Validation Action",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C30F981F-F91C-44F8-8E57-EA9985C7E89B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:35.1938307Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Validate Map",
+    "itemPath": "/sitecore/system/Workflows/Path Analyzer Maps/Initializing/Deploy/Validate Map",
+    "commandType": "Item",
+    "template": "Validation Action",
     "sourceControlRevisionId": null
   }
 ]

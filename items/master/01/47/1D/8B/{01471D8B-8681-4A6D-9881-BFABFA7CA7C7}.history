@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Social/Posting Configuration/Container Posting Configuration",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{01471D8B-8681-4A6D-9881-BFABFA7CA7C7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:14:59.4786516Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Container Posting Configuration",
+    "itemPath": "/sitecore/templates/System/Social/Posting Configuration/Container Posting Configuration",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Campaign Group/Campaign Group Taxonomy/__Standard Values",
     "commandType": "Item",
     "template": "Campaign Group Taxonomy",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4B5E4A4F-E45C-442F-AC3D-1A95193DCECD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:47.9425599Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Campaign Group/Campaign Group Taxonomy/__Standard Values",
+    "commandType": "Item",
+    "template": "Campaign Group Taxonomy",
     "sourceControlRevisionId": null
   }
 ]

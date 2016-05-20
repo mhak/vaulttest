@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Sample/Minimum Length 8",
     "commandType": "Item",
     "template": "Validation Rule",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F42F3E57-5A4B-49EF-A581-A60CEDC71305}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:28.8464677Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Minimum Length 8",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Sample/Minimum Length 8",
+    "commandType": "Item",
+    "template": "Validation Rule",
     "sourceControlRevisionId": null
   }
 ]

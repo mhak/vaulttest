@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Dashboard Reports/Overview/Campaign Efficiency",
     "commandType": "Item",
     "template": "Dashboard Report",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0B7037D2-EFED-4BE1-8233-522A68409E30}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:19.5885064Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Campaign Efficiency",
+    "itemPath": "/sitecore/system/Settings/Analytics/Dashboard Reports/Overview/Campaign Efficiency",
+    "commandType": "Item",
+    "template": "Dashboard Report",
     "sourceControlRevisionId": null
   }
 ]

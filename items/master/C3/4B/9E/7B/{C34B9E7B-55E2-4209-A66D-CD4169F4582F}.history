@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/media library/System/Page Event Images/End Transaction",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C34B9E7B-55E2-4209-A66D-CD4169F4582F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:11:44.3234893Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "End Transaction",
+    "itemPath": "/sitecore/media library/System/Page Event Images/End Transaction",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]

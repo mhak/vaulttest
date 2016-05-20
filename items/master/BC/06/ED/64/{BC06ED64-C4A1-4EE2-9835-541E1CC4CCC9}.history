@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Facets/Language",
     "commandType": "Item",
     "template": "Facet",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BC06ED64-C4A1-4EE2-9835-541E1CC4CCC9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:47.1290816Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Language",
+    "itemPath": "/sitecore/system/Settings/Buckets/Facets/Language",
+    "commandType": "Item",
+    "template": "Facet",
     "sourceControlRevisionId": null
   }
 ]

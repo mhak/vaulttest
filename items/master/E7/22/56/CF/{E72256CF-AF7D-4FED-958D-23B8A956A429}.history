@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Visits Visitor Tags",
     "commandType": "Item",
     "template": "ReportQuery",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E72256CF-AF7D-4FED-958D-23B8A956A429}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:39.4576428Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Visits Visitor Tags",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Visits Visitor Tags",
+    "commandType": "Item",
+    "template": "ReportQuery",
     "sourceControlRevisionId": null
   }
 ]

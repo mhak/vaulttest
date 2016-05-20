@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Isle of Man",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F00CC98B-A0DF-4E36-A0A2-09C0D2E7EC29}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:26.1848837Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Isle of Man",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Isle of Man",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

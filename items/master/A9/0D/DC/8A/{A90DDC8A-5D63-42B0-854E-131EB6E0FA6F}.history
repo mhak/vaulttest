@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Vendor Specific Filter",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A90DDC8A-5D63-42B0-854E-131EB6E0FA6F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:47.4765333Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Vendor Specific Filter",
+    "itemPath": "/sitecore/templates/System/Analytics/Vendor Specific Filter",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

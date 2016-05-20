@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/System/Unique Placeholder Key",
     "commandType": "Item",
     "template": "Validation Rule",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6957BBEF-2031-499E-9DDC-4CEAEAC3D1E1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:13:30.0205348Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Unique Placeholder Key",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/System/Unique Placeholder Key",
+    "commandType": "Item",
+    "template": "Validation Rule",
     "sourceControlRevisionId": null
   }
 ]

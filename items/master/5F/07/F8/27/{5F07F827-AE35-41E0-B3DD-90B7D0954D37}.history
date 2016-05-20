@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Reports/Subreports/Units Business Visits",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5F07F827-AE35-41E0-B3DD-90B7D0954D37}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:45.7530029Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Units Business Visits",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Subreports/Units Business Visits",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

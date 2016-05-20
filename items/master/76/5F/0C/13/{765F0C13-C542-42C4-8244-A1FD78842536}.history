@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/South Georgia and the South Sandwich Islands",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{765F0C13-C542-42C4-8244-A1FD78842536}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:12:30.9691573Z",
+    "label": "Snapshot - snapshot2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "South Georgia and the South Sandwich Islands",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/South Georgia and the South Sandwich Islands",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]
