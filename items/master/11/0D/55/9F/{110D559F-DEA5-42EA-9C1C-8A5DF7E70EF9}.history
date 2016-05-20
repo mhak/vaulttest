@@ -1645,6 +1645,22 @@
     "itemPath": "/sitecore/content/Home233a",
     "commandType": "Item",
     "template": "Sample Item",
-    "sourceControlRevisionId": null
+    "sourceControlRevisionId": "10ccce4ab769885cb28b44415620bf1436bf2c27"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "master",
+    "itemId": "{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}",
+    "version": 8,
+    "language": "en",
+    "timestamp": "2016-05-20T21:08:05.4129684Z",
+    "label": "Deleted",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Home233a",
+    "itemPath": "/sitecore/content/Home233a",
+    "commandType": "Item",
+    "template": "Sample Item",
+    "sourceControlRevisionId": "10ccce4ab769885cb28b44415620bf1436bf2c27"
   }
 ]
