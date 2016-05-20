@@ -29,6 +29,22 @@
     "itemPath": "/sitecore/templates/Sample/Sample Item/__Standard Values",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "4923ed64ae3b62df2dd8aea1db454ce5dfa5cb07"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{9DFBB778-512F-4BA7-8293-C01503572D30}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T21:36:34.5117232Z",
+    "label": "Installed from package - demo",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/Sample/Sample Item/__Standard Values",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]
