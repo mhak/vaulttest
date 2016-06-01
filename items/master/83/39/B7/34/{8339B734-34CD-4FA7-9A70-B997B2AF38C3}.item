@@ -6,13 +6,13 @@ path: /sitecore/content/Home/New Meng Template
 parent: {110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}
 name: New Meng Template
 master: {00000000-0000-0000-0000-000000000000}
-template: {47D49060-E708-4830-BB30-61DAAF389581}
-templatekey: Meng Template
+template: {76036F5E-CBCE-46D1-AF0A-4143F9B557AA}
+templatekey: Sample Item
 
 ----version----
 language: en
 version: 1
-revision: aeeb91bc-254e-4945-b889-a04d9e7872af
+revision: 9dd4678f-accb-4813-9d0b-e56dbe84b1b5
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
@@ -41,14 +41,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-aeeb91bc-254e-4945-b889-a04d9e7872af
+9dd4678f-accb-4813-9d0b-e56dbe84b1b5
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160601T224502Z
+20160601T231055Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
