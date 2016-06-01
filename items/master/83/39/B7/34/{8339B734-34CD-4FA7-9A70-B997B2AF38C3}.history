@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{8339B734-34CD-4FA7-9A70-B997B2AF38C3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-01T22:36:04.8202347Z",
+    "label": "Deployed from test",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "New Meng Template",
+    "itemPath": "/sitecore/content/Home/New Meng Template",
+    "commandType": "Item",
+    "template": "Meng Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.0.150812",
+    "vaultVersion": "1.0"
+  }
+]
