@@ -2,9 +2,9 @@
 version: 1
 id: {8339B734-34CD-4FA7-9A70-B997B2AF38C3}
 database: master
-path: /sitecore/content/Home/New Meng Template
+path: /sitecore/content/Home/Meng Template
 parent: {110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}
-name: New Meng Template
+name: Meng Template
 master: {00000000-0000-0000-0000-000000000000}
 template: {76036F5E-CBCE-46D1-AF0A-4143F9B557AA}
 templatekey: Sample Item
