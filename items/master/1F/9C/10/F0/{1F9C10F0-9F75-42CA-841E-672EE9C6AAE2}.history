@@ -8,12 +8,15 @@
     "timestamp": "2016-05-17T17:02:33.3148608Z",
     "label": "Installed from package - demo",
     "workflowState": "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}",
+    "workflowStateName": null,
     "activeUser": "extranet\\Anonymous",
     "itemName": "About Us",
     "itemPath": "/sitecore/content/Home233a/About Us/About Us",
     "commandType": "Item",
     "template": "Sample Item",
-    "sourceControlRevisionId": "776d4bdebd6113d630343221e8cb03f26a6f0574"
+    "sourceControlRevisionId": "776d4bdebd6113d630343221e8cb03f26a6f0574",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "Rollback",
@@ -24,11 +27,33 @@
     "timestamp": "2016-05-17T17:41:12.9379155Z",
     "label": "Rollback package - demo",
     "workflowState": "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}",
+    "workflowStateName": null,
     "activeUser": "extranet\\Anonymous",
     "itemName": "About Us",
     "itemPath": "[orphan]/About Us",
     "commandType": "Item",
     "template": "Sample Item",
-    "sourceControlRevisionId": null
+    "sourceControlRevisionId": "87c97c5a447b5fae5e23f21d00f1ae2cd614070b",
+    "sitecoreVersion": null,
+    "vaultVersion": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{1F9C10F0-9F75-42CA-841E-672EE9C6AAE2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-01T23:16:26.0207155Z",
+    "label": "Deployed from test",
+    "workflowState": "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}",
+    "workflowStateName": "Approved",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "About Us",
+    "itemPath": "/sitecore/content/Home/About Us/About Us",
+    "commandType": "Item",
+    "template": "Sample Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.0.150812",
+    "vaultVersion": "1.0"
   }
 ]
