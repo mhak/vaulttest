@@ -2,17 +2,17 @@
 version: 1
 id: {8339B734-34CD-4FA7-9A70-B997B2AF38C3}
 database: master
-path: /sitecore/content/Home/Meng Template
+path: /sitecore/content/Home/New Meng Template
 parent: {110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}
-name: Meng Template
+name: New Meng Template
 master: {00000000-0000-0000-0000-000000000000}
-template: {76036F5E-CBCE-46D1-AF0A-4143F9B557AA}
-templatekey: Sample Item
+template: {47D49060-E708-4830-BB30-61DAAF389581}
+templatekey: Meng Template
 
 ----version----
 language: en
 version: 1
-revision: 5be447fa-4c98-4ccf-94b0-f7b1fbcb13d2
+revision: 13e8aab5-fd8e-4d36-bc53-bb81f9a22162
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
@@ -41,14 +41,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-5be447fa-4c98-4ccf-94b0-f7b1fbcb13d2
+13e8aab5-fd8e-4d36-bc53-bb81f9a22162
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160601T231202Z
+20160601T231422Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
