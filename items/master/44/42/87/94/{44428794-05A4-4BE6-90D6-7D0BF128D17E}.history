@@ -14,7 +14,9 @@
     "itemPath": "/sitecore/system/Tasks/Schedules/Content Testing/Rebuild Suggested Tests Index",
     "commandType": "Item",
     "template": null,
-    "sourceControlRevisionId": "91774babee3fabafe9b0da596568f1a0876049ab"
+    "sourceControlRevisionId": "91774babee3fabafe9b0da596568f1a0876049ab",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "Saved",
@@ -31,7 +33,9 @@
     "itemPath": "/sitecore/system/Tasks/Schedules/Content Testing/Rebuild Suggested Tests Index",
     "commandType": "Item",
     "template": "Schedule",
-    "sourceControlRevisionId": "c8c1b3ec80fee9e32a4027f5c7d320246ffa5aad"
+    "sourceControlRevisionId": "c8c1b3ec80fee9e32a4027f5c7d320246ffa5aad",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "Saved",
@@ -48,7 +52,9 @@
     "itemPath": "/sitecore/system/Tasks/Schedules/Content Testing/Rebuild Suggested Tests Index",
     "commandType": "Item",
     "template": "Schedule",
-    "sourceControlRevisionId": "f82044702f98d557433e0d6fcc79b2ddb0edf5df"
+    "sourceControlRevisionId": "f82044702f98d557433e0d6fcc79b2ddb0edf5df",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "Saved",
@@ -65,7 +71,9 @@
     "itemPath": "/sitecore/system/Tasks/Schedules/Content Testing/Rebuild Suggested Tests Index",
     "commandType": "Item",
     "template": "Schedule",
-    "sourceControlRevisionId": "8c7273aff4e223a83f09cdc5fe420056f79e9e51"
+    "sourceControlRevisionId": "8c7273aff4e223a83f09cdc5fe420056f79e9e51",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "Saved",
@@ -82,7 +90,9 @@
     "itemPath": "/sitecore/system/Tasks/Schedules/Content Testing/Rebuild Suggested Tests Index",
     "commandType": "Item",
     "template": "Schedule",
-    "sourceControlRevisionId": "8cef8b4249751d1654b5c12a550b269ca257596c"
+    "sourceControlRevisionId": "8cef8b4249751d1654b5c12a550b269ca257596c",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "Saved",
@@ -99,7 +109,9 @@
     "itemPath": "/sitecore/system/Tasks/Schedules/Content Testing/Rebuild Suggested Tests Index",
     "commandType": "Item",
     "template": "Schedule",
-    "sourceControlRevisionId": "c742da70e75887bab4f6663b9211cefb0847c8ad"
+    "sourceControlRevisionId": "c742da70e75887bab4f6663b9211cefb0847c8ad",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "Saved",
@@ -116,7 +128,9 @@
     "itemPath": "/sitecore/system/Tasks/Schedules/Content Testing/Rebuild Suggested Tests Index",
     "commandType": "Item",
     "template": "Schedule",
-    "sourceControlRevisionId": "be3df300bc7a57dfb0f925e18ec40c112552d1e9"
+    "sourceControlRevisionId": "be3df300bc7a57dfb0f925e18ec40c112552d1e9",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "Snapshot",
@@ -133,7 +147,9 @@
     "itemPath": "/sitecore/system/Tasks/Schedules/Content Testing/Rebuild Suggested Tests Index",
     "commandType": "Item",
     "template": "Schedule",
-    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "Snapshot",
@@ -150,7 +166,9 @@
     "itemPath": "/sitecore/system/Tasks/Schedules/Content Testing/Rebuild Suggested Tests Index",
     "commandType": "Item",
     "template": "Schedule",
-    "sourceControlRevisionId": "8774fbe5f8763c408455050b266d38d122413635"
+    "sourceControlRevisionId": "8774fbe5f8763c408455050b266d38d122413635",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "Saved",
@@ -167,7 +185,9 @@
     "itemPath": "/sitecore/system/Tasks/Schedules/Content Testing/Rebuild Suggested Tests Index",
     "commandType": "Item",
     "template": "Schedule",
-    "sourceControlRevisionId": "b9ecc49042580fbe5373868953d452ff3be2b55c"
+    "sourceControlRevisionId": "b9ecc49042580fbe5373868953d452ff3be2b55c",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "Saved",
@@ -184,7 +204,9 @@
     "itemPath": "/sitecore/system/Tasks/Schedules/Content Testing/Rebuild Suggested Tests Index",
     "commandType": "Item",
     "template": "Schedule",
-    "sourceControlRevisionId": "4c5c13fe9d0631fc7a310485ad4d2e98a513cfa2"
+    "sourceControlRevisionId": "4c5c13fe9d0631fc7a310485ad4d2e98a513cfa2",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "Saved",
@@ -201,6 +223,27 @@
     "itemPath": "/sitecore/system/Tasks/Schedules/Content Testing/Rebuild Suggested Tests Index",
     "commandType": "Item",
     "template": "Schedule",
-    "sourceControlRevisionId": null
+    "sourceControlRevisionId": "14e51d2792afe4021fd54ed32149185086e4f7cf",
+    "sitecoreVersion": null,
+    "vaultVersion": null
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{44428794-05A4-4BE6-90D6-7D0BF128D17E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-02T17:14:06.4956061Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Anonymous",
+    "itemName": "Rebuild Suggested Tests Index",
+    "itemPath": "/sitecore/system/Tasks/Schedules/Content Testing/Rebuild Suggested Tests Index",
+    "commandType": "Item",
+    "template": "Schedule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.0.150812",
+    "vaultVersion": "1.0"
   }
 ]
