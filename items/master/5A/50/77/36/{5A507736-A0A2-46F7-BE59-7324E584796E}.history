@@ -14,7 +14,9 @@
     "itemPath": "/sitecore/system/Tasks/Schedules/Content Testing/Try Finish Test",
     "commandType": "Item",
     "template": null,
-    "sourceControlRevisionId": "45e096d1d573ebe3c4bb208c3c4d84405be912f1"
+    "sourceControlRevisionId": "45e096d1d573ebe3c4bb208c3c4d84405be912f1",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "Saved",
@@ -31,7 +33,9 @@
     "itemPath": "/sitecore/system/Tasks/Schedules/Content Testing/Try Finish Test",
     "commandType": "Item",
     "template": "Schedule",
-    "sourceControlRevisionId": "c62c9e9529a993c5c42ca41054f94fdf3209d6c0"
+    "sourceControlRevisionId": "c62c9e9529a993c5c42ca41054f94fdf3209d6c0",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "Saved",
@@ -48,7 +52,9 @@
     "itemPath": "/sitecore/system/Tasks/Schedules/Content Testing/Try Finish Test",
     "commandType": "Item",
     "template": "Schedule",
-    "sourceControlRevisionId": "5e1e0a4177d9196bbdd6c7c79a8cd87498ce0342"
+    "sourceControlRevisionId": "5e1e0a4177d9196bbdd6c7c79a8cd87498ce0342",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "Saved",
@@ -65,7 +71,9 @@
     "itemPath": "/sitecore/system/Tasks/Schedules/Content Testing/Try Finish Test",
     "commandType": "Item",
     "template": "Schedule",
-    "sourceControlRevisionId": "357915a888566ec5b51f604d7ac313bea129675a"
+    "sourceControlRevisionId": "357915a888566ec5b51f604d7ac313bea129675a",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "Saved",
@@ -82,7 +90,9 @@
     "itemPath": "/sitecore/system/Tasks/Schedules/Content Testing/Try Finish Test",
     "commandType": "Item",
     "template": "Schedule",
-    "sourceControlRevisionId": "35284a01dfb1382992ec21ade3661ae55326cfaf"
+    "sourceControlRevisionId": "35284a01dfb1382992ec21ade3661ae55326cfaf",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "Saved",
@@ -99,7 +109,9 @@
     "itemPath": "/sitecore/system/Tasks/Schedules/Content Testing/Try Finish Test",
     "commandType": "Item",
     "template": "Schedule",
-    "sourceControlRevisionId": "53f9af5f1e141bcf64adfee0c63ccc7ea72de033"
+    "sourceControlRevisionId": "53f9af5f1e141bcf64adfee0c63ccc7ea72de033",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "Saved",
@@ -116,7 +128,9 @@
     "itemPath": "/sitecore/system/Tasks/Schedules/Content Testing/Try Finish Test",
     "commandType": "Item",
     "template": "Schedule",
-    "sourceControlRevisionId": "be3df300bc7a57dfb0f925e18ec40c112552d1e9"
+    "sourceControlRevisionId": "be3df300bc7a57dfb0f925e18ec40c112552d1e9",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "Snapshot",
@@ -133,7 +147,9 @@
     "itemPath": "/sitecore/system/Tasks/Schedules/Content Testing/Try Finish Test",
     "commandType": "Item",
     "template": "Schedule",
-    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "Snapshot",
@@ -150,7 +166,9 @@
     "itemPath": "/sitecore/system/Tasks/Schedules/Content Testing/Try Finish Test",
     "commandType": "Item",
     "template": "Schedule",
-    "sourceControlRevisionId": "3c3dc5f064c62859c443605b5864049810f0c3a8"
+    "sourceControlRevisionId": "3c3dc5f064c62859c443605b5864049810f0c3a8",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "Saved",
@@ -167,7 +185,9 @@
     "itemPath": "/sitecore/system/Tasks/Schedules/Content Testing/Try Finish Test",
     "commandType": "Item",
     "template": "Schedule",
-    "sourceControlRevisionId": "50c06e379830e83eb2324ad003ddd8d5b915dff7"
+    "sourceControlRevisionId": "50c06e379830e83eb2324ad003ddd8d5b915dff7",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "Saved",
@@ -184,7 +204,9 @@
     "itemPath": "/sitecore/system/Tasks/Schedules/Content Testing/Try Finish Test",
     "commandType": "Item",
     "template": "Schedule",
-    "sourceControlRevisionId": "730229a01734849b073620020e089903e020ccc5"
+    "sourceControlRevisionId": "730229a01734849b073620020e089903e020ccc5",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "Saved",
@@ -201,6 +223,27 @@
     "itemPath": "/sitecore/system/Tasks/Schedules/Content Testing/Try Finish Test",
     "commandType": "Item",
     "template": "Schedule",
-    "sourceControlRevisionId": null
+    "sourceControlRevisionId": "b904178930eb5852b87d580447249d1e22f05c97",
+    "sitecoreVersion": null,
+    "vaultVersion": null
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{5A507736-A0A2-46F7-BE59-7324E584796E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-02T17:14:06.5106070Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Anonymous",
+    "itemName": "Try Finish Test",
+    "itemPath": "/sitecore/system/Tasks/Schedules/Content Testing/Try Finish Test",
+    "commandType": "Item",
+    "template": "Schedule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.0.150812",
+    "vaultVersion": "1.0"
   }
 ]
