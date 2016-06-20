@@ -34,7 +34,7 @@ content-length: 3
 field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
 name: __Renderings
 key: __renderings
-content-length: 9237
+content-length: 9612
 
 <r>
   <d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" l="{4F72A793-BDBC-4262-9523-6AADD8FEA487}">
@@ -55,7 +55,7 @@ content-length: 9237
     <r id="{910155C7-3881-4A56-90FB-D126490EDE55}" par="Id=VaultMessageBar" ph="ApplicationContent.Main" uid="{F1EEAEE4-B445-4966-ADE3-F30C5FE90E48}" />
     <r id="{F6C9F461-FCAF-47DC-AA01-C8C64C2EFFB8}" par="Id=NotificationBorder&amp;IsVisible=0" ph="ApplicationContent.Main" uid="{397FC728-34B4-462F-A9F3-4083828F7BB5}" />
     <r id="{F517C5E4-9A53-46C3-B922-5B44E6DAAA48}" par="Id=SpinnerImage&amp;ImageUrl=%2fsitecore%2fshell%2fclient%2fSpeak%2fAssets%2fimg%2fSpeak%2fProgressIndicator%2fsc-spinner32.gif" ph="NotificationBorder.Content" uid="{894DFCD5-C51A-442A-81AB-3D5A54BE7180}" />
-    <r id="{98316BB6-F3F5-4E6F-81F0-79F173D151D8}" par="Id=SpinnerDeploymentLabel&amp;Text=Snapshot+is+processing..." ph="NotificationBorder.Content" uid="{1A5C3521-FD38-471A-81B1-B1CF8197B87F}" />
+    <r id="{98316BB6-F3F5-4E6F-81F0-79F173D151D8}" par="Id=SpinnerDeploymentLabel&amp;Text=Task+is+processing..." ph="NotificationBorder.Content" uid="{1A5C3521-FD38-471A-81B1-B1CF8197B87F}" />
     <r id="{98316BB6-F3F5-4E6F-81F0-79F173D151D8}" par="Id=SpinnerVerificationLabel&amp;Text=+Snapshot...." ph="NotificationBorder.Content" uid="{1A5C3521-FD38-471A-81B1-B1CF8197B87F}" />
     <r id="{C4393722-39FA-4869-9582-3A8EB8983A0D}" par="Id=MainRow" ph="ApplicationContent.Main" uid="{89FBCB45-0247-4806-9658-199A7EB04A1F}" />
     <r id="{5CB208F6-1860-426B-8221-FAA85B329848}" par="Id=MainTop&amp;GridColumns=12" ph="MainRow.Content" uid="{2AAD86AD-0840-4532-8026-CDB3D3A52BF9}" />
@@ -83,13 +83,15 @@ content-length: 9237
     <r id="{F6C9F461-FCAF-47DC-AA01-C8C64C2EFFB8}" par="Id=SelectedButtons" ph="ListPanel.Content" uid="{348FCFD7-81A8-403D-853C-E50DD4B8C374}" />
     <r id="{913AB005-2527-4C2D-9827-FB3A8DFB135C}" par="Id=DeployButton&amp;IsEnabled=%7bBinding+SnapshotList.HasSelectedItem%7d&amp;ButtonType=Primary&amp;Text=Deploy+Selected" ph="SelectedButtons.Content_" uid="{6B037C1B-70F1-4748-8B12-79BC6797A1E3}" />
     <r id="{913AB005-2527-4C2D-9827-FB3A8DFB135C}" par="Id=RollbackButton&amp;IsEnabled=%7bBinding+SnapshotList.HasSelectedItem%7d&amp;ButtonType=Inverse&amp;Text=Rollback+Selected" ph="SelectedButtons.Content_" uid="{6B037C1B-70F1-4748-8B12-79BC6797A1E3}" />
+    <r id="{73C16115-8B56-43AF-8EA3-4D704FCDA127}" par="Id=Separator1" ph="ApplicationContent.Main" uid="{07F3D4EE-23F3-4B9A-8E73-CC85D71C0BEF}" />
+    <r id="{913AB005-2527-4C2D-9827-FB3A8DFB135C}" par="Click=javascript%3aapp.rebuildCacheDb()%3b&amp;Id=ButtonRebuildDb&amp;Text=Rebuild+Vault+Cache" ph="ApplicationContent.Main" uid="{1DBE5900-13BD-4A0E-8688-26FCD8D18C65}" />
     <r id="{3055E50C-BA58-4107-B465-267F0F54F1A9}" par="Id=XSpeak" ph="Page.Body" uid="{59881CC9-32D1-4A6A-8868-5B253192726C}" />
   </d>
 </r>
 ----version----
 language: en
 version: 1
-revision: 39807bd8-f4b4-4f80-9d12-814efcdb9be3
+revision: 2d40b71a-4a4f-47e7-aa56-41118550d589
 
 ----field----
 field: {7205A57F-93B4-413A-AA9A-6B16BBC59565}
@@ -118,14 +120,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-39807bd8-f4b4-4f80-9d12-814efcdb9be3
+2d40b71a-4a4f-47e7-aa56-41118550d589
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160502T194754Z
+20160620T214743Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
