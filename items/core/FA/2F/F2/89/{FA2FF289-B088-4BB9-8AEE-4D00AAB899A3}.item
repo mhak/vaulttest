@@ -13,9 +13,9 @@ templatekey: LaunchPad-Button
 field: {D25B56D4-23B6-4462-BE25-B6A6D7F38E13}
 name: Icon
 key: icon
-content-length: 35
+content-length: 25
 
-BusinessV2/16x16/safe_open_full.png
+BusinessV2/16x16/safe.png
 ----field----
 field: {044E3FDB-22AE-4E6C-B50E-2ABDFBABD338}
 name: Link
@@ -40,7 +40,7 @@ ar|sitecore\VaultDashboard|pe|+item:read|pd|-item:read|
 ----version----
 language: en
 version: 1
-revision: 458fa2f3-c810-4eba-83a4-1dde0d5bbd8a
+revision: 47a6c549-e76b-4d8e-b702-d53c9b0095ab
 
 ----field----
 field: {AA4A4643-5BFC-45A7-B9D9-5183A5211D99}
@@ -69,18 +69,18 @@ name: __Revision
 key: __revision
 content-length: 36
 
-458fa2f3-c810-4eba-83a4-1dde0d5bbd8a
+47a6c549-e76b-4d8e-b702-d53c9b0095ab
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160224T220121Z
+20160620T214740Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 13
+content-length: 18
 
-sitecore\mhak
+extranet\Anonymous
