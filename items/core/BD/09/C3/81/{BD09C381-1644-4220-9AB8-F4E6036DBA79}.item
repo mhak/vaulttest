@@ -48,7 +48,7 @@ content-length: 0
 field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
 name: __Renderings
 key: __renderings
-content-length: 5550
+content-length: 6155
 
 <r>
   <d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" l="{4F72A793-BDBC-4262-9523-6AADD8FEA487}">
@@ -66,6 +66,9 @@ content-length: 5550
     <r id="{AF79ED5D-4396-4EEC-8E22-9D7C523266FA}" par="Id=Breadcrumb1&amp;RootItemId=%7bB2D13121-76DD-4C76-8972-D4E32D1D3B2C%7d" ph="ApplicationHeader.BreadCrumb" uid="{07949568-79C1-4D4A-BD54-7DD95B3817DA}" />
     <r id="{910155C7-3881-4A56-90FB-D126490EDE55}" par="Id=VaultMessageBar" ph="ApplicationContent.Main" uid="{F1EEAEE4-B445-4966-ADE3-F30C5FE90E48}" />
     <r id="{7717EB6C-9F90-4C58-826D-5E87722A0318}" par="Id=DeploymentName&amp;TextType=Title" ph="ApplicationContent.Main" uid="{26F1E5E9-8E66-44A1-BFC2-44C036213BA2}" />
+    <r id="{F6C9F461-FCAF-47DC-AA01-C8C64C2EFFB8}" par="Id=NotificationBorder&amp;IsVisible=0" ph="ApplicationContent.Main" uid="{CAF28437-7741-449C-9D60-8C234E1ADAB7}" />
+    <r id="{F517C5E4-9A53-46C3-B922-5B44E6DAAA48}" par="Id=SpinnerImage&amp;ImageUrl=%2fsitecore%2fshell%2fclient%2fSpeak%2fAssets%2fimg%2fSpeak%2fProgressIndicator%2fsc-spinner32.gif" ph="NotificationBorder.Content" uid="{421D83F3-8B57-4E16-91AC-8309453DFDA6}" />
+    <r id="{98316BB6-F3F5-4E6F-81F0-79F173D151D8}" par="Id=SpinnerVerificationLabel" ph="NotificationBorder.Content" uid="{7CED4FB1-F127-433E-916D-499CA0998681}" />
     <r id="{C4393722-39FA-4869-9582-3A8EB8983A0D}" par="UsePadding=1&amp;Id=VaultDeploymentPanel&amp;PaddingType=Top" ph="ApplicationContent.Main" uid="{C57A6382-15A3-462E-84E8-80DAF6B539E7}" />
     <r id="{5CB208F6-1860-426B-8221-FAA85B329848}" par="Id=ColumnPanel1&amp;GridColumns=6" ph="VaultDeploymentPanel.Content" uid="{74E34BD4-3E77-4BAC-BFBA-2DFF8D42AB31}" />
     <r ds="{718A4C33-8562-4D60-85AA-EA7F079AD239}" id="{7426CD5B-A534-4462-ABEE-D700D78ECF6A}" par="Id=TabControl1&amp;TabType=Normal" ph="ColumnPanel1.Content" uid="{1BA36DD8-C070-44E0-8545-DBEAED651E44}" />
@@ -85,7 +88,7 @@ content-length: 5550
 ----version----
 language: en
 version: 1
-revision: 568cab7c-a506-4f87-aa89-c82fb2f6823d
+revision: d76683b8-5079-40aa-8506-4c0cea146509
 
 ----field----
 field: {7205A57F-93B4-413A-AA9A-6B16BBC59565}
@@ -107,14 +110,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-568cab7c-a506-4f87-aa89-c82fb2f6823d
+d76683b8-5079-40aa-8506-4c0cea146509
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160502T194755Z
+20160620T214744Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
