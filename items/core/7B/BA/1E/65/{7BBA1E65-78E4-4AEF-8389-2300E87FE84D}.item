@@ -2,9 +2,9 @@
 version: 1
 id: {7BBA1E65-78E4-4AEF-8389-2300E87FE84D}
 database: core
-path: /sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Tabs/SelectTab Parameters/MatchingItems
+path: /sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Tabs/SelectTab Parameters/Filter based selection
 parent: {718A4C33-8562-4D60-85AA-EA7F079AD239}
-name: MatchingItems
+name: Filter based selection
 master: {00000000-0000-0000-0000-000000000000}
 template: {F62B4CD7-754C-4461-810F-2B6BD2C92A0D}
 templatekey: Tab
@@ -54,7 +54,7 @@ content-length: 3479
 ----version----
 language: en
 version: 1
-revision: 9e6874c7-14d0-45a6-a155-7ade361e8dc9
+revision: 8621d366-56d8-43f4-a56b-7e6947aaae8e
 
 ----field----
 field: {AEA872FB-AA91-4D1A-B877-3CA6FBBB4FD4}
@@ -83,14 +83,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-9e6874c7-14d0-45a6-a155-7ade361e8dc9
+8621d366-56d8-43f4-a56b-7e6947aaae8e
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160502T194756Z
+20160620T214745Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
