@@ -2,9 +2,9 @@
 version: 1
 id: {CCCADA3B-B797-42E3-BC0D-074FCF4073E0}
 database: core
-path: /sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Lists/ReleaseItems/Item Name
+path: /sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Lists/ReleaseItems/Type
 parent: {B4BE035A-21B6-4F38-869F-87E2A0A979A0}
-name: Item Name
+name: Type
 master: {00000000-0000-0000-0000-000000000000}
 template: {D3CEFE6E-E51B-4A84-B92E-AAF8AA8E8DC8}
 templatekey: ColumnField
@@ -40,7 +40,7 @@ content-length: 1
 ----version----
 language: en
 version: 1
-revision: 20985015-c0d6-47ce-991f-799afcde85d2
+revision: 1ec8de37-b940-4336-9546-6075c69c5629
 
 ----field----
 field: {2E9FD749-0F47-4397-8BA2-C56C65366BF0}
@@ -83,14 +83,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-20985015-c0d6-47ce-991f-799afcde85d2
+1ec8de37-b940-4336-9546-6075c69c5629
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160502T194755Z
+20160620T214745Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
