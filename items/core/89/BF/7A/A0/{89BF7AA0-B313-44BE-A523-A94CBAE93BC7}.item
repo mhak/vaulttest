@@ -34,13 +34,13 @@ content-length: 2
 field: {DEC8D2D5-E3CF-48B6-A653-8E69E2716641}
 name: __Security
 key: __security
-content-length: 221
+content-length: 0
 
-ar|sitecore\Everyone|pe|!*|pd|!*|ar|sitecore\VaultDashboard|pe|+item:read|pd|+item:read|ar|sitecore\Analytics Reporting|pe|+item:read|ar|sitecore\Developer|pe|+item:rename|+item:create|+item:delete|+item:read|+item:write|
+
 ----version----
 language: da
 version: 1
-revision: 90ff8c89-4541-44c3-83f0-1bc1fb459719
+revision: 690668c2-60a2-4400-b371-e7e21a8a4951
 
 ----field----
 field: {AA4A4643-5BFC-45A7-B9D9-5183A5211D99}
@@ -83,21 +83,21 @@ name: __Revision
 key: __revision
 content-length: 36
 
-90ff8c89-4541-44c3-83f0-1bc1fb459719
+690668c2-60a2-4400-b371-e7e21a8a4951
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
-content-length: 35
+content-length: 16
 
-20150427T180216:635657545361957926Z
+20160620T214742Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 14
+content-length: 18
 
-sitecore\admin
+extranet\Anonymous
 ----version----
 language: de-DE
 version: 1
@@ -162,7 +162,7 @@ sitecore\admin
 ----version----
 language: en
 version: 1
-revision: 9a8a2df8-a8d9-46ba-8550-09b3ea4e80e7
+revision: 0d3eef01-f6fd-424a-9dfb-9a563315171b
 
 ----field----
 field: {AA4A4643-5BFC-45A7-B9D9-5183A5211D99}
@@ -198,21 +198,21 @@ name: __Revision
 key: __revision
 content-length: 36
 
-9a8a2df8-a8d9-46ba-8550-09b3ea4e80e7
+0d3eef01-f6fd-424a-9dfb-9a563315171b
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160224T220723Z
+20160620T214742Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 13
+content-length: 18
 
-sitecore\mhak
+extranet\Anonymous
 ----version----
 language: ja-JP
 version: 1
