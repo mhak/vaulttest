@@ -41,7 +41,7 @@ content-length: 0
 field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
 name: __Renderings
 key: __renderings
-content-length: 2875
+content-length: 3194
 
 <r>
   <d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" l="{4F72A793-BDBC-4262-9523-6AADD8FEA487}">
@@ -59,8 +59,10 @@ content-length: 2875
     <r id="{C5D667DE-AA48-4072-872E-7C8BFFCE4D44}" par="IsRootHidden=1&amp;Id=dashboardMenu&amp;ItemsDataSource=%7b647472D4-D9C0-406B-8E22-60DB2DC634B2%7d" ph="ApplicationContent.Navigation" uid="{260AA5B7-3F14-471A-BE28-51E829BCA8DE}" />
     <r id="{910155C7-3881-4A56-90FB-D126490EDE55}" par="Id=VaultMessageBar" ph="ApplicationContent.Main" uid="{33149E6B-8193-4F36-9408-A408BC381007}" />
     <r id="{C4393722-39FA-4869-9582-3A8EB8983A0D}" par="Id=RowPanelTiles" ph="ApplicationContent.Main" uid="{E3FA32C9-D05D-4C38-BA59-F3823C412F62}" />
-    <r id="{5CB208F6-1860-426B-8221-FAA85B329848}" par="Id=ColumnPanelTiles&amp;ApplyGridColumsToAllSizes=1" ph="RowPanelTiles.Content" uid="{7C00EFBD-386E-4C47-92D9-70BB027C745D}" />
+    <r id="{5CB208F6-1860-426B-8221-FAA85B329848}" par="Id=ColumnPanelTiles&amp;ApplyGridColumsToAllSizes=0&amp;GridColumns=6" ph="RowPanelTiles.Content" uid="{7C00EFBD-386E-4C47-92D9-70BB027C745D}" />
+    <r id="{5CB208F6-1860-426B-8221-FAA85B329848}" par="Id=ColumnPanelRight&amp;GridColumns=6" ph="RowPanelTiles.Content" uid="{2C1218E8-0624-463C-94BE-3F32492A420F}" />
     <r id="{AA0E503D-BB64-4978-907C-CD1E343C4B11}" ph="ColumnPanelTiles.Content" uid="{0EADE017-77FC-4E73-9161-4D7257933CC2}" />
+    <r id="{C6DFAFFC-856E-4C79-AE45-4B7357CAFFD0}" ph="ColumnPanelRight.Content" uid="{B4CD333F-49F8-4B03-8C01-DA7768341531}" />
     <r id="{3055E50C-BA58-4107-B465-267F0F54F1A9}" par="Id=XSpeak&amp;PollingIntervalMinutes=1&amp;ControlList=DCTActivity" ph="Page.Body" uid="{52D6630F-4283-441E-99FE-3C7BADC57322}" />
   </d>
 </r>
@@ -68,13 +70,13 @@ content-length: 2875
 field: {DEC8D2D5-E3CF-48B6-A653-8E69E2716641}
 name: __Security
 key: __security
-content-length: 55
+content-length: 0
 
-ar|sitecore\VaultDashboard|pe|+item:read|pd|+item:read|
+
 ----version----
 language: en
 version: 1
-revision: 5eeadcb8-fd6d-4d13-b371-9456033ec78e
+revision: e735c36d-5374-4eff-8ff4-d77e0ea56416
 
 ----field----
 field: {7205A57F-93B4-413A-AA9A-6B16BBC59565}
@@ -103,14 +105,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-5eeadcb8-fd6d-4d13-b371-9456033ec78e
+e735c36d-5374-4eff-8ff4-d77e0ea56416
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160502T194751Z
+20160620T214741Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
