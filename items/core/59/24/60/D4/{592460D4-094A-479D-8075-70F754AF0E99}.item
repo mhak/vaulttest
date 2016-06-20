@@ -2,7 +2,7 @@
 version: 1
 id: {592460D4-094A-479D-8075-70F754AF0E99}
 database: core
-path: /sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Tabs/SelectTab Parameters/MatchingItems/PageSettings/Search Filters
+path: /sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Tabs/SelectTab Parameters/Filter based selection/PageSettings/Search Filters
 parent: {A4E34A42-5ACF-44D2-A79B-48AD737B4583}
 name: Search Filters
 master: {00000000-0000-0000-0000-000000000000}
