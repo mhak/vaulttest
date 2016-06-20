@@ -30,10 +30,17 @@ key: __masters
 content-length: 38
 
 {5EE505EE-8C0C-4CBD-8815-C1B7B1F06516}
+----field----
+field: {DEC8D2D5-E3CF-48B6-A653-8E69E2716641}
+name: __Security
+key: __security
+content-length: 110
+
+ar|sitecore\Vault Dashboard|pe|+item:read|pd|+item:read|ar|sitecore\Sitecore Client Users|pe|+item:read|pd|!*|
 ----version----
 language: da
 version: 1
-revision: a47859ec-5f51-4e5f-a9bd-e5774fca85a5
+revision: e2360a2e-8048-49e9-a935-eb457ddc66fa
 
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
@@ -69,21 +76,21 @@ name: __Revision
 key: __revision
 content-length: 36
 
-a47859ec-5f51-4e5f-a9bd-e5774fca85a5
+e2360a2e-8048-49e9-a935-eb457ddc66fa
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
-content-length: 35
+content-length: 16
 
-20150427T180157:635657545179460960Z
+20160620T214742Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 14
+content-length: 18
 
-sitecore\admin
+extranet\Anonymous
 ----version----
 language: de-DE
 version: 1
@@ -141,7 +148,7 @@ sitecore\admin
 ----version----
 language: en
 version: 1
-revision: 1d6a571b-34bc-4706-9ec1-2d5f0db4e7f0
+revision: 5f6ea2af-2ee7-4770-8a45-c97a8544328d
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
@@ -154,9 +161,9 @@ sitecore\admin
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
 key: __created
-content-length: 15
+content-length: 16
 
-20140702T095659
+20140702T165659Z
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
@@ -170,21 +177,21 @@ name: __Revision
 key: __revision
 content-length: 36
 
-1d6a571b-34bc-4706-9ec1-2d5f0db4e7f0
+5f6ea2af-2ee7-4770-8a45-c97a8544328d
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160225T181542Z
+20160620T214742Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 13
+content-length: 18
 
-sitecore\mhak
+extranet\Anonymous
 ----version----
 language: ja-JP
 version: 1
