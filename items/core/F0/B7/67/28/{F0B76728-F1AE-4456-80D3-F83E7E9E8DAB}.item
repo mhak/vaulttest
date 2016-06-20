@@ -2,9 +2,9 @@
 version: 1
 id: {F0B76728-F1AE-4456-80D3-F83E7E9E8DAB}
 database: core
-path: /sitecore/client/Your Apps/Vault/Navigation/Reporting/Infrastructure
+path: /sitecore/client/Your Apps/Vault/Navigation/Reporting/Status
 parent: {89D7F0D5-CA88-4257-BFB2-FE3B6202E92E}
-name: Infrastructure
+name: Status
 master: {00000000-0000-0000-0000-000000000000}
 template: {6B2C1723-B4E0-49BE-8EF2-F1D12C969E54}
 templatekey: HyperlinkButton Parameters
@@ -13,9 +13,9 @@ templatekey: HyperlinkButton Parameters
 field: {AEE5C6C6-CB2D-4645-AE50-8640E8ED293F}
 name: NavigateUrl
 key: navigateurl
-content-length: 73
+content-length: 65
 
-/sitecore/client/Your Apps/Vault/Vault Dashboard/Reporting/Infrastructure
+/sitecore/client/Your Apps/Vault/Vault Dashboard/Reporting/Status
 ----field----
 field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
 name: __Icon
@@ -29,26 +29,26 @@ name: __Sortorder
 key: __sortorder
 content-length: 3
 
-300
+200
 ----version----
 language: en
 version: 1
-revision: f4dd4521-b17b-470e-986a-9b67dd2cb33b
+revision: 08b5322c-71cd-4f8c-bcca-3d61fa76e7e0
 
 ----field----
 field: {368E1AB6-8708-4F58-AF08-7DAA53A5BF32}
 name: Text
 key: text
-content-length: 14
+content-length: 6
 
-Infrastructure
+Status
 ----field----
 field: {E17D3534-A424-47E3-8F2C-3DBBA705565F}
 name: Tooltip
 key: tooltip
-content-length: 14
+content-length: 6
 
-Infrastructure
+Status
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
@@ -69,14 +69,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-f4dd4521-b17b-470e-986a-9b67dd2cb33b
+08b5322c-71cd-4f8c-bcca-3d61fa76e7e0
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160502T194753Z
+20160620T214742Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
