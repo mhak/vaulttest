@@ -2,9 +2,9 @@
 version: 1
 id: {5C92C232-6B58-45B4-AC6A-9CAD10B47350}
 database: core
-path: /sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Tabs/SelectTab Parameters/SitecoreTree
+path: /sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Tabs/SelectTab Parameters/Item selection
 parent: {718A4C33-8562-4D60-85AA-EA7F079AD239}
-name: SitecoreTree
+name: Item selection
 master: {00000000-0000-0000-0000-000000000000}
 template: {F62B4CD7-754C-4461-810F-2B6BD2C92A0D}
 templatekey: Tab
@@ -27,14 +27,28 @@ content-length: 3
 field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
 name: __Renderings
 key: __renderings
-content-length: 2351
+content-length: 4931
 
 <r>
   <d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
     <r ds="{7960C4FF-5B9E-4FC9-8576-3E6B1E39DA82}" id="{442BD093-FBAD-4E36-BC08-489E16C82D08}" par="Id=SelectionTreeListExpander&amp;IsCollapsible=0&amp;IsOpen=1" uid="{24D16AD1-882A-4515-AFBD-33F03FC13F44}" />
     <r id="{F6C9F461-FCAF-47DC-AA01-C8C64C2EFFB8}" par="Id=AddItems&amp;PaddingType=Bottom&amp;UsePadding=0" ph="SelectionTreeListExpander.ActionBar" uid="{A8101495-2104-4C15-A8D2-31FA99B942FE}" />
-    <r id="{913AB005-2527-4C2D-9827-FB3A8DFB135C}" par="Click=javascript%3aapp.processTreeSelectedMatching()%3b&amp;Id=AddItemsButton&amp;ButtonType=Primary&amp;Text=Add+Item(s)" ph="AddItems.Content" uid="{395A7450-586D-414C-85E9-69F2344D2E31}" />
-    <r id="{913AB005-2527-4C2D-9827-FB3A8DFB135C}" par="Click=javascript%3aapp.processTreeSelectedMatching(true)%3b&amp;Id=AddItemsRecursiveButton&amp;ButtonType=Primary&amp;Text=Add+with+subitems" ph="AddItems.Content" uid="{395A7450-586D-414C-85E9-69F2344D2E31}" />
+    <r id="{2F8BFAC9-65F2-420E-9CD7-D9889C01E35C}" par="Id=ddbAdd&amp;ButtonType=Primary&amp;IsVisible=0&amp;Text=Add" ph="AddItems.Content" uid="{9CFD711A-E90F-4FB3-9D03-889514B16C6D}" />
+    <r id="{C4393722-39FA-4869-9582-3A8EB8983A0D}" par="Id=RowPanel1" ph="ddbAdd.Content" uid="{D94888E4-2C6C-4FD0-8647-2AE3AB85704D}" />
+    <r id="{5CB208F6-1860-426B-8221-FAA85B329848}" par="Id=ColumnPanel1&amp;GridColumns=12&amp;ContentAlign=Left" ph="RowPanel1.Content" uid="{21999CDE-EB59-4763-ABEC-98D9D6271A78}" />
+    <r id="{F6C9F461-FCAF-47DC-AA01-C8C64C2EFFB8}" par="Id=bType&amp;PaddingType=Bottom&amp;Width=200px&amp;UsePadding=1" ph="ColumnPanel1.Content" uid="{8228AF1A-C161-4B07-807F-A833A4EAEDC1}" />
+    <r id="{98316BB6-F3F5-4E6F-81F0-79F173D151D8}" par="Id=lblType&amp;Text=Add+Item(s)%3a" ph="bType.Content" uid="{16117322-3296-4C83-AA76-39E73B6C041A}" />
+    <r id="{3824DAB6-745A-468A-9D75-044591E72FB5}" par="Id=cbRecursive&amp;Value=recursive&amp;Text=Add+subitems" ph="bType.Content" uid="{D5F508F4-5498-4349-9F53-642E8ED97E6D}" />
+    <r id="{F6C9F461-FCAF-47DC-AA01-C8C64C2EFFB8}" par="Id=bLanguage&amp;PaddingType=Bottom&amp;ShowBorder=0" ph="ColumnPanel1.Content" uid="{CC2E8E7E-7CE5-47F9-9B27-FB234607608B}" />
+    <r id="{98316BB6-F3F5-4E6F-81F0-79F173D151D8}" par="Id=lblLanguage&amp;Text=Languages+-+Select+which+languages+to+install%3a" ph="bLanguage.Content" uid="{FE821E5F-C43D-45E3-B663-7C07978BB524}" />
+    <r id="{8749772B-02A2-459A-918F-3AC8BC2A8F37}" ph="bLanguage.Content" uid="{266D1BD4-C194-4EE3-A78F-A031B5EAAAE6}" />
+    <r id="{F6C9F461-FCAF-47DC-AA01-C8C64C2EFFB8}" par="Id=bInstallMode" ph="ColumnPanel1.Content" uid="{244FC063-934E-483C-9C82-A23AEBE2A238}" />
+    <r id="{98316BB6-F3F5-4E6F-81F0-79F173D151D8}" par="Id=lblInstallMode&amp;Text=Install+mode%3a" ph="bInstallMode.Content" uid="{C4A6E7A0-6712-4B49-9FBD-2A489A2E97CF}" />
+    <r id="{8BECEF35-1374-4D25-8A1A-4CDCC4218AA9}" par="GroupName=installmode&amp;IsChecked=1&amp;Id=rbMerge&amp;Value=merge&amp;Text=Merge" ph="bInstallMode.Content" uid="{B5181FBF-51FB-4AC2-96CE-3834B211FA25}" />
+    <r id="{8BECEF35-1374-4D25-8A1A-4CDCC4218AA9}" par="GroupName=installmode&amp;Id=rbOverwrite&amp;Value=overwrite&amp;Text=Overwrite&amp;Tooltip=test" ph="bInstallMode.Content" uid="{F36B36A0-866A-4776-9EC9-53E32BF6A302}" />
+    <r id="{913AB005-2527-4C2D-9827-FB3A8DFB135C}" par="Click=javascript%3aapp.addItem()%3b&amp;Id=btnOk&amp;ButtonType=Primary&amp;Text=OK" ph="ColumnPanel1.Content" uid="{9CDFD830-5502-4963-8AE4-A5D9325C2EAC}" />
+    <r id="{913AB005-2527-4C2D-9827-FB3A8DFB135C}" par="Click=javascript%3aapp.processTreeSelectedMatching()%3b&amp;Id=AddItemsButton&amp;IsVisible=1&amp;ButtonType=Primary&amp;Text=Add+Item(s)" ph="AddItems.Content" uid="{395A7450-586D-414C-85E9-69F2344D2E31}" />
+    <r id="{913AB005-2527-4C2D-9827-FB3A8DFB135C}" par="Click=javascript%3aapp.processTreeSelectedMatching(true)%3b&amp;Id=AddItemsRecursiveButton&amp;IsVisible=1&amp;ButtonType=Primary&amp;Text=Add+with+subitems" ph="AddItems.Content" uid="{395A7450-586D-414C-85E9-69F2344D2E31}" />
     <r id="{C4393722-39FA-4869-9582-3A8EB8983A0D}" par="Id=rowPanelDatabase" ph="SelectionTreeListExpander.Body" uid="{70EA36D2-363C-476C-880D-0012061F476E}" />
     <r id="{5CB208F6-1860-426B-8221-FAA85B329848}" par="Id=colPanelDatabase&amp;GridColumns=6" ph="rowPanelDatabase.Content" uid="{30FF6050-886C-406C-BA35-1665120E009A}" />
     <r id="{F6C9F461-FCAF-47DC-AA01-C8C64C2EFFB8}" par="Id=bDatabase&amp;UsePadding=1" ph="colPanelDatabase.Content" uid="{1DFEF7F1-33D1-4479-9231-39872141318F}" />
@@ -47,7 +61,7 @@ content-length: 2351
 ----version----
 language: en
 version: 1
-revision: f0bb7383-f359-4de5-a915-4fddbc063f0e
+revision: 1cce3c47-1663-4a3f-a701-88b12558da0d
 
 ----field----
 field: {AEA872FB-AA91-4D1A-B877-3CA6FBBB4FD4}
@@ -76,14 +90,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-f0bb7383-f359-4de5-a915-4fddbc063f0e
+1cce3c47-1663-4a3f-a701-88b12558da0d
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160502T194756Z
+20160620T214745Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
