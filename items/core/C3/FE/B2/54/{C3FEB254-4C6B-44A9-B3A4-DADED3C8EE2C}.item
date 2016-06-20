@@ -27,9 +27,9 @@ content-length: 2
 field: {DEC8D2D5-E3CF-48B6-A653-8E69E2716641}
 name: __Security
 key: __security
-content-length: 62
+content-length: 0
 
-ar|sitecore\Sitecore Client Users|pe|+item:read|pd|+item:read|
+
 ----field----
 field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
 name: __Workflow
@@ -40,15 +40,15 @@ content-length: 0
 ----version----
 language: en
 version: 1
-revision: bf4baac2-e9d9-43cc-b0eb-bbdbdd76cb77
+revision: 9c8c8be2-ea6b-4c95-8a20-e474d1ed6b0c
 
 ----field----
 field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
 name: __Valid from
 key: __valid from
-content-length: 15
+content-length: 16
 
-20060210T101719
+20060210T181719Z
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
 name: __Owner
@@ -60,9 +60,9 @@ sitecore\admin
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
 key: __created
-content-length: 15
+content-length: 16
 
-20060428T114229
+20060428T184229Z
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
@@ -76,21 +76,21 @@ name: __Revision
 key: __revision
 content-length: 36
 
-bf4baac2-e9d9-43cc-b0eb-bbdbdd76cb77
+9c8c8be2-ea6b-4c95-8a20-e474d1ed6b0c
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
-content-length: 35
+content-length: 16
 
-20160120T162835:635889041152684455Z
+20160620T214748Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 14
+content-length: 18
 
-sitecore\admin
+extranet\Anonymous
 ----field----
 field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
 name: __Workflow state
