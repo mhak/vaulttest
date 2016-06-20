@@ -2,7 +2,7 @@
 version: 1
 id: {9073E0CE-F9C3-4183-BE9C-35D827F2A80C}
 database: core
-path: /sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Tabs/SelectTab Parameters/MatchingItems/PageSettings/BuildRulesButtonRuleDefinition
+path: /sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Tabs/SelectTab Parameters/Filter based selection/PageSettings/BuildRulesButtonRuleDefinition
 parent: {A4E34A42-5ACF-44D2-A79B-48AD737B4583}
 name: BuildRulesButtonRuleDefinition
 master: {00000000-0000-0000-0000-000000000000}
