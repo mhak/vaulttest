@@ -2,9 +2,9 @@
 version: 1
 id: {C2DC428C-1DE7-4D9C-94B4-49D0860F2862}
 database: core
-path: /sitecore/client/Your Apps/Vault/Vault Dashboard/Reporting/Infrastructure
+path: /sitecore/client/Your Apps/Vault/Vault Dashboard/Reporting/Status
 parent: {1766B494-A794-4955-8712-FA11048B65B9}
-name: Infrastructure
+name: Status
 master: {00000000-0000-0000-0000-000000000000}
 template: {B11AFCCD-C286-4384-B694-4465D6C605DE}
 templatekey: Speak-DashboardPage
@@ -41,7 +41,7 @@ content-length: 0
 field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
 name: __Renderings
 key: __renderings
-content-length: 3388
+content-length: 3369
 
 <r>
   <d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" l="{4F72A793-BDBC-4262-9523-6AADD8FEA487}">
@@ -57,11 +57,11 @@ content-length: 3388
     <r id="{93CEEFCD-2DE1-40AF-AE9A-EBBFBCCC522F}" par="ShowHeader=0" ph="ApplicationHeader" uid="{1E240370-226C-40E4-9C54-7FE8630DF74A}" />
     <r id="{C5D667DE-AA48-4072-872E-7C8BFFCE4D44}" par="IsRootHidden=1&amp;Id=dashboardNavigation&amp;ItemsDataSource=%7b647472D4-D9C0-406B-8E22-60DB2DC634B2%7d" ph="ApplicationContent.Navigation" uid="{48C01C8A-22A8-4213-85BA-5600EC571392}" />
     <r id="{AF79ED5D-4396-4EEC-8E22-9D7C523266FA}" par="Id=Breadcrumb1&amp;RootItemId=%7bB2D13121-76DD-4C76-8972-D4E32D1D3B2C%7d" ph="ApplicationHeader.BreadCrumb" uid="{07949568-79C1-4D4A-BD54-7DD95B3817DA}" />
-    <r id="{835FD556-A672-49CE-9482-175791629C05}" par="Id=VaultApplicationName&amp;removeBold=1&amp;productName=Infrastructure" ph="ApplicationContent.Main" uid="{594E7579-5E56-48E4-8B05-DEC9EC6FA929}" />
+    <r id="{835FD556-A672-49CE-9482-175791629C05}" par="Id=VaultApplicationName&amp;removeBold=1&amp;productName=Status" ph="ApplicationContent.Main" uid="{594E7579-5E56-48E4-8B05-DEC9EC6FA929}" />
     <r id="{910155C7-3881-4A56-90FB-D126490EDE55}" par="Id=VaultMessageBar" ph="ApplicationContent.Main" uid="{F1EEAEE4-B445-4966-ADE3-F30C5FE90E48}" />
     <r id="{F6C9F461-FCAF-47DC-AA01-C8C64C2EFFB8}" par="Id=NotificationBorder" ph="ApplicationContent.Main" uid="{AA6DC546-1089-43DD-8CD8-D31F9FA80336}" />
     <r id="{F517C5E4-9A53-46C3-B922-5B44E6DAAA48}" par="Id=SpinnerImage&amp;ImageUrl=%2fsitecore%2fshell%2fclient%2fSpeak%2fAssets%2fimg%2fSpeak%2fProgressIndicator%2fsc-spinner32.gif" ph="NotificationBorder.Content" uid="{6AE64113-1B37-4C37-912C-BD2337938991}" />
-    <r id="{98316BB6-F3F5-4E6F-81F0-79F173D151D8}" par="Id=lblLoading&amp;Text=Contacting+servers..." ph="NotificationBorder.Content" uid="{FFDFB22B-330B-47EA-BFB8-1BC1B74C99CC}" />
+    <r id="{98316BB6-F3F5-4E6F-81F0-79F173D151D8}" par="Id=lblLoading&amp;Text=Loading..." ph="NotificationBorder.Content" uid="{FFDFB22B-330B-47EA-BFB8-1BC1B74C99CC}" />
     <r id="{7A713A90-9DBE-49A4-9E5B-CAD5144AE67C}" par="Id=VaultHealthStatus" ph="ApplicationContent.Main" uid="{283CBBAC-BB9E-4342-A46A-F4DD614FEEB2}" />
     <r id="{3055E50C-BA58-4107-B465-267F0F54F1A9}" par="Id=XSpeak&amp;PollingIntervalMinutes=1&amp;ControlList=VaultHealthStatus" ph="Page.Body" uid="{59881CC9-32D1-4A6A-8868-5B253192726C}" />
   </d>
@@ -76,15 +76,15 @@ content-length: 0
 ----version----
 language: en
 version: 1
-revision: a6797a22-a71e-494b-aa20-528f698ed732
+revision: 14f3c660-4edb-48ff-b1a3-a5c8332ecaeb
 
 ----field----
 field: {7205A57F-93B4-413A-AA9A-6B16BBC59565}
 name: BrowserTitle
 key: browsertitle
-content-length: 21
+content-length: 13
 
-Vault: Infrastructure
+Vault: Status
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
@@ -98,14 +98,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-a6797a22-a71e-494b-aa20-528f698ed732
+14f3c660-4edb-48ff-b1a3-a5c8332ecaeb
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160502T194756Z
+20160620T214745Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
