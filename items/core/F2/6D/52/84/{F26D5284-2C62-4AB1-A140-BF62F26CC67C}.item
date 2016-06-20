@@ -2,7 +2,7 @@
 version: 1
 id: {F26D5284-2C62-4AB1-A140-BF62F26CC67C}
 database: core
-path: /sitecore/client/Your Apps/Vault/Navigation/Dashboard/Home/Dashboard
+path: /sitecore/client/Your Apps/Vault/Navigation/Dashboard/Dashboard/Dashboard
 parent: {C56C8CD4-7242-42EF-B2F7-6C47F97A9E8A}
 name: Dashboard
 master: {00000000-0000-0000-0000-000000000000}
@@ -26,7 +26,7 @@ XCentium/16x16/Dashboard_icon.png
 ----version----
 language: en
 version: 1
-revision: ae42f056-e79e-4ab3-8497-803ef3e47d71
+revision: 588bad0f-93ed-4abc-8115-b6c64a64d9ff
 
 ----field----
 field: {368E1AB6-8708-4F58-AF08-7DAA53A5BF32}
@@ -62,14 +62,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-ae42f056-e79e-4ab3-8497-803ef3e47d71
+588bad0f-93ed-4abc-8115-b6c64a64d9ff
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160502T194753Z
+20160620T214742Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
