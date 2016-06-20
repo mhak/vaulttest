@@ -2,7 +2,7 @@
 version: 1
 id: {A4E34A42-5ACF-44D2-A79B-48AD737B4583}
 database: core
-path: /sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Tabs/SelectTab Parameters/MatchingItems/PageSettings
+path: /sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Tabs/SelectTab Parameters/Filter based selection/PageSettings
 parent: {7BBA1E65-78E4-4AEF-8389-2300E87FE84D}
 name: PageSettings
 master: {00000000-0000-0000-0000-000000000000}
