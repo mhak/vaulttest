@@ -2,7 +2,7 @@
 version: 1
 id: {F0F98CF4-A14D-45A8-9420-C68BB9F1A69C}
 database: core
-path: /sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Tabs/SelectTab Parameters/MatchingItems/PageSettings/ListControl Parameters/ItemName
+path: /sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Tabs/SelectTab Parameters/Filter based selection/PageSettings/ListControl Parameters/ItemName
 parent: {C9B7F7D7-6697-4926-861A-80A6E699B772}
 name: ItemName
 master: {00000000-0000-0000-0000-000000000000}
