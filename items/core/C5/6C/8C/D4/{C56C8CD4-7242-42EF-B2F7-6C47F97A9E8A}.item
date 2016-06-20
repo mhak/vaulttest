@@ -2,9 +2,9 @@
 version: 1
 id: {C56C8CD4-7242-42EF-B2F7-6C47F97A9E8A}
 database: core
-path: /sitecore/client/Your Apps/Vault/Navigation/Dashboard/Home
+path: /sitecore/client/Your Apps/Vault/Navigation/Dashboard/Dashboard
 parent: {AA0736C4-BE49-488C-B60D-44A4E7B330EE}
-name: Home
+name: Dashboard
 master: {00000000-0000-0000-0000-000000000000}
 template: {6B2C1723-B4E0-49BE-8EF2-F1D12C969E54}
 templatekey: HyperlinkButton Parameters
@@ -40,7 +40,7 @@ content-length: 1
 ----version----
 language: en
 version: 1
-revision: 08f23b27-33d5-4a57-9d7d-bd7c63167c3a
+revision: 31972404-2d5e-4bd0-b74f-aaa503b9fbcf
 
 ----field----
 field: {368E1AB6-8708-4F58-AF08-7DAA53A5BF32}
@@ -69,14 +69,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-08f23b27-33d5-4a57-9d7d-bd7c63167c3a
+31972404-2d5e-4bd0-b74f-aaa503b9fbcf
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160502T194753Z
+20160620T214742Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
