@@ -41,7 +41,7 @@ content-length: 0
 field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
 name: __Renderings
 key: __renderings
-content-length: 7619
+content-length: 7816
 
 <r>
   <d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" l="{4F72A793-BDBC-4262-9523-6AADD8FEA487}">
@@ -64,17 +64,18 @@ content-length: 7619
     <r ds="{968B32BA-9220-434C-BB67-CB82BBC0AD44}" id="{442BD093-FBAD-4E36-BC08-489E16C82D08}" par="Id=DeploymentExpander&amp;IsCollapsible=0" ph="MainLeft.Content" uid="{1E8F1FA1-4005-4130-BC8F-3E7737FB4ED6}" />
     <r ds="{B0AC1E6D-5D83-4CF2-AE7A-02AA6D2865AA}" id="{F6C9F461-FCAF-47DC-AA01-C8C64C2EFFB8}" par="Id=DeploymentListHeader&amp;UsePadding=0&amp;ShowBorder=0" ph="DeploymentExpander.Body" uid="{BE9C5D48-88EB-4236-B9DB-93CFC2E6C9DC}" />
     <r id="{C4393722-39FA-4869-9582-3A8EB8983A0D}" par="Id=RowPanel1" ph="DeploymentListHeader.Content" uid="{10D04090-AB06-45BE-A973-13D2A3A97BE1}" />
-    <r id="{5CB208F6-1860-426B-8221-FAA85B329848}" par="Id=ColumnPanel1&amp;GridColumns=7&amp;ContentAlign=Left" ph="RowPanel1.Content" uid="{66008008-3838-49D8-AF33-6D705805B1BB}" />
+    <r id="{5CB208F6-1860-426B-8221-FAA85B329848}" par="Id=ColumnPanel1&amp;GridColumns=9&amp;ContentAlign=Left" ph="RowPanel1.Content" uid="{66008008-3838-49D8-AF33-6D705805B1BB}" />
     <r id="{F6C9F461-FCAF-47DC-AA01-C8C64C2EFFB8}" par="Id=CreateBorder&amp;PaddingType=All&amp;Width=100%25&amp;UsePadding=1" ph="ColumnPanel1.Content" uid="{F9A96B11-F0AE-4F74-B367-36E53DFA9913}" />
     <r id="{7717EB6C-9F90-4C58-826D-5E87722A0318}" par="Id=VaultCreateLabel&amp;TextType=Label&amp;Text=Create+new+release" ph="CreateBorder.Content" uid="{C2CA4D08-7CA4-4CAD-AF81-D0561E32F08D}" />
     <r id="{F6C9F461-FCAF-47DC-AA01-C8C64C2EFFB8}" par="Id=VaultDeploymentControls" ph="CreateBorder.Content" uid="{F36724F5-5BE4-46CA-A7EF-7F38E43293C6}" />
     <r id="{57F86E9A-1844-45CE-BF8A-62900AE17A92}" par="IsEnabled=1&amp;WidthPolicy=%7b10E1CB3E-660F-4C5E-9F25-F67C4637D463%7d&amp;MaxLength=32&amp;Id=VaultDeploymentName&amp;IsVisible=1" ph="VaultDeploymentControls.Content" uid="{3FFD5436-0928-48E3-A824-490BE43FBB8B}" />
-    <r id="{913AB005-2527-4C2D-9827-FB3A8DFB135C}" par="Click=javascript%3aapp.processDeploymentCreate(this.VaultDeploymentName.get(%22text%22))&amp;Id=CreateButton&amp;ButtonType=Primary&amp;Text=Create" ph="VaultDeploymentControls.Content" uid="{2C4794F6-7CC1-4974-A084-1CA104DB22F8}" />
-    <r id="{5CB208F6-1860-426B-8221-FAA85B329848}" par="Id=ColumnPanel2&amp;GridColumns=5&amp;ContentAlign=Right" ph="RowPanel1.Content" uid="{66008008-3838-49D8-AF33-6D705805B1BB}" />
-    <r id="{F6C9F461-FCAF-47DC-AA01-C8C64C2EFFB8}" par="Id=PagingButtons&amp;PaddingType=All&amp;Width=100%25&amp;ContentAlignment=Right&amp;UsePadding=1" ph="ColumnPanel2.Content" uid="{76F6FED5-0E06-418D-BC32-B04833B99727}" />
+    <r id="{5CB208F6-1860-426B-8221-FAA85B329848}" par="Id=ColumnPanel2&amp;GridColumns=3&amp;ContentAlign=Left" ph="RowPanel1.Content" uid="{66008008-3838-49D8-AF33-6D705805B1BB}" />
+    <r id="{F6C9F461-FCAF-47DC-AA01-C8C64C2EFFB8}" par="Id=Border1&amp;PaddingType=All&amp;ContentAlignment=Left&amp;UsePadding=1" ph="ColumnPanel2.Content" uid="{B061C03F-B0AC-49B8-B2D8-93BD9AB088CB}" />
+    <r id="{913AB005-2527-4C2D-9827-FB3A8DFB135C}" par="Click=javascript%3aapp.processDeploymentCreate(this.VaultDeploymentName.get(%22text%22))&amp;Id=CreateButton&amp;ButtonType=Primary&amp;Text=Create&amp;Dimension=Normal" ph="Border1.Content" uid="{2C4794F6-7CC1-4974-A084-1CA104DB22F8}" />
     <r id="{913AB005-2527-4C2D-9827-FB3A8DFB135C}" par="Click=prev%3adlDataSource&amp;Id=prevButton&amp;IsVisible=%7bBinding+dlDataSource.HasPaging%7d&amp;IsEnabled=%7bBinding+dlDataSource.HasPrevItems%7d&amp;ButtonType=Inverse&amp;Text=%3c+Prev" ph="PagingButtons.Content" uid="{0565F97E-C5B9-4328-AD96-E74A5378A0D6}" />
     <r id="{913AB005-2527-4C2D-9827-FB3A8DFB135C}" par="Click=next%3adlDataSource&amp;Id=nextButton&amp;IsVisible=%7bBinding+dlDataSource.HasPaging%7d&amp;IsEnabled=%7bBinding+dlDataSource.HasMoreItems%7d&amp;ButtonType=Inverse&amp;Text=Next+%3e" ph="PagingButtons.Content" uid="{0565F97E-C5B9-4328-AD96-E74A5378A0D6}" />
     <r ds="{9E71A576-906D-464E-9F87-C8A997F4BB98}" id="{ACE0AFD6-3DE0-42CF-8E62-4E68CD810A8D}" par="Id=DeploymentsList&amp;Items=%7bBinding+dlDataSource.Items%7d&amp;ViewMode=DetailList&amp;TileHtmlFileName=%2fsitecore%2fshell%2fclient%2fBusiness+Component+Library%2fLayouts%2fRenderings%2fListsAndGrids%2fListControls%2fDefaultTile.cshtml" ph="DeploymentExpander.Body" uid="{3C089D69-3B28-4AA4-9A2A-FA49E6665F25}" />
+    <r id="{F6C9F461-FCAF-47DC-AA01-C8C64C2EFFB8}" par="Id=PagingButtons&amp;PaddingType=All&amp;Width=100%25&amp;ContentAlignment=Center" ph="DeploymentExpander.Body" uid="{76F6FED5-0E06-418D-BC32-B04833B99727}" />
     <r id="{F6C9F461-FCAF-47DC-AA01-C8C64C2EFFB8}" par="Id=SelectedButtons" ph="MainLeft.Content" uid="{348FCFD7-81A8-403D-853C-E50DD4B8C374}" />
     <r id="{913AB005-2527-4C2D-9827-FB3A8DFB135C}" par="Click=javascript%3aapp.processDeploymentEdit()%3b&amp;Id=EditButton&amp;IsVisible=%7bBinding+dlDataSource.HasItems%7d&amp;IsEnabled=%7bBinding+DeploymentsList.HasSelectedItem%7d&amp;ButtonType=Primary&amp;Text=Edit+Selected" ph="SelectedButtons.Content" uid="{6B037C1B-70F1-4748-8B12-79BC6797A1E3}" />
     <r id="{913AB005-2527-4C2D-9827-FB3A8DFB135C}" par="Click=javascript%3aapp.processDeploymentPageFromList()%3b&amp;Id=DeployButton&amp;IsEnabled=%7bBinding+DeploymentsList.HasSelectedItem%7d&amp;ButtonType=Primary&amp;Text=Deploy+Selected" ph="SelectedButtons.Content" uid="{6B037C1B-70F1-4748-8B12-79BC6797A1E3}" />
@@ -93,7 +94,7 @@ content-length: 0
 ----version----
 language: en
 version: 1
-revision: d0152713-85bc-4d12-b22a-e5e7fad33b7b
+revision: 3ad7cdd6-cc65-447b-8d6b-1f944c70f925
 
 ----field----
 field: {7205A57F-93B4-413A-AA9A-6B16BBC59565}
@@ -115,14 +116,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-d0152713-85bc-4d12-b22a-e5e7fad33b7b
+3ad7cdd6-cc65-447b-8d6b-1f944c70f925
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160502T194755Z
+20160620T214744Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
