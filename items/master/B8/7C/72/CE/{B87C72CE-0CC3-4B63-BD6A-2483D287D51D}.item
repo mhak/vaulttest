@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {B87C72CE-0CC3-4B63-BD6A-2483D287D51D}
+database: master
+path: /sitecore/templates/Nerium/Site Configuration/Home/__Standard Values
+parent: {81EC5C0F-76E6-429A-84C3-39FAE3FCA6CB}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {81EC5C0F-76E6-429A-84C3-39FAE3FCA6CB}
+templatekey: Home
+
