@@ -1,0 +1,79 @@
+----item----
+version: 1
+id: {17C10F0C-3B75-4F59-B7B9-62D349AE8583}
+database: master
+path: /sitecore/templates/Branches/Nerium/Nerium Site Root/Nerium $name/Home
+parent: {E0BBAB56-72E3-4DC6-A68F-962C80C482E7}
+name: Home
+master: {00000000-0000-0000-0000-000000000000}
+template: {81EC5C0F-76E6-429A-84C3-39FAE3FCA6CB}
+templatekey: Home
+
+----version----
+language: en
+version: 1
+revision: e3cacce6-0d27-4842-98fc-3f19d65ffa1b
+
+----field----
+field: {6E6FA49A-8C70-4DCB-973D-727C4AC061A6}
+name: Page Title
+key: page title
+content-length: 4
+
+Home
+----field----
+field: {17890CB3-9F32-47AB-A05B-483181CFAB73}
+name: Navigation Title
+key: navigation title
+content-length: 4
+
+Home
+----field----
+field: {82260E3F-BE9B-406E-A41D-DFBE3071B9C7}
+name: Browser Title
+key: browser title
+content-length: 4
+
+Home
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+extranet\Anonymous
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160624T201454Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+extranet\Anonymous
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+e3cacce6-0d27-4842-98fc-3f19d65ffa1b
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160630T232122Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+extranet\Anonymous
