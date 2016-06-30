@@ -1,0 +1,58 @@
+----item----
+version: 1
+id: {05E76DD5-1144-4C2B-9ED7-04F439E51F32}
+database: master
+path: /sitecore/templates/Branches/Nerium/Nerium Site Definition/Nerium $name/siteSettings
+parent: {8ADD6B35-B444-450D-BB4B-C65A583CB7F2}
+name: siteSettings
+master: {00000000-0000-0000-0000-000000000000}
+template: {3ED5E8A1-C091-4EFE-8000-69E753399786}
+templatekey: Site attribute template
+
+----version----
+language: en
+version: 1
+revision: 9ab55b9e-2f64-407c-93f3-34e31483bd8e
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+hq\skondapally
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160624T175913Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+hq\skondapally
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+9ab55b9e-2f64-407c-93f3-34e31483bd8e
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160630T232122Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+extranet\Anonymous
