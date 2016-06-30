@@ -1,0 +1,212 @@
+----item----
+version: 1
+id: {8ADD6B35-B444-450D-BB4B-C65A583CB7F2}
+database: master
+path: /sitecore/templates/Branches/Nerium/Nerium Site Definition/Nerium $name
+parent: {80CA1315-4274-419F-B003-4E603FA48768}
+name: Nerium $name
+master: {00000000-0000-0000-0000-000000000000}
+template: {E37DA970-1EE9-495B-8B34-911773ADEA82}
+templatekey: Site template
+
+----field----
+field: {81E8CDCF-97F6-4087-8928-B90035A29917}
+name: mode
+key: mode
+content-length: 1
+
+1
+----field----
+field: {322D181D-776B-4CA7-9BB1-FAE2009D59B8}
+name: name
+key: name
+content-length: 12
+
+Nerium $name
+----field----
+field: {8DA61799-7965-40AD-8E00-F22D48137585}
+name: database
+key: database
+content-length: 3
+
+web
+----field----
+field: {1925AF73-0EF8-49E8-8A8B-DEE8907A2F53}
+name: domain
+key: domain
+content-length: 8
+
+extranet
+----field----
+field: {D7C619B3-88AA-43C0-A42E-58059F66CDBA}
+name: physicalFolder
+key: physicalfolder
+content-length: 1
+
+/
+----field----
+field: {801A7C39-CEE4-4BC6-9C60-EEB91CAB0E46}
+name: rootPath
+key: rootpath
+content-length: 17
+
+/sitecore/content
+----field----
+field: {D54E341A-A54F-422C-A484-2B9855501D74}
+name: startItem
+key: startitem
+content-length: 35
+
+/sitecore/content/Nerium $name/Home
+----field----
+field: {9DB2AF5F-E0E6-4FCC-82C8-F0ED9874ABAF}
+name: virtualFolder
+key: virtualfolder
+content-length: 1
+
+/
+----field----
+field: {4D353AC3-E0F1-453A-8CEA-43706CA0E730}
+name: cacheHtml
+key: cachehtml
+content-length: 1
+
+1
+----field----
+field: {37E99FC5-4D1C-469D-A4F3-020812F95421}
+name: filteredItemsCacheSize
+key: filtereditemscachesize
+content-length: 3
+
+2MB
+----field----
+field: {864C9229-A5A7-4DA2-8F35-519CAFF185B1}
+name: htmlCacheSize
+key: htmlcachesize
+content-length: 4
+
+10MB
+----field----
+field: {B864D75B-DF71-4C84-AABB-53AA2F915633}
+name: registryCacheSize
+key: registrycachesize
+content-length: 1
+
+0
+----field----
+field: {E9D5C302-B1F2-4AD7-8DFC-1498EC161A84}
+name: viewStateCacheSize
+key: viewstatecachesize
+content-length: 1
+
+0
+----field----
+field: {2E61F2FF-4BDA-4C44-8121-B29798CF50A0}
+name: xslCacheSize
+key: xslcachesize
+content-length: 3
+
+5MB
+----field----
+field: {21099DC0-8CC4-44CA-B9C0-BDE887402241}
+name: allowDebug
+key: allowdebug
+content-length: 1
+
+1
+----field----
+field: {5E945400-DD4B-4C6D-882C-36B73F6CA725}
+name: enableAnalytics
+key: enableanalytics
+content-length: 1
+
+1
+----field----
+field: {56559C81-F7BE-4C9B-A001-55431E59AC04}
+name: enableDebugger
+key: enabledebugger
+content-length: 1
+
+1
+----field----
+field: {F059CA86-4A18-42A1-A911-DBC1ECF313D6}
+name: enablePreview
+key: enablepreview
+content-length: 1
+
+1
+----field----
+field: {35AE0088-1805-4698-8D99-2C99541F9E4D}
+name: enableWebEdit
+key: enablewebedit
+content-length: 1
+
+1
+----field----
+field: {A9C43306-58A4-42F8-A0E1-370A2BE40F02}
+name: enableWorkflow
+key: enableworkflow
+content-length: 1
+
+1
+----field----
+field: {46C16115-CF16-46C7-B906-BCE2736BC737}
+name: loginPage
+key: loginpage
+content-length: 6
+
+/login
+----field----
+field: {7A08FDB4-8F72-42FF-BC85-0D11A5AF7AA2}
+name: contentStartItem
+key: contentstartitem
+content-length: 30
+
+/sitecore/content/Nerium $name
+----version----
+language: en
+version: 1
+revision: 54dc4bbd-7036-4f4e-a783-daaf52dd4127
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+hq\skondapally
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160624T175416Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+hq\skondapally
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+54dc4bbd-7036-4f4e-a783-daaf52dd4127
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160630T232121Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+extranet\Anonymous
