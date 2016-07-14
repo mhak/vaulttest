@@ -2,6 +2,6 @@
   "itemName": "folder1sub2sub1",
   "templateId": "{A87A00B1-E6DB-45AB-8B54-636FEC3B5523}",
   "branchId": "{00000000-0000-0000-0000-000000000000}",
-  "parentId": "{44F61807-79D2-47D5-9BEF-33F1849F8CB4}",
+  "parentId": "{00000000-0000-0000-0000-000000000000}",
   "childIds": []
 }
