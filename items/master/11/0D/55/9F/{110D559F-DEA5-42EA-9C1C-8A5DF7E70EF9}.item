@@ -212,15 +212,15 @@ extranet\Anonymous
 ----version----
 language: en
 version: 1
-revision: 2a4633b0-f322-448d-aeb7-0d7510fef035
+revision: 45b55bbc-f3b6-4e2b-8657-9d2f023c508c
 
 ----field----
 field: {75577384-3C97-45DA-A847-81B00500E250}
 name: Title
 key: title
-content-length: 60
+content-length: 61
 
-Sitecore Experience Platformer - extreme platformer wertoku1
+Sitecore Experience Platformer - extreme platformer wertoku11
 ----field----
 field: {A60ACD61-A6DB-4182-8329-C957982CEC74}
 name: Text
@@ -263,21 +263,21 @@ name: __Revision
 key: __revision
 content-length: 36
 
-2a4633b0-f322-448d-aeb7-0d7510fef035
+45b55bbc-f3b6-4e2b-8657-9d2f023c508c
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160601T164205Z
+20160719T171134Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 18
+content-length: 14
 
-extranet\Anonymous
+sitecore\admin
 ----field----
 field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
 name: __Workflow state
