@@ -2,6 +2,9 @@
   "itemName": "Meng Template",
   "templateId": "{AB86861A-6030-46C5-B394-E8F99E8B87DB}",
   "branchId": "{00000000-0000-0000-0000-000000000000}",
-  "parentId": "{00000000-0000-0000-0000-000000000000}",
-  "childIds": []
+  "parentId": "{AC9F883A-6A66-47FC-A56C-20B87851AA8B}",
+  "childIds": [
+    "{128B5188-E6DD-4C6E-B4EF-5F192D997611}",
+    "{CF2B3F16-7F86-487B-B057-45D6D91607FA}"
+  ]
 }

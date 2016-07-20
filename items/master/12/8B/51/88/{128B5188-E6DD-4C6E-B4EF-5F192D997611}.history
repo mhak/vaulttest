@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{128B5188-E6DD-4C6E-B4EF-5F192D997611}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-20T16:19:55.9326252Z",
+    "label": "Deployed from test2",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "81local\\sitecore\\mhak",
+    "itemName": "test",
+    "itemPath": "/sitecore/templates/Demo/Meng Template/test",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.0.150812",
+    "vaultVersion": "1.0.144",
+    "deploymentId": "da1b10fc-ae55-412c-bde1-e3fd9a3466de"
+  }
+]

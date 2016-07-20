@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {CF2B3F16-7F86-487B-B057-45D6D91607FA}
+database: master
+path: /sitecore/templates/Demo/Meng Template/__Standard Values
+parent: {47D49060-E708-4830-BB30-61DAAF389581}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {47D49060-E708-4830-BB30-61DAAF389581}
+templatekey: Meng Template
+

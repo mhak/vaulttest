@@ -1,0 +1,10 @@
+{
+  "itemName": "New Meng Template 1",
+  "templateId": "{47D49060-E708-4830-BB30-61DAAF389581}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{0DE95AE4-41AB-4D01-9EB0-67441B7C2450}",
+  "childIds": [
+    "{F50DC867-A7D0-463E-85EB-893F094D1AD0}",
+    "{594D7BA7-6750-42DD-A971-C7F5D953822B}"
+  ]
+}
