@@ -165,9 +165,28 @@
     "itemName": "deploy",
     "itemPath": "[orphan]/deploy",
     "template": "Sample Item",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "eb265a51754adf19de5d46436240399de25c6fbf",
     "sitecoreVersion": "8.0.150812",
     "vaultVersion": "1.0.144",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{5901660B-B594-40A4-A48B-7171B847C789}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-22T16:55:50.3528358Z",
+    "label": "Deployed from test5",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "81local\\sitecore\\mhak",
+    "itemName": "deploy",
+    "itemPath": "[orphan]/deploy",
+    "template": "Sample Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.0.150812",
+    "vaultVersion": "1.0.144",
+    "deploymentId": "d444e6b1-1d5a-4f39-9ffd-8ff4c916f6dc"
   }
 ]
