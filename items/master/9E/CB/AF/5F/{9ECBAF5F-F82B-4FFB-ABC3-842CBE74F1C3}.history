@@ -241,9 +241,28 @@
     "itemName": "folder2sub2sub2",
     "itemPath": "/sitecore/content/Home/register/folder 2/folder2sub2/folder2sub2sub2",
     "template": "Folder",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "b1d9c9fa5966b1c76138a0e043de5d7ce1e1eba1",
     "sitecoreVersion": "8.0.150812",
     "vaultVersion": "1.0.144",
     "deploymentId": "da1b10fc-ae55-412c-bde1-e3fd9a3466de"
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{9ECBAF5F-F82B-4FFB-ABC3-842CBE74F1C3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-22T00:08:13.6970027Z",
+    "label": "Published(SingleItem)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "folder2sub2sub2",
+    "itemPath": "/sitecore/content/Home/register/folder 2/folder2sub2/folder2sub2sub2",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.0.150812",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
   }
 ]

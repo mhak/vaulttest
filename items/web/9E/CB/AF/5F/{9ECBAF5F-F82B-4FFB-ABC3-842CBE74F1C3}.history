@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{9ECBAF5F-F82B-4FFB-ABC3-842CBE74F1C3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-22T00:08:13.6910024Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "folder2sub2sub2",
+    "itemPath": "/sitecore/content/Home/register/folder 2/folder2sub2/folder2sub2sub2",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.0.150812",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]
