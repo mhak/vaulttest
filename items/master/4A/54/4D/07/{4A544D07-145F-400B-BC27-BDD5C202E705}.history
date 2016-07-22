@@ -925,9 +925,28 @@
     "itemName": "form",
     "itemPath": "/sitecore/content/Home/form",
     "template": "Sample Item",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "f6a291127ea5448ac23563fd06839af0f2b21d5d",
     "sitecoreVersion": "8.0.150812",
     "vaultVersion": "1.0.144",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{4A544D07-145F-400B-BC27-BDD5C202E705}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-22T16:43:29.5304632Z",
+    "label": "Deployed from test5",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "81local\\sitecore\\mhak",
+    "itemName": "form",
+    "itemPath": "/sitecore/content/Home/form",
+    "template": "Sample Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.0.150812",
+    "vaultVersion": "1.0.144",
+    "deploymentId": "d444e6b1-1d5a-4f39-9ffd-8ff4c916f6dc"
   }
 ]
