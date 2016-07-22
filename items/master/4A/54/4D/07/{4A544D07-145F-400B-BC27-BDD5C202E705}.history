@@ -982,9 +982,28 @@
     "itemName": "form",
     "itemPath": "/sitecore/content/Home/form",
     "template": "Sample Item",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "9458aa88a1c2bc2b4a97c18987bdc6769c46869f",
     "sitecoreVersion": "8.0.150812",
     "vaultVersion": "1.0.144",
     "deploymentId": "d444e6b1-1d5a-4f39-9ffd-8ff4c916f6dc"
+  },
+  {
+    "eventType": "Rollback",
+    "database": "master",
+    "itemId": "{4A544D07-145F-400B-BC27-BDD5C202E705}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-22T16:45:38.9838675Z",
+    "label": "Rollback package - test5",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "form",
+    "itemPath": "/sitecore/content/Home/form",
+    "template": "Sample Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.0.150812",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
   }
 ]
