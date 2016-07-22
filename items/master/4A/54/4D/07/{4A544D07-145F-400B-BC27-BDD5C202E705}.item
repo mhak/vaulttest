@@ -122,7 +122,7 @@ content-length: 5
 ----version----
 language: ja-JP
 version: 1
-revision: 26afecb9-4dc3-49a9-b7c1-1450ba9340bf
+revision: 7bf88b44-05f5-47d2-8784-978522a1ced4
 
 ----field----
 field: {75577384-3C97-45DA-A847-81B00500E250}
@@ -158,14 +158,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-26afecb9-4dc3-49a9-b7c1-1450ba9340bf
+7bf88b44-05f5-47d2-8784-978522a1ced4
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160721T234628Z
+20160722T164434Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
