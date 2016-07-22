@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{4A544D07-145F-400B-BC27-BDD5C202E705}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-22T16:41:54.0870041Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "form",
+    "itemPath": "/sitecore/content/Home/form",
+    "template": "Sample Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.0.150812",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]
