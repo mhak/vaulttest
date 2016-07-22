@@ -8,12 +8,15 @@
     "timestamp": "2016-05-19T17:51:02.9285966Z",
     "label": "Snapshot - snapshot",
     "workflowState": "",
+    "workflowStateName": null,
     "activeUser": "sitecore\\admin",
     "itemName": "Sample Sublayout",
     "itemPath": "/sitecore/layout/Sublayouts/Sample Sublayout",
-    "commandType": "Item",
     "template": "Sublayout",
-    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5",
+    "sitecoreVersion": null,
+    "vaultVersion": null,
+    "deploymentId": null
   },
   {
     "eventType": "Snapshot",
@@ -24,11 +27,33 @@
     "timestamp": "2016-05-20T21:11:39.1911958Z",
     "label": "Snapshot - snapshot2",
     "workflowState": "",
+    "workflowStateName": null,
     "activeUser": "sitecore\\admin",
     "itemName": "Sample Sublayout",
     "itemPath": "/sitecore/layout/Sublayouts/Sample Sublayout",
-    "commandType": "Item",
     "template": "Sublayout",
-    "sourceControlRevisionId": null
+    "sourceControlRevisionId": "905415c50e4dd8d57e8f51c3b74a3cb89eaf8a57",
+    "sitecoreVersion": null,
+    "vaultVersion": null,
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{885B8314-7D8C-4CBB-8000-01421EA8F406}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-22T00:08:10.3118091Z",
+    "label": "Published(SingleItem)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Sample Sublayout",
+    "itemPath": "/sitecore/layout/Sublayouts/Sample Sublayout",
+    "template": "Sublayout",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.0.150812",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
   }
 ]

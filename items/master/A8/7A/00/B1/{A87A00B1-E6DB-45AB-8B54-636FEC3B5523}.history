@@ -8,12 +8,15 @@
     "timestamp": "2016-05-19T17:52:38.8280817Z",
     "label": "Snapshot - snapshot",
     "workflowState": "",
+    "workflowStateName": null,
     "activeUser": "sitecore\\admin",
     "itemName": "Folder",
     "itemPath": "/sitecore/templates/Common/Folder",
-    "commandType": "Item",
     "template": "Template",
-    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5"
+    "sourceControlRevisionId": "23685a8c733a7d7bce7fcd43fc5eea2e35857df5",
+    "sitecoreVersion": null,
+    "vaultVersion": null,
+    "deploymentId": null
   },
   {
     "eventType": "Snapshot",
@@ -24,11 +27,33 @@
     "timestamp": "2016-05-20T21:13:42.4352449Z",
     "label": "Snapshot - snapshot2",
     "workflowState": "",
+    "workflowStateName": null,
     "activeUser": "sitecore\\admin",
     "itemName": "Folder",
     "itemPath": "/sitecore/templates/Common/Folder",
-    "commandType": "Item",
     "template": "Template",
-    "sourceControlRevisionId": null
+    "sourceControlRevisionId": "905415c50e4dd8d57e8f51c3b74a3cb89eaf8a57",
+    "sitecoreVersion": null,
+    "vaultVersion": null,
+    "deploymentId": null
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{A87A00B1-E6DB-45AB-8B54-636FEC3B5523}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-22T00:08:10.5028200Z",
+    "label": "Published(SingleItem)",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Folder",
+    "itemPath": "/sitecore/templates/Common/Folder",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.0.150812",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
   }
 ]

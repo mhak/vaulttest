@@ -754,9 +754,28 @@
     "itemName": "register",
     "itemPath": "/sitecore/content/Home/register",
     "template": "Sample Item",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "905415c50e4dd8d57e8f51c3b74a3cb89eaf8a57",
     "sitecoreVersion": "8.0.150812",
     "vaultVersion": "1.0.144",
     "deploymentId": "da1b10fc-ae55-412c-bde1-e3fd9a3466de"
+  },
+  {
+    "eventType": "Published",
+    "database": "master",
+    "itemId": "{A80E2959-E58C-434F-8F5A-01174B8AF8EE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-22T00:08:10.1718011Z",
+    "label": "Published(SingleItem)",
+    "workflowState": "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}",
+    "workflowStateName": "Approved",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "register",
+    "itemPath": "/sitecore/content/Home/register",
+    "template": "Sample Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.0.150812",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
   }
 ]
