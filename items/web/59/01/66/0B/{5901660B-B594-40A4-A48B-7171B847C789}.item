@@ -1,7 +1,7 @@
 ----item----
 version: 1
 id: {5901660B-B594-40A4-A48B-7171B847C789}
-database: master
+database: web
 path: /sitecore/content/Home/deploy
 parent: {110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}
 name: deploy

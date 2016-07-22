@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{5901660B-B594-40A4-A48B-7171B847C789}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-07-22T16:44:36.0442676Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "deploy",
+    "itemPath": "/sitecore/content/Home/deploy",
+    "template": "Sample Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.0.150812",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  }
+]
